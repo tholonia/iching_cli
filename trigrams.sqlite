@@ -1,0 +1,25 @@
+PRAGMA synchronous = OFF;
+PRAGMA journal_mode = MEMORY;
+BEGIN TRANSACTION;
+CREATE TABLE `xref_trigrams` (
+  `bseq` integer NOT NULL
+,  `pseq` integer DEFAULT NULL
+,  `title` varchar(255) DEFAULT NULL
+,  `trans` varchar(255) DEFAULT NULL
+,  `t_element` varchar(32) DEFAULT NULL
+,  `polarity` varchar(32) DEFAULT NULL
+,  `planet` varchar(32) DEFAULT NULL
+,  `archetype` varchar(32) DEFAULT NULL
+,  `explanation` varchar(255) DEFAULT NULL
+,  PRIMARY KEY (`bseq`)
+);
+INSERT INTO `xref_trigrams` VALUES
+(0,7,'K''UN','The Receptive','Earth','Primal Feminine','Moon','Earth',''),
+(1,4,'CHeN','The Arousing','Thunder','Masculine Expanding','Mars',NULL,'M'),
+(2,2,'K''AN','The Abysmal','Water','Feminine Demanding','Saturn',NULL,'F'),
+(3,8,'TUI','The Joyous','Lake','Masculine Harmonious','Venus',NULL,'M'),
+(4,3,'KeN','Keeping Still','Mountain','Feminine Creative','Earth',NULL,'F'),
+(5,6,'LI','The Clinging','Fire','Masculine Benevolent','Jupiter',NULL,'M'),
+(6,5,'SUN','The Gentle','Wind & Wood','Feminine Understanding','Mercury',NULL,'F'),
+(7,1,'CH''IEN','The Creative','Heaven','Primal Masculine','Sun','Sun and Moon','F');
+END TRANSACTION;
