@@ -224,9 +224,9 @@ def execute_query(conn, query):
         return []
 
 def getval(key, idx):
-    global conn
+    global conn_h
     query = f"SELECT {key} FROM hexagrams where bseq = {idx};"
-    results = execute_query(conn, query)
+    results = execute_query(conn_h, query)
     stres = str(results[0][0])
     return(stres.lstrip(" "))
 
@@ -386,7 +386,8 @@ visual_from = []
 visual_to = []
 fromhex = []
 tohex = []
-conn = connect_to_database('hexagrams.db')
+conn_h = connect_to_database('hexagrams.db')
+conn_t = connect_to_database('trigrams.db')
 question = "test mode"
 true_random = False
 question = "test mode"
@@ -395,7 +396,7 @@ argv = sys.argv[1:]
 try:
     opts, args = getopt.getopt(
         argv,
-        "hq:t",
+        "hq:r",
         [
             "help",
             "question=",
@@ -410,7 +411,7 @@ for opt, arg in opts:
         showhelp()
     if opt in ("-q", "--question"):
         question = arg
-    if opt in ("-t", "--true_random"):
+    if opt in ("-r", "--true_random"):
         true_random = True
 
 

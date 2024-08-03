@@ -2,3 +2,5 @@ mysql2sqlite/
 __pycache__/
 .directory
 *~
+Q_*
+PUSH
