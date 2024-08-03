@@ -1,0 +1,4 @@
+mysql2sqlite/
+__pycache__/
+.directory
+*~
