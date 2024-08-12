@@ -11,8 +11,8 @@ def showhelp():
     print("help")
     rs = """
     -h, --help          show help
-    -q, --question      text
-    -r, --true_random   use true random numbers
+    -q, --question      "text"
+    -r, --true_random   use true random numbers from Random.ORG
 """
     print(rs)
     exit()
@@ -25,6 +25,24 @@ def import_sql_file(db_path, sql_file_path):
     Parameters:
     db_path (str): The path to the SQLite database file.
     sql_file_path (str): The path to the SQL file to be imported.
+
+
+    this sql file was created by
+
+    1) export mysql table to dwl file
+    sudo mysqldump iching hexagrams > hexagrams.sql
+    sudo mysqldump iching xref_trigrams > trigrams.sql
+
+    2) convert sql file to sqlite file
+    mysql2sqlite/mysql2sqlite  hexagrams.sql > hexagrams.sqlite
+    mysql2sqlite/mysql2sqlite  trigrams.sql > trigrams.sqlite
+
+    3) create database and import sql file
+    mysql2sqlite/mysql2sqlite  hexagrams.sql |sqlite2  hexagrams.db
+    mysql2sqlite/mysql2sqlite  trigrams.sql |sqlite3  trigrams.db
+
+To alter the tabes,
+
     """
     # Connect to the SQLite database (or create it if it doesn't exist)
     conn = sqlite3.connect(db_path)
