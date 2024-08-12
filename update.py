@@ -11,7 +11,8 @@ def showhelp():
     print("help")
     rs = """
     -h, --help          show help
-    -c, --comment       bool flag
+    -c, --comment       comment prefix text  ex: '#1 of the pair b9 => b1 (h51 => b24) The Arousing (Shock, Thunder) => Return (The Turning Point)'
+
     -b, --bin           binary-ID
     -d. --dump          bool flag
     -r. --reload        <sql_dump_file>
@@ -167,10 +168,10 @@ argv = sys.argv[1:]
 try:
     opts, args = getopt.getopt(
         argv,
-        "hcb:dr:",
+        "hc:b:dr:",
         [
             "help",
-            "comment",
+            "comment=",
             "bin=",
             "dump",
             "reload=",
@@ -183,7 +184,7 @@ for opt, arg in opts:
     if opt in ("-h", "--help"):
         showhelp()
     if opt in ("-c", "--comment"):
-        comment = True
+        comment = arg
     if opt in ("-b", "--bin"):
         bin = int(arg)
     if opt in ("-d", "--dump"):
@@ -193,13 +194,16 @@ for opt, arg in opts:
 
 
 
-if comment:
+if comment != False:
     existing_comment = getval("comment", bin)
 
     # print for ANSI screen
     print(fg.GREEN + existing_comment + fg.RESET)
 
-    new_comment = input("Enter new comment: ")
+    # new_comment = input("Enter new comment: ")
+    with open("latest_comment.txt", "r") as f:
+        load_comment = f.read()
+    new_comment = f"{comment} ⭆ {load_comment}"
 
     all_comments = existing_comment + "\n\n" + new_comment
 

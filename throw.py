@@ -13,7 +13,7 @@ def showhelp():
     -h, --help          show help
     -q, --question      "text"
     -r, --true_random   use true random numbers from Random.ORG
-    -b, --binary        show an specific hex by binary value (must be between 0 and 63, inclusive)
+    -b, --binary        show an specific hex by binary value (binary values must be between 0 and 63, inclusive)
     -c, --classic       show an specific hex by classic value (must be between 1 and 64, inclusive)
 
 Examples:
@@ -277,7 +277,7 @@ def getval(key, idx):
     query = f"SELECT {key} FROM hexagrams where bseq = {idx};"
     results = execute_query(conn_h, query)
     stres = str(results[0][0])
-    return(stres.lstrip(" "))
+    return(stres.lstrip(" ").lstrip("\n").rstrip("\n"))
 
 def is_moving_lines(line_vals):
     for i in range(len(line_vals)):
@@ -552,4 +552,28 @@ if is_moving_lines(line_vals):
 f.close
 
 print(f"Output written to {filename}")
+
+fromhex_bVal = binary_to_decimal(''.join(map(str, fromhex)))
+fromhex_cVal = b2p_dict[fromhex_bVal]
+tohex_bVal = binary_to_decimal(''.join(map(str, tohex)))
+tohex_cVal = b2p_dict[tohex_bVal]
+
+
+if is_moving_lines(line_vals):
+    addc = f"""
+
+    To add a comment:
+
+    ./update.py -b {fromhex_bVal} --comment '#1 "cause" of the pair b{fromhex_bVal}:b{tohex_bVal} (c{fromhex_cVal}:b{tohex_cVal}) "{getval('trans',fromhex_bVal)}" ⮕ "{getval('trans',tohex_bVal)}"'
+    ./update.py -b {fromhex_bVal} --comment '#2 "effect" of the pair b{fromhex_bVal}:b{tohex_bVal} (c{fromhex_cVal}:b{tohex_cVal}) "{getval('trans',fromhex_bVal)}" ⮕ "{getval('trans',tohex_bVal)}"'
+    """
+else:
+    addc = f"""
+
+    To add a comment:
+
+    ./update.py -b {fromhex_bVal} --comment 'Non-moving hexagram of b{fromhex_bVal} (c{fromhex_cVal}) "{getval('trans',fromhex_bVal)}"'
+    """
+
+print(addc)
 
