@@ -13,6 +13,16 @@ def showhelp():
     -h, --help          show help
     -q, --question      "text"
     -r, --true_random   use true random numbers from Random.ORG
+    -b, --binary        show an specific hex by binary value
+    -c, --classic       show an specific hex by classic value
+
+Examples:
+
+    ./throw.py --binary 0                               # view a hexagram by binary value 0
+    ./throw.py --classic 0                              # view a hexagram by classic value (not yet implemented)
+    ./throw.py --question "Should I?" --true_random     # ask a question using true random data from RANDOM.ORG (slow)
+    ./throw.py --question "Should I?"                   # ask a question using pszxeudo-random numbers (fast)
+
 """
     print(rs)
     exit()
@@ -159,6 +169,26 @@ def LineCast():
         DrawLine('strong', True)
         binaryVal = 1
 
+def decimal_to_six_digit_binary(decimal_number):
+    if decimal_number < 0 or decimal_number >= 64:
+        raise ValueError("Number must be between 0 and 63 inclusive.")
+    return format(decimal_number, '06b')
+
+def LineCall(bin=False,hex=False,position=0):
+
+    if hex != False:
+        # do a table lookup tpo cobnert hexagram number to binary
+        pass
+    binval = str(decimal_to_six_digit_binary(bin))
+
+    if binval[position] == "0":
+        DrawLine('weak', False)
+        binaryVal = 0
+    if binval[position] == "1":
+        DrawLine('strong', False)
+        binaryVal = 1
+
+
 def DrawLine(line, changing):
     global asciipic_fr
     global asciipic_to
@@ -281,26 +311,30 @@ def print_interp(hexlist,hexnum,line_vals,hexseq):
     if hexseq == 2:
         print("#Second Hexagram")
 
-    # this prines the lines
+    # this prints the lines
     for i in range(6):
         print(f"{hexlist[i]:10s}")
 
-    frdec=binary_to_decimal(lst2str(hexnum))
+    binary_base10=binary_to_decimal(lst2str(hexnum))
 
     fromstr = _g+f"""
-    {_xw}TITLE:    {_g}{getval('title',frdec)}
-    {_xw}TRANS:    {_g}{getval('trans',frdec)}
-    {_xw}SEQUENCE: {_g}{frdec} ({lst2str(fromhex)})
-    {_xw}ORDER:    {_g}{getval('pseq',frdec)} (I-Ching order)
+    {_xw}TITLE:    {_g}{getval('title',binary_base10)}
+    {_xw}TRANS:    {_g}{getval('trans',binary_base10)}
+    {_xw}SEQUENCE: {_g}{binary_base10} ({lst2str(fromhex)})
+    {_xw}ORDER:    {_g}{getval('pseq',binary_base10)} (I-Ching order)
 
     {_xw}EXPLANATION:
-        {_g}{getval('explanation',frdec)}
+        {_g}{getval('explanation',binary_base10)}
 
     {_xw}JUDGEMENT:
-        {_g}{getval('judge_old',frdec)}
+        {_g}{getval('judge_old',binary_base10)}
 
     {_xw}JUDGEMENT EXPLANATION:
-        {_g}{getval('judge_exp',frdec)}
+        {_g}{getval('judge_exp',binary_base10)}
+
+    {_xw}COMMENTS:
+        {_r}{getval('comment',binary_base10)}
+
     """
     print(_g+fromstr+_re)
 
@@ -311,9 +345,9 @@ def print_interp(hexlist,hexnum,line_vals,hexseq):
             print(_xw+f"MOVING LINES")
             for i in range(len(rev_line_vals)):
                 if rev_line_vals[i] == 9 or rev_line_vals[i] == 6:
-                    print(_xm+getval(f'line_{i+1}',frdec))
-                    print(_xb+getval(f'line_{i+1}_org',frdec))
-                    print(_xc+getval(f'line_{i+1}_exp',frdec))
+                    print(_xm+getval(f'line_{i+1}',binary_base10))
+                    print(_xb+getval(f'line_{i+1}_org',binary_base10))
+                    print(_xc+getval(f'line_{i+1}_exp',binary_base10))
             print(_re)
         else:
             print(_xw+f"NO MOVING LINES")
@@ -327,22 +361,28 @@ def markdown_interp(f,hexlist,hexnum,line_vals,hexseq):
         f.write(f"{remove_ansi_codes(hexlist[i]):10s}\n")
     f.write("```\n")
 
-    frdec=binary_to_decimal(lst2str(hexnum))
+    binary_base10=binary_to_decimal(lst2str(hexnum))
 
     fromstr = f"""
-**TITLE**:    {getval('title',frdec)}
-**TRANS**:    {getval('trans',frdec)}
-**SEQUENCE**: {frdec} ({lst2str(fromhex)})
-**ORDER**:    {getval('pseq',frdec)} (I-Ching order)
+**TITLE**:    {getval('title',binary_base10)}
+**TRANS**:    {getval('trans',binary_base10)}
+**SEQUENCE**: {binary_base10} ({lst2str(fromhex)})
+**ORDER**:    {getval('pseq',binary_base10)} (I-Ching order)
 
 **EXPLANATION**:
-> {getval('explanation',frdec)}
+> {getval('explanation',binary_base10)}
 
 **JUDGMENT**:
-> {getval('judge_old',frdec)}
+> {getval('judge_old',binary_base10)}
 
 **JUDGMENT EXPLANATION**:
-> {getval('judge_exp',frdec)}
+> {getval('judge_exp',binary_base10)}
+
+**COMMENTS**:
+> {getval('comment',binary_base10)}
+
+
+
 """
     f.write(fromstr+"\n")
 
@@ -355,12 +395,15 @@ def markdown_interp(f,hexlist,hexnum,line_vals,hexseq):
             for i in range(len(rev_line_vals)):
                 if rev_line_vals[i] == 9 or rev_line_vals[i] == 6:
                     moving_lines = True
-                    f.write("**"+getval(f'line_{i+1}',frdec)+"**\n")
-                    f.write(">*"+getval(f'line_{i+1}_org',frdec)+"*\n")
-                    f.write(getval(f'line_{i+1}_exp',frdec)+"\n")
+                    f.write("**"+getval(f'line_{i+1}',binary_base10)+"**\n")
+                    f.write(">*"+getval(f'line_{i+1}_org',binary_base10)+"*\n")
+                    f.write(getval(f'line_{i+1}_exp',binary_base10)+"\n")
                     f.write("\n")
         else:
             f.write("**No Moving Lines**\n")
+
+
+
 
 def remove_ansi_codes(input_string):
     ansi_escape = re.compile(r'\x1B[@-_][0-?]*[ -/]*[@-~]')
@@ -409,16 +452,19 @@ conn_t = connect_to_database('trigrams.db')
 question = "test mode"
 true_random = False
 question = "test mode"
+binary_value = -1
+classic_value = -1
 
 argv = sys.argv[1:]
 try:
     opts, args = getopt.getopt(
         argv,
-        "hq:r",
+        "hq:rb:c:",
         [
             "help",
             "question=",
-            "true_random",
+            "binary=",
+            "classic=",
         ],
     )
 except Exception as e:
@@ -431,11 +477,21 @@ for opt, arg in opts:
         question = arg
     if opt in ("-r", "--true_random"):
         true_random = True
+    if opt in ("-b", "--binary"):
+        binary_value = int(arg)
+    if opt in ("-c", "--classic"):
+        classic_value = int(arg)
 
 
 # Cast the line
 for i in range(6):
-    LineCast()
+    print(binary_value,classic_value)
+    if binary_value >=0 or classic_value >= 0:
+        print(">>>linecall")
+        LineCall(bin=binary_value,hex=classic_value,position=i)  # this sets all the followings vars: asciipic_fr,asciipic_to,from_val,to_val
+    else:
+        print(">>>lincast")
+        LineCast()  # this sets all the followings vars: asciipic_fr,asciipic_to,from_val,to_val
     line_vals.append(LineValue)
     visual_from.append(asciipic_fr)
     visual_to.append(asciipic_to)
