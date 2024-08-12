@@ -13,13 +13,13 @@ def showhelp():
     -h, --help          show help
     -q, --question      "text"
     -r, --true_random   use true random numbers from Random.ORG
-    -b, --binary        show an specific hex by binary value
-    -c, --classic       show an specific hex by classic value
+    -b, --binary        show an specific hex by binary value (must be between 0 and 63, inclusive)
+    -c, --classic       show an specific hex by classic value (must be between 1 and 64, inclusive)
 
 Examples:
 
     ./throw.py --binary 0                               # view a hexagram by binary value 0
-    ./throw.py --classic 0                              # view a hexagram by classic value (not yet implemented)
+    ./throw.py --classic 1                              # view a hexagram by classic value 1 (not yet implemented)
     ./throw.py --question "Should I?" --true_random     # ask a question using true random data from RANDOM.ORG (slow)
     ./throw.py --question "Should I?"                   # ask a question using pszxeudo-random numbers (fast)
 
@@ -503,18 +503,24 @@ for opt, arg in opts:
         true_random = True
     if opt in ("-b", "--binary"):
         binary_value = int(arg)
+        if binary_value <0 or classic_value >63:
+            print("Binary value must be between 0 and 63 (inclusive)")
+            showhelp()
+
     if opt in ("-c", "--classic"):
         classic_value = int(arg)
+        if classic_value <1 or classic_value >64:
+            print("Classic value must be between 1 and 64m (inclusive)")
+            showhelp()
+
 
 
 # Cast the line
 for i in range(6):
-    print(binary_value,classic_value)
+    # print(binary_value,classic_value)
     if binary_value >=0 or classic_value > 0:  # binary strts with 0, classic starts with 1
-        print(">>>linecall")
         LineCall(bin=binary_value,hex=classic_value,position=i)  # this sets all the followings vars: asciipic_fr,asciipic_to,from_val,to_val
     else:
-        print(">>>lincast")
         LineCast()  # this sets all the followings vars: asciipic_fr,asciipic_to,from_val,to_val
     line_vals.append(LineValue)
     visual_from.append(asciipic_fr)
