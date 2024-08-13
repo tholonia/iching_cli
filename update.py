@@ -6,6 +6,7 @@ import sqlite3
 import json
 import os, sys, glob, getopt
 import re
+from colorama import Fore as fg
 
 def showhelp():
     print("help")
@@ -195,6 +196,14 @@ for opt, arg in opts:
 
 
 if comment != False:
+    print(f"""
+    {fg.RED}Comments are read from the file (in the same directory) 'latest_comment.txt'.{fg.RESET}
+    {fg.YELLOW}Make sure it is up to date, and press enter when ready.{fg.RESET}
+    """)
+    ok = input("All good? (y/[n]): ")
+    if ok != "y":
+        print("Noting written... exiting")
+        exit()
     existing_comment = getval("comment", bin)
 
     # print for ANSI screen

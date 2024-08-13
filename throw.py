@@ -178,7 +178,7 @@ def LineCall(bin=-1,hex=-1,position=0):
 
     if hex > 0:
         # do a table lookup to convert hexagram number to binary
-        bin = p2b_dict[hex]
+        bin = c2b_dict[hex]
 
     binval = str(decimal_to_six_digit_binary(bin))
 
@@ -272,10 +272,19 @@ def execute_query(conn, query):
         print(f"Error executing query: {e}")
         return []
 
-def getval(key, idx):
+def get_hexagram_val_by_bseq(key, idx):
     global conn_h
     query = f"SELECT {key} FROM hexagrams where bseq = {idx};"
     results = execute_query(conn_h, query)
+    stres = str(results[0][0])
+    return(stres.lstrip(" ").lstrip("\n").rstrip("\n"))
+
+def get_trigram_val_by_bseq(key, idx):
+
+    # print(key,idx)
+    global conn_t
+    query = f"SELECT {key} FROM xref_trigrams where bseq = {idx};"
+    results = execute_query(conn_t, query)
     stres = str(results[0][0])
     return(stres.lstrip(" ").lstrip("\n").rstrip("\n"))
 
@@ -308,33 +317,39 @@ def print_interp(hexlist,hexnum,line_vals,hexseq):
 
     #! Print the first hexagram
     if hexseq == 1:
-        print("#First Hexagram")
+        print(f"{_y}First Hexagram{_re}")
     if hexseq == 2:
-        print("#Second Hexagram")
+        print(f"{_y}Second Hexagram{_re}")
 
     # this prints the lines
     for i in range(6):
         print(f"{hexlist[i]:10s}")
 
-    binary_base10=binary_to_decimal(lst2str(hexnum))
+    hexagram_binary_base10=binary_to_decimal(lst2str(hexnum))
+
+    lower_tri_base10, upper_tri_base10 = hexagram_to_trigrams(hexnum)
+
 
     fromstr = _g+f"""
-    {_xw}TITLE:    {_g}{getval('title',binary_base10)}
-    {_xw}TRANS:    {_g}{getval('trans',binary_base10)}
-    {_xw}SEQUENCE: {_g}{binary_base10} ({lst2str(fromhex)})
-    {_xw}ORDER:    {_g}{getval('pseq',binary_base10)} (I-Ching order)
+    {_xw}TITLE:    {_g}{get_hexagram_val_by_bseq('title',hexagram_binary_base10)}
+    {_xw}TRANS:    {_g}{get_hexagram_val_by_bseq('trans',hexagram_binary_base10)}
+    {_xw}SEQUENCE: {_g}{hexagram_binary_base10} ({lst2str(fromhex_binary_lst)})
+    {_xw}ORDER:    {_g}{get_hexagram_val_by_bseq('pseq',hexagram_binary_base10)} (I-Ching order)
+
+    {_xw}UPPER_TRIGRAM: {_g}{get_trigram_val_by_bseq('trans',upper_tri_base10)} ({get_trigram_val_by_bseq('title',upper_tri_base10)}), {get_trigram_val_by_bseq('t_element',upper_tri_base10)}, {get_trigram_val_by_bseq('polarity',upper_tri_base10)}, {get_trigram_val_by_bseq('planet',upper_tri_base10)}
+    {_xw}LOWER_TRIGRAM: {_g}{get_trigram_val_by_bseq('trans',lower_tri_base10)} ({get_trigram_val_by_bseq('title',lower_tri_base10)}), {get_trigram_val_by_bseq('t_element',lower_tri_base10)}, {get_trigram_val_by_bseq('polarity',lower_tri_base10)}, {get_trigram_val_by_bseq('planet',lower_tri_base10)}
 
     {_xw}EXPLANATION:
-        {_g}{getval('explanation',binary_base10)}
+        {_g}{get_hexagram_val_by_bseq('explanation',hexagram_binary_base10)}
 
     {_xw}JUDGEMENT:
-        {_g}{getval('judge_old',binary_base10)}
+        {_g}{get_hexagram_val_by_bseq('judge_old',hexagram_binary_base10)}
 
     {_xw}JUDGEMENT EXPLANATION:
-        {_g}{getval('judge_exp',binary_base10)}
+        {_g}{get_hexagram_val_by_bseq('judge_exp',hexagram_binary_base10)}
 
     {_xw}COMMENTS:
-        {_r}{getval('comment',binary_base10)}
+        {_r}{get_hexagram_val_by_bseq('comment',hexagram_binary_base10)}
 
     """
     print(_g+fromstr+_re)
@@ -346,9 +361,9 @@ def print_interp(hexlist,hexnum,line_vals,hexseq):
             print(_xw+f"MOVING LINES")
             for i in range(len(rev_line_vals)):
                 if rev_line_vals[i] == 9 or rev_line_vals[i] == 6:
-                    print(_xm+getval(f'line_{i+1}',binary_base10))
-                    print(_xb+getval(f'line_{i+1}_org',binary_base10))
-                    print(_xc+getval(f'line_{i+1}_exp',binary_base10))
+                    print(_xm+get_hexagram_val_by_bseq(f'line_{i+1}',hexagram_binary_base10))
+                    print(_xb+get_hexagram_val_by_bseq(f'line_{i+1}_org',hexagram_binary_base10))
+                    print(_xc+get_hexagram_val_by_bseq(f'line_{i+1}_exp',hexagram_binary_base10))
             print(_re)
         else:
             print(_xw+f"NO MOVING LINES")
@@ -363,24 +378,28 @@ def markdown_interp(f,hexlist,hexnum,line_vals,hexseq):
     f.write("```\n")
 
     binary_base10=binary_to_decimal(lst2str(hexnum))
+    lower_tri_base10, upper_tri_base10 = hexagram_to_trigrams(hexnum)
 
     fromstr = f"""
-**TITLE**:    {getval('title',binary_base10)}
-**TRANS**:    {getval('trans',binary_base10)}
-**SEQUENCE**: {binary_base10} ({lst2str(fromhex)})
-**ORDER**:    {getval('pseq',binary_base10)} (I-Ching order)
+**TITLE**:    {get_hexagram_val_by_bseq('title',binary_base10)}
+**TRANS**:    {get_hexagram_val_by_bseq('trans',binary_base10)}
+**SEQUENCE**: {binary_base10} ({lst2str(fromhex_binary_lst)})
+**ORDER**:    {get_hexagram_val_by_bseq('pseq',binary_base10)} (I-Ching order)
+
+**UPPER_TRIGRAM**: {get_trigram_val_by_bseq('trans',upper_tri_base10)} ({get_trigram_val_by_bseq('title',upper_tri_base10)}), {get_trigram_val_by_bseq('t_element',upper_tri_base10)}, {get_trigram_val_by_bseq('polarity',upper_tri_base10)}, {get_trigram_val_by_bseq('planet',upper_tri_base10)}
+**LOWER_TRIGRAM**: {get_trigram_val_by_bseq('trans',lower_tri_base10)} ({get_trigram_val_by_bseq('title',lower_tri_base10)}), {get_trigram_val_by_bseq('t_element',lower_tri_base10)}, {get_trigram_val_by_bseq('polarity',lower_tri_base10)}, {get_trigram_val_by_bseq('planet',lower_tri_base10)}
 
 **EXPLANATION**:
-> {getval('explanation',binary_base10)}
+> {get_hexagram_val_by_bseq('explanation',binary_base10)}
 
 **JUDGMENT**:
-> {getval('judge_old',binary_base10)}
+> {get_hexagram_val_by_bseq('judge_old',binary_base10)}
 
 **JUDGMENT EXPLANATION**:
-> {getval('judge_exp',binary_base10)}
+> {get_hexagram_val_by_bseq('judge_exp',binary_base10)}
 
 **COMMENTS**:
-> {getval('comment',binary_base10)}
+> {get_hexagram_val_by_bseq('comment',binary_base10)}
 
 
 
@@ -396,14 +415,12 @@ def markdown_interp(f,hexlist,hexnum,line_vals,hexseq):
             for i in range(len(rev_line_vals)):
                 if rev_line_vals[i] == 9 or rev_line_vals[i] == 6:
                     moving_lines = True
-                    f.write("**"+getval(f'line_{i+1}',binary_base10)+"**\n")
-                    f.write(">*"+getval(f'line_{i+1}_org',binary_base10)+"*\n")
-                    f.write(getval(f'line_{i+1}_exp',binary_base10)+"\n")
+                    f.write("**"+get_hexagram_val_by_bseq(f'line_{i+1}',binary_base10)+"**\n")
+                    f.write(">*"+get_hexagram_val_by_bseq(f'line_{i+1}_org',binary_base10)+"*\n")
+                    f.write(get_hexagram_val_by_bseq(f'line_{i+1}_exp',binary_base10)+"\n")
                     f.write("\n")
         else:
             f.write("**No Moving Lines**\n")
-
-
 
 
 def remove_ansi_codes(input_string):
@@ -422,16 +439,33 @@ def string_to_filename(input_string, replace_with='_', max_length=16):
         raise ValueError("The input string resulted in an empty filename.")
     # Truncate the filename to the maximum length
     truncated_filename = filename[:max_length]
-    return truncated_filename
+    return truncated_filename\
+
+def hexagram_to_trigrams(hexlst):
+    lower_tri = hexlst[:3]
+    upper_tri = hexlst[3:]
+
+    lval = binary_to_decimal(''.join(map(str, lower_tri)))
+    uval = binary_to_decimal(''.join(map(str, upper_tri)))
+
+    # print(
+    #     f"upper trigram: {lower_tri} ({binary_to_decimal(''.join(map(str, lower_tri)))})\n"
+    #     f"lower trigram: {upper_tri} ({binary_to_decimal(''.join(map(str, upper_tri)))}"
+    # )
+    # exit()
+    return lval, uval
+
+
+
 
 #! ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
 #! ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
 #! ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
 
 
+# binary value to classical order
 
-
-b2p_dict = {
+b2c_dict = {
     0: 2, 1: 24, 2: 7, 3: 19, 4: 15, 5: 36, 6: 46, 7: 11, 8: 16, 9: 51,
     10: 40, 11: 54, 12: 62, 13: 55, 14: 32, 15: 34, 16: 8, 17: 3, 18: 29,
     19: 60, 20: 39, 21: 63, 22: 48, 23: 5, 24: 45, 25: 17, 26: 47, 27: 58,
@@ -441,7 +475,9 @@ b2p_dict = {
     55: 9, 56: 12, 57: 25, 58: 6, 59: 10, 60: 33, 61: 13, 62: 44, 63: 1
 }
 
-p2b_dict = {
+# classical order to binary value
+
+c2b_dict = {
     2: 0, 24: 1, 7: 2, 19: 3, 15: 4, 36: 5, 46: 6, 11: 7, 16: 8, 51: 9,
     40: 10, 54: 11, 62: 12, 55: 13, 32: 14, 34: 15, 8: 16, 3: 17, 29: 18,
     60: 19, 39: 20, 63: 21, 48: 22, 5: 23, 45: 24, 17: 25, 47: 26, 58: 27,
@@ -469,8 +505,8 @@ asciipic_to = ""
 line_vals = []
 visual_from = []
 visual_to = []
-fromhex = []
-tohex = []
+fromhex_binary_lst = []
+tohex_binary_lst = []
 conn_h = connect_to_database('hexagrams.db')
 conn_t = connect_to_database('trigrams.db')
 question = "test mode"
@@ -514,8 +550,9 @@ for opt, arg in opts:
             showhelp()
 
 
-
-# Cast the line
+"""
+Cast the lines
+"""
 for i in range(6):
     # print(binary_value,classic_value)
     if binary_value >=0 or classic_value > 0:  # binary strts with 0, classic starts with 1
@@ -525,18 +562,25 @@ for i in range(6):
     line_vals.append(LineValue)
     visual_from.append(asciipic_fr)
     visual_to.append(asciipic_to)
-    fromhex.append(from_val)
-    tohex.append(to_val)
+    fromhex_binary_lst.append(from_val)
+    tohex_binary_lst.append(to_val)
 
 
+"""
+print for ANSI screen
+"""
 
+ansi_header = f"""
+╭───────────────────────────────────────────────────────────────────────────────────────────────────╮
+│{fg.LIGHTWHITE_EX}Question: {fg.LIGHTRED_EX}{question:89s}{fg.RESET}│
+╰───────────────────────────────────────────────────────────────────────────────────────────────────╯
+"""
+print(ansi_header)
 
-# print for ANSI screen
-
-print(f"Question: {question}")
-print_interp(visual_from,fromhex,line_vals,1)
+# print(f"{fg.LIGHTWHITE_EX}Question: {fg.LIGHTRED_EX}{question}{fg.RESET}")
+print_interp(visual_from,fromhex_binary_lst,line_vals,1)
 if is_moving_lines(line_vals):
-    print_interp(visual_to,tohex,line_vals,2)
+    print_interp(visual_to,tohex_binary_lst,line_vals,2)
 
 # print for markdown file screen
 
@@ -546,33 +590,43 @@ filename = "Q_"+string_to_filename(question)+".md"
 f = open(filename,"w")
 f.write(f"# Question: {question}\n")
 
-markdown_interp(f,visual_from, fromhex, line_vals,1)
+markdown_interp(f,visual_from, fromhex_binary_lst, line_vals,1)
 if is_moving_lines(line_vals):
-    markdown_interp(f,visual_to, tohex, line_vals,2)
+    markdown_interp(f,visual_to, tohex_binary_lst, line_vals,2)
 f.close
 
+
+fromhex_bVal = binary_to_decimal(''.join(map(str, fromhex_binary_lst)))
+fromhex_cVal = b2c_dict[fromhex_bVal]
+tohex_bVal = binary_to_decimal(''.join(map(str, tohex_binary_lst)))
+tohex_cVal = b2c_dict[tohex_bVal]
+
+
+"""
+HANDLE THE COMMENTS STUFF
+"""
+
+ansi_footer = f"""
+▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+"""
+print(ansi_footer)
+
 print(f"Output written to {filename}")
-
-fromhex_bVal = binary_to_decimal(''.join(map(str, fromhex)))
-fromhex_cVal = b2p_dict[fromhex_bVal]
-tohex_bVal = binary_to_decimal(''.join(map(str, tohex)))
-tohex_cVal = b2p_dict[tohex_bVal]
-
 
 if is_moving_lines(line_vals):
     addc = f"""
 
     To add a comment:
 
-    ./update.py -b {fromhex_bVal} --comment '#1 "cause" of the pair b{fromhex_bVal}:b{tohex_bVal} (c{fromhex_cVal}:b{tohex_cVal}) "{getval('trans',fromhex_bVal)}" ⮕ "{getval('trans',tohex_bVal)}"'
-    ./update.py -b {fromhex_bVal} --comment '#2 "effect" of the pair b{fromhex_bVal}:b{tohex_bVal} (c{fromhex_cVal}:b{tohex_cVal}) "{getval('trans',fromhex_bVal)}" ⮕ "{getval('trans',tohex_bVal)}"'
+    ./update.py -b {fromhex_bVal} --comment '#1 "cause" of the pair b{fromhex_bVal}:b{tohex_bVal} (c{fromhex_cVal}:b{tohex_cVal}) "{get_hexagram_val_by_bseq('trans',fromhex_bVal)}" ⮕ "{get_hexagram_val_by_bseq('trans',tohex_bVal)}"'
+    ./update.py -b {fromhex_bVal} --comment '#2 "effect" of the pair b{fromhex_bVal}:b{tohex_bVal} (c{fromhex_cVal}:b{tohex_cVal}) "{get_hexagram_val_by_bseq('trans',fromhex_bVal)}" ⮕ "{get_hexagram_val_by_bseq('trans',tohex_bVal)}"'
     """
 else:
     addc = f"""
 
-    To add a comment:
+    To add a comment (from 'latest_comment.txt'):
 
-    ./update.py -b {fromhex_bVal} --comment 'Non-moving hexagram of b{fromhex_bVal} (c{fromhex_cVal}) "{getval('trans',fromhex_bVal)}"'
+    ./update.py -b {fromhex_bVal} --comment 'Non-moving hexagram of b{fromhex_bVal} (c{fromhex_cVal}) "{get_hexagram_val_by_bseq('trans',fromhex_bVal)}"'
     """
 
 print(addc)
