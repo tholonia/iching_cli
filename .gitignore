@@ -5,5 +5,7 @@ __pycache__/
 Q_*
 PUSH
 hexagrams*2024.sql
-safe.zip
+*.zip
 trigrams*2024.sql
+x*
+safe/*

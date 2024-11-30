@@ -1,0 +1,34 @@
+[
+    {
+        "hexagram": "䷷",
+        "name": "Transition",
+        "description": "The process of temporary yet necessary wandering or travel. Like a bird on migration or an explorer in foreign lands, this represents the value of movement through unfamiliar territory as a path to growth and understanding.",
+        "king_wen_sequence": 56,
+        "king_wen_title": "L\u00fc/The Wanderer",
+        "binary_sequence": 44,
+        "above": "Li (Fire/Clarity)",
+        "below": "Gen (Mountain/Stillness)",
+        "perspective": "Finding stability within movement, grounding during change",
+        "nature": "Transient, adaptable, observant",
+        "action": "Moving through change, navigating uncertainty",
+        "success_through": "Remaining centered while exploring new territory",
+        "image": "Fire on mountain - illumination from a high vantage point",
+        "challenge": "Maintaining identity while adapting to new circumstances",
+        "lines_in_transition": {
+            "6": "Culmination: Rest achieved after journey; Find peace",
+            "5": "Integration: Balance in movement; Stay centered",
+            "4": "Emergence: Resources support journey; Use wisely",
+            "3": "Deployment: Danger in rest; Keep moving",
+            "2": "Definition: Finding shelter; Accept support",
+            "1": "Inception: Beginning journey mindfully; Start well"
+        },
+        "tholonic_analysis": {
+            "negotiation": "The hexagram represents the balance between movement and stability. The mountain below provides grounding while fire above brings clarity, showing how transition requires both mobility and centeredness.",
+            "limitation": "The structure defines boundaries between productive and aimless wandering. It establishes how movement must maintain purpose, showing that transition requires direction.",
+            "contribution": "This configuration contributes to systemic evolution by demonstrating how temporary displacement enables growth. It shows how movement through unfamiliar territory creates new understanding.",
+            "significance_in_thologram": "Represents the critical role of transitional states in development. Functions as a model for how awareness grows through exploration. Important in understanding how systems evolve through temporary instability."
+        },
+        "no_moving_lines": "The situation calls for maintaining purposeful movement. Continue exploring while staying centered. Success comes through mindful transition.",
+        "all_moving_lines": "Complete transformation through movement is occurring. All aspects of stability are in flux. The transition will create fundamental change, requiring careful attention to maintaining direction."
+    }
+]

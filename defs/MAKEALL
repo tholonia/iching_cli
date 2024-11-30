@@ -1,0 +1,11 @@
+#!/bin/bash
+
+
+for dir in ??; do
+  ls ${dir}
+  if [ -d "$dir" ]; then
+    cat "$dir/core.md" "$dir/scenes.md" "$dir/history.md" > "${dir}/${dir}-all.md"
+  else
+    echo "Directory $dir does not exist, skipping."
+  fi
+done

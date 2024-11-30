@@ -1,0 +1,34 @@
+[
+    {
+        "hexagram": "䷣",
+        "name": "Obscured Light",
+        "description": "Intelligence and clarity operating under constraints. Like the sun below the earth, this represents inner radiance maintaining its strength despite external darkness.",
+        "king_wen_sequence": 36,
+        "king_wen_title": "Ming I (Darkening of the Light)",
+        "binary_sequence": 5,
+        "above": "KUN - Earth, Receptivity, Support",
+        "below": "LI - Fire, Clarity, Intelligence",
+        "perspective": "Wisdom persisting through adversity",
+        "nature": "Hidden strength",
+        "action": "Preservation",
+        "success_through": "Internal cultivation",
+        "image": "Fire beneath the earth, maintaining brightness while concealed",
+        "challenge": "Sustaining clarity amid darkness",
+        "lines_in_transition": {
+            "6": "Breaking Free: Light finally emerges from darkness; Maintain wisdom gained in shadow",
+            "5": "Inner Radiance: Wisdom shines despite external darkness; Let truth guide through confusion",
+            "4": "Protected Light: Preservation through careful concealment; Guard your resources",
+            "3": "Sudden Darkness: Unexpected challenges to clarity; Adapt to changing conditions",
+            "2": "Sustained Brightness: Maintaining inner light; Nurture internal wisdom",
+            "1": "Initial Dimming: Recognition of approaching darkness; Prepare for challenges"
+        },
+        "tholonic_analysis": {
+            "negotiation": "Balance between expression and preservation. The hexagram shows how wisdom can thrive even when constrained. Represents negotiation between visibility and protection.",
+            "limitation": "Creates protection through concealment. The earth above contains and protects the fire below, showing how limitation can preserve rather than extinguish.",
+            "contribution": "Contributes by demonstrating how awareness can persist and develop under adverse conditions. Like a seed growing underground, this constraint enables future emergence.",
+            "significance_in_thologram": "Represents crucial phases where development must occur hidden from view. Shows how temporary constraint can strengthen rather than weaken a system."
+        },
+        "no_moving_lines": "A period where wisdom must be cultivated internally. Accept this time of restricted expression as necessary for development. Focus on inner growth.",
+        "all_moving_lines": "Complete transformation from concealment to expression approaching. The period of constraint has served its purpose. Prepare for emergence while maintaining gained wisdom."
+    }
+]

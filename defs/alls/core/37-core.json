@@ -1,0 +1,34 @@
+[
+    {
+        "hexagram": "䷤",
+        "name": "Family Dynamics",
+        "description": "The harmonious ordering of relationships within structured systems. Like a well-functioning family unit, this represents the balanced interplay of roles and responsibilities.",
+        "king_wen_sequence": 37,
+        "king_wen_title": "Chia Jen (Family)",
+        "binary_sequence": 53,
+        "above": "SUN - Wind, Gentle Penetration",
+        "below": "LI - Fire, Clarity, Intelligence",
+        "perspective": "Clear roles within organic systems",
+        "nature": "Structured harmony",
+        "action": "Role fulfillment",
+        "success_through": "Clear boundaries",
+        "image": "Wind above fire, spreading warmth through gentle influence",
+        "challenge": "Balancing authority with flexibility",
+        "lines_in_transition": {
+            "6": "External factors affect the system; Maintain internal cohesion - Maintain internal cohesion",
+            "5": "Leadership through example; Guide with wisdom - Guide with wisdom",
+            "4": "Supporting the whole through individual growth; Contribute positively - Contribute positively",
+            "3": "Addressing imbalances firmly but fairly; Restore harmony - Restore harmony",
+            "2": "Nurturing the core relationships; Build strong foundations - Build strong foundations",
+            "1": "Establishing basic principles; Set proper boundaries - Set proper boundaries"
+        },
+        "tholonic_analysis": {
+            "negotiation": "Balances individual needs with collective harmony. Shows how different roles must negotiate their relationships while maintaining system integrity.",
+            "limitation": "Creates structure through clear roles and responsibilities. Each element has defined boundaries that support the whole.",
+            "contribution": "Demonstrates how ordered relationships create stable, evolving systems. Like a healthy ecosystem, each part supports the whole.",
+            "significance_in_thologram": "Represents fundamental patterns of ordered relationships. Shows how complex systems maintain stability through clear structure."
+        },
+        "no_moving_lines": "Indicates a period of stable relationships and clear roles. Maintain existing structures while nurturing connections.",
+        "all_moving_lines": "Signals fundamental transformation in relationship patterns. Prepare for new dynamics while preserving core principles."
+    }
+]

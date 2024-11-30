@@ -1,0 +1,11 @@
+
+
+for N in {1..6}
+do
+    echo "Processing line number $N..."
+    perl -pi -e "s/\"line${N}\":/\"${N}\":/gmi" *.json
+    perl -pi -e "s/\"line ${N}\":/\"${N}\":/gmi" *.json
+    perl -pi -e "s/\"line_${N}\":/\"${N}\":/gmi" *.json
+    perl -pi -e "s/\"Line_${N}\":/\"${N}\":/gmi" *.json
+    perl -pi -e "s/\"Line ${N}\":/\"${N}\":/gmi" *.json
+done

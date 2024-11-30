@@ -1,0 +1,34 @@
+[
+    {
+        "hexagram": "䷽",
+        "name": "Incremental Progress",
+        "description": "The power of deep understanding and inner truth. Like a flash of clarity that illuminates hidden connections or the realization that reveals underlying patterns, this represents the capacity to perceive essential nature.",
+        "king_wen_sequence": 62,
+        "king_wen_title": "Hsiao Kuo (Small Exceeding/Preponderance of the Small)",
+        "binary_sequence": 12,
+        "above": "Thunder - Movement, Initiative",
+        "below": "Mountain - Stillness, Meditation",
+        "perspective": "Small actions creating momentum",
+        "nature": "Methodical",
+        "action": "Accumulation through repetition",
+        "success_through": "Consistent, manageable steps",
+        "image": "A bird flying incrementally higher with each wingbeat",
+        "challenge": "Maintaining patience during slow progress",
+        "lines_in_transition": {
+            "6": "Overreach: Going too far ruins previous gains; Know when to stop",
+            "5": "Measured Response: Meeting challenges proportionally; Stay balanced",
+            "4": "Adaptation: Adjusting approach as needed; Remain flexible",
+            "3": "Caution: Avoiding reckless advancement; Consider consequences",
+            "2": "Foundation: Building from stable base; Establish fundamentals",
+            "1": "Beginning: Starting with small steps; Start where you are"
+        },
+        "tholonic_analysis": {
+            "negotiation": "Balance between movement and stillness creates sustainable progress. Thunder above Mountain shows controlled release of energy. Represents the dance between action and restraint.",
+            "limitation": "Small actions have natural boundaries that prevent overextension. The mountain base provides structure while thunder provides measured bursts of energy. Defines achievable scope.",
+            "contribution": "Demonstrates how incremental change leads to transformation. Like water carved the Grand Canyon, small persistent actions reshape reality. Returns to source through accumulated effects.",
+            "significance_in_thologram": "Represents how systemic change occurs through granular interactions. Functions as a model for sustainable growth. Important for understanding emergence from simple patterns."
+        },
+        "no_moving_lines": "Current approach is well-calibrated - continue steady progress without dramatic changes. Maintain current rhythm. Trust the process.",
+        "all_moving_lines": "Complete transformation through accumulation of small changes. Like compound interest reaching critical mass. Time to harvest accumulated gains."
+    }
+]

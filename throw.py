@@ -696,7 +696,7 @@ def string_to_filename(input_string, replace_with='_', max_length=16):
     """
     Convert a given string into a valid filename by replacing invalid characters and truncating to a specified length.
 
-    This function replaces characters that are not allowed in filenames (e.g., < > : " / \ | ? *) with a specified replacement character.
+    This function replaces characters that are not allowed in filenames (e.g., < > : " / \\ | ? *) with a specified replacement character.
     It also trims leading and trailing whitespace from the resulting filename and ensures it does not exceed a given maximum length.
 
     Parameters:
@@ -984,20 +984,24 @@ print(ansi_footer)
 
 print(f"Output written to {filename}")
 
+"""
+example comment format:
+
+    <comment> - CAUSE b50⮕b48 (c59⮕b20) "DISPERSION [DISSOLUTION]" ⮕ "CONTEMPLATION (VIEW)"
+    <comment> - EFFECT b50⮕b48 (c59⮕b20) "DISPERSION [DISSOLUTION]" ⮕ "CONTEMPLATION (VIEW)"'
+"""
+
 if is_moving_lines(line_vals):
-    addc = f"""
+    addc = f"""jwmilton@protonmail.com
 
     To add a comment:
 
-    ./update.py -b {fromhex_bVal} --comment '#1 "cause" of the pair b{fromhex_bVal}:b{tohex_bVal} (c{fromhex_cVal}:b{tohex_cVal}) "{get_hexagram_val_by_bseq('trans',fromhex_bVal)}" ⮕ "{get_hexagram_val_by_bseq('trans',tohex_bVal)}"'
-    ./update.py -b {fromhex_bVal} --comment '#2 "effect" of the pair b{fromhex_bVal}:b{tohex_bVal} (c{fromhex_cVal}:b{tohex_cVal}) "{get_hexagram_val_by_bseq('trans',fromhex_bVal)}" ⮕ "{get_hexagram_val_by_bseq('trans',tohex_bVal)}"'
+    ./update.py -b {fromhex_bVal} --comment '<comment>  - CAUSE b{fromhex_bVal}⮕b{tohex_bVal} (c{fromhex_cVal}⮕b{tohex_cVal}) "{get_hexagram_val_by_bseq('trans',fromhex_bVal)}" ⮕ "{get_hexagram_val_by_bseq('trans',tohex_bVal)}"'
+    ./update.py -b {tohex_bVal} --comment '<comment> - EFFECT b{fromhex_bVal}⮕b{tohex_bVal} (c{fromhex_cVal}⮕b{tohex_cVal}) "{get_hexagram_val_by_bseq('trans',tohex_bVal)}" ⮕ "{get_hexagram_val_by_bseq('trans',tohex_bVal)}"'
     """
 else:
     addc = f"""
-
-    To add a comment (from 'latest_comment.txt'):
-
-    ./update.py -b {fromhex_bVal} --comment 'Non-moving hexagram of b{fromhex_bVal} (c{fromhex_cVal}) "{get_hexagram_val_by_bseq('trans',fromhex_bVal)}"'
+    ./update.py -b {fromhex_bVal} --comment '<comment> - STATIC b{fromhex_bVal} (c{fromhex_cVal}) "{get_hexagram_val_by_bseq('trans',fromhex_bVal)}"'
     """
 
 print(addc)

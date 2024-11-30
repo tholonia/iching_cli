@@ -1,0 +1,34 @@
+[
+    {
+        "hexagram": "䷵",
+        "name": "Cultivation",
+        "description": "The process of intentional development and refinement. Like a skilled artisan perfecting their craft or a mentor guiding a student, this represents the careful nurturing of potential through sustained attention and appropriate guidance.",
+        "king_wen_sequence": 54,
+        "king_wen_title": "Gui Mei/The Marrying Maiden",
+        "binary_sequence": 11,
+        "above": "Zhen (Thunder/Shock)",
+        "below": "Dui (Lake/Joy)",
+        "perspective": "The dynamic process of developing potential through proper relationship",
+        "nature": "Developmental, relational, transitional",
+        "action": "Nurturing growth, guiding development",
+        "success_through": "Proper timing and appropriate relationships",
+        "image": "Thunder over lake - energy above containing joy below",
+        "challenge": "Maintaining appropriate boundaries while fostering growth",
+        "lines_in_transition": {
+            "6": "Culmination - Development complete; Accept natural limits",
+            "5": "Integration - Perfect alignment achieved; Honor the connection",
+            "4": "Emergence - Late blooming possible; Remain patient",
+            "3": "Deploymen - Premature action brings setback; Wait for ripeness",
+            "2": "Definition - Accept current position; Trust the process",
+            "1": "Inception - Beginning requires care; Start appropriately"
+        },
+        "tholonic_analysis": {
+            "negotiation": "The hexagram represents the balance between guidance and autonomy. The lake below provides foundation while thunder above energizes development, showing how growth requires both support and stimulation.",
+            "limitation": "The structure defines boundaries between nurturing and controlling. It establishes how development must respect natural timing and capacity, showing that growth cannot be forced.",
+            "contribution": "This configuration contributes to systemic evolution by demonstrating how proper cultivation creates sustainable development. It shows how appropriate guidance leads to authentic growth.",
+            "significance_in_thologram": "Represents the critical role of intentional development. Functions as a model for how awareness guides potential into manifestation. Important in understanding how systems mature through proper cultivation."
+        },
+        "no_moving_lines": "The situation calls for maintaining appropriate guidance. Continue supporting development while respecting natural timing. Success comes through patient nurturing.",
+        "all_moving_lines": "Complete transformation of the development process is occurring. All aspects of cultivation are in flux. The growth will create fundamental change, requiring careful attention to maintaining proper guidance."
+    }
+]

@@ -33,7 +33,7 @@ Porting from JavaScript to python imposed quite a number of design decisions tha
 #### Ask a question using true random data from [RANDOM.ORG](random.org) (slow)
 
 ```bash
-./throw.py --question "Should I?" --true_random
+# obfuscated... ./throw.py --question "Should I?" --true_random
 ./throw.py --question "Should I?"
 ```
 > Questions can be as long as necessary.  The first 16 character of the question are used to create a filename of the output, for example "Q_should_I.txt".  In my experience true random numbers are far more effective that pseudo-random numbers, but are slightly slower, and requires an Internet connection.  By default, pseudo-random numbers are used.

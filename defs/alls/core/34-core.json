@@ -1,0 +1,34 @@
+[
+    {
+        "hexagram": "䷡",
+        "name": "Breakthrough Force",
+        "description": "The unleashing of accumulated potential through decisive action. Like thunder emanating from heaven, this represents the moment when stored energy manifests as transformative power.",
+        "king_wen_sequence": 34,
+        "king_wen_title": "Ta Chuang (Great Power)",
+        "binary_sequence": 15,
+        "above": "CHEN - Thunder, Movement, Initiative",
+        "below": "CHIEN - Heaven, Creative Force, Strength",
+        "perspective": "The focused manifestation of potential into transformative action",
+        "nature": "Dynamic expression",
+        "action": "Decisive movement",
+        "success_through": "Timing and focused power",
+        "image": "Thunder rolling across heaven, concentrating force before release",
+        "challenge": "Maintaining control of great power",
+        "lines_in_transition": {
+            "6": "Excessive Force: Power without restraint leads to chaos; Know when to cease pushing forward",
+            "5": "Focused Power: Like a goat butting against a hedge, persistence breaks through; Direct energy purposefully",
+            "4": "Contained Strength: Success through maintaining boundaries; Channel power constructively",
+            "3": "Testing Limits: The ram's horns entangled in the fence; Recognize natural boundaries",
+            "2": "Stored Power: Building strength through preparation; Gather resources before acting",
+            "1": "Initial Force: Power begins to accumulate; Start from a position of strength"
+        },
+        "tholonic_analysis": {
+            "negotiation": "The balance between containment and release of power is crucial. The hexagram demonstrates how timing and preparation determine the effectiveness of force. It represents the negotiation between potential and kinetic energy.",
+            "limitation": "Directs power through focused channels rather than letting it dissipate. The heaven below provides the concentrated force that thunder above releases, showing how limitation can enhance rather than restrict power.",
+            "contribution": "Contributes to the larger system by demonstrating how concentrated force can create breakthrough moments that advance evolution. Like a quantum leap, this focused power enables transformation.",
+            "significance_in_thologram": "Represents the critical moment when potential converts to actual change. Shows how accumulated energy, when properly focused and timed, can create significant advancement in any system."
+        },
+        "no_moving_lines": "When no lines are moving, this indicates a period where great power is available but must be wielded carefully. Use this time to ensure that force is applied with wisdom and purpose.",
+        "all_moving_lines": "All lines moving suggests a complete transformation is occurring through the application of power. The energy has found its purpose and is creating significant change. Be mindful of the consequences of such profound transformation."
+    }
+]

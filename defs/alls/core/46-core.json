@@ -1,0 +1,34 @@
+[
+    {
+        "hexagram": "䷭",
+        "name": "Emergence",
+        "description": "The process of ascending, growth, and manifestation from lower to higher states. Like a seed pushing through soil or an idea taking concrete form, this represents the upward movement of energy and awareness into new levels of expression.",
+        "king_wen_sequence": 46,
+        "king_wen_title": "Sheng/Pushing Upward/Ascending",
+        "binary_sequence": 6,
+        "above": "Kun (Earth/Receptive)",
+        "below": "Xun (Wind/Gentle)",
+        "perspective": "The gradual but persistent rise of potential into manifestation",
+        "nature": "Progressive, ascending, developmental",
+        "action": "Steady advancement, gradual progress",
+        "success_through": "Patient persistence and proper timing",
+        "image": "Wood growing within earth - gradual, natural development",
+        "challenge": "Maintaining steady progress without rushing or forcing",
+        "lines_in_transition": {
+            "6": "Culmination - Blind pushing leads nowhere; Know when to stop",
+            "5": "Integration - Advance with confidence yet remain adaptable; Balance assertiveness with flexibility",
+            "4": "Emergence - Progress requires dedication and consistency; Stay committed to growth",
+            "3": "Deployment - Empty advancement brings no gain; Ensure substance backs ambition",
+            "2": "Definition - Sincerity brings good fortune; Act with genuine intention",
+            "1": "Inception - Begin with confidence and dedication; Start with conviction"
+        },
+        "tholonic_analysis": {
+            "negotiation": "The hexagram represents the balance between ambition and natural development. The gentle wind (lower trigram) gradually influences and transforms the receptive earth (upper trigram), showing how persistent subtle force can achieve substantial change.",
+            "limitation": "The structure defines boundaries between forced and natural growth. It establishes how advancement must occur within organic limits and natural rhythms, showing that true progress cannot be artificially accelerated.",
+            "contribution": "This configuration contributes to systemic evolution by demonstrating how lower orders develop into higher forms. It shows how persistent, aligned effort creates sustainable transformation.",
+            "significance_in_thologram": "Represents the natural process of evolution from simple to complex states. Functions as a model for how awareness manifests through gradual development. Important in understanding how systems evolve through steady, persistent growth."
+        },
+        "no_moving_lines": "The situation calls for steady, patient progress. Continue advancing gradually while respecting natural rhythms. Success comes through persistent, well-paced development.",
+        "all_moving_lines": "Complete transformation of the growth process is occurring. All aspects of development are active. The emergence will create fundamental change, requiring careful attention to maintaining sustainable progress."
+    }
+]

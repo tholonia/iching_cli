@@ -1,0 +1,34 @@
+[
+    {
+        "hexagram": "䷆",
+        "name": "Organization",
+        "description": "The coordination of forces toward collective purpose. Like an army moving as one, this represents the power of disciplined unity and structured cooperation.",
+        "king_wen_sequence": 7,
+        "king_wen_title": "Shih (The Army)",
+        "binary_sequence": 10,
+        "above": "Kun (Earth, Receptivity, Field)",
+        "below": "Kan (Water, Flow, Danger)",
+        "perspective": "Disciplined flow within structured boundaries",
+        "nature": "Coordinating",
+        "action": "Strategic mobilization",
+        "success_through": "Clear hierarchy and shared purpose",
+        "image": "Water contained by earth; An army moving as one",
+        "challenge": "Balancing discipline with flexibility",
+        "lines_in_transition": {
+            "6": "Complete Integration - Achievement of unified purpose; Maintain ordered momentum",
+            "5": "Strategic Leadership - Guiding through wisdom; Direct with clarity",
+            "4": "Resource Management - Organizing support systems; Ensure proper supply",
+            "3": "Critical Timing - Knowing when to move; Choose moments carefully",
+            "2": "Core Strength - Building internal cohesion; Foster team unity",
+            "1": "Foundation Setting - Establishing basic order; Begin with structure"
+        },
+        "tholonic_analysis": {
+            "negotiation": "The hexagram represents the negotiation between containing structure (Kun/Earth) and fluid movement (Kan/Water). This creates organized flow within defined parameters.",
+            "limitation": "Structure is provided by earth above, indicating that organization must serve larger purposes. The water below suggests that movement must be channeled effectively.",
+            "contribution": "This pattern contributes to evolution by demonstrating how coordinated effort multiplies effectiveness. It shows how structure enables collective achievement.",
+            "significance_in_thologram": "In the tholonic system, this hexagram represents where consciousness creates ordered movement. It demonstrates how awareness can organize energy into effective patterns."
+        },
+        "no_moving_lines": "When no lines are changing, focus on maintaining current organization. Success comes through steady coordination rather than structural changes.",
+        "all_moving_lines": "A complete transformation in how organization functions is indicated. Old patterns of coordination must give way to new forms of structure. Ensure order remains while embracing change."
+    }
+]

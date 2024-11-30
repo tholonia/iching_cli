@@ -1,0 +1,34 @@
+[
+    {
+        "hexagram": "䷔",
+        "name": "Breakthrough",
+        "description": "The forceful clarity that breaks through obstacles and illuminates new paths. Like lightning piercing darkness, this represents the moment when awareness cuts through confusion to reveal essential truth.",
+        "king_wen_sequence": 21,
+        "king_wen_title": "Shih Ho (Biting Through)",
+        "binary_sequence": 41,
+        "above": "Li (Fire, Clarity, Intelligence)",
+        "below": "Chen (Thunder, Movement, Awakening)",
+        "perspective": "Decisive action guided by clear insight",
+        "nature": "Penetrating",
+        "action": "Decisive intervention",
+        "success_through": "Clear-sighted determination and precise action",
+        "image": "Lightning illuminating the sky; A sharp blade cutting through resistance",
+        "challenge": "Maintaining precision and restraint while exercising power",
+        "lines_in_transition": {
+            "6": "Complete Resolution: The breakthrough has been achieved, obstacles cleared; Time for restoration and healing",
+            "5": "Enlightened Authority: Leadership through clear understanding; Apply wisdom to guide decisive action",
+            "4": "Breaking Through: Penetrating to the core of the matter; Address root causes rather than symptoms",
+            "3": "Determined Progress: Persistence in face of resistance; Stay focused on essential goals",
+            "2": "Strategic Clarity: Understanding where and how to apply force; Choose points of intervention wisely",
+            "1": "Initial Impact: Beginning the process of breakthrough; Start with clear intention and precise aim"
+        },
+        "tholonic_analysis": {
+            "negotiation": "The hexagram represents the negotiation between illuminating awareness (Li/Fire) and transformative action (Chen/Thunder). This creates a dynamic balance between insight and implementation, vision and execution. The thunder provides the force while fire provides the direction.",
+            "limitation": "Structure is provided by the necessity for precise, targeted action. Not all barriers can or should be broken - discernment is required. The fire above indicates that action must be guided by clear understanding and wisdom rather than blind force.",
+            "contribution": "This pattern contributes to evolution by demonstrating how consciousness can actively reshape reality through focused intervention. It shows how clarity of perception combined with decisive action can transform existing structures.",
+            "significance_in_thologram": "In the tholonic system, this hexagram represents the point where awareness actively reshapes reality rather than merely observing it. It demonstrates the power of consciousness to effect change when aligned with natural forces and patterns."
+        },
+        "no_moving_lines": "When no lines are changing, focus on maintaining clear vision while taking decisive action. Success comes through precise intervention at key points. Avoid scattered or unfocused efforts.",
+        "all_moving_lines": "A complete transformation in how you approach obstacles and challenges is indicated. Old methods of breaking through resistance must give way to new understanding. Ensure that force is guided by wisdom."
+    }
+]

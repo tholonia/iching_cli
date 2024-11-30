@@ -1,0 +1,34 @@
+[
+    {
+        "hexagram": "䷸",
+        "name": "Penetration",
+        "description": "The gentle but persistent influence that creates lasting change. Like wind shaping mountains or water wearing through stone, this represents the power of subtle, continuous action to transform even the most resistant situations.",
+        "king_wen_sequence": 57,
+        "king_wen_title": "Xun/The Gentle (The Penetrating Wind)",
+        "binary_sequence": 54,
+        "above": "Sun (Wind/Gentle)",
+        "below": "Sun (Wind/Gentle)",
+        "perspective": "The cumulative power of consistent subtle influence",
+        "nature": "Persistent, adaptable, pervasive",
+        "action": "Gentle influence, steady progress",
+        "success_through": "Consistent, subtle pressure",
+        "image": "Wind repeated - continuous gentle force",
+        "challenge": "Maintaining persistence without forcing",
+        "lines_in_transition": {
+            "6": "Culmination - Complete penetration achieved; Accept results",
+            "5": "Integration - Persistence brings regret; Know when to stop",
+            "4": "Emergence - Remorse disappears; Trust the process",
+            "3": "Deployment - Repeated efforts succeed; Stay consisten",
+            "2": "Definition - Hidden influence works best; Act subtly",
+            "1": "Inception - Advance and retreat; Start gently"
+        },
+        "tholonic_analysis": {
+            "negotiation": "The hexagram represents the balance between influence and resistance. The doubled wind shows how persistent gentle force can overcome obstacles, demonstrating that subtle influence can be more effective than direct confrontation.",
+            "limitation": "The structure defines boundaries between effective and ineffective influence. It establishes how change must occur through natural patterns, showing that force must align with existing flows.",
+            "contribution": "This configuration contributes to systemic evolution by demonstrating how subtle persistence creates lasting change. It shows how gentle but continuous influence shapes reality.",
+            "significance_in_thologram": "Represents the critical role of persistent subtle influence. Functions as a model for how awareness shapes circumstances through consistent action. Important in understanding how systems evolve through gradual transformation."
+        },
+        "no_moving_lines": "The situation calls for maintaining gentle persistence. Continue subtle influence while respecting natural patterns. Success comes through steady, unforced progress.",
+        "all_moving_lines": "Complete transformation through subtle influence is occurring. All aspects of the situation are responding to gentle pressure. The penetration will create fundamental change, requiring careful attention to maintaining appropriate force."
+    }
+]

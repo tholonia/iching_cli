@@ -1,0 +1,58 @@
+[
+    {
+        "hexagram": "䷻",
+        "name": "Boundaries",
+        "core_meaning": "The establishment and maintenance of appropriate limits. Like a river contained by its banks or a society guided by ethical principles, this represents the power of conscious limitation to create meaningful structure and sustainable progress.",
+        "structure": {
+            "king_wen_sequence": 60,
+            "king_wen_title": "Jie/Limitation",
+            "binary_sequence": "19 (010011)",
+            "above": "Kan (Water/Danger)",
+            "below": "Dui (Lake/Joy)",
+            "perspective": "Finding freedom through appropriate constraints"
+        },
+        "key_attributes": {
+            "nature": "Containing, defining, structuring",
+            "action": "Setting limits, establishing order",
+            "success_through": "Clear definition and consistent application",
+            "image": "Water over lake - establishing natural levels",
+            "challenge": "Maintaining flexibility within structure"
+        },
+        "lines_in_transition": {
+            "line_6": {
+                "name": "Culmination",
+                "interpretation": "Bitter limitation; Avoid extremes"
+            },
+            "line_5": {
+                "name": "Integration",
+                "interpretation": "Sweet limitation; Find balance"
+            },
+            "line_4": {
+                "name": "Emergence",
+                "interpretation": "Contented limitation; Accept boundaries"
+            },
+            "line_3": {
+                "name": "Deployment",
+                "interpretation": "Anxious limitation; Release tension"
+            },
+            "line_2": {
+                "name": "Definition",
+                "interpretation": "Balanced limitation; Create structure"
+            },
+            "line_1": {
+                "name": "Inception",
+                "interpretation": "Initial boundaries set; Start with clarity"
+            }
+        },
+        "tholonic_analysis": {
+            "negotiation": "The hexagram represents the balance between freedom and constraint. The water above finds its natural level with the lake below, showing how proper boundaries create sustainable systems.",
+            "limitation": "The structure defines boundaries between productive and restrictive limits. It establishes how constraints must serve growth, showing that true freedom requires appropriate structure.",
+            "contribution": "This configuration contributes to systemic evolution by demonstrating how proper boundaries enable development. It shows how limitations create the context for meaningful progress.",
+            "significance_in_thologram": "Represents the critical role of appropriate limitation in evolution. Functions as a model for how awareness develops through structured growth. Important in understanding how systems evolve through proper constraint."
+        },
+        "moving_lines": {
+            "no_moving_lines": "The situation calls for maintaining appropriate boundaries. Continue defining clear limits while ensuring they serve growth. Success comes through balanced constraint.",
+            "all_moving_lines": "Complete transformation of boundaries is occurring. All aspects of limitation are in flux. The restructuring will create fundamental change, requiring careful attention to maintaining appropriate constraints."
+        }
+    }
+]

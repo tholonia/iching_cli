@@ -1,0 +1,54 @@
+[
+    {
+        "hexagram": "䷮",
+        "name": "Depletion",
+        "description": "A time of diminishing resources and challenging circumstances that demands resilience and strategic conservation. Like a lake during drought or batteries running low, this represents the need to manage scarcity while maintaining essential functions.",
+        "king_wen_sequence": 47,
+        "king_wen_title": "Kun/Oppression/Exhaustion",
+        "binary_sequence": 26,
+        "above": "Dui (Lake/Joy)",
+        "below": "Kan (Water/Danger)",
+        "perspective": "Managing scarcity while maintaining core integrity",
+        "nature": "Constraining, challenging, limiting",
+        "action": "Conservation, adaptation, endurance",
+        "success_through": "Careful resource management and maintaining optimism",
+        "image": "Lake without water - resources strained but potential remains",
+        "challenge": "Maintaining effectiveness and spirit during times of scarcity",
+        "lines_in_transition": {
+            "6": {
+                "name": "Culmination",
+                "interpretation": "Darkness ends; relief approaches; Maintain hope"
+            },
+            "5": {
+                "name": "Integration",
+                "interpretation": "Challenges bring opportunity for growth; Find wisdom in adversity"
+            },
+            "4": {
+                "name": "Emergence",
+                "interpretation": "Acceptance leads to peace; Adapt to circumstances"
+            },
+            "3": {
+                "name": "Deployment",
+                "interpretation": "Misfortune comes from resisting reality; Face truth directly"
+            },
+            "2": {
+                "name": "Definition",
+                "interpretation": "Difficulty reveals true friends; Value authentic support"
+            },
+            "1": {
+                "name": "Inception",
+                "interpretation": "Initial hardship requires patience; Conserve energy"
+            }
+        },
+        "tholonic_analysis": {
+            "negotiation": "The hexagram represents the balance between scarcity and sufficiency. The water below (danger) and lake above (joy) suggests that even in times of depletion, opportunities for renewal exist if resources are managed wisely.",
+            "limitation": "The structure defines boundaries between necessary and wasteful expenditure. It establishes how conservation must occur within practical constraints, showing that effective management requires understanding true needs.",
+            "contribution": "This configuration contributes to systemic evolution by demonstrating how systems adapt to and survive periods of scarcity. It shows how limitation can lead to innovation and more efficient use of resources.",
+            "significance_in_thologram": "Represents a critical phase where systems must optimize and adapt to reduced resources. Functions as a model for how awareness navigates scarcity. Important in understanding how systems maintain integrity during challenging periods."
+        },
+        "moving_lines": {
+            "no_moving_lines": "The situation calls for careful conservation and strategic adaptation. Continue managing resources wisely while maintaining core functions. Success comes through patient endurance.",
+            "all_moving_lines": "Complete transformation of the resource situation is occurring. All aspects of scarcity are in flux. The depletion will lead to fundamental change, requiring careful attention to maintaining essential operations."
+        }
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "hexagram": "䷑",
+        "name": "Restoration",
+        "king_wen_sequence": 18,
+        "king_wen_title": "Ku (Work on What Has Been Spoiled)",
+        "binary_sequence": 38,
+        "above": "Gen (Mountain, Stillness, Restraint)",
+        "below": "Sun (Wind, Penetration, Gentle Action)",
+        "perspective": "Patient correction through steady, penetrating work",
+        "nature": "Remedial",
+        "action": "Systematic correction",
+        "success_through": "Persistent attention to foundational issues",
+        "image": "Wind at the mountain base gradually clearing decay; A garden being reclaimed from wilderness",
+        "challenge": "Maintaining patience while addressing deep-rooted problems",
+        "lines_in_transition": {
+            "6": {
+                "description": "Complete Renewal: The restoration work is finished, original integrity restored; Maintain what has been renewed"
+            },
+            "5": {
+                "description": "Wise Intervention: Understanding how to address root causes; Apply remedies with insight"
+            },
+            "4": {
+                "description": "Steady Progress: Methodical work yields consistent improvement; Stay focused on the process"
+            },
+            "3": {
+                "description": "Inherited Problems: Dealing with issues created by others; Take responsibility without blame"
+            },
+            "2": {
+                "description": "Proper Approach: Finding the right method for restoration; Work with rather than against"
+            },
+            "1": {
+                "description": "Initial Assessment: Recognizing what needs to be restored; Start with clear understanding"
+            }
+        },
+        "tholonic_analysis": {
+            "negotiation": "The hexagram represents the negotiation between stable foundation (Gen/Mountain) and penetrating action (Sun/Wind). This creates a dynamic balance between maintaining structure while allowing necessary change, like renovation that preserves essential form.",
+            "limitation": "Structure is provided by the mountain above, indicating that restoration must work within existing frameworks. The wind below suggests that change comes through persistent, gentle action rather than forceful intervention.",
+            "contribution": "This pattern contributes to evolution by demonstrating how systems can be renewed without being destroyed. It shows how careful attention to fundamentals can restore harmony and function.",
+            "significance_in_thologram": "In the tholonic system, this hexagram represents the point where consciousness actively repairs and renews existing structures. It demonstrates how awareness can heal and restore order through patient, penetrating work."
+        },
+        "moving_lines": {
+            "no_moving_lines": "When no lines are changing, focus on steady, methodical restoration work. Success comes through patient attention to fundamentals rather than quick fixes.",
+            "all_moving_lines": "A complete transformation in how restoration is approached is indicated. Old methods of repair must give way to new understanding. Ensure that renewal preserves what is essential while clearing what has decayed."
+        }
+    }
+]

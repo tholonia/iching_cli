@@ -1,0 +1,34 @@
+[
+    {
+        "hexagram": "䷙",
+        "name": "Cultivation",
+        "Description": "The process of accumulating power through discipline. Like a mountain containing powerful forces, this represents the development of potential through restraint.",
+        "king_wen_sequence": 26,
+        "king_wen_title": "Ta Ch'u (Great Accumulation)",
+        "binary_sequence": 39,
+        "above": "Gen (Mountain, Stillness, Restraint)",
+        "below": "Qian (Heaven, Creative Force, Dynamic)",
+        "perspective": "Creative energy contained and directed",
+        "nature": "Developing",
+        "action": "Disciplined growth",
+        "success_through": "Patient accumulation of energy",
+        "image": "Mountain rising from heaven; A pressure cooker",
+        "challenge": "Maintaining control while building power",
+        "lines_in_transition": {
+            "6": "Mature Power: Wisdom in using accumulated force; Apply with care",
+            "5": "Controlled Force: Mastery through discipline; Direct energy wisely",
+            "4": "Growing Strength: Building capacity; Continue steady practice",
+            "3": "Testing Limits: Challenging boundaries; Stay contained",
+            "2": "Steady Progress: Consistent development; Maintain discipline",
+            "1": "Initial Control: Beginning cultivation; Start with restraint"
+        },
+        "tholonic_analysis": {
+            "negotiation": "The hexagram represents the negotiation between containing stillness (Gen/Mountain) and creative force (Qian/Heaven). This creates powerful development through discipline.",
+            "limitation": "Structure is provided by mountain above, indicating that power must be contained. Heaven below suggests that energy seeks expression through proper channels.",
+            "contribution": "This pattern contributes to evolution by showing how restraint builds power. It demonstrates how consciousness develops through disciplined practice.",
+            "significance_in_thologram": "In the tholonic system, this hexagram represents where awareness cultivates potential. It shows how consciousness can develop through controlled accumulation."
+        },
+        "no_moving_lines": "When no lines are changing, focus on steady development. Success comes through patient cultivation rather than forced growth.",
+        "all_moving_lines": "A complete transformation in how power is developed is indicated. Old patterns of cultivation must give way to new forms of practice. Ensure discipline remains while embracing change."
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "hexagram": "䷎",
+        "name": "Equilibrium",
+        "description": "The state of dynamic balance achieved through conscious moderation. Like a mountain resting naturally on earth, this represents stability achieved through alignment with fundamental principles.",
+        "king_wen_sequence": 15,
+        "king_wen_title": "Ch'ien (Modesty)",
+        "binary_sequence": 4,
+        "above": "Gen (Mountain, Stillness, Restraint)",
+        "below": "Kun (Earth, Receptivity, Field)",
+        "perspective": "Natural balance through mindful containment",
+        "nature": "Stabilizing",
+        "action": "Maintaining balance",
+        "success_through": "Finding natural proportion and measure",
+        "image": "Mountain resting on earth; A scale in perfect balance",
+        "challenge": "Preserving stability without becoming rigid",
+        "lines_in_transition": {
+            "6": "*Complete Balance*: Perfect equilibrium achieved naturally; *Maintain without forcing*",
+            "5": "*Wise Moderation*: Understanding natural limits; *Lead by example*",
+            "4": "*Dynamic Stability*: Balance maintained through movement; *Adjust as needed*",
+            "3": "*Tested Harmony*: Balance under pressure; *Stay centered in difficulty*",
+            "2": "*Inner Balance*: Foundation of personal equilibrium; *Build from center*",
+            "1": "*Natural Order*: Beginning of balanced movement; *Start with proper measure*"
+        },
+        "tholonic_analysis": {
+            "negotiation": "The hexagram represents the negotiation between stable restraint (Gen/Mountain) and receptive foundation (Kun/Earth). This creates a dynamic balance between containing and yielding, like a natural system finding its optimal state.",
+            "limitation": "Structure is provided by the mountain above, indicating that stability must be actively maintained. The earth below suggests that balance must be grounded in fundamental reality.",
+            "contribution": "This pattern contributes to evolution by demonstrating how systems achieve sustainable equilibrium. It shows how conscious moderation creates lasting stability.",
+            "significance_in_thologram": "In the tholonic system, this hexagram represents the point where consciousness creates sustainable order through balanced interaction. It demonstrates how awareness can maintain harmony through proper measure."
+        },
+        "no_moving_lines": "When no lines are changing, focus on maintaining current equilibrium. Success comes through steady adherence to balanced principles rather than dramatic adjustments.",
+        "all_moving_lines": "A complete transformation in how balance is maintained is indicated. Old forms of stability must give way to new forms of equilibrium. Ensure that balance remains dynamic while embracing change."
+    }
+]
