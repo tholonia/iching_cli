@@ -1,6 +1,0 @@
-
-../popjson.py ./20-all-core.md ./20-core.json
-../popjson.py ./38-all-core.md ./38-core.json
-../popjson.py ./44-all-core.md ./44-core.json
-../popjson.py ./47-all-core.md ./47-core.json
-../popjson.py ./56-all-core.md ./56-core.json

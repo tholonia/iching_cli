@@ -24,7 +24,29 @@ Find an anecdote from history that best exemplifies this hexagram.  Synopsize in
 
 ---
 
-# Image Promts
+# Image Prompts
+
+
+
+Read the recently attached Json file and print in the following format: 
+
+Based on the top 6 verbs, top 6 nouns that describe material objects, and the top 6 adverbs, fill in the following template:
+
+- Name: [value for key 'name' all in uppercase]
+- Theme: [value of the key 'order8parent'] 
+- Subtheme: [value of key 'order8child'] 
+- Object: [what individual animal or object OR what group of animals or obects best represents this hexagram. just tell me the 
+- Style: [what style of best represents this hexagram] 
+- Medium: [what medium best represents this hexagram] 
+- Artist: [what artist best represents this hexagram] Quality: award winning, highly symbolic
+
+Do not add any explanitory or parenthetical text.
+
+
+
+
+
+
 
 Describe a image that best portrays the meaning of the following I Ching hexagram.
 
@@ -37,6 +59,12 @@ Select the most appropriate medium independent of medium or artist, such as Grap
 Select the artist who best exemplifies the image independent of style or medium.
 
 [BEGIN TEXT]
+
+
+
+### claude
+
+Using the data in the uploaded file create an image prompt for stable diffusion and comfyUI that will produce an image that accurately and beautifully represents the concepts in this file.  Do not show negative prompts or parameters, or comments, Etc... Just show the prompt.   Choose any style of visual art that you think is appropriate for the content. This could be photography or watercolors or pen and ink or oil paintings or or wood cut blocks or graffiti etc etc. You can use any medium pencils pens ink White computer graphics mud dirt leaves tiles beans watercolors or you can even invent the new medium of your own if you think it is appropriate for the image. Make sure that this prompt is optimized for stable diffusion.
 
 
 

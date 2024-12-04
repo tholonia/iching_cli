@@ -1,0 +1,49 @@
+
+*** These modified files were found in JOE when it aborted on Wed Dec  4 16:10:43 2024
+*** JOE was aborted by UNIX signal 1
+
+*** File 'MAKEMD'
+cd /home/jw/src/iching_cli/defs/final
+
+*** File '(Unnamed)'
+"title"
+grep htitle 
+_c.json\n
+json /dev/null
+,
+,
+,\n
+,\n
+,
+ -
+
+*** File '(Unnamed)'
+(
+b
+)
+(
+b
+)
+(
+b
+)
+ ) -
+
+*** File '(Unnamed)'
+BOOK_INTRO.md
+x
+x
+x
+xx
+x
+xx
+01.json
+01.json
+test_ollama.py
+MAKEMD
+
+*** File '* Startup Log *'
+Processing '/etc/joe/joerc'...
+Processing '/etc/joe/ftyperc'...
+Finished processing /etc/joe/ftyperc
+Finished processing /etc/joe/joerc

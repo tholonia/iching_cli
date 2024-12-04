@@ -1,0 +1,76 @@
+#!/bin/bash
+#python script.py 01 --cfg 8.0 --denoise 0.8 --steps 40 --batch-size 2 --random-seed
+
+# CFG=8.0
+# DENOISE=0.8
+# STEPS=35
+# BATCH_SIZE=1
+# RANDOM_SEED=
+
+# ARGS="--cfg 8.0 --denoise 0.7 --steps 40 --batch-size 1 --random-seed"
+ARGS=$1
+
+./makeimg2.py ${ARGS} 01
+./makeimg2.py ${ARGS} 02
+./makeimg2.py ${ARGS} 03
+./makeimg2.py ${ARGS} 04
+# ./makeimg2.py ${ARGS} 05
+# ./makeimg2.py ${ARGS} 06
+# ./makeimg2.py ${ARGS} 07
+# ./makeimg2.py ${ARGS} 08
+# ./makeimg2.py ${ARGS} 09
+# ./makeimg2.py ${ARGS} 10
+# ./makeimg2.py ${ARGS} 11
+# ./makeimg2.py ${ARGS} 12
+# ./makeimg2.py ${ARGS} 13
+# ./makeimg2.py ${ARGS} 14
+# ./makeimg2.py ${ARGS} 15
+# ./makeimg2.py ${ARGS} 16
+# ./makeimg2.py ${ARGS} 17
+# ./makeimg2.py ${ARGS} 18
+# ./makeimg2.py ${ARGS} 19
+# ./makeimg2.py ${ARGS} 20
+# ./makeimg2.py ${ARGS} 21
+# ./makeimg2.py ${ARGS} 22
+# ./makeimg2.py ${ARGS} 23
+# ./makeimg2.py ${ARGS} 24
+# ./makeimg2.py ${ARGS} 25
+# ./makeimg2.py ${ARGS} 26
+# ./makeimg2.py ${ARGS} 27
+# ./makeimg2.py ${ARGS} 28
+# ./makeimg2.py ${ARGS} 29
+# ./makeimg2.py ${ARGS} 30
+# ./makeimg2.py ${ARGS} 31
+# ./makeimg2.py ${ARGS} 32
+# ./makeimg2.py ${ARGS} 33
+# ./makeimg2.py ${ARGS} 34
+# ./makeimg2.py ${ARGS} 35
+# ./makeimg2.py ${ARGS} 36
+# ./makeimg2.py ${ARGS} 37
+# ./makeimg2.py ${ARGS} 38
+# ./makeimg2.py ${ARGS} 39
+# ./makeimg2.py ${ARGS} 40
+# ./makeimg2.py ${ARGS} 41
+# ./makeimg2.py ${ARGS} 42
+# ./makeimg2.py ${ARGS} 43
+# ./makeimg2.py ${ARGS} 44
+# ./makeimg2.py ${ARGS} 45
+# ./makeimg2.py ${ARGS} 46
+# ./makeimg2.py ${ARGS} 47
+# ./makeimg2.py ${ARGS} 48
+# ./makeimg2.py ${ARGS} 49
+# ./makeimg2.py ${ARGS} 50
+# ./makeimg2.py ${ARGS} 51
+# ./makeimg2.py ${ARGS} 52
+# ./makeimg2.py ${ARGS} 53
+# ./makeimg2.py ${ARGS} 54
+# ./makeimg2.py ${ARGS} 55
+# ./makeimg2.py ${ARGS} 56
+# ./makeimg2.py ${ARGS} 57
+# ./makeimg2.py ${ARGS} 58
+# ./makeimg2.py ${ARGS} 59
+# ./makeimg2.py ${ARGS} 60
+# ./makeimg2.py ${ARGS} 61
+# ./makeimg2.py ${ARGS} 62
+# ./makeimg2.py ${ARGS} 63
+# ./makeimg2.py ${ARGS} 64
