@@ -16,7 +16,7 @@ MODEL="gpt-4o"
 
 def load_json_file(id_num):
     """Load the JSON file based on the ID number."""
-    filename = f"{id_num}.json"
+    filename = f"/home/jw/src/iching_cli/defs/final/{id_num}.json"
     print(Fore.YELLOW + "\nLoading JSON file: " + filename + Style.RESET_ALL)
     try:
         with open(filename, 'r') as file:
@@ -190,6 +190,19 @@ def generate_image(prompt, id_num, cfg=7.2, denoise=0.7, steps=30, batch_size=1,
     # print(Fore.RED + f"\nUsing seed: {seed}" + Style.RESET_ALL)
 
     # print("\nPreparing ComfyUI workflow configuration...")
+
+
+
+        # "4": {
+        #     "class_type": "EmptyLatentImage",
+        #     "inputs": {
+        #         "batch_size": batch_size,
+        #         "height": 1280,
+        #         "width": 1280
+        #     }
+
+
+
     workflow = {
         "3": {
             "class_type": "CheckpointLoaderSimple",
@@ -201,7 +214,7 @@ def generate_image(prompt, id_num, cfg=7.2, denoise=0.7, steps=30, batch_size=1,
             "class_type": "EmptyLatentImage",
             "inputs": {
                 "batch_size": batch_size,
-                "height": 1280,
+                "height": 966,
                 "width": 1280
             }
         },

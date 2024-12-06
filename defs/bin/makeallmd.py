@@ -11,10 +11,10 @@ import openai
 
 from openai import OpenAI
 
-def rewrite_literary_style(text, hexagram_id):
+def rewrite_literary_style(text, hexagram_id, setnum):
     # Try reading from cache first
     try:
-        with open(f"/home/jw/store/src/iching_cli/defs/final/descp/{hexagram_id}_descp.txt", 'r', encoding='utf-8') as f:
+        with open(f"/home/jw/store/src/iching_cli/defs/final/{setnum}/descp/{hexagram_id}_descp.txt", 'r', encoding='utf-8') as f:
             return f.read()
     except (FileNotFoundError, IOError):
         # If file doesn't exist or can't be read, call OpenAI
@@ -33,8 +33,10 @@ def rewrite_literary_style(text, hexagram_id):
             )
             result = response.choices[0].message.content
 
+            cfile = f"/home/jw/store/src/iching_cli/defs/final/{setnum}/descp/{hexagram_id}_descp.txt"
+            # print(cfile)
             # Cache the result
-            with open(f"{hexagram_id}_descq.txt", 'w', encoding='utf-8') as f:
+            with open(cfile, 'w', encoding='utf-8') as f:
                 f.write(result)
 
             return result
@@ -42,15 +44,15 @@ def rewrite_literary_style(text, hexagram_id):
             print(f"OpenAI API error: {e}")
             return text
 
-def get_image_blurb(sfnum):
+def get_image_blurb(sfnum,setnum):
     try:
-        with open(f'/home/jw/store/src/iching_cli/defs/final/{sfnum}.txt', 'r', encoding='utf-8') as f:
+        with open(f'/home/jw/store/src/iching_cli/defs/final/{setnum}/{sfnum}.txt', 'r', encoding='utf-8') as f:
             return f.read()
     except Exception as e:
         print(f"Error reading file final/{id}.txt: {e}")
         return None
 
-def format_core_section(core,sfnum):
+def format_core_section(core,sfnum,setnum):
 
 # make paaragraph
 
@@ -58,24 +60,29 @@ def format_core_section(core,sfnum):
 """
     descp = descp.replace(";",", ")
     descp = descp.lower()
-    descp = rewrite_literary_style(descp,sfnum)
+    descp = rewrite_literary_style(descp,sfnum,setnum)
 
-    image_blurb = get_image_blurb(sfnum)
+    image_blurb = get_image_blurb(sfnum,setnum)
 
 
 
     """Format the core hexagram section"""
+
+    # setnu,m is used to select whocui image and descriptions top use
+    # s0 = 1280x1280, s1 = 1280x9-something
+    # setnum = "_s1"
 
     ostr = f"""
 <div style="page-break-after: always;"></div>
 # {core['hexagram']} {core['name']}
 ## {core['description']}
 
-<img src="/home/jw/store/src/iching_cli/defs/final/{core['image_file']}" />
+<img src="/home/jw/store/src/iching_cli/defs/final/{setnum}/{core['image_file']}">
+
 ### *{core['image']}; {image_blurb}*
+<div style="page-break-after: always;"></div>
 
 #### {descp}
-
 
 ### **King Wen Sequence**: {core['king_wen_sequence']}, {core['king_wen_title']} **Binary Sequence**: {core['binary_sequence']} **Above**: {core['above']} **Below**: {core['below']}
 
@@ -144,12 +151,12 @@ def format_history_section(history):
 2: {history['key_elements']['2']}
 1: {history['key_elements']['1']}"""
 
-def generate_markdown_from_json(json_data,sfnum):
+def generate_markdown_from_json(json_data,sfnum,setnum):
     """Generate complete markdown using all JSON sections"""
     markdown = ""
 
     # Add core section
-    markdown += format_core_section(json_data['hx']['core'],sfnum)
+    markdown += format_core_section(json_data['hx']['core'],sfnum,setnum)
 
     # Add stories section
     markdown += format_stories_section(json_data['hx']['stories'])
@@ -184,20 +191,38 @@ def main():
     # parser.add_argument('template_file', help='Template markdown file path')
     # parser.add_argument('input_file', help='Input JSON file path')
     parser.add_argument('-o', '--output', help='Output markdown file path (optional)')
+    parser.add_argument('-x', '--hex', help='Seclet a specific hexagram only to make (optional)')
+    parser.add_argument('-s', '--set', help='Set number to use for imnages and img blurbs (default:0)')
 
     args = parser.parse_args()
 
     # Read the template file (for reference structure)
     # template = read_template(args.template_file)
 
-    with open("/home/jw/store/src/iching_cli/defs/BOOK_INTRO.md", 'r', encoding='utf-8') as file:
-        markdown_output = file.read()
+
+    hfrom = 1
+    hto = 65
+    if args.hex:
+        hfrom = int(args.hex)
+        hto = int(args.hex)
+
+    if hfrom == hto:
+        markdown_output = ""
+    else:
+        with open("/home/jw/store/src/iching_cli/defs/BOOK_INTRO.md", 'r', encoding='utf-8') as file:
+            markdown_output = file.read()
+
 
     # for filename in get_json_filenames():
 
     directory = "/home/jw/src/iching_cli/defs/final"
 
-    for fnum in range(1,65):
+
+    array = [int(args.hex)] if hfrom == hto else list(range(hfrom,hto))
+
+
+    for i in range(len(array)):
+        fnum = array[i]
         sfnum = f"{fnum:02d}"
         # filename = directory + "/" + sfnum + "/" + sfnum + ".json"
         filename = directory + "/"  + sfnum + ".json"
@@ -209,9 +234,13 @@ def main():
             json_data = json.load(file)
 
 
+        if args.set:
+            setnum = f"s{args.set}"
+        else:
+            setnum = "s0"
 
         # Generate markdown
-        markdown_output += "\n"+generate_markdown_from_json(json_data, sfnum)
+        markdown_output += "\n"+generate_markdown_from_json(json_data, sfnum,setnum)
 
     # Handle output
     if args.output:

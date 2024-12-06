@@ -1,0 +1,11 @@
+#!/bin/bash
+
+source /home/jw/miniforge3/etc/profile.d/conda.sh
+conda activate cbot
+
+./makeallmd.py -o /home/jw/store/src/iching_cli/defs/final/compiled.md 
+
+cp /home/jw/store/src/iching_cli/defs/final/compiled.md /home/jw/books/iching/chapters/
+
+echo "Also copied to /home/jw/books/iching/chapters/"
+

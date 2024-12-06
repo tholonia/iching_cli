@@ -1,0 +1,14 @@
+#!/bin/bash
+# Loop through numbers 1 to 65
+for i in {0..64}
+do
+    padded_value=$(printf "%02d" "$i")
+    magick  "/home/jw/src/iching_cli/defs/final/${padded_value}.png" \
+        \( +clone -alpha extract \
+        -draw 'fill black polygon 0,0 0,50 50,0 fill white circle 50,50 50,0' \
+        \( +clone -flip \) -compose Multiply -composite \
+        \( +clone -flop \) -compose Multiply -composite \
+        \) -alpha off -compose CopyOpacity -composite \
+        "/home/jw/src/iching_cli/defs/final/tmp/${padded_value}.png"
+    echo "$padded_value"
+done

@@ -1,2 +1,1 @@
-./MAKE_IMAGES_BATCH "--cfg 7.0 --denoise 0.7 --steps 35 --batch-size 1"
-./MAKE_IMAGES_BATCH "--cfg 11.0 --denoise 1.0 --steps 35 --batch-size 1"
+./MAKE_IMAGES_BATCH "--cfg 8.0 --denoise 0.8 --steps 40 --batch-size 1"

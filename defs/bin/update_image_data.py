@@ -4,13 +4,13 @@ import json
 import sys
 import os
 
-def update_json_file(file_number):
+def update_json_file(file_number, setnum):
     # Ensure the file number is zero-padded
     padded_number = str(file_number).zfill(2)
 
-    # Define file paths
+    # Define file paths with setnum
     json_file = f"/home/jw/store/src/iching_cli/defs/final/{padded_number}.json"
-    txt_file = f"/home/jw/store/src/iching_cli/defs/final/{padded_number}.txt"
+    txt_file = f"/home/jw/store/src/iching_cli/defs/s{setnum}/{padded_number}.txt"
 
     # Check if files exist
     if not os.path.exists(json_file):
@@ -50,15 +50,20 @@ def update_json_file(file_number):
         print(f"Error: {str(e)}")
 
 if __name__ == "__main__":
-    if len(sys.argv) != 2:
-        print("Usage: python script.py <file_number>")
-        print("Example: python script.py 20")
+    if len(sys.argv) != 3:
+        print("Usage: python script.py <file_number> <set_number>")
+        print("Example: python script.py 20 1")
         sys.exit(1)
 
     try:
         file_number = int(sys.argv[1])
+        setnum = int(sys.argv[2])
+
         if not 0 <= file_number <= 99:
             raise ValueError("File number must be between 0 and 99")
-        update_json_file(file_number)
+        if not 1 <= setnum <= 9:
+            raise ValueError("Set number must be between 1 and 9")
+
+        update_json_file(file_number, setnum)
     except ValueError as e:
-        print(f"Error: Invalid file number - {str(e)}")
+        print(f"Error: Invalid input - {str(e)}")
