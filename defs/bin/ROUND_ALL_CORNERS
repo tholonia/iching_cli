@@ -1,4 +1,16 @@
 #!/bin/bash
+
+#!   cd into the folder where the images are
+
+PDIR=${1}
+
+
+rm -rf /home/jw/src/iching_cli/defs/final/tmp
+
+zip -r /home/jw/src/iching_cli/defs/final/${PDIR}/preimages.zip /home/jw/src/iching_cli/defs/final/${PDIR}/*.png
+
+exit
+
 # Loop through numbers 1 to 65
 for i in {0..64}
 do

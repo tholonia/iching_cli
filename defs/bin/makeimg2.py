@@ -11,8 +11,10 @@ import argparse
 import base64
 import os
 from colorama import Fore, Style
+from pprint import pprint
 
 MODEL="gpt-4o"
+N=os.environ['N']
 
 def load_json_file(id_num):
     """Load the JSON file based on the ID number."""
@@ -20,29 +22,26 @@ def load_json_file(id_num):
     print(Fore.YELLOW + "\nLoading JSON file: " + filename + Style.RESET_ALL)
     try:
         with open(filename, 'r') as file:
-            return json.load(file)
+            prejson =  json.load(file)
+            #! Clear the image_description field
+            prejson['hx']['core']['image_description'] = ""
+            prejson['hx']['core']['image'] = ""
+            # pprint(prejson)
+            # input()
+            return prejson
     except FileNotFoundError:
         print(Fore.RED + f"Error: File {filename} not found." + Style.RESET_ALL)
         sys.exit(1)
 
-def get_openai_analysis(json_data):
+def get_openai_analysis(json_data,id_num):
     """Get analysis from OpenAI API."""
-    # print("\nConnecting to OpenAI API...")
+    print(Fore.WHITE + f"\nConnecting to OpenAI API..." + Style.RESET_ALL)
     client = OpenAI()
 
-    prompt = """
-    Read the recently attached Json file and print in the following format:
-    Based on the top 6 verbs, top 6 nouns that describe material objects, and the top 6 adverbs, which we'll call the 'inputdata', fill in the following template:
-    - Name: [value for key 'name' all in uppercase]
-    - Theme: [value of the key 'order8parent']
-    - Subtheme: [value of key 'order8child']
-    - Object: [based on the inputdata, choose an individual animal or object OR a group of animals or objects best represents this hexagram]
-    - Style: [based on the inputdata, choose a visual artistic style that best represents this hexagram from this list: Cave paintings, Abstract, Realism, Impressionism, Surrealism, Expressionism, Cubism, Futurism, Minimalism, Baroque, Rococo, Gothic, Art Nouveau, Art Deco, Neoclassicism, Romanticism, Fauvism, Symbolism, Dadaism, Pop Art, Op Art, Photorealism, Conceptual Art, Constructivism, Suprematism, De Stijl, Regionalism, Social Realism, Outsider Art, Street Art, Graffiti, Digital Art, Postmodernism, Hyperrealism, Modernism, Abstract Expressionism, Brutalism, Cyberpunk, Renaissance, Ukiyo-e, Zen Art, Indigenous Art, Folk Art, Byzantine, Pre-Raphaelite, Academic Art, Contemporary Art]
-    - Medium: [based on the inputdata, choose a visual artistic medium that best represents this hexagram from this list: Oil painting, watercolor, acrylic painting, gouache, tempera, ink, charcoal, pencil, pastel, colored pencil, graphite, chalk, crayon, pen and ink, marker, digital painting, digital illustration, collage, mosaic, stained glass, fresco, wood carving, stone carving, lithography, screen printing, block printing, photography, graffiti, street art]
-    - Artist: [based on the inputdata, choose a visual artistic artist that best represents this hexagram from this list: Leonardo da Vinci, Michelangelo, Raphael, Vincent van Gogh, Pablo Picasso, Rembrandt van Rijn, Katsushika Hokusai, Utagawa Hiroshige, Frida Kahlo, Diego Rivera, Georgia O'Keeffe, Andy Warhol, Jackson Pollock, Albrecht Dürer, Henri Matisse, Gustav Klimt, Caravaggio, Sandro Botticelli, Ben Enwonwu, El Anatsui, Nam June Paik, Gu Kaizhi, Fan Kuan, Qi Baishi, Jean-Michel Basquiat, Ansel Adams,Henri Cartier-Bresson,Sebastião Salgado,Edward Weston,Walker Evans,Gordon Parks,Joel Sartore]
-    - Quality: award winning, highly symbolic
-    Do not add any explanatory or parenthetical text.
-    """
+    #! Load prompt from prompt.md file
+    with open(f"/home/jw/src/iching_cli/defs/final/s{N}/prompt.md", 'r') as file:
+        prompt = file.read()
+
 
     try:
         # print("Sending request to OpenAI...")
@@ -54,7 +53,7 @@ def get_openai_analysis(json_data):
             ]
         )
         analysis = response.choices[0].message.content
-        # print("\nReceived analysis from OpenAI:")
+        print(Fore.WHITE + "\nReceived analysis from OpenAI:" + Style.RESET_ALL)
         print(Fore.GREEN + analysis + Style.RESET_ALL)
         return analysis
     except Exception as e:
@@ -111,7 +110,7 @@ Here is the context about tholonic concepts to consider in your analysis:
 Here is the original analysis:
 {original_analysis}
 
-Explain why the object, style, medium and artist was chosen to represent this hexagram. Use tholonic concepts where possible, Answer in a concise narrative form and keep the answer as short as possible, one paragraph, no more than 200 words.
+Explain why the subject, style, and medium were chosen to represent this hexagram. Use tholonic concepts where possible, but avoid using the world 'tholon' or 'tholonic'. Answer in a concise narrative form and keep the answer as short as possible, one paragraph, no more than 200 words. Do not use any artists names.
 """
                         },
                         {
@@ -126,7 +125,7 @@ Explain why the object, style, medium and artist was chosen to represent this he
             max_tokens=300
         )
         analysis = response.choices[0].message.content
-        # print("\nImage Analysis from OpenAI:")
+        print(Fore.WHITE + "\nImage Analysis from OpenAI:" + Style.RESET_ALL)
         print(Fore.YELLOW + "\n" + analysis + Style.RESET_ALL)
         return analysis
     except Exception as e:
@@ -168,9 +167,9 @@ def get_latest_png():
         return None
 
 
-def generate_image(prompt, id_num, cfg=7.2, denoise=0.7, steps=30, batch_size=1, random_seed=False):
+def generate_image(prompt, id_num, cfg=7.2, denoise=0.7, steps=30, batch_size=1, random_seed=False, ckpt="15/freedomRedmond_v1.safetensors"):
     """Generate image using ComfyUI API."""
-    # print("\n=== Starting Image Generation Process ===")
+    print(Fore.WHITE + f"Image {id_num}.png Generation Process" + Style.RESET_ALL)
 
     server_address = "http://127.0.0.1:8188"
     negative_prompt = """
@@ -207,7 +206,7 @@ def generate_image(prompt, id_num, cfg=7.2, denoise=0.7, steps=30, batch_size=1,
         "3": {
             "class_type": "CheckpointLoaderSimple",
             "inputs": {
-                "ckpt_name": "15/freedomRedmond_v1.safetensors"
+                "ckpt_name": ckpt
             }
         },
         "4": {
@@ -320,8 +319,15 @@ def main():
     parser.add_argument('--steps', type=int, default=30, help='Number of steps (default: 30)')
     parser.add_argument('--batch-size', type=int, default=1, help='Batch size (default: 1)')
     parser.add_argument('--random-seed', action='store_true', help='Use random seed instead of default')
+    parser.add_argument('--ckpt', type=str, help='Checkpoint to use')
 
     args = parser.parse_args()
+
+    if args.ckpt:
+        ckpt = args.ckpt
+    else:
+        ckpt = "15/freedomRedmond_v1.safetensors"
+
 
     # Validate ID format
     if not (len(args.id_num) == 2 and args.id_num.isdigit()):
@@ -335,11 +341,16 @@ def main():
     json_data = load_json_file(args.id_num)
 
     # Get OpenAI analysis
-    analysis = get_openai_analysis(json_data)
+
+    print(Fore.WHITE + f"Getting OpenAI analysis for {args.id_num}" + Style.RESET_ALL)
+
+
+    analysis = get_openai_analysis(json_data,args.id_num)
+
 
     # Generate image using the analysis as prompt
-    generate_image(analysis, args.id_num, args.cfg, args.denoise, args.steps,
-                  args.batch_size, args.random_seed)
+    print(Fore.WHITE + f"Getting OpenAI Image" + Style.RESET_ALL)
+    generate_image(analysis, args.id_num, args.cfg, args.denoise, args.steps, args.batch_size, args.random_seed, ckpt)
 
     # print("\n=== Process Complete ===")
 

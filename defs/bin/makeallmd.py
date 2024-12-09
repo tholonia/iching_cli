@@ -7,14 +7,29 @@ import glob
 import os
 from colorama import Fore, Style
 import openai
+import re
 
 
 from openai import OpenAI
 
+def ensure_directory_exists(tdir):
+    """Create the description directory if it doesn't exist"""
+    if not os.path.exists(tdir):
+        try:
+            os.makedirs(tdir, exist_ok=True)
+            print(f"Created directory: {tdir}")
+        except Exception as e:
+            print(f"Error creating directory {tdir}: {e}")
+            return False
+    return True
+
 def rewrite_literary_style(text, hexagram_id, setnum):
     # Try reading from cache first
+    tdir = f"/home/jw/store/src/iching_cli/defs/final/{setnum}/descp/"
+    ensure_directory_exists(tdir)
+
     try:
-        with open(f"/home/jw/store/src/iching_cli/defs/final/{setnum}/descp/{hexagram_id}_descp.txt", 'r', encoding='utf-8') as f:
+        with open(f"{tdir}/{hexagram_id}_descp.txt", 'r', encoding='utf-8') as f:
             return f.read()
     except (FileNotFoundError, IOError):
         # If file doesn't exist or can't be read, call OpenAI
@@ -42,6 +57,7 @@ def rewrite_literary_style(text, hexagram_id, setnum):
             return result
         except Exception as e:
             print(f"OpenAI API error: {e}")
+            input("Paused on ERROR OpenAI API error")
             return text
 
 def get_image_blurb(sfnum,setnum):
@@ -50,6 +66,7 @@ def get_image_blurb(sfnum,setnum):
             return f.read()
     except Exception as e:
         print(f"Error reading file final/{id}.txt: {e}")
+        input("Paused on ERROR reading file final/{id}.txt")
         return None
 
 def format_core_section(core,sfnum,setnum):
@@ -74,7 +91,7 @@ def format_core_section(core,sfnum,setnum):
 
     ostr = f"""
 <div style="page-break-after: always;"></div>
-# {core['hexagram']} {core['name']}
+# {core['king_wen_sequence']} {core['hexagram']} *{core['binary_sequence']}* {core['name']}
 ## {core['description']}
 
 <img src="/home/jw/store/src/iching_cli/defs/final/{setnum}/{core['image_file']}">
@@ -115,11 +132,12 @@ def format_stories_section(stories):
     result = f"\n\n# {stories['title']}\n\n"
 
     for story in stories['stories']:
+        udesc = re.sub(r'(?<!\n)\n(?!\n)', '\n\n', story['description'])
         result += f"""
 ##### {story['title']}
 ### In the style of {story['style']}
 
-{story['description']}
+{udesc}
 
 #### *Lines in Context:*
 
