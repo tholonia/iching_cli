@@ -146,7 +146,10 @@ def format_stories_section(stories):
 4: {story['key_elements']['4']}
 3: {story['key_elements']['3']}
 2: {story['key_elements']['2']}
-1: {story['key_elements']['1']}\n\n"""
+1: {story['key_elements']['1']}
+
+
+"""
 
     return result
 
@@ -167,9 +170,22 @@ def format_history_section(history):
 4: {history['key_elements']['4']}
 3: {history['key_elements']['3']}
 2: {history['key_elements']['2']}
-1: {history['key_elements']['1']}"""
+1: {history['key_elements']['1']}
+"""
 
-def generate_markdown_from_json(json_data,sfnum,setnum):
+def format_intro_section():
+    """Format the intro section"""
+    with open("/home/jw/store/src/iching_cli/defs/BOOK_INTRO.md", 'r', encoding='utf-8') as file:
+        intro = file.read()
+
+    intro += "\n<div style=\"page-break-after: always;\"></div>\n"
+
+    return intro
+
+
+
+
+def generate_markdown_from_json(json_data, sfnum,setnum):
     """Generate complete markdown using all JSON sections"""
     markdown = ""
 
@@ -182,6 +198,12 @@ def generate_markdown_from_json(json_data,sfnum,setnum):
     # Add history section
     markdown += "\n\n" + format_history_section(json_data['hx']['history'])
 
+    markdown += """
+
+<div style="page-break-after: always;"></div>
+# *Notes*
+<div style="page-break-after: always;"></div>
+"""
     return markdown
 
 def get_json_filenames():
@@ -224,14 +246,15 @@ def main():
         hfrom = int(args.hex)
         hto = int(args.hex)
 
-    if hfrom == hto:
+    if hfrom == hto: #! this is only to test if we are printing specific pages, for testing.
         markdown_output = ""
-    else:
-        with open("/home/jw/store/src/iching_cli/defs/BOOK_INTRO.md", 'r', encoding='utf-8') as file:
-            markdown_output = file.read()
+    else: #! don't need to add intro if printing a single page
+        markdown_output = format_intro_section()
+
 
 
     # for filename in get_json_filenames():
+
 
     directory = "/home/jw/src/iching_cli/defs/final"
 

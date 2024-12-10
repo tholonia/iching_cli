@@ -19,7 +19,7 @@ expects:
 
 ```sh
 cd ${H}/bin
-N=99 #(99 = the curated set of images)
+N=99 #99 = the curated set of images)
 ./makeallmd.py -o out.md -s 99
 # NOTE: this does add the hex desc rewrite in folder filan/${N}/descp
 # To add thos, do the following
