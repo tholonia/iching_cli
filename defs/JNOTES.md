@@ -1,3 +1,65 @@
+
+
+# Tree
+
+```
+./final
+```
+
+```
+./final/<NN>
+```
+
+- holds the various sets in numbered folders.  99 is the set that represent the latest working version.
+- Each set contains
+  - Images - numbered PNG files
+  - Image description - numbered TXT files
+
+```
+./final/NN/descp
+```
+
+- numbered TXT files that hold the description of the hexagram
+
+```
+./final/<NN>/alts	
+```
+
+- Optional folder that holds alternatives text or images.  More like a archive folder
+
+
+
+# The Publishing Process
+
+ ```sh
+conda activate cbot
+cd /home/jw/src/iching_cli/defs/bin
+export N=99  # determines which set to use (under ./final folder)
+export OPENAI_API_KEY=sk-proj-GocJ9l8HATWvK2ZEj4w...
+export H=/home/jw/store/src/iching_cli/defs
+
+./makeallmd.py -o out.md -s ${SET} # create out.md
+./makeallmd.py -o PAGE12.md -s ${SET} --hex 12 # print only 1 page w/o forward
+./makeallmd.py -o OUT.MD -s ${SET} --content pages # print pages only, not forward
+
+typora out.md # ensure it is configured correctly
+
+# >>> export to out.pdf
+
+./rm_empty_pages.py out.pdf # rm  empty pages to clean_out.pdf - BREAKS OUTLINE
+
+pdftk \
+/home/jw/books/iching/Latest/ICHING_THE_BOOK.pdf \
+/home/jw/books/iching/chapters/150-PART-II.pdf \
+out.pdf \
+cat output book_merged.pdf
+
+
+
+ ```
+
+
+
 ## Assumptions
 
 ```sh

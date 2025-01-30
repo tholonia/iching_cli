@@ -1,5 +1,50 @@
 #!/bin/env python
 
+"""
+
+Creates the temporary output file, which is a markdown version of all 64 hexagrams with teh images and explanations, plus the forward text.
+
+See JNOTES.md for more details.
+
+
+This script converts I-Ching (易經/Book of Changes) data from JSON format into formatted Markdown documents.
+
+Key functionality:
+1. File Processing:
+   - Takes JSON files containing I-Ching hexagram data
+   - Can process either a single hexagram or all 64 hexagrams
+   - Supports different image sets through -s/--set parameter
+
+2. Content Generation:
+   - Creates structured Markdown with sections for:
+     - Core hexagram information (number, name, description)
+     - Hexagram image
+     - Line interpretations
+     - Tholonic analysis
+     - Stories related to the hexagram
+     - Historical context
+     - Notes section
+
+3. Special Features:
+   - Uses OpenAI's GPT-4 to rewrite descriptions in literary style
+   - Caches AI-generated descriptions
+   - Includes YAML frontmatter from external config
+   - Supports page breaks for document formatting
+   - Can generate complete books (--content all) or specific pages (--content pages)
+
+4. File Organization:
+   - Works with directory structure under /home/jw/store/src/iching_cli/defs/
+   - Handles multiple image sets (s0, s1, etc)
+   - Creates and manages cached descriptions
+
+5. Command Line Interface:
+   - Arguments:
+     -o/--output: Specify output file
+     -x/--hex: Select specific hexagram
+     -s/--set: Choose image set
+     -c/--content: Select content type (all/pages)
+"""
+
 import json
 import sys
 import argparse
@@ -8,6 +53,7 @@ import os
 from colorama import Fore, Style
 import openai
 import re
+import yaml
 
 
 from openai import OpenAI
@@ -89,9 +135,10 @@ def format_core_section(core,sfnum,setnum):
     # s0 = 1280x1280, s1 = 1280x9-something
     # setnum = "_s1"
 
+#^██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████
     ostr = f"""
 <div style="page-break-after: always;"></div>
-# {core['king_wen_sequence']} {core['hexagram']} *{core['binary_sequence']}* {core['name']}
+# {core['king_wen_sequence']} {core['hexagram']} *{core['binary_sequence']}* - {core['name']}
 ## {core['description']}
 
 <img src="/home/jw/store/src/iching_cli/defs/final/{setnum}/{core['image_file']}">
@@ -101,7 +148,7 @@ def format_core_section(core,sfnum,setnum):
 
 #### {descp}
 
-### **King Wen Sequence**: {core['king_wen_sequence']}, {core['king_wen_title']} **Binary Sequence**: {core['binary_sequence']} **Above**: {core['above']} **Below**: {core['below']}
+### **King Wen Order**: {core['king_wen_title']} **Binary**: {core['binary_sequence']} **Above**: {core['above']} **Below**: {core['below']}
 
 
 # Lines in Transition
@@ -153,10 +200,10 @@ def format_stories_section(stories):
 
     return result
 
-def format_history_section(history):
+def format_history_section(history,core):
     """Format the historical event section"""
     return f"""
-# {history['subtitle']}
+# '{core['name']}' in History
 
 ## *{history['title']}*
 
@@ -172,22 +219,45 @@ def format_history_section(history):
 2: {history['key_elements']['2']}
 1: {history['key_elements']['1']}
 """
+#*██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████
 
-def format_intro_section():
+def format_intro_section(args):
     """Format the intro section"""
-    with open("/home/jw/store/src/iching_cli/defs/BOOK_INTRO.md", 'r', encoding='utf-8') as file:
-        intro = file.read()
+    if args.content == "all":
+        with open("/home/jw/store/src/iching_cli/defs/BOOK_INTRO.md", 'r', encoding='utf-8') as file:
+            intro = file.read()
 
-    intro += "\n<div style=\"page-break-after: always;\"></div>\n"
-
+        intro += "\n<div style=\"page-break-after: always;\"></div>\n"
+    elif args.content == "pages":
+        intro = ""
     return intro
 
+def get_yaml():
+    yaml_path = "/home/jw/store/src/iching_cli/defs/export.yaml"
+    if not os.path.exists(yaml_path):
+        return ""
 
+    with open(yaml_path, 'r', encoding='utf-8') as file:
+        yaml_data = yaml.safe_load(file)
 
+    # Generate YAML frontmatter string
+    frontmatter = ["---"]
+    for key, value in yaml_data.items():
+        if isinstance(value, (list, dict)):
+            frontmatter.append(f"{key}: {yaml.dump(value, default_flow_style=False)}")
+        else:
+            frontmatter.append(f"{key}: {value}")
+    frontmatter.append("---\n")
+    # Convert frontmatter list to string
+    frontmatter_str = "\n".join(frontmatter)
+
+    # Note: title_page and copyright_page variables are unused, so removed
+
+    return frontmatter_str
 
 def generate_markdown_from_json(json_data, sfnum,setnum):
     """Generate complete markdown using all JSON sections"""
-    markdown = ""
+    markdown = get_yaml()
 
     # Add core section
     markdown += format_core_section(json_data['hx']['core'],sfnum,setnum)
@@ -196,7 +266,7 @@ def generate_markdown_from_json(json_data, sfnum,setnum):
     markdown += format_stories_section(json_data['hx']['stories'])
 
     # Add history section
-    markdown += "\n\n" + format_history_section(json_data['hx']['history'])
+    markdown += "\n\n" + format_history_section(json_data['hx']['history'],json_data['hx']['core'])
 
     markdown += """
 
@@ -233,6 +303,7 @@ def main():
     parser.add_argument('-o', '--output', help='Output markdown file path (optional)')
     parser.add_argument('-x', '--hex', help='Seclet a specific hexagram only to make (optional)')
     parser.add_argument('-s', '--set', help='Set number to use for imnages and img blurbs (default:0)')
+    parser.add_argument('-c', '--content', default="all", help='"pages" or "all" (default:"all")')
 
     args = parser.parse_args()
 
@@ -249,7 +320,7 @@ def main():
     if hfrom == hto: #! this is only to test if we are printing specific pages, for testing.
         markdown_output = ""
     else: #! don't need to add intro if printing a single page
-        markdown_output = format_intro_section()
+        markdown_output = format_intro_section(args)
 
 
 

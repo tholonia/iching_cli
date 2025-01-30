@@ -883,6 +883,7 @@ try:
         [
             "help",
             "question=",
+            "true_random",
             "binary=",
             "classic=",
         ],
