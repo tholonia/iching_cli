@@ -1,5 +1,23 @@
 #!/bin/env python3
 
+"""
+This script updates hexagram JSON files with image-related data. For a given hexagram number
+and set number, it:
+1. Creates necessary directories for image descriptions at:
+   /home/jw/store/src/iching_cli/defs/final/{setnum}/descp/{hexagram_id}/descp
+
+2. Reads:
+   - Image description from: /home/jw/store/src/iching_cli/defs/s{setnum}/{hexagram_id}.txt
+   - Prompt from: /home/jw/src/iching_cli/defs/final/s{setnum}/{padded_num}.txt
+   - JSON file from: /home/jw/store/src/iching_cli/defs/final/s{padded_num}.json
+
+3. Updates the corresponding JSON file with the image description, image filename, and prompt
+4. Saves the changes back to the JSON file
+
+Usage: python script.py <hexagram_number> <set_number>
+Example: python script.py 20 1
+"""
+
 import json
 import sys
 import os
@@ -26,16 +44,20 @@ def update_json_file(file_number, setnum):
 
     # Define file paths with setnum
     json_file = f"/home/jw/store/src/iching_cli/defs/final/{padded_number}.json"
-    txt_file = f"/home/jw/store/src/iching_cli/defs/s{setnum}/{padded_number}.txt"
-    prompt_file = f"/home/jw/src/iching_cli/defs/final/s{setnum}/prompt.md"
+    image_desc_file = f"/home/jw/store/src/iching_cli/defs/s{setnum}/descp/{padded_number}_descp.txt"
+    prompt_file = f"/home/jw/src/iching_cli/defs/final/s{setnum}/{padded_number}.txt"
+#    prompt_file = f"/home/jw/src/iching_cli/defs/final/s{setnum}/prompt.md"
+    #prompt_file = f"/home/jw/src/iching_cli/defs/final/s{setnum}/descp/{setnum}_descp.txt"
+
+
 
     # Check if files exist
     if not os.path.exists(json_file):
         print(f"Error: JSON file {json_file} not found")
         return
 
-    if not os.path.exists(txt_file):
-        print(f"Error: Text file {txt_file} not found")
+    if not os.path.exists(image_desc_file):
+        print(f"Error: Text file {image_desc_file} not found")
         return
 
     if not os.path.exists(prompt_file):
@@ -43,12 +65,12 @@ def update_json_file(file_number, setnum):
         return
 
     try:
-        # Read the prompt file content
+        # Read the prompt file content THIS IS THE PROMPT THAT CREATES THE IMAGE FOR THE HEXAGRAM
         with open(prompt_file, 'r', encoding='utf-8') as f:
             prompt = f.read().strip()
 
         # Read the text file content
-        with open(txt_file, 'r', encoding='utf-8') as f:
+        with open(image_desc_file, 'r', encoding='utf-8') as f:
             image_description = f.read().strip()
 
         # Read and parse the JSON file

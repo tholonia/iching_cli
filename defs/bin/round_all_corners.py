@@ -1,4 +1,37 @@
-#! /bin/env python
+#!/bin/env python
+
+"""
+I Ching Image Corner Rounding Script
+
+This script processes a set of I Ching hexagram images by applying rounded corners
+using ImageMagick. It's a Python implementation of the ROUND_ALL_CORNERS bash script
+with improved error handling and progress reporting.
+
+Process:
+1. Takes a parameter set directory name as input
+2. Creates a temporary output directory
+3. Processes all PNG files in the input directory
+4. Applies 50-pixel radius rounded corners to each image
+5. Saves processed images in the tmp/ subdirectory
+
+Usage:
+    python round_all_corners.py <pset>
+
+Arguments:
+    pset    Parameter set directory name (e.g., 's99')
+            Images should be in /home/jw/src/iching_cli/defs/final/<pset>/
+
+Required:
+    - ImageMagick must be installed
+    - Input images must be PNG format
+    - Write permissions for creating tmp/ subdirectory
+
+Example:
+    python round_all_corners.py s99
+
+Output:
+    Processed images saved to /home/jw/src/iching_cli/defs/final/<pset>/tmp/
+"""
 
 import subprocess
 import os

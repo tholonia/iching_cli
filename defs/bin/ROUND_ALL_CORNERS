@@ -1,12 +1,39 @@
 #!/bin/bash
 
-#!   cd into the folder where the images are
+"""
+Image Corner Rounding Script
+
+This script processes a set of I Ching hexagram images by:
+1. Creating a backup ZIP of original PNG files
+2. Applying rounded corners to each image using ImageMagick
+3. Saving the processed images in a temporary directory
+
+Usage:
+    ./ROUND_ALL_CORNERS <folder_name>
+
+Arguments:
+    folder_name    Name of the folder containing images to process
+
+Required:
+    - ImageMagick must be installed
+    - Source images must be in /home/jw/src/iching_cli/defs/final/<folder_name>/*.png
+    - Output will be in /home/jw/src/iching_cli/defs/final/tmp/
+
+Example:
+    ./ROUND_ALL_CORNERS s99
+
+Notes:
+    - Creates a backup ZIP file before processing
+    - Processes images 00-64 (all hexagram images)
+    - Uses 50-pixel radius for corner rounding
+"""
+
+#! cd into the folder where the images are
 
 PDIR=${1}
 
-
+# Create backup ZIP of original images
 rm -rf /home/jw/src/iching_cli/defs/final/tmp
-
 zip -r /home/jw/src/iching_cli/defs/final/${PDIR}/preimages.zip /home/jw/src/iching_cli/defs/final/${PDIR}/*.png
 
 exit

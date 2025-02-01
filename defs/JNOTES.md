@@ -7,7 +7,7 @@
 ```
 
 ```
-./final/<NN>
+./final/99
 ```
 
 - holds the various sets in numbered folders.  99 is the set that represent the latest working version.
@@ -16,13 +16,13 @@
   - Image description - numbered TXT files
 
 ```
-./final/NN/descp
+./final/99/descp
 ```
 
 - numbered TXT files that hold the description of the hexagram
 
 ```
-./final/<NN>/alts	
+./final/99/alts	
 ```
 
 - Optional folder that holds alternatives text or images.  More like a archive folder
@@ -47,7 +47,9 @@ typora out.md # ensure it is configured correctly
 # >>> export to out.pdf
 
 ./rm_empty_pages.py out.pdf # rm  empty pages to clean_out.pdf - BREAKS OUTLINE
+./reorg.py # ensures images appear on right page. in=out.pdf out=reorg.pdf
 
+# Add forward to book
 pdftk \
 /home/jw/books/iching/Latest/ICHING_THE_BOOK.pdf \
 /home/jw/books/iching/chapters/150-PART-II.pdf \
@@ -65,6 +67,13 @@ cat output book_merged.pdf
 ```sh
 export H=/home/jw/store/src/iching_cli/defs
 ```
+
+image output is set to 1:0.7546875
+
+                "height": 966,
+                "width": 1280
+
+
 
 ### Make all the markdown files:
 
@@ -113,6 +122,8 @@ mkdir -p ${H}/BOOK_INTRO.md`
 
 ### Create image for hexagram
 
+#### Method 1
+
 ```sh
 cd ${H}/final
 export OPENAI_API_KEY=sk-proj-66666666666666666666666666666666
@@ -121,6 +132,25 @@ export OPENAI_API_KEY=sk-proj-66666666666666666666666666666666
 # ImgDesc output = ./<ID>_<N>_.png_analysis.txt
 # Image output = /home/jw/src/ComfyUI/output/<ID>_<N>_.png
 
+```
+
+#### Method 2
+
+```sh
+  ./batch_render.py --hexagram 01 --number 6 --cfg 10
+  # or for all...
+  RENDER_BATCH.sh
+```
+
+
+
+### Image extend
+
+- uses ComfyUI workflows and VAE encoded images to create a new image of a new size
+
+```sh
+ ./extend_image.py r_36_00006__out.png /home/jw/src/iching_cli/defs/final/36.json
+ # and/or BATCVH_FILLIN.sh
 ```
 
 
@@ -234,7 +264,7 @@ mv ${H}/bin/??.txt ${H}/final/s1
 
 To make the entire doc (which will also make hex descriptions if they do not exist) - this also updates the JSON files in `${H}/final` with the sets `descp` files - run the following:
 
-- ***NOTE: there is (currently) oner set of JSON files only, with multiple sets of images, blurbs, and hex description.***
+- ***NOTE: there is (currently) one set of JSON files only, with multiple sets of images, blurbs, and hex description.***
 
 ```sh
 cd ${H}/bin
@@ -253,6 +283,34 @@ ${H}/finsl/s1/NN_descp.txt
 cd ${H}/bin
 ./UPDATE_IMAGE_DATA <setnum>
 ```
+
+# To update image and desc for a single hexagram
+
+Generate new description based on the new image
+
+```sh
+./makeimg_desc.py 48 /home/jw/src/ComfyUI/output/r_48_00003__out_00001_.png
+# This also create s txt file of teh new description in the folder where the 
+# new image exists. You then most manually copy the new description to the live description.
+cp \
+  /home/jw/src/ComfyUI/output/r_48_00003__out_00001_.txt \
+  /home/jw/src/iching_cli/defs/final/s99/48.txt
+
+
+```
+If accepted, update the live image with the new image with the following command:
+
+```sh
+./round_corners.py \
+   /home/jw/src/ComfyUI/output/r_48_00003__out_00001_.png \
+   /home/jw/src/iching_cli/defs/final/s99/48.png
+```
+
+---
+
+---
+
+---
 
 
 

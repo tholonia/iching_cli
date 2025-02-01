@@ -136,14 +136,19 @@ def format_core_section(core,sfnum,setnum):
     # setnum = "_s1"
 
 #^██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████
+    # changed below from
+    ### *{core['image']}; {image_blurb}*
+    #
+
     ostr = f"""
 <div style="page-break-after: always;"></div>
+<div style="page-break-before: right;"></div>
 # {core['king_wen_sequence']} {core['hexagram']} *{core['binary_sequence']}* - {core['name']}
 ## {core['description']}
 
 <img src="/home/jw/store/src/iching_cli/defs/final/{setnum}/{core['image_file']}">
 
-### *{core['image']}; {image_blurb}*
+### *{image_blurb}*
 <div style="page-break-after: always;"></div>
 
 #### {descp}
@@ -320,7 +325,8 @@ def main():
     if hfrom == hto: #! this is only to test if we are printing specific pages, for testing.
         markdown_output = ""
     else: #! don't need to add intro if printing a single page
-        markdown_output = format_intro_section(args)
+        # markdown_output = format_intro_section(args)
+        markdown_output = "" # skip intro
 
 
 

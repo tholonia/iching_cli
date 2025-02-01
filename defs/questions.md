@@ -2,6 +2,24 @@
 
 ---
 
+
+
+# V2
+
+#### (using NN.json)
+
+> **Describe the essence and archetypal meaning of this hexagram, use theologic concepts where necessary.. Make it 100 words more or less, keep it to one paragraph, it is meant to be an overall high level abstract definition**
+
+
+
+#### using (NN_img.txt)
+
+**in 100 words, more or less, describe how this image represents hexagram 01, in the context of the tholonic model**
+
+
+
+
+
 # Prompts
 
 Display hexagram xx, which has a binary value of xx, using the markdown "template_core.md" to format markdown output.  Create a new name for this hexagram, which will be stored in the variable 'new_name', that is in line with both tholonic concepts and modern culture.
