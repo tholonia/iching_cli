@@ -95,8 +95,8 @@ def main():
 
     # Files to use as context
     context_files = [
-        "/home/jw/src/iching_cli/defs/tholonic_primer.md",
-        f"/home/jw/src/iching_cli/defs/v2/{hex_num_str}.json",
+        "/home/jw/src/iching_cli/book/tholonic_primer.md",
+        f"/home/jw/src/iching_cli/book/v2/{hex_num_str}.json",
     ]
 
     # Get response using file contents as context
@@ -106,7 +106,7 @@ def main():
         print(Fore.GREEN + response + Style.RESET_ALL)
 
         # Save response to file
-        output_file = f"/home/jw/src/iching_cli/defs/v2/{hex_num_str}_hex.txt"
+        output_file = f"/home/jw/src/iching_cli/book/v2/{hex_num_str}_hex.txt"
         try:
             with open(output_file, 'w') as f:
                 f.write(response)

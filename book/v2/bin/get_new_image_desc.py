@@ -80,10 +80,10 @@ def main():
 
     # Files to use as context
     context_files = [
-        "/home/jw/src/iching_cli/defs/tholonic_primer.md",
-#        "/home/jw/src/iching_cli/defs/final/Thee_tholonic_iching.md",
-        f"/home/jw/src/iching_cli/defs/v2/{hex_num_str}.json",
-        f"/home/jw/src/iching_cli/defs/v2/{hex_num_str}.png",
+        "/home/jw/src/iching_cli/book/tholonic_primer.md",
+#        "/home/jw/src/iching_cli/book/final/Thee_tholonic_iching.md",
+        f"/home/jw/src/iching_cli/book/v2/{hex_num_str}.json",
+        f"/home/jw/src/iching_cli/book/v2/{hex_num_str}.png",
     ]
 
     # Get response using file contents as context
@@ -93,7 +93,7 @@ def main():
         print(response)
 
         # Save response to file
-        output_file = f"/home/jw/src/iching_cli/defs/v2/{hex_num_str}_img.txt"
+        output_file = f"/home/jw/src/iching_cli/book/v2/{hex_num_str}_img.txt"
         try:
             with open(output_file, 'w') as f:
                 f.write(response)

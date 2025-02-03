@@ -21,9 +21,9 @@ Features:
 5. Uses image set 's0' by default
 
 Input:
-    - JSON files from /home/jw/src/iching_cli/defs/final/
+    - JSON files from /home/jw/src/iching_cli/book/final/
     - Each file named as XX.json (01.json through 64.json)
-    - YAML configuration from /home/jw/store/src/iching_cli/defs/export.yaml
+    - YAML configuration from /home/jw/store/src/iching_cli/book/export.yaml
 
 Output:
     - Creates output.md in the current directory
@@ -48,7 +48,7 @@ HEXAGRAMS = ['X01']
 #     '61', '62', '63', '64'
 # ]
 
-ROOT="/home/jw/store/src/iching_cli/defs/v2"
+ROOT="/home/jw/store/src/iching_cli/book/v2"
 
 import json
 import sys
