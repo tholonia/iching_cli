@@ -331,3 +331,138 @@ If accepted, update the live image with the new image with the following command
 
 
 
+Publishers
+
+inding a publisher with a strong focus on metaphysical, alchemical, spiritual, or philosophical works, especially those with experience in publishing I Ching literature, is essential for your book's success.Here are several reputable publishers that align with your criteria: **1. Red Wheel/Weiser**
+
+stablished in 1956, Red Wheel/Weiser is renowned for its extensive catalog of occult and New Age publications.hey have a history of publishing works related to the I Ching and other esoteric subjects.heir imprints, including Weiser Books, specialize in topics such as Eastern religions, mysticism, and divination.citeturn0search13 **2. Arkana Publishing**
+
+s an imprint of Penguin Group, Arkana Publishing focuses on esoteric literature.hey have published works by notable authors in the fields of spirituality and philosophy, including titles related to the I Ching.citeturn0search10 **3. North Atlantic Books**
+
+orth Atlantic Books is known for its diverse range of publications encompassing spirituality, philosophy, and alternative health.hey have published comprehensive guides on the I Ching, such as "I Ching, the Oracle: A Practical Guide to the Book of Changes."citeturn0search0 **4. Simon & Schuster**
+
+imon & Schuster has ventured into publishing works that explore the I Ching from unique perspectives.n example is "The Occult I Ching" by Maja D'Aoust, which delves into the mystical aspects of the text.citeturn0search3 **5. Inner Traditions – Bear & Company**
+
+pecializing in metaphysical and spiritual books, Inner Traditions has a catalog that includes works on alchemy, mysticism, and Eastern philosophies.hey have published titles that explore the I Ching and its applications in various spiritual practices. **6. Llewellyn Worldwide**
+
+lewellyn is a well-known publisher in the realm of metaphysical literature.heir publications cover a broad spectrum of spiritual and philosophical topics, including the I Ching. **7. Shambhala Publications**
+
+hambhala focuses on books that present creative and conscious ways of transforming the individual, the society, and the planet.hey have a selection of works related to Eastern philosophy and the I Ching. **Next Steps:**
+
+- **Research Submission Guidelines:** isit each publisher's official website to understand their submission process and ensure your manuscript aligns with their current interests.
+- **Prepare a Proposal:** raft a compelling book proposal that highlights the unique aspects of your work and its relevance to the publisher's audience.
+- **Consider Literary Agents:** ngaging a literary agent with experience in metaphysical or philosophical literature can enhance your chances of securing a publishing deal. y targeting these publishers, you align your work with those who appreciate and specialize in the profound themes presented in the I Ching.
+
+Red Wheel/Weiser
+
+ Arkana Publishing
+
+North Atlantic Books. 
+
+Inner Traditions – Bear & Company
+
+Llewellyn Worldwide
+
+
+
+SUBMISSION GUIDELINES
+
+**1. Red Wheel/Weiser**
+
+Red Wheel/Weiser welcomes submissions that align with their focus on spirituality, occult, and esoteric subjects. They request a comprehensive proposal including:
+
+- A cover letter with author information and a brief description of the proposed work.
+- An overview of the book, complete table of contents, market/audience analysis (including similar titles), details of your marketing and publicity experience or plans, your qualifications to write the book, and two or three sample chapters.
+- If applicable, sample illustrations or photographs (duplicates, not originals).
+
+Ensure your submission includes your phone number, email, and mailing address. For more detailed information, please refer to their submission guidelines.
+
+**2. Arkana Publishing**
+
+Arkana Publishing is an imprint of Penguin Random House focusing on esoteric literature. Currently, they do not accept unsolicited manuscripts. It's advisable to consult their official page for any updates or consider submitting through a literary agent.
+
+**3. North Atlantic Books**
+
+North Atlantic Books accepts both agented and unagented works that promote healing of self, spirit, and society. They prefer electronic submissions sent to submissions@northatlanticbooks.com, formatted as a Word document or PDF (Google Docs or Pages files are not accepted). Your proposal should include:
+
+- A cover letter introducing yourself and your work.
+- A detailed book proposal with an overview, target audience, market analysis, promotion ideas, and a chapter outline.
+- Two to three sample chapters.
+
+They aim to respond within three months but may not reply to all proposals due to the volume received. For comprehensive guidelines, visit their [submission page](https://www.northatlanticbooks.com/submission-guidelines/).
+
+**4. Inner Traditions – Bear & Company**
+
+Inner Traditions specializes in spiritual and esoteric subjects. They request that you review their imprints to ensure your work fits their criteria before submitting. Due to the high volume of submissions, they may not respond to every proposal. If you haven't heard back within eight weeks, it's likely your work isn't a fit for their publishing house. For submission instructions, please see their [publishing page](https://www.innertraditions.com/publish).
+
+**5. Llewellyn Worldwide**
+
+Llewellyn Worldwide accepts submissions directly from authors, including first-time authors, as well as from literary agents. They focus on mind, body, and spirit topics. For detailed submission instructions, please review their [author submissions page](https://www.llewellyn.com/about/author_submissions.php).
+
+**General Tips:**
+
+- **Align Your Proposal:** Ensure your manuscript aligns with the publisher's focus and guidelines.
+- **Follow Submission Instructions:** Adhere strictly to each publisher's submission requirements to enhance the likelihood of consideration.
+- **Consider Literary Representation:** For publishers not accepting unsolicited manuscripts, engaging a literary agent may be beneficial.
+
+By carefully tailoring your submissions to each publisher's guidelines, you increase the chances of finding the right home for your I Ching manuscript.
+
+LITERARY AGENTS
+
+**1. Aevitas Creative Management**
+
+Aevitas Creative Management is a full-service literary agency with agents specializing in religion and spirituality. Their team includes experienced agents who have represented a diverse range of authors in the spiritual and philosophical domains. 
+
+[aevitascreative.com](https://www.aevitascreative.com/agent-genre/agents-religion-and-spirituality?utm_source=chatgpt.com)
+
+
+
+**2. Rita Rosenkranz Literary Agency**
+
+Rita Rosenkranz represents adult non-fiction titles, including spirituality. She has a keen interest in works that offer new perspectives and contribute meaningfully to their respective fields. 
+
+[writingtipsoasis.com](https://writingtipsoasis.com/literary-agents-for-spiritual-books/?utm_source=chatgpt.com)
+
+
+
+**3. Writers House**
+
+Lisa DiMona of Writers House focuses on non-fiction, encompassing spirituality and personal development. She is interested in authors who provide unique insights into spiritual practices and philosophies. 
+
+[writingtipsoasis.com](https://writingtipsoasis.com/literary-agents-for-spiritual-books/?utm_source=chatgpt.com)
+
+
+
+**4. The Knight Agency**
+
+Elaine Spencer at The Knight Agency is open to non-fiction projects related to spirituality, religion, and self-help. She values innovative approaches to spiritual topics that can engage a broad audience. 
+
+[writingtipsoasis.com](https://writingtipsoasis.com/literary-agents-for-spiritual-books/?utm_source=chatgpt.com)
+
+
+
+**5. FinePrint Literary Management**
+
+Peter Rubie, CEO of FinePrint Literary Management, represents non-fiction works in spirituality and well-being. He seeks authors who can present profound spiritual concepts in an accessible manner. 
+
+[writingtipsoasis.com](https://writingtipsoasis.com/literary-agents-for-spiritual-books/?utm_source=chatgpt.com)
+
+
+
+**6. Writers House**
+
+Johanna V. Castillo of Writers House has a history of working with authors who explore spiritual themes. She is interested in narratives that delve into personal growth and spiritual journeys. 
+
+[writingtipsoasis.com](https://writingtipsoasis.com/literary-agents-for-spiritual-books/?utm_source=chatgpt.com)
+
+
+
+# V2 process
+
+- Export to `iching.docx`
+  - Open in libreoffice
+    - apply style (in `ching_stype.odt`)
+    - add TOC
+    - Export tp PDF (`iching.pdf`)
+- run `reorg.py` to right-align chapter images, produced `reorg.pdf`
+
