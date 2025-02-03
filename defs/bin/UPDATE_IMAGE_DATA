@@ -1,9 +1,0 @@
-#!/bin/bash
-setnum=${2}
-# Loop through numbers 1 to 65
-for i in {1..64}
-do
-  # Assign the zero-padded value to a variable
-  padded_value=$(printf "%02d" "$i")
-  ./update_image_data.py ${padded_value} ${setnum}
-done
