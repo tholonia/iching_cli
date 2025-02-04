@@ -1,9 +1,34 @@
 #!/bin/env python3
+"""
+A script that generates AI-powered descriptions of I Ching hexagram images using OpenAI's GPT-4 API.
+
+This script takes a hexagram number (1-64) as input and generates a narrative paragraph
+explaining why specific visual elements and styles were chosen to represent that hexagram
+in its corresponding image. The script reads the hexagram's JSON data, PNG image, and
+tholonic context files to inform GPT-4's response. The resulting description is printed
+to stdout and optionally saved to a text file when using the --save flag.
+
+Requirements:
+    - OpenAI Python package (v1.0.0 or later)
+    - Valid OpenAI API key set in OPENAI_API_KEY environment variable
+    - Access to GPT-4 model in your OpenAI account
+
+Usage:
+    python get_new_image_desc_OPENAI.py [-s] <hexagram_number>
+Options:
+    -s, --save    Save the output to a text file
+Example:
+    python get_new_image_desc_OPENAI.py 20         # Display output only
+    python get_new_image_desc_OPENAI.py -s 20      # Display and save output
+"""
 
 import os
 import sys
 import base64
 from openai import OpenAI
+import argparse
+from colorama import Fore, Style
+
 
 # Initialize OpenAI client with API key from environment variable
 client = OpenAI(api_key=os.getenv('OPENAI_API_KEY'))
@@ -39,14 +64,11 @@ def get_contextual_response(context_files, hex_num_str):
 
     # Create the prompt
     prompt = f"""
-        Explain briefly as possible why this image its elements and its styles were chosen
-        to represent this hexagram {hex_num_str}. Respond in a narrative paragraph. If you refer to the
-        hexagram, do so by name, not by number. Start vthe paragramg with teh name of the hexagram in quotations, for example:
+"Compose a concise narrative paragraph, approximately 100 words, explaining why the elements and styles of this image were selected to represent the hexagram '{hex_num_str}'. Begin the paragraph with the hexagram's name in quotation marks, for example:
 
-        "Contemplation" is vividly depicted...
+'Contemplation' is vividly depicted...
 
-        Use the name of the hexagram from the JSON file, not the traditional name.
-        Keep the response to ~100 words.
+Use the hexagram's name from the JSON file, not its traditional name."
     """
 
     try:
@@ -64,16 +86,15 @@ def get_contextual_response(context_files, hex_num_str):
         return None
 
 def main():
-    if len(sys.argv) != 2:
-        print("Usage: python get_new_image_desc.py <hexagram_number>")
-        print("Example: python get_new_image_desc.py 20")
-        sys.exit(1)
+    parser = argparse.ArgumentParser(description='Generate AI-powered descriptions of I Ching hexagram images')
+    parser.add_argument('-s', '--save', action='store_true', help='Save output to file')
+    parser.add_argument('hexagram', type=int, help='Hexagram number (1-64)')
+    args = parser.parse_args()
 
     try:
-        hex_num = int(sys.argv[1])
-        if hex_num < 1 or hex_num > 64:
+        if args.hexagram < 1 or args.hexagram > 64:
             raise ValueError("Hexagram number must be between 1 and 64")
-        hex_num_str = f"{hex_num:02d}"  # Zero-pad to 2 digits
+        hex_num_str = f"{args.hexagram:02d}"  # Zero-pad to 2 digits
     except ValueError as e:
         print(f"Error: {e}")
         sys.exit(1)
@@ -90,16 +111,17 @@ def main():
     response = get_contextual_response(context_files, hex_num_str)
     if response:
         print("\nResponse:")
-        print(response)
+        print(Fore.GREEN + response + Style.RESET_ALL)
 
-        # Save response to file
-        output_file = f"/home/jw/src/iching_cli/book/v2/{hex_num_str}_img.txt"
-        try:
-            with open(output_file, 'w') as f:
-                f.write(response)
-            print(f"\nSaved description to: {output_file}")
-        except Exception as e:
-            print(f"Error saving to file: {e}")
+        # Save response to file only if --save flag is used
+        if args.save:
+            output_file = f"/home/jw/src/iching_cli/book/v2/{hex_num_str}_img.txt"
+            try:
+                with open(output_file, 'w') as f:
+                    f.write(response)
+                print(Fore.YELLOW + f"\nSaved description to: {output_file}" + Style.RESET_ALL)
+            except Exception as e:
+                print(Fore.RED + f"Error saving to file: {e}" + Style.RESET_ALL)
 
 if __name__ == "__main__":
     main()

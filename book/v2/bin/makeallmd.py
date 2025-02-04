@@ -37,16 +37,15 @@ Dependencies:
 """
 
 # Predefined list of all hexagrams
-HEXAGRAMS = ['X01']
-# HEXAGRAMS = [
-#     'X01', '02', '03', '04', '05', '06', '07', '08', '09', '10',
-#     '11', '12', '13', '14', '15', '16', '17', '18', '19', '20',
-#     '21', '22', '23', '24', '25', '26', '27', '28', '29', '30',
-#     '31', '32', '33', '34', '35', '36', '37', '38', '39', '40',
-#     '41', '42', '43', '44', '45', '46', '47', '48', '49', '50',
-#     '51', '52', '53', '54', '55', '56', '57', '58', '59', '60',
-#     '61', '62', '63', '64'
-# ]
+HEXAGRAMS = [
+    '01', '02', '03', '04', '05', '06', '07', '08', '09', '10',
+    '11', '12', '13', '14', '15', '16', '17', '18', '19', '20',
+    '21', '22', '23', '24', '25', '26', '27', '28', '29', '30',
+    '31', '32', '33', '34', '35', '36', '37', '38', '39', '40',
+    '41', '42', '43', '44', '45', '46', '47', '48', '49', '50',
+    '51', '52', '53', '54', '55', '56', '57', '58', '59', '60',
+    '61', '62', '63', '64'
+]
 
 ROOT="/home/jw/store/src/iching_cli/book/v2"
 
@@ -198,7 +197,7 @@ def format_core_section(core,sfnum):
 
 def format_stories_section(stories):
     """Format the three stories section"""
-    result = f"\n\n# {stories['title']}\n\n"
+    result = f"\n\n###### {stories['title']}\n\n"
 
     for story in stories['stories']:
         udesc = re.sub(r'(?<!\n)\n(?!\n)', '\n\n', story['description'])
@@ -225,9 +224,9 @@ def format_stories_section(stories):
 def format_history_section(history,core):
     """Format the historical event section"""
     return f"""
-# '{core['name']}' in History
+###### '{core['name']}' in History
 
-## *{history['title']}*
+##### *{history['title']}*
 
 {history['description']}
 
@@ -343,7 +342,7 @@ def main():
         markdown_output += "\n" + generate_markdown_from_json(json_data, sfnum)
 
     # Write output to file
-    output_file = "output.md"
+    output_file = "docs/iching.md"
     with open(output_file, 'w', encoding='utf-8') as file:
         file.write(markdown_output)
     print(f"Markdown has been saved to {output_file}")
