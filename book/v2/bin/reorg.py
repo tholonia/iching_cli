@@ -1,8 +1,66 @@
 #!/bin/env python3
 
+"""
+PDF Page Reorganizer for I Ching Book
+
+This script processes a PDF file containing I Ching hexagram entries and adds blank pages
+before each hexagram to ensure proper double-sided printing layout. It's specifically
+designed for book printing where hexagrams should start on right-hand (odd-numbered) pages.
+
+Features:
+1. Detects hexagram entries by looking for:
+   - Unicode hexagram symbols (U+4DC0 to U+4DFF)
+   - Large font titles in format "1 ䷀ 63 - Creation"
+2. Inserts blank pages before hexagrams to ensure proper layout
+3. Preserves first 3 pages (table of contents)
+4. Only checks odd-numbered pages for hexagrams
+5. Processes the PDF iteratively to handle large files
+6. Maintains PDF dimensions and properties
+
+Input:
+    - PDF file with I Ching hexagram entries
+    - Each hexagram entry starts with a title containing hexagram symbol
+    - First 3 pages contain table of contents
+
+Output:
+    - Modified PDF with blank pages inserted
+    - Hexagrams start on right-hand pages
+    - Original content unchanged except for page positioning
+
+Usage:
+    reorg.py [-h] input_pdf output_pdf
+
+    positional arguments:
+      input_pdf    Path to input PDF file
+      output_pdf   Path to output PDF file
+
+Example:
+    reorg.py docs/clean_iching.pdf docs/reorg.pdf
+
+Dependencies:
+    - PyMuPDF (fitz) for PDF content analysis
+    - pdfrw for PDF manipulation
+"""
+
 import fitz  # PyMuPDF
 from pdfrw import PdfReader, PdfWriter, PageMerge
 from pdfrw.buildxobj import pagexobj
+import argparse
+
+def parse_args():
+    """Parse command line arguments."""
+    parser = argparse.ArgumentParser(
+        description='Add blank pages before hexagrams in PDF for proper double-sided printing.'
+    )
+    parser.add_argument(
+        'input_pdf',
+        help='Path to input PDF file'
+    )
+    parser.add_argument(
+        'output_pdf',
+        help='Path to output PDF file'
+    )
+    return parser.parse_args()
 
 def has_large_hexagram(page):
     """
@@ -181,10 +239,8 @@ def process_pdf_iteratively(input_path, output_path):
     return total_pages_added
 
 if __name__ == "__main__":
-    input_file = "docs/clean_iching.pdf"
-    output_file = "docs/reorg.pdf"
-
+    args = parse_args()
     try:
-        pages_added = process_pdf_iteratively(input_file, output_file)
+        pages_added = process_pdf_iteratively(args.input_pdf, args.output_pdf)
     except Exception as e:
         print(f"An error occurred: {str(e)}")

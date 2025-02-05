@@ -36,7 +36,7 @@ In essence, we see the archetype of 0 and 1, combined with the concept of 2 * 3,
 
 **Universal Principles**: Both the I Ching and the Tholonic model aim to describe universal principles that underlie existence, focusing on how creation emerges, evolves, and returns to its source.
 
-# The I Ching via Tholonic Philosophy
+## The I Ching via Tholonic Philosophy
 
 The I Ching has inspired humanity for millennia. Its hexagrams represent universal archetypes, offering guidance in navigating life’s changes. This new interpretation, drawing from the Tholonic Model, invites readers to explore the I Ching through the lens of awareness, intention, and the fundamental forces that shape existence. To understand this connection, we must first familiarize ourselves with four essential concepts: Awareness and Intention, the three fundamental interactions of reality, the Thologram, and how these ideas align with the structure of the I Ching.
 
@@ -108,7 +108,7 @@ Thus, the I Ching aligns organically with the Tholonic Model, with its hexagrams
 
 This new interpretation aims to enrich your understanding of the I Ching by introducing the principles of the Tholonic Model. By seeing each hexagram as an expression of awareness and intention, shaped by negotiation, limitation, and contribution, we gain deeper insight into the forces that shape both the oracle’s wisdom and our own lives.
 
-# The Eight Paths of Eight
+## The Eight Paths of Eight
 
 Using the traditional King Wen sequence of the hexagrams, we discover a fascinating self-similar pattern for which there appears to be no historical reference or documentation explaining this profound yet mysterious framework, as if it were deliberately kept secret. I'll refer to this framework as the Eightfold Categorization. At first glance, it might seem that the Eightfold Categorization could have emerged from or is related to the Buddhist Eightfold Path, but King Wen lived during the Zhou Dynasty (1046–256 BCE), 600 years before the emergence of Buddhism. However, it was during the Zhou Dynasty that the traditions of Confucianism and Taoism emerged, both of which shared concepts with Buddhism. The only surviving interpretation of the I Ching comes from Confucianism, which focuses on ethics, social harmony, and proper conduct, especially in the context of family and society. This emphasis on virtue, respect for elders, filial piety, and the importance of rituals is clearly seen when reading the English interpretation of the I Ching.
 
@@ -204,7 +204,7 @@ The significance of this approach lies in its ability to map the journey of tran
 
 
 
-# Some Explanations
+## Some Explanations
 
 This section explain the labels and terms that appear for each hexagram.
 
@@ -224,7 +224,7 @@ Together, they describe a dynamic interplay between the internal and external fo
 
 The descriptions of the upper and lower trigrams in the I Ching are derived from ancient Chinese philosophy, particularly rooted in Taoism and early Chinese cosmology. The eight trigrams, collectively known as the **Bagua (八卦)**, represent fundamental principles of nature and the universe. Each trigram is composed of three lines—either yin or yang—and symbolizes specific aspects of reality, such as natural phenomena, human qualities, or cosmic forces.
 
-# The Eight Trigrams of the Bagua:
+## The Eight Trigrams of the Bagua:
 
 1. **☰ Qian (Heaven)**: Creativity, strength, leadership.
 2. **☷ Kun (Earth)**: Receptivity, nurturing, adaptability.
@@ -399,7 +399,7 @@ The hexagrams are counted from 0 to 31 for ascending cycles and 63 to 32 for des
 
 This cyclical pattern mirrors fundamental cosmological principles observed across various metaphysical systems, such as the waxing and waning of the moon or the rise and fall of seasonal energy. It offers a universal framework for understanding the flow of energy within the I Ching, highlighting the inherent rhythm of emergence, growth, completion, and renewal in all aspects of existence.
 
-# About the Images:
+## About the Images:
 
 The selection of images was purely subjective. While the images were based on the content and concepts of the hexagram, there are countless ways to artistically interpret and present that content. To add coherence, the AI selected a known art style and artist whose work aligned with the content. Within these parameters, it created images influenced by these styles and artists.
 
@@ -409,11 +409,11 @@ The AI was given significant flexibility in how to create these images and was i
 
 
 
-# The Technology
+## The Technology
 
 The technology behind this project was substantial. First, we trained an AI model with the Tholonic concepts, ensuring it understood the framework deeply. Next, we utilized two advanced AI services, OpenAI and Anthropic, to develop conversational agents (or bots) that could interact and exchange ideas. Finally, we employed Meta’s powerful open-source AI model, LLaMA, running on a high-performance local machine, to generate the images. This combination of cutting-edge tools and infrastructure was crucial to bringing the project to life.
 
-# Finally, and most importantly
+## Finally, and most importantly
 
 This entire project was inspired by Ralph Gun Hoy Siu's remarkable book, *Portable Dragon: The Western Man's Guide to the I Ching* (originally published as *The Man of Many Qualities: A Legacy of the I Ching*).
 

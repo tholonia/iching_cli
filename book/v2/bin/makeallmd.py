@@ -1,44 +1,57 @@
 #!/bin/env python
 
 """
-I Ching Markdown Generator
+I Ching Book Generator
 
-This script generates a complete markdown document from I Ching hexagram data.
-It processes a predefined set of hexagrams (01-64) and combines their JSON data
-into a formatted markdown document suitable for book production.
+This script generates a formatted markdown document for the I Ching book by combining:
+- Introduction text
+- Hexagram data from JSON files
+- Generated literary descriptions
+- Images and their descriptions
 
 Features:
-1. Processes all 64 hexagrams in sequential order
-2. Includes for each hexagram:
-   - Core information and description
-   - Hexagram image with analysis
-   - Line interpretations
-   - Related stories
+1. Processes hexagrams defined in HEXAGRAMS list (configurable subset of 01-64)
+2. For each hexagram, generates sections for:
+   - Title and basic information
+   - Core hexagram description and image
+   - Line-by-line interpretations
+   - Three thematic stories
    - Historical context
    - Notes section
-3. Adds YAML frontmatter for document metadata
-4. Includes proper page breaks for book formatting
-5. Uses image set 's0' by default
+3. Formats content with:
+   - Proper page breaks for book layout
+   - Consistent heading hierarchy
+   - Structured lists for line interpretations
+   - Image placement and captions
+4. Caches generated descriptions to avoid redundant API calls
 
-Input:
-    - JSON files from /home/jw/src/iching_cli/book/final/
-    - Each file named as XX.json (01.json through 64.json)
-    - YAML configuration from /home/jw/store/src/iching_cli/book/export.yaml
+Input Files:
+- /BOOK_INTRO.md: Introduction text
+- /*.json: Hexagram data files (XX.json where XX is hexagram number)
+- /*_img.txt: Cached image descriptions
+- /*_hex.txt: Cached hexagram descriptions
+- /export.yaml: Document metadata and configuration
 
 Output:
-    - Creates output.md in the current directory
-    - Includes all hexagrams in a single markdown document
-    - Formatted with proper page breaks and sections
+- docs/iching.md: Complete markdown document ready for PDF conversion
 
 Dependencies:
-    - colorama for terminal output
-    - openai for GPT processing
-    - pyyaml for frontmatter handling
+- colorama: Terminal output formatting
+- openai: GPT-4 API for literary descriptions
+- pyyaml: YAML frontmatter handling
+- json: JSON data parsing
+- re: Regular expression text processing
+
+Environment:
+- Requires OPENAI_API_KEY environment variable
+- Expects ROOT directory with required input files
 """
 
 # Predefined list of all hexagrams
-HEXAGRAMS = [
-    '01', '02', '03', '04', '05', '06', '07', '08', '09', '10',
+XEXAGRAMS = ['01', '02', '03', '04', '05', '06', '07', '08', '09', '10',]
+
+
+HEXAGRAMS = [ '01', '02', '03', '04', '05', '06', '07', '08', '09', '10',
     '11', '12', '13', '14', '15', '16', '17', '18', '19', '20',
     '21', '22', '23', '24', '25', '26', '27', '28', '29', '30',
     '31', '32', '33', '34', '35', '36', '37', '38', '39', '40',
@@ -116,40 +129,45 @@ def get_image_blurb(sfnum):
 
 def get_hex_blurb(sfnum):
     """
-    Read the hexagram description from a text file.
+    Read the hexagram description from a text file and return as array of paragraphs.
 
     Args:
-        sfnum (str): Hexagram number (e.g., 'X01')
+        sfnum (str): Hexagram number (e.g., '01')
 
     Returns:
-        str: Contents of the hexagram description file, or None if file not found
+        list: Array of paragraphs from the file, or None if file not found
     """
     try:
         with open(f'{ROOT}/{sfnum}_hex.txt', 'r', encoding='utf-8') as f:
-            return f.read()
+            content = f.read().strip()
+            # Split on double newlines to separate paragraphs
+            # and filter out empty strings
+            paragraphs = [p.strip() for p in content.split('\n\n') if p.strip()]
+            if not paragraphs:
+                print(Fore.RED + f"Warning: No paragraphs found in {ROOT}/{sfnum}_hex.txt" + Style.RESET_ALL)
+                input(f"Paused on WARNING: Empty file {ROOT}/{sfnum}_hex.txt")
+                return None
+            return paragraphs
     except Exception as e:
-        print(f"Error reading file {ROOT}/{sfnum}_hex.txt: {e}")
+        print(Fore.RED + f"Error reading file {ROOT}/{sfnum}_hex.txt: {e}" + Style.RESET_ALL)
         input(f"Paused on ERROR reading file {ROOT}/{sfnum}_hex.txt")
         return None
 
 def format_core_section(core,sfnum):
     # Read the hexagram description
-    img_desc = get_hex_blurb(sfnum)
-    if img_desc is None:
-        # Fallback to generating description if file not found
-        img_desc = f""" This hexagram contributes {core['order8child']} qualities to the tholon of {core['order8parent']}.  Its perspective is one of {core['perspective']} . Its nature is one  of  {core['nature']}, and its {core['action']} is that of Manifesting.  It achieves success through {core['success_through']}.  It' energy is {core['energy_cycle']} {core['yinyang_balance']}.  The challange to overcome is {core['challenge']}.
-"""
-        img_desc = img_desc.replace(";",", ")
-        img_desc = img_desc.lower()
-        img_desc = rewrite_literary_style(img_desc,sfnum)
+    hex_desc_ary = get_hex_blurb(sfnum)
+#     if hex_desc_ary is None:
+#         # Fallback to generating description if file not found
+#         hex_desc_ary = f""" This hexagram contributes {core['order8child']} qualities to the tholon of {core['order8parent']}.  Its perspective is one of {core['perspective']} . Its nature is one  of  {core['nature']}, and its {core['action']} is that of Manifesting.  It achieves success through {core['success_through']}.  It' energy is {core['energy_cycle']} {core['yinyang_balance']}.  The challange to overcome is {core['challenge']}.
+# """
+#         hex_desc_ary = hex_desc_ary.replace(";",", ")
+#         hex_desc_ary = hex_desc_ary.lower()
+#         hex_desc_ary = rewrite_literary_style(hex_desc_ary,sfnum)
 
     image_blurb = get_image_blurb(sfnum)
 
     """Format the core hexagram section"""
 
-    # setnu,m is used to select whocui image and descriptions top use
-    # s0 = 1280x1280, s1 = 1280x9-something
-    # setnum = "_s1"
 
 #^██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████
     # changed below from
@@ -157,42 +175,39 @@ def format_core_section(core,sfnum):
     #
 
     ostr = f"""
-<div style="page-break-after: always;"></div>
-<div style="page-break-before: right;"></div>
 # {core['king_wen_sequence']} {core['hexagram']} *{core['binary_sequence']}* - {core['name']}
 ## {core['description']}
 
 <img src="{ROOT}/{core['image_file']}">
 
 ### *{image_blurb}*
-<div style="page-break-after: always;"></div>
-
-#### {img_desc}
 
 ### **King Wen Order**: {core['king_wen_title']} **Binary**: {core['binary_sequence']} **Above**: {core['above']} **Below**: {core['below']}
 
+#### {hex_desc_ary[0]}
 
-# Lines in Transition
+#### {core['tholonic_analysis']['significance_in_thologram']} {hex_desc_ary[1]}
 
-6: {core['lines_in_transition']['6']}
-5: {core['lines_in_transition']['5']}
-4: {core['lines_in_transition']['4']}
-3: {core['lines_in_transition']['3']}
-2: {core['lines_in_transition']['2']}
-1: {core['lines_in_transition']['1']}
+#### ***Lines in Transition***
+<ul>
+<li><B>Line 6</B>: {core['lines_in_transition']['6']}</li>
+<li><B>Line 5</B>: {core['lines_in_transition']['5']}</li>
+<li><B>Line 4</B>: {core['lines_in_transition']['4']}</li>
+<li><B>Line 3</B>: {core['lines_in_transition']['3']}</li>
+<li><B>Line 2</B>: {core['lines_in_transition']['2']}</li>
+<li><B>Line 1</B>: {core['lines_in_transition']['1']}</li>
+</ul>
+#### **No Moving Lines**: {core['no_moving_lines']}
+#### **All Moving Lines**: {core['all_moving_lines']}
 
-# Tholonic Analysis
-**Negotiation**: {core['tholonic_analysis']['negotiation']}
 
-**Limitation**: {core['tholonic_analysis']['limitation']}
+###### Tholonic Analysis
+#### **Negotiation**: {core['tholonic_analysis']['negotiation']}
 
-**Contribution**: {core['tholonic_analysis']['contribution']}
+#### **Limitation**: {core['tholonic_analysis']['limitation']}
 
-**Significance in the Thologram**: {core['tholonic_analysis']['significance_in_thologram']}
-
-**No Moving Lines**: {core['no_moving_lines']}
-
-**All Moving Lines**: {core['all_moving_lines']}"""
+#### **Contribution**: {core['tholonic_analysis']['contribution']}
+"""
     return ostr
 
 def format_stories_section(stories):
@@ -205,18 +220,17 @@ def format_stories_section(stories):
 ##### {story['title']}
 ### In the style of {story['style']}
 
-{udesc}
+#### {udesc}
 
-#### *Lines in Context:*
-
-6: {story['key_elements']['6']}
-5: {story['key_elements']['5']}
-4: {story['key_elements']['4']}
-3: {story['key_elements']['3']}
-2: {story['key_elements']['2']}
-1: {story['key_elements']['1']}
-
-
+#### ***Lines in Context:***
+<ul>
+<li><B>6</B>: {story['key_elements']['6']}</li>
+<li><B>5</B>: {story['key_elements']['5']}</li>
+<li><B>4</B>: {story['key_elements']['4']}</li>
+<li><B>3</B>: {story['key_elements']['3']}</li>
+<li><B>2</B>: {story['key_elements']['2']}</li>
+<li><B>1</B>: {story['key_elements']['1']}</li>
+</ul>
 """
 
     return result
@@ -228,27 +242,33 @@ def format_history_section(history,core):
 
 ##### *{history['title']}*
 
-{history['description']}
+#### {history['description']}
 
-*Source: {history['source']}*
+<div style="font-size: 8pt;font-style:italic">Source: {history['source']}</div>
 
-#### *Lines in Context:*
-6: {history['key_elements']['6']}
-5: {history['key_elements']['5']}
-4: {history['key_elements']['4']}
-3: {history['key_elements']['3']}
-2: {history['key_elements']['2']}
-1: {history['key_elements']['1']}
+#### ***Lines in Context:***
+
+<ul>
+<li><B>6</B>: {history['key_elements']['6']}</li>
+<li><B>5</B>: {history['key_elements']['5']}</li>
+<li><B>4</B>: {history['key_elements']['4']}</li>
+<li><B>3</B>: {history['key_elements']['3']}</li>
+<li><B>2</B>: {history['key_elements']['2']}</li>
+<li><B>1</B>: {history['key_elements']['1']}</li>
+</ul>
 """
 #*██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████
 
 def format_intro_section(args):
     """Format the intro section"""
     if args.content == "all":
-        with open(f"{ROOT}/BOOK_INTRO.md", 'r', encoding='utf-8') as file:
+        with open(f"{ROOT}/../BOOK_INTRO.md", 'r', encoding='utf-8') as file:
             intro = file.read()
 
-        intro += "\n<div style=\"page-break-after: always;\"></div>\n"
+        # intro += "\n<div style=\"page-break-after: always;\"></div>\n"
+        # intro += "\n<div style=\"page-break-before: right;\"></div>\n"
+        intro += ""
+
     elif args.content == "pages":
         intro = ""
     return intro
@@ -291,9 +311,8 @@ def generate_markdown_from_json(json_data, sfnum):
 
     markdown += """
 
-<div style="page-break-after: always;"></div>
-# *Notes*
-<div style="page-break-after: always;"></div>
+###### *Notes*
+
 """
     return markdown
 
@@ -316,11 +335,25 @@ def get_json_filenames():
     # exit()
     return sfiles
 
-def main():
-    # Simplified main without command line arguments
-    markdown_output = ""
+def parse_args():
+    """Parse command line arguments"""
+    parser = argparse.ArgumentParser(
+        description='Generate I Ching book markdown with optional intro section'
+    )
+    parser.add_argument(
+        '--content',
+        choices=['all', 'pages'],
+        default='all',
+        help='Include all content (with intro) or just hexagram pages'
+    )
+    return parser.parse_args()
 
-    # setnum = "s0"  # Default image set
+def main():
+    # Parse command line arguments
+    args = parse_args()
+
+    # Get intro section if requested
+    markdown_output = format_intro_section(args)
 
     for sfnum in HEXAGRAMS:
         filename = f"{ROOT}/{sfnum}.json"
