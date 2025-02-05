@@ -5,26 +5,19 @@
 
 D="/home/jw/src/iching_cli/book/v2/bin"
 
-lessc docs/iching.less docs/iching.css
+rm ${D}/../docs/FINAL_iching.pdf
 
 prince-books \
-	--style=${D}/docs/iching.css \
+	--style=${D}/../includes/iching.css \
 	--media=print \
-	-o ${D}/docs/iching.pdf \
-	${D}/docs/iching.html
+	-o ${D}/../includes/iching.pdf \
+	${D}/../includes/iching.html
 
+# add copyrigth and cover tp pdfg
+pdftk ../includes/coverpage.pdf \
+      ../includes/copyright.pdf \
+      ../includes/iching.pdf \
+      cat output ${D}/../docs/FINAL_iching.pdf
 
-
-	# --page-size="7.44in 9.68in" \
-	# --page-margin=0mm \
-
-# pdftk ${D}/docs/iching_all.pdf cat 2-end output ${D}/docs/iching.pdf
-
-# cd ${D}/
-
-# ${D}/rm_empty_pages.py ${D}/docs/iching_nocover.pdf
-
-# ${D}/reorg.py  ${D}/docs/clean_iching_nocover.pdf ${D}/docs/iching.pdf
-
-okular ${D}/docs/iching.pdf
+okular ${D}/../docs/FINAL_iching.pdf
 

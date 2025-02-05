@@ -48,10 +48,10 @@ Environment:
 """
 
 # Predefined list of all hexagrams
-XEXAGRAMS = ['01', '02', '03', '04', '05', '06', '07', '08', '09', '10',]
+HEXAGRAMS = ['01', '02', '03', '04', '05', '06', '07', '08', '09', '10',]
 
 
-HEXAGRAMS = [ '01', '02', '03', '04', '05', '06', '07', '08', '09', '10',
+XHEXAGRAMS = [ '01', '02', '03', '04', '05', '06', '07', '08', '09', '10',
     '11', '12', '13', '14', '15', '16', '17', '18', '19', '20',
     '21', '22', '23', '24', '25', '26', '27', '28', '29', '30',
     '31', '32', '33', '34', '35', '36', '37', '38', '39', '40',
@@ -174,15 +174,25 @@ def format_core_section(core,sfnum):
     ### *{core['image']}; {image_blurb}*
     #
 
-    ostr = f"""
+#! markdown version of title.  Below is the HTML version -->
 # {core['king_wen_sequence']} {core['hexagram']} *{core['binary_sequence']}* - {core['name']}
+
+
+    ostr = f"""
+# &nbsp;
+<div style="margin: 0 auto; text-align: center;border-bottom:1px solid #c5c5c5;padding-bottom:1em;">
+<span style="font-size:2em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;">{core['king_wen_sequence']} {core['hexagram']}</span><span style="font-size:1em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;vertical-align:text-bottom;"> {core['binary_sequence']} </span><span style="font-size:2em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;">&nbsp; {core['name']}</span>
+</div>
+
+
 ## {core['description']}
 
 <img src="{ROOT}/{core['image_file']}">
+<span style="margin-bottom: 8px;"> &nbsp; </span>
 
 ### *{image_blurb}*
 
-### **King Wen Order**: {core['king_wen_title']} **Binary**: {core['binary_sequence']} **Above**: {core['above']} **Below**: {core['below']}
+<p/>
 
 #### {hex_desc_ary[0]}
 
@@ -262,7 +272,7 @@ def format_history_section(history,core):
 def format_intro_section(args):
     """Format the intro section"""
     if args.content == "all":
-        with open(f"{ROOT}/../BOOK_INTRO.md", 'r', encoding='utf-8') as file:
+        with open(f"{ROOT}/docs/BOOK_INTRO.md", 'r', encoding='utf-8') as file:
             intro = file.read()
 
         # intro += "\n<div style=\"page-break-after: always;\"></div>\n"
@@ -312,6 +322,9 @@ def generate_markdown_from_json(json_data, sfnum):
     markdown += """
 
 ###### *Notes*
+
+### **King Wen Order**: {core['king_wen_title']} **Binary**: {core['binary_sequence']} **Above**: {core['above']} **Below**: {core['below']}
+
 
 """
     return markdown
@@ -375,7 +388,7 @@ def main():
         markdown_output += "\n" + generate_markdown_from_json(json_data, sfnum)
 
     # Write output to file
-    output_file = "docs/iching.md"
+    output_file = f"{ROOT}/includes/iching.md"
     with open(output_file, 'w', encoding='utf-8') as file:
         file.write(markdown_output)
     print(f"Markdown has been saved to {output_file}")
