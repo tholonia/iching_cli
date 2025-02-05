@@ -1,0 +1,263 @@
+// Page Size Variables
+
+// @page-width: 7.44in;
+// @page-height: 9.68in;
+
+@page-width: 8.3in;
+@page-height: 11.7in;
+
+@margin-outer: 0.5in;
+@margin-gutter: 1in;
+@margin-top: 0.5in;
+@margin-bottom: 0.5in;
+
+// Font Variables
+@base-font-family: 'LinLibertine', serif;
+@base-font-size: 11pt;
+@base-line-height: 1.4;
+
+// Color Variables
+@text-color: #1f0909;
+@heading-color-1: #666;
+@heading-color-2: #555;
+@heading-color-3: #333;
+@heading-color-4: #333;
+@heading-color-5: #444;
+@heading-color-6: #555;
+@border-color: #c5c5c5;
+
+// Mixins
+.font-smoothing() {
+    -webkit-font-smoothing: antialiased !important;
+    -moz-osx-font-smoothing: grayscale !important;
+    text-rendering: optimizeLegibility !important;
+}
+
+.avoid-breaks() {
+    page-break-inside: avoid !important;
+    break-inside: avoid !important;
+    page-break-after: avoid !important;
+    break-after: avoid !important;
+}
+
+/* === Font Declarations === */
+.font-declarations() {
+    @font-face {
+        font-family: 'Times New Roman';
+        src: url('file:///usr/share/fonts/TTF/Times.TTF') format('truetype');
+        font-weight: normal;
+        font-style: normal;
+    }
+
+    @font-face {
+        font-family: 'Times New Roman';
+        src: url('file:///usr/share/fonts/TTF/Timesi.TTF') format('truetype');
+        font-weight: normal;
+        font-style: italic;
+    }
+
+    @font-face {
+        font-family: 'Times New Roman';
+        src: url('file:///usr/share/fonts/TTF/Timesbd.TTF') format('truetype');
+        font-weight: bold;
+        font-style: normal;
+    }
+
+    @font-face {
+        font-family: 'Times New Roman';
+        src: url('file:///usr/share/fonts/TTF/Timesbi.TTF') format('truetype');
+        font-weight: bold;
+        font-style: italic;
+    }
+
+    @font-face {
+        font-family: @base-font-family;
+        src: url('./iching_7_44-9_68/LinLibertine_R.ttf') format('truetype') !important;
+        font-weight: normal !important;
+        font-style: normal !important;
+        font-display: swap !important;
+    }
+
+    @font-face {
+        font-family: @base-font-family;
+        src: url('./iching_7_44-9_68/LinLibertine_RB.ttf') format('truetype') !important;
+        font-weight: bold !important;
+        font-style: normal !important;
+        font-display: swap !important;
+    }
+}
+
+.font-declarations();
+
+/* === Global Styles === */
+html {
+    font-size: 0.6875em !important;
+    .font-smoothing();
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+body {
+    font-family: @base-font-family !important;
+    font-size: @base-font-size !important;
+    line-height: @base-line-height !important;
+    font-weight: normal !important;
+    .font-smoothing();
+    color: @text-color !important;
+    background-color: #ffffff !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    width: auto !important;
+    height: auto !important;
+}
+
+/* === Print-Specific Styles === */
+@page {
+    size: @page-width @page-height !important;
+}
+
+@page :left {
+    margin-top: @margin-top !important;
+    margin-bottom: @margin-bottom !important;
+    margin-right: @margin-gutter !important;
+    margin-left: @margin-outer !important;
+    // border: 1px solid red !important;
+
+    @bottom-center {
+        content: "Page " counter(page) " of " counter(pages);
+    }
+
+}
+
+@page :right {
+    margin-top: @margin-top !important;
+    margin-bottom: @margin-bottom !important;
+    margin-left: @margin-gutter !important;
+    margin-right: @margin-outer !important;
+    // border: 1px solid blue !important;
+
+    @bottom-center {
+        content: "Page " counter(page) " of " counter(pages);
+    }
+}
+
+@media print {
+    body {
+        width: auto !important;
+        height: auto !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        font-size: @base-font-size !important;
+        line-height: @base-line-height !important;
+    }
+
+    #write {
+        max-width: @page-width !important;
+        margin: 0 auto !important;
+        padding: 0 !important;
+        overflow: visible !important;
+    }
+
+    h1 {
+        page-break-before: right !important;
+        break-before: recto !important;
+        margin-top: 0 !important;
+        display: block !important;
+    }
+
+    h1, h2, h3, h4, h5, write, img, ul {
+        .avoid-breaks();
+    }
+
+    div {
+        .avoid-breaks();
+    }
+}
+
+/* === Header Formatting === */
+#write {
+    margin: 0 auto !important;
+    padding: 0 !important;
+    width: auto !important;
+    max-width: (@page-width - @margin-gutter - @margin-outer) !important;
+}
+
+h1 {
+    font-size: 2em !important;
+    color: @heading-color-1 !important;
+    text-align: center !important;
+    font-weight: normal !important;
+    border-bottom: 1px solid @border-color !important;
+    padding-bottom: 0.2em !important;
+    font-family: @base-font-family !important;
+}
+
+h2 {
+    color: @heading-color-2 !important;
+    font-size: 1.8em !important;
+    text-align: center !important;
+    font-weight: normal !important;
+    font-family: @base-font-family !important;
+    line-height: 1.2em !important;
+    max-width: 88% !important;
+    margin: 0 auto !important;
+    padding-top: 0px !important;
+    padding-bottom: 35px !important;
+}
+
+h3 {
+    color: @heading-color-3 !important;
+    font-size: 10pt !important;
+    text-align: center !important;
+    font-weight: normal !important;
+    line-height: 1em !important;
+    font-family: @base-font-family !important;
+}
+
+h4, #write h4 {
+    color: @heading-color-4 !important;
+    font-size: 1.0em !important;
+    font-weight: normal !important;
+    line-height: 1.2em !important;
+    font-family: @base-font-family !important;
+}
+
+h5, #write h5 {
+    color: @heading-color-5 !important;
+    font-size: 1.2em !important;
+    text-align: center !important;
+    font-weight: normal !important;
+    font-family: @base-font-family !important;
+}
+
+h6 {
+    font-size: 1.7em !important;
+    color: @heading-color-6 !important;
+    text-align: center !important;
+    font-weight: normal !important;
+    border-bottom: 1px solid @border-color !important;
+    padding-bottom: 0.2em !important;
+    font-family: @base-font-family !important;
+}
+
+/* === List Formatting === */
+ol li,
+ul li {
+    list-style-position: inside !important;
+    list-style-type: none !important;
+    font-family: @base-font-family !important;
+    color: @heading-color-3 !important;
+    font-size: 1.0em !important;
+    font-weight: normal !important;
+    line-height: 1.2em !important;
+}
+
+/* === Image Handling === */
+img {
+    margin: auto !important;
+    display: block !important;
+    max-width: 100% !important;
+    border: 1px solid #2a2929;
+    border-radius: 17px;
+    // margin-bottom: 38px;
+}
