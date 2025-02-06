@@ -10,11 +10,9 @@ lessc ${D}/../includes/iching.less ${D}/../includes/iching.css
 cp ${D}/../includes/iching.css /home/jw/.config/Typora/themes/iching_7_44-9_68.css
 
 
-# make the copyright page
-#! prince-books ../docs/COPYRIGHT_PAGE.md  -o ../includes/copyright.pdf
+# make the copyright page.  Export includes/COPYRIGHT_PAGE.docx to ../includes/COPYRIGHT_PAGE.pdf
 
-# make the coverpage
-#! PDF export doc/COVERPAGE.html to includes/coverpage.pdf
+# make the coverpage.  Export includes/COVER_PAGE.docx to ../includes/COVER_PAGE.pdf
 
 #./makeallmd.py --content all
 ./makeallmd.py --content pages

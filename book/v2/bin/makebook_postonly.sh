@@ -14,10 +14,11 @@ prince-books \
 	${D}/../includes/iching.html
 
 # add copyrigth and cover tp pdfg
-pdftk ../includes/coverpage.pdf \
-      ../includes/copyright.pdf \
-      ../includes/iching.pdf \
-      cat output ${D}/../docs/FINAL_iching.pdf
+pdftk \
+    ../includes/COVER_PAGE.pdf \
+	../includes/COPYRIGHT_PAGE.pdf \
+    ../includes/iching.pdf \
+    cat output ${D}/../docs/FINAL_iching.pdf
 
 okular ${D}/../docs/FINAL_iching.pdf
 
