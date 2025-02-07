@@ -48,7 +48,7 @@ Environment:
 """
 
 # Predefined list of all hexagrams
-XHEXAGRAMS = ['01', '02', '03', '04', '05', '06', '07', '08', '09', '10',]
+HEXAGRAMS = ['01', '02','03']
 
 
 HEXAGRAMS = [ '01', '02', '03', '04', '05', '06', '07', '08', '09', '10',
@@ -97,12 +97,14 @@ def rewrite_literary_style(text, hexagram_id):
                 model="gpt-4",
                 messages=[{
                     "role": "system",
-                    "content": "You are a literary writer. Rewrite the given text in an elegant, flowing style while preserving all key information."
+                    "content": "You are a literary writer and a master of the I Ching and the Tholonic Model. Rewrite the given text in an elegant, flowing style while preserving all key information."
                 },
                 {
                     "role": "user",
                     "content": text
-                }]
+                }],
+                max_tokens=2000,  # Adjust this value as needed
+                temperature=0.7   # You can also adjust temperature if desired
             )
             result = response.choices[0].message.content
 
@@ -154,6 +156,7 @@ def get_hex_blurb(sfnum):
         return None
 
 def format_core_section(core,sfnum):
+    image_file = f"{ROOT}/{sfnum}.png"
     # Read the hexagram description
     hex_desc_ary = get_hex_blurb(sfnum)
 #     if hex_desc_ary is None:
@@ -360,7 +363,22 @@ def parse_args():
         default='all',
         help='Include all content (with intro) or just hexagram pages'
     )
-    return parser.parse_args()
+    args = parser.parse_args()
+
+
+    return args
+
+def get_json_version():
+    """
+    Read version string from VER_JSON.txt file.
+    Returns empty string if file is empty or doesn't exist.
+    """
+    try:
+        with open(f"{ROOT}/VER_JSON.txt", 'r', encoding='utf-8') as f:
+            version = f.readline().strip()
+            return version if version else ""
+    except (FileNotFoundError, IOError):
+        return ""
 
 def main():
     # Parse command line arguments
@@ -370,8 +388,7 @@ def main():
     markdown_output = format_intro_section(args)
 
     for sfnum in HEXAGRAMS:
-        filename = f"{ROOT}/{sfnum}.json"
-        print(Fore.GREEN + filename + Style.RESET_ALL)
+        filename = f"{ROOT}/{sfnum}{get_json_version()}.json"
 
         # Read the JSON file
         print(Fore.YELLOW + "Reading " + filename + Style.RESET_ALL)

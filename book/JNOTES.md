@@ -29,6 +29,24 @@
 
 
 
+
+
+# RUN
+
+```sh
+cd /home/jw/src/iching_cli/book/v2/bin
+./makebook.sh
+```
+
+Export document as HTML in /book/v2/includes
+
+After saving , Typora will automatically run `./makebook.sh` and pop up the new PDF in Okular.
+
+
+
+
+
+
 # The Publishing Process
 
  ```sh

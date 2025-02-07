@@ -1,0 +1,100 @@
+{
+    "hx": {
+        "core": {
+            "hexagram": "䷃",
+            "name": "Guidance",
+            "description": "The process of learning through experience and mentorship. Like spring rain nurturing seedlings, this represents the power of supportive development and patient instruction.",
+            "king_wen_sequence": 4,
+            "king_wen_title": "Meng (Youthful Folly)",
+            "binary_sequence": 34,
+            "above": "Ken (Mountain, Stillness, Boundary)",
+            "below": "Kan (Water, Flow, Danger)",
+            "perspective": "Steady guidance through uncertainty",
+            "nature": "Educational",
+            "action": "Patient teaching",
+            "success_through": "Gentle persistence and clear example",
+            "image": "Mountain spring flowing downward; A teacher guiding students",
+            "challenge": "Maintaining appropriate pace of instruction",
+            "lines_in_transition": {
+                "6": "Complete Learning: Achievement of understanding; Share knowledge gained",
+                "5": "Wise Teaching: Leading by example; Guide with clarity",
+                "4": "Dangerous Ignorance: Recognizing limits; Acknowledge what's unknown",
+                "3": "False Independence: Premature confidence; Accept continued guidance",
+                "2": "Receptive Learning: Opening to instruction; Embrace teaching",
+                "1": "First Steps: Beginning education; Start with basics"
+            },
+            "tholonic_analysis": {
+                "negotiation": "The hexagram represents the negotiation between stable wisdom (Ken/Mountain) and flowing uncertainty (Kan/Water). This creates learning through structured experience.",
+                "limitation": "Structure is provided by mountain above, indicating that learning requires boundaries. Water below suggests that understanding must flow naturally.",
+                "contribution": "This pattern contributes to evolution by showing how knowledge transfers between generations. It demonstrates how guidance shapes development.",
+                "significance_in_thologram": "In the tholonic system, this hexagram represents where consciousness guides growth. It shows how awareness can direct development through patient instruction."
+            },
+            "no_moving_lines": "When no lines are changing, focus on steady learning progress. Success comes through consistent study rather than rushed understanding.",
+            "all_moving_lines": "A complete transformation in how learning occurs is indicated. Old methods of instruction must give way to new forms of guidance. Ensure wisdom remains while embracing change.",
+            "order8child": "Raw potential seeking form",
+            "order8parent": "PRIMAL DEFINITION; Creation of Basic Forms",
+            "yinyang_balance": "emerging yang",
+            "image_description": "The image of a single pawn amidst a grand, intricate scene captures the essence of Hexagram 4, \"Guidance,\" as raw potential seeking form. The pawn symbolizes the unformed energy awaiting structure, a focal point for directed growth and learning. The pen and ink style, with its precise lines and layered detail, reflects the tholonic concept of limitation, where potential is defined and shaped by the boundaries of form and discipline. The medium of ink emphasizes permanence and clarity, embodying the transformational process of raw energy solidifying into purpose. Albrecht Dürer, a master of intricate and symbolic compositions, conveys the journey of guidance through detailed storytelling, making this image a profound depiction of unrefined potential shaped by wisdom and structure.",
+            "image_file": "04.png",
+            "energy_cycle": "descending"
+        },
+        "stories": {
+            "title": "Three Tales of \"Guidance\"",
+            "stories": [
+                {
+                    "title": "The Chess Master's Last Lesson (Man vs. Man)",
+                    "style": "In the style of Stefan Zweig",
+                    "description": "Master Petrov knew he was dying when young Ivan arrived for their final chess lesson. Rather than teaching openings or endgames, the old master simply placed one black pawn on the board. For three hours, they explored every possibility this single piece offered, its strengths, its limitations, its relationships to empty spaces.\n\nWhen Ivan protested that they should use the time for more advanced studies, Petrov replied, \"The master sees infinity in a single piece. The novice sees nothing in the full board.\" Through that one pawn, he revealed chess not as a game of pieces, but of understanding space and time.\n\nYears later, when Ivan became champion, he would say his greatest game was the one played with a single pawn.",
+                    "key_elements": {
+                        "6": "Mastery - Ivan's eventual championship through deep understanding",
+                        "5": "Teaching Method - Petrov's choice to focus on fundamentals",
+                        "4": "Student Resistance - Ivan's desire for advanced knowledge",
+                        "3": "Hidden Lesson - The deeper meaning behind the single pawn",
+                        "2": "Patient Learning - Three hours with one piece",
+                        "1": "Basic Element - Starting with a single pawn"
+                    }
+                },
+                {
+                    "title": "The Cave Speaker (Man vs. Nature)",
+                    "style": "In the style of Charles Dickens",
+                    "description": "In London's deepest sewers, where even rats feared to tread, old Tom taught young apprentices to read the language of underground rivers. While engineering schools taught formulas and calculations, Tom showed them how to press their ears against ancient bricks and hear the water's stories.\n\n\"Listen,\" he'd whisper, tapping various points along a wall. \"The water speaks of where it's been, where it wants to go.\" His methods seemed madness until the great flood of '89, when his students guided emergency teams through the labyrinth by following the water's voice.\n\nTheir technology failed in the darkness, but the wisdom of listening prevailed.",
+                    "key_elements": {
+                        "6": "Proven Worth - Success during the flood crisis",
+                        "5": "Practical Wisdom - Teaching how to read water's patterns",
+                        "4": "Traditional Knowledge - Value of old methods over modern technology",
+                        "3": "Apparent Madness - Methods seeming foolish at first",
+                        "2": "Deep Listening - Learning to hear water's voice",
+                        "1": "First Contact - Initial lessons in the sewers"
+                    }
+                },
+                {
+                    "title": "The Memory Walker (Man vs. Self)",
+                    "style": "In the style of Ray Bradbury",
+                    "description": "When the first memory banks were installed in human brains, Dr. Chen discovered that teaching people to navigate their enhanced minds required not technical manuals but poetry. She guided patients through their own neurons like a tour guide in a garden, showing them how memories bloomed in patterns.\n\n\"Think of your thoughts as constellations,\" she'd say, helping them map their mental stars. Her patients learned to tend their artificial memories like gardeners, pruning here, nurturing there, until the border between organic and digital thoughts dissolved into a single flowering consciousness.",
+                    "key_elements": {
+                        "6": "Integration - Natural union of organic and digital memory",
+                        "5": "Metaphoric Teaching - Using poetic imagery to explain technical concepts",
+                        "4": "Navigation Skills - Learning to map mental pathways",
+                        "3": "Pattern Recognition - Understanding memory formations",
+                        "2": "Natural Approach - Treating memories as living things",
+                        "1": "Basic Framework - Starting with simple metaphors"
+                    }
+                }
+            ]
+        },
+        "history": {
+            "title": "Feynman's Revolutionary Teaching Method",
+            "subtitle": "\"Guidance\" in History",
+            "description": "In 1961, physicist Richard Feynman transformed undergraduate physics education at Caltech through an unconventional teaching approach. Rather than following traditional textbooks, he developed what became known as \"The Feynman Lectures on Physics,\" starting with fundamental questions about how nature behaves.\n\nInstead of presenting physics as a set of formulas to memorize, Feynman guided students through the process of discovery. He used simple, vivid examples – explaining quantum mechanics through double-slit experiments, or angular momentum through spinning plates. Complex concepts emerged naturally from basic principles and observation.\n\nMost revolutionary was his insistence that students learn through questioning rather than acceptance. When a student asked why magnets repel, Feynman famously spent an entire lecture exploring why \"why\" questions are deep and complex, teaching not just physics but how to think about physics.\n\nThe lectures proved so influential that they were published and continue to guide physics education today, demonstrating how effective teaching requires not just knowledge but the ability to lead students through their own discovery process.",
+            "source": "\"Surely You're Joking, Mr. Feynman!\" by Richard Feynman (1985) and \"Feynman's Tips on Physics\" by Richard Feynman, Michael Gottlieb, and Ralph Leighton (2013)",
+            "key_elements": {
+                "6": "Legacy impact on physics education worldwide",
+                "5": "Teaching through guided discovery rather than instruction",
+                "4": "Recognition of limitations in traditional methods",
+                "3": "Students learning to question assumptions",
+                "2": "Focus on fundamental understanding",
+                "1": "Starting with basic principles"
+            }
+        }
+    }
+}

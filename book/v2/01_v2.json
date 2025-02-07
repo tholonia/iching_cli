@@ -1,7 +1,7 @@
 {
     "hx": {
         "core": {
-            "hexagram": "䷀",
+            "hexagram": "\u4dc0",
             "name": "Creation",
             "description": "The pure force of origination and initiative. Like heaven generating existence, this represents the primary creative impulse that initiates all manifestation.",
             "king_wen_sequence": 1,
@@ -16,12 +16,12 @@
             "image": "Heaven in motion; Dragons soaring",
             "challenge": "Maintaining wisdom while wielding power",
             "lines_in_transition": {
-                "6": "Transcendent Phoenix: Rebirth complete; Soar with purpose",
-                "5": "Rising Phoenix: Transformation at its height; Act with clarity",
-                "4": "Emerging Phoenix: Flames of renewal; Prepare for ascension",
-                "3": "Kindling Phoenix: Sparks igniting; Work with intention",
-                "2": "Nestling Phoenix: Strengthening resolve; Gather energy",
-                "1": "Dormant Phoenix: Embers glowing; Begin with care"
+                "6": "Transcendent Phoenix denotes the culmination of the creative cycle through complete rebirth and purposeful flight, embodying the natural Yin quality of completion and renewal; if altered to Yang, however, it warns of resistance to finality, potential overextension, and an imbalance that may compromise the achieved resolution.",
+                "5": "Rising Phoenix epitomizes dynamic transformation at its peak, fostering clarity and decisive action that propels manifestation outward in its natural Yang state; conversely, a shift to Yin could signal waning authority, indecision, or an incomplete realization that hinders leadership.",
+                "4": "Emerging Phoenix reflects the external emergence of renewal as flames evoke transformation and preparation for ascension, adhering to its natural Yin receptivity; but if transformed to Yang, it alerts of premature external assertion and a disruptive break from harmonious emergence.",
+                "3": "Kindling Phoenix symbolizes the ignition of creative sparks and deliberate intention, affirming a vibrant transition from conception to action in its natural Yang form; yet, if it turns into Yin, the energy may falter into hesitation, impeding the outward expression of inner resolve and marking a threshold of stalled transformation.",
+                "2": "Nestling Phoenix embodies the consolidation of resolve and the gathering of energy, naturally representing receptivity and supportive structure; however, should this line shift from its Yin state to Yang, it may indicate premature, unrefined action and instability that disrupts the careful formation of potential.",
+                "1": "Dormant Phoenix presents the initial stage of manifestation with glowing embers symbolizing an awakening potential; in its natural Yang state, it marks a bold, energetic beginning, but if reversed to Yin, it signifies hesitation, a lack of readiness, and a fragile start that may undermine true initiative."
             },
             "tholonic_analysis": {
                 "negotiation": "The doubled Heaven signifies a state of pure potential without resistance, where creative force flows freely, unopposed by opposition. Without external constraints, negotiation occurs internally, balancing limitless expansion with the need for directed manifestation. This results in unimpeded generative power, where creation arises from self-harmonization rather than external influence.",
@@ -34,7 +34,7 @@
             "order8child": "Pure creative force",
             "order8parent": "PRIMAL DEFINITION; Creation of Basic Forms",
             "yinyang_balance": "pure yang",
-            "image_description": "The dragon, a timeless symbol of raw, untamed energy, perfectly embodies CREATION's essence of pure creative force, representing the dynamic potential that drives the formation of all things. The impressionistic style, with its bold and fluid strokes, captures the unbounded and evolving nature of creativity, resonating with the tholonic concept of negotiation, where energy flows freely to shape new realities. Watercolor, with its ability to blend and layer unpredictably, reflects the spontaneous and transformative quality of primal creation. J. M. W. Turner, renowned for his mastery of light and motion, vividly conveys the dragon’s elemental power and the stormy emergence of form from chaos, making this image a profound representation of pure, dynamic creation.",
+            "image_description": "The dragon, a timeless symbol of raw, untamed energy, perfectly embodies CREATION's essence of pure creative force, representing the dynamic potential that drives the formation of all things. The impressionistic style, with its bold and fluid strokes, captures the unbounded and evolving nature of creativity, resonating with the tholonic concept of negotiation, where energy flows freely to shape new realities. Watercolor, with its ability to blend and layer unpredictably, reflects the spontaneous and transformative quality of primal creation. J. M. W. Turner, renowned for his mastery of light and motion, vividly conveys the dragon\u2019s elemental power and the stormy emergence of form from chaos, making this image a profound representation of pure, dynamic creation.",
             "image_file": "01.png",
             "energy_cycle": "descending"
         },
@@ -44,7 +44,7 @@
                 {
                     "title": "The Symphony Maker (Man vs. Man)",
                     "style": "Herman Melville",
-                    "description": "In a world where music had been standardized to government-approved harmonies, Composer Chen built a secret piano that could play the spaces between notes. Like a whaler pursuing the unseen beneath waves, she hunted the wild melodies that lived in fractional tones. Each night in her basement laboratory, surrounded by modified tuning forks and resonance chambers, she worked to capture sounds no human had heard before. The authorities called it noise, but those who listened closely heard the voice of creation itself. When she finally performed her \"Ocean of Stars\" symphony, using her quarter-tone piano, she didn't just break the rules of music – she revealed they had never existed.",
+                    "description": "In a world where music had been standardized to government-approved harmonies, Composer Chen built a secret piano that could play the spaces between notes. Like a whaler pursuing the unseen beneath waves, she hunted the wild melodies that lived in fractional tones. Each night in her basement laboratory, surrounded by modified tuning forks and resonance chambers, she worked to capture sounds no human had heard before. The authorities called it noise, but those who listened closely heard the voice of creation itself. When she finally performed her \"Ocean of Stars\" symphony, using her quarter-tone piano, she didn't just break the rules of music \u2013 she revealed they had never existed.",
                     "key_elements": {
                         "6": "Universal Impact - Redefining the nature of music itself",
                         "5": "Masterwork Creation - The \"Ocean of Stars\" symphony",
@@ -69,8 +69,8 @@
                 },
                 {
                     "title": "The Dream Architect (Man vs. Self)",
-                    "style": "Stanisław Lem",
-                    "description": "In 2157, when consciousness augmentation had reached its limits, Dr. Wei discovered she could build new forms of awareness from pure mathematical structure. Not expanding the mind, but creating entirely new types of thought. She began with simple geometric consciousness – minds that thought in perfect squares and circles. Each iteration grew more complex: consciousness based on wave functions, on prime number sequences, on fractal patterns that thought about themselves thinking. When she finally succeeded in creating a mind based on the mathematics of creation itself, she found she had not built a new consciousness, but discovered how consciousness had built itself.",
+                    "style": "Stanis\u0142aw Lem",
+                    "description": "In 2157, when consciousness augmentation had reached its limits, Dr. Wei discovered she could build new forms of awareness from pure mathematical structure. Not expanding the mind, but creating entirely new types of thought. She began with simple geometric consciousness \u2013 minds that thought in perfect squares and circles. Each iteration grew more complex: consciousness based on wave functions, on prime number sequences, on fractal patterns that thought about themselves thinking. When she finally succeeded in creating a mind based on the mathematics of creation itself, she found she had not built a new consciousness, but discovered how consciousness had built itself.",
                     "key_elements": {
                         "6": "Universal Understanding - Discovering consciousness's nature",
                         "5": "Peak Achievement - Creating self-recursive awareness",
