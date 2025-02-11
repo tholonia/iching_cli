@@ -1,31 +1,21 @@
+# conversion
+
+```sh
+./iching-converter.py ../_v2 ../converted # convert from ../_v2 to ../converted
+./fix-colon.py ../converted ../colon # fix : in lines in transition
+./regen_lines_in_trans.py ../colon ../regen # updates lines_in_transition
+./regen_lines_in_context.py ../regen <hex> <index: 0,1,2) # updates SRC file's 'lines_in_context'
+	./regen_lines_in_context_BATCH.sh # run on all
+	
+alter_trigrams.py	
 
 
-# Tree
-
-```
-./final
-```
-
-```
-./final/99
-```
-
-- holds the various sets in numbered folders.  99 is the set that represent the latest working version.
-- Each set contains
-  - Images - numbered PNG files
-  - Image description - numbered TXT files
 
 ```
-./final/99/descp
-```
 
-- numbered TXT files that hold the description of the hexagram
 
-```
-./final/99/alts	
-```
 
-- Optional folder that holds alternatives text or images.  More like a archive folder
+
 
 
 

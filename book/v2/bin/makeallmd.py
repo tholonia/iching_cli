@@ -48,7 +48,9 @@ Environment:
 """
 
 # Predefined list of all hexagrams
-HEXAGRAMS = ['01', '02','03']
+# xHEXAGRAMS = [ '20','23','28','30','31','39','55','56','59']
+xHEXAGRAMS = [ '20','23','25','28','50','51'] # bad hex values
+
 
 
 HEXAGRAMS = [ '01', '02', '03', '04', '05', '06', '07', '08', '09', '10',
@@ -72,6 +74,7 @@ import openai
 import re
 import yaml
 from openai import OpenAI
+from pprint import pprint
 
 def ensure_directory_exists(tdir):
     """Create the description directory if it doesn't exist"""
@@ -155,42 +158,26 @@ def get_hex_blurb(sfnum):
         input(f"Paused on ERROR reading file {ROOT}/{sfnum}_hex.txt")
         return None
 
-def format_core_section(core,sfnum):
+def format_core_section(core, sfnum):
     image_file = f"{ROOT}/{sfnum}.png"
     # Read the hexagram description
     hex_desc_ary = get_hex_blurb(sfnum)
-#     if hex_desc_ary is None:
-#         # Fallback to generating description if file not found
-#         hex_desc_ary = f""" This hexagram contributes {core['order8child']} qualities to the tholon of {core['order8parent']}.  Its perspective is one of {core['perspective']} . Its nature is one  of  {core['nature']}, and its {core['action']} is that of Manifesting.  It achieves success through {core['success_through']}.  It' energy is {core['energy_cycle']} {core['yinyang_balance']}.  The challange to overcome is {core['challenge']}.
-# """
-#         hex_desc_ary = hex_desc_ary.replace(";",", ")
-#         hex_desc_ary = hex_desc_ary.lower()
-#         hex_desc_ary = rewrite_literary_style(hex_desc_ary,sfnum)
 
     image_blurb = get_image_blurb(sfnum)
 
     """Format the core hexagram section"""
 
-
-#^██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████
-    # changed below from
-    ### *{core['image']}; {image_blurb}*
-    #
-
-#! markdown version of title.  Below is the HTML version -->
-# {core['king_wen_sequence']} {core['hexagram']} *{core['binary_sequence']}* - {core['name']}
-
-
     ostr = f"""
 # &nbsp;
 <div style="margin: 0 auto; text-align: center;border-bottom:1px solid #c5c5c5;padding-bottom:1em;">
-<span style="font-size:2em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;">{core['king_wen_sequence']} {core['hexagram']}</span><span style="font-size:1em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;vertical-align:text-bottom;"> {core['binary_sequence']} </span><span style="font-size:2em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;">&nbsp; {core['name']}</span>
+<span style="font-size:2em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;">{core['king_wen']['sequence']} {core['hexagram_code']}</span><span style="font-size:1em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;vertical-align:text-bottom;"> {core['binary_sequence']} </span><span style="font-size:2em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;">&nbsp; {core['name']}</span>
 </div>
-
 
 ## {core['description']}
 
-<img src="{ROOT}/{core['image_file']}">
+## {core['trigram_phrase']}
+
+<img src="{ROOT}/{core['image']['file']}">
 <span style="margin-bottom: 8px;"> &nbsp; </span>
 
 ### *{image_blurb}*
@@ -202,17 +189,16 @@ def format_core_section(core,sfnum):
 #### {core['tholonic_analysis']['significance_in_thologram']} {hex_desc_ary[1]}
 
 #### ***Lines in Transition***
-<ul>
-<li><B>Line 6</B>: {core['lines_in_transition']['6']}</li>
-<li><B>Line 5</B>: {core['lines_in_transition']['5']}</li>
-<li><B>Line 4</B>: {core['lines_in_transition']['4']}</li>
-<li><B>Line 3</B>: {core['lines_in_transition']['3']}</li>
-<li><B>Line 2</B>: {core['lines_in_transition']['2']}</li>
-<li><B>Line 1</B>: {core['lines_in_transition']['1']}</li>
-</ul>
-#### **No Moving Lines**: {core['no_moving_lines']}
-#### **All Moving Lines**: {core['all_moving_lines']}
 
+<ul><li><B>Line {core['lines'][0]['position']}</B>: <I>{core['lines'][0]['name']}</I> - {core['lines'][0]['meaning']}.\n<i>Changing</i>: {core['lines'][0]['changing']}</li></ul>
+<ul><li><B>Line {core['lines'][1]['position']}</B>: <I>{core['lines'][1]['name']}</I> - {core['lines'][1]['meaning']}.\n<i>Changing</i>: {core['lines'][1]['changing']}</li></ul>
+<ul><li><B>Line {core['lines'][2]['position']}</B>: <I>{core['lines'][2]['name']}</I> - {core['lines'][2]['meaning']}.\n<i>Changing</i>: {core['lines'][2]['changing']}</li></ul>
+<ul><li><B>Line {core['lines'][3]['position']}</B>: <I>{core['lines'][3]['name']}</I> - {core['lines'][3]['meaning']}.\n<i>Changing</i>: {core['lines'][3]['changing']}</li></ul>
+<ul><li><B>Line {core['lines'][4]['position']}</B>: <I>{core['lines'][4]['name']}</I> - {core['lines'][4]['meaning']}.\n<i>Changing</i>: {core['lines'][4]['changing']}</li></ul>
+<ul><li><B>Line {core['lines'][5]['position']}</B>: <I>{core['lines'][5]['name']}</I> - {core['lines'][5]['meaning']}.\n<i>Changing</i>: {core['lines'][5]['changing']}</li></ul>
+
+#### **No Moving Lines**: {core['transformations']['no_moving_lines']}
+#### **All Moving Lines**: {core['transformations']['all_moving_lines']}
 
 ###### Tholonic Analysis
 #### **Negotiation**: {core['tholonic_analysis']['negotiation']}
@@ -227,50 +213,45 @@ def format_stories_section(stories):
     """Format the three stories section"""
     result = f"\n\n###### {stories['title']}\n\n"
 
-    for story in stories['stories']:
-        udesc = re.sub(r'(?<!\n)\n(?!\n)', '\n\n', story['description'])
+    for story in stories['entries']:
+        udesc = re.sub(r'(?<!\n)\n(?!\n)', '\n\n', story['summary'])
         result += f"""
 ##### {story['title']}
-### In the style of {story['style']}
+### In the style of {story['theme']}
 
 #### {udesc}
 
 #### ***Lines in Context:***
-<ul>
-<li><B>6</B>: {story['key_elements']['6']}</li>
-<li><B>5</B>: {story['key_elements']['5']}</li>
-<li><B>4</B>: {story['key_elements']['4']}</li>
-<li><B>3</B>: {story['key_elements']['3']}</li>
-<li><B>2</B>: {story['key_elements']['2']}</li>
-<li><B>1</B>: {story['key_elements']['1']}</li>
-</ul>
+<ul><li><B>6</B>: <i>{story['lines_in_context']['6']['name']}</i> - {story['lines_in_context']['6']['meaning']}. <i>Changing</i> - {story['lines_in_context']['6']['changing']}</li></ul>
+<ul><li><B>5</B>: <i>{story['lines_in_context']['5']['name']}</i> - {story['lines_in_context']['5']['meaning']}. <i>Changing</i> - {story['lines_in_context']['5']['changing']}</li></ul>
+<ul><li><B>4</B>: <i>{story['lines_in_context']['4']['name']}</i> - {story['lines_in_context']['4']['meaning']}. <i>Changing</i> - {story['lines_in_context']['4']['changing']}</li></ul>
+<ul><li><B>3</B>: <i>{story['lines_in_context']['3']['name']}</i> - {story['lines_in_context']['3']['meaning']}. <i>Changing</i> - {story['lines_in_context']['3']['changing']}</li></ul>
+<ul><li><B>2</B>: <i>{story['lines_in_context']['2']['name']}</i> - {story['lines_in_context']['2']['meaning']}. <i>Changing</i> - {story['lines_in_context']['2']['changing']}</li></ul>
+<ul><li><B>1</B>: <i>{story['lines_in_context']['1']['name']}</i> - {story['lines_in_context']['1']['meaning']}. <i>Changing</i> - {story['lines_in_context']['1']['changing']}</li></ul>
 """
 
     return result
 
-def format_history_section(history,core):
+def format_history_section(history, core):
     """Format the historical event section"""
     return f"""
 ###### '{core['name']}' in History
 
 ##### *{history['title']}*
 
-#### {history['description']}
+#### {history['summary']}
 
-<div style="font-size: 8pt;font-style:italic">Source: {history['source']}</div>
+<div style="font-size: 8pt;font-style:italic">Source: {', '.join(history['source'])}</div>
 
 #### ***Lines in Context:***
 
-<ul>
-<li><B>6</B>: {history['key_elements']['6']}</li>
-<li><B>5</B>: {history['key_elements']['5']}</li>
-<li><B>4</B>: {history['key_elements']['4']}</li>
-<li><B>3</B>: {history['key_elements']['3']}</li>
-<li><B>2</B>: {history['key_elements']['2']}</li>
-<li><B>1</B>: {history['key_elements']['1']}</li>
-</ul>
+<ul><li><B>1</B>: <i>{history['lines_in_history']['6']['name']}</i> - {history['lines_in_history']['6']['meaning']} <i>Changing</i> - {history['lines_in_history']['6']['changing']}</li></ul>
+<ul><li><B>2</B>: <i>{history['lines_in_history']['5']['name']}</i> - {history['lines_in_history']['5']['meaning']} <i>Changing</i> - {history['lines_in_history']['5']['changing']}</li></ul>
+<ul><li><B>3</B>: <i>{history['lines_in_history']['4']['name']}</i> - {history['lines_in_history']['4']['meaning']} <i>Changing</i> - {history['lines_in_history']['4']['changing']}</li></ul>
+<ul><li><B>4</B>: <i>{history['lines_in_history']['3']['name']}</i> - {history['lines_in_history']['3']['meaning']} <i>Changing</i> - {history['lines_in_history']['3']['changing']}</li></ul>
+<ul><li><B>5</B>: <i>{history['lines_in_history']['2']['name']}</i> - {history['lines_in_history']['2']['meaning']} <i>Changing</i> - {history['lines_in_history']['2']['changing']}</li></ul>
+<ul><li><B>6</B>: <i>{history['lines_in_history']['1']['name']}</i> - {history['lines_in_history']['1']['meaning']} <i>Changing</i> - {history['lines_in_history']['1']['changing']}</li></ul>
 """
-#*██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████
 
 def format_intro_section(args):
     """Format the intro section"""
@@ -314,21 +295,54 @@ def generate_markdown_from_json(json_data, sfnum):
     markdown = get_yaml()
 
     # Add core section
-    core = json_data['hx']['core']
-    markdown += format_core_section(core,sfnum)
+    core = json_data
+    markdown += format_core_section(core, sfnum)
 
     # Add stories section
-    markdown += format_stories_section(json_data['hx']['stories'])
+    markdown += format_stories_section(json_data['stories'])
 
     # Add history section
-    markdown += "\n\n" + format_history_section(json_data['hx']['history'],json_data['hx']['core'])
+    markdown += "\n\n" + format_history_section(json_data['history'], json_data)
+
+    # Safely access the 'above' and 'below' keys
+    above = core['trigrams']['above']
+    below = core['trigrams']['below']
+
+    if isinstance(above, dict):
+        above_symbol = above.get('Symbol', 'N/A')
+        above_quality = above.get('Quality', 'N/A')
+        above_num = above.get('Trigram Number', 'N/A')
+        above_bin = above.get('Binary Decimal', 'N/A')
+        above_meaning = above.get('Meaning', 'N/A')
+        above_engtr = above.get('English Translation', 'N/A')
+    else:
+        above_symbol = 'N/A'
+        above_quality = 'N/A'
+        above_num = 'N/A'
+        above_bin = 'N/A'
+        above_meaning = 'N/A'
+        above_engtr = 'N/A'
+
+    if isinstance(below, dict):
+        below_symbol = below.get('Symbol', 'N/A')
+        below_quality = below.get('Quality', 'N/A')
+        below_num = below.get('Trigram Number', 'N/A')
+        below_bin = below.get('Binary Decimal', 'N/A')
+        below_meaning = below.get('Meaning', 'N/A')
+        below_engtr = below.get('English Translation', 'N/A')
+    else:
+        below_symbol = 'N/A'
+        below_quality = 'N/A'
+        below_num = 'N/A'
+        below_bin = 'N/A'
+        below_meaning = 'N/A'
+        below_engtr = 'N/A'
 
     markdown += f"""
 
 ###### *Notes*
 
-### **King Wen Order**: {core['king_wen_title']} **Binary**: {core['binary_sequence']} **Above**: {core['above']} **Below**: {core['below']}
-
+### **King Wen Order**: {core['king_wen']['sequence']} {core['hexagram_code']} {core['king_wen']['common_title']} **Binary**: {core['binary_sequence']}, **Above**: {above_num} (binary {above_bin}) {above_engtr} {above_symbol} {above_meaning}, **Below**: {below_num} (binary {below_bin}) {below_engtr} {below_symbol} {below_meaning}
 
 """
     return markdown
@@ -374,11 +388,44 @@ def get_json_version():
     Returns empty string if file is empty or doesn't exist.
     """
     try:
-        with open(f"{ROOT}/VER_JSON.txt", 'r', encoding='utf-8') as f:
+        with open(f"{ROOT}/includes/VER_JSON.txt", 'r', encoding='utf-8') as f:
             version = f.readline().strip()
             return version if version else ""
     except (FileNotFoundError, IOError):
         return ""
+
+def flatten_json(json_data):
+    """
+    Flattens a nested JSON structure into a 1D dictionary with intuitive key names.
+
+    Args:
+        json_data (dict): The JSON data to flatten
+
+    Returns:
+        dict: Flattened dictionary with dot-notation keys
+    """
+    flat_dict = {}
+
+    def flatten(data, prefix=''):
+        if isinstance(data, dict):
+            for key, value in data.items():
+                new_prefix = f"{prefix}.{key}" if prefix else key
+                if isinstance(value, (dict, list)):
+                    flatten(value, new_prefix)
+                else:
+                    flat_dict[new_prefix] = value
+        elif isinstance(data, list):
+            for i, item in enumerate(data):
+                new_prefix = f"{prefix}[{i}]"
+                if isinstance(item, (dict, list)):
+                    flatten(item, new_prefix)
+                else:
+                    flat_dict[new_prefix] = item
+        else:
+            flat_dict[prefix] = data
+
+    flatten(json_data)
+    return flat_dict
 
 def main():
     # Parse command line arguments
@@ -387,8 +434,12 @@ def main():
     # Get intro section if requested
     markdown_output = format_intro_section(args)
 
+    # Load the version string
+    json_version = get_json_version()
+
     for sfnum in HEXAGRAMS:
-        filename = f"{ROOT}/{sfnum}{get_json_version()}.json"
+        # Construct the filename using the version string
+        filename = f"{ROOT}/{json_version}/{sfnum}.json"
 
         # Read the JSON file
         print(Fore.YELLOW + "Reading " + filename + Style.RESET_ALL)
@@ -401,6 +452,10 @@ def main():
         except json.JSONDecodeError:
             print(Fore.RED + f"Error: Invalid JSON in {filename}" + Style.RESET_ALL)
             continue
+
+        # flat_json = flatten_json(json_data)
+        # pprint(flat_json)
+        # exit()
 
         # Generate markdown
         markdown_output += "\n" + generate_markdown_from_json(json_data, sfnum)

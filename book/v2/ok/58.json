@@ -1,0 +1,257 @@
+{
+    "id": 58,
+    "hexagram_code": "䷹",
+    "name": "Resonance",
+    "description": "The joyful exchange of energy and ideas between compatible elements. Like harmonious music or synchronized oscillators, this represents the natural alignment of complementary forces and the pleasure of mutual enhancement.",
+    "king_wen": {
+        "sequence": 58,
+        "traditional_title": "Dui/The Joyous, Lake",
+        "common_title": ""
+    },
+    "binary_sequence": 27,
+    "trigrams": {
+        "above": {
+            "Trigram Number": 8,
+            "Binary Decimal": 4,
+            "Symbol": "☱",
+            "Chinese Symbol": "兑",
+            "Phonetic": "Duì",
+            "English Translation": "Lake/Marsh",
+            "English Symbol": "泽",
+            "Meaning": "The Joyous",
+            "Quality": "Joyful and Harmonious"
+        },
+        "below": {
+            "Trigram Number": 8,
+            "Binary Decimal": 4,
+            "Symbol": "☱",
+            "Chinese Symbol": "兑",
+            "Phonetic": "Duì",
+            "English Translation": "Lake/Marsh",
+            "English Symbol": "泽",
+            "Meaning": "The Joyous",
+            "Quality": "Joyful and Harmonious"
+        }
+    },
+    "attributes": {
+        "perspective": "The self-reinforcing power of harmonious interaction",
+        "nature": "Harmonious, receptive, interactive",
+        "action": "Sharing joy, creating harmony",
+        "success_through": "Open exchange and mutual appreciation",
+        "challenge": "Maintaining depth while sharing openly"
+    },
+    "lines": [
+        {
+            "position": 6,
+            "name": "The Return to Stillness",
+            "meaning": "In the concluding line, the outward momentum settles into a profound, contemplative silence. It reflects the completion of a cycle and the integration of transformative energies.",
+            "changing": "The excess of active yang recedes back into the quiet, stable yin, inviting a reflective pause and the promise of renewal in the cycle ahead."
+        },
+        {
+            "position": 5,
+            "name": "The Climax of Resonance",
+            "meaning": "At its peak, this line symbolizes the full florescence of energy where creative insight and potent action manifest. It is the culmination of harmonized efforts and resonant power.",
+            "changing": "The deep, calm reservoir of yin erupts into the brilliance of yang, signifying the height of transformation and dynamic achievement."
+        },
+        {
+            "position": 4,
+            "name": "The Harmonious Bridge",
+            "meaning": "Acting as a pivot, this line connects inner potential with outer expression. It represents a moment of equilibrium where dual energies merge to form a pathway for transformation.",
+            "changing": "A transformative stage where the maintaining nature of yin gives way to the innovative spark of yang, establishing a balanced conduit between forces."
+        },
+        {
+            "position": 3,
+            "name": "The Echoing Call",
+            "meaning": "This line signifies the resonance that travels outward, echoing the inner call for change. It is a clarion signal to maintain balance amid emerging dynamism.",
+            "changing": "A transition in which the soft, nurturing yin progressively channels its latent strength into the radiant expression of yang energy."
+        },
+        {
+            "position": 2,
+            "name": "The Vibrant Exchange",
+            "meaning": "This line embodies the mutual influence and exchange between opposing energies. It lays the foundation for balanced interaction and creative transformation.",
+            "changing": "An unfolding process where the inward, reflective yin begins to merge with emergent yang action, creating a harmonious interplay of forces."
+        },
+        {
+            "position": 1,
+            "name": "The Stirring Origin",
+            "meaning": "This line represents the initial impulse, the seed from which transformation and resonance emerge. It signifies the awakening of energy and the start of a dynamic process.",
+            "changing": "A subtle awakening where gentle yin receptivity begins to kindle a spark of yang initiative, marking the transition from potential to active force."
+        }
+    ],
+    "tholonic_analysis": {
+        "negotiation": "The hexagram represents the balance between giving and receiving. The doubled lake shows how joy multiplies through sharing, demonstrating that mutual exchange creates abundance.",
+        "limitation": "The structure defines boundaries between genuine and superficial connection. It establishes how sharing must maintain authenticity, showing that true resonance requires honesty.",
+        "contribution": "This configuration contributes to systemic evolution by demonstrating how harmonious interaction enhances all participants. It shows how aligned energies create greater effects than isolated ones.",
+        "significance_in_thologram": "Represents the critical role of harmonious interaction in evolution. Functions as a model for how awareness grows through exchange. Important in understanding how systems benefit from synchronized cooperation."
+    },
+    "transformations": {
+        "no_moving_lines": "The situation calls for maintaining joyful exchange. Continue sharing openly while preserving authenticity. Success comes through genuine interaction.",
+        "all_moving_lines": "Complete transformation through resonance is occurring. All aspects of connection are active. The harmony will create fundamental change, requiring careful attention to maintaining authentic exchange."
+    },
+    "hierarchy": {
+        "order8child": "Fulfilled joy",
+        "order8parent": "COMPLETION & RENEWAL; Return to Source"
+    },
+    "image": {
+        "description": "The choice of a jazz ensemble, Impressionism, music as a medium, and Pablo Picasso as the artist symbolizes the hexagram's theme of completion and renewal through dynamic harmony and creative spontaneity. Jazz, with its fluidity and improvisation, mirrors the Tholonic Model's principles of awareness and interaction, embracing integration and contribution as musicians respond to each other, creating a transcendent whole. Impressionism captures fleeting moments of joy and fulfillment, resonating with the idea of fulfilled joy and renewal. The musical medium enhances the holistic and non-tangible aspects of resonance, echoing tholonic energy's influence in shaping experiences and connections. Picasso, renowned for breaking conventional boundaries and symbolic expression, embodies universal love and creativity, driving the endless renewal and expansive patterns of the Thologram, reflecting a return to the source of awareness and intention.",
+        "file": "58.png"
+    },
+    "energy_cycle": "ascending",
+    "stories": {
+        "title": "Three Tales of \"Resonance\"",
+        "entries": [
+            {
+                "title": "The Jazz Ensemble (Man vs. Man)",
+                "theme": "Toni Morrison",
+                "summary": "On stage at the Blue Note, the quartet found that rare moment when individual musicians dissolve into pure music. Sarah's saxophone wove through Marcus's piano lines like water finding its natural course. They had played together for twenty years, but tonight something deeper was happening - each note called forth its perfect answer, each rhythm found its complementary pulse. The audience felt it too, their energy feeding back into the performance, creating a circuit of appreciation and response. This wasn't just music anymore; it was conversation beyond words, mathematics beyond numbers, a shared journey into that space where art becomes pure resonance. Even the waiters stopped to listen, recognizing that they were witnessing one of those moments when human beings transcend their separateness and find the harmony that always exists beneath the surface of things.",
+                "lines_in_context": {
+                    "6": {
+                        "name": "Completion and Surrender",
+                        "meaning": "The performance reaches its completion, inviting a return to reflection and refinement. It symbolizes the end of a cycle, the acceptance of change, and the refinement of the experience gained. The shift from Yin to Yang at this juncture might suggest resistance to closure, a reluctance to let go, or an elongation of a process past its natural conclusion, highlighting the necessity of embracing endings for new beginnings.",
+                        "changing": "If Yang replaces Yin, it may indicate resistance to closure, clinging to power, or forced extension of a completed phase."
+                    },
+                    "5": {
+                        "name": "Engagement and Leadership",
+                        "meaning": "The music reaches its peak engagement, embodying leadership and full execution of its potential. It represents a moment of authority and direction within the ensemble, where the vision comes to fruition. A change from Yang to Yin in this stage could indicate indecision, loss of authority, or a partial realization of the creative vision, calling for a reassessment of the direction and focus.",
+                        "changing": "If Yin replaces Yang, it could mean indecision, loss of authority, or an incomplete realization of the vision."
+                    },
+                    "4": {
+                        "name": "Alignment and Preparation",
+                        "meaning": "The quartet aligns with external forces, preparing for a new phase of action and expression. The music sets the stage for further developments, balancing internal realizations with external influences. A shift from Yin to Yang here might indicate premature external assertion, where actions are taken before the conditions are fully stable, potentially leading to a need for recalibration or reevaluation.",
+                        "changing": "If Yang replaces Yin, it may suggest premature external assertion before the conditions are stable."
+                    },
+                    "3": {
+                        "name": "Transition and Expression",
+                        "meaning": "The culmination of inner realization transitions into external action on stage. It marks the moment where the music transforms into a shared experience, touching both performers and audience deeply. The transition from internal harmony to external manifestation is significant, signifying the readiness to share the inner journey with the world. Changing from Yang to Yin in this phase could suggest hesitation in expressing the inner realization outwardly or a temporary stagnation at the threshold of external transformation.",
+                        "changing": "If Yin replaces Yang, it suggests hesitation in carrying inner realization outward, or stagnation at the threshold of change."
+                    },
+                    "2": {
+                        "name": "Formation and Unity",
+                        "meaning": "The music transcends its individual components, becoming a language of its own beyond words. The audience becomes an active part of this shared journey, fueling the performance with their energy and feedback. It symbolizes a union of souls through music, where boundaries dissolve into pure resonance. A shift from Yin to Yang at this stage may indicate premature action or struggle to integrate, leading to a momentary disruption in the flow of energy and unity.",
+                        "changing": "If Yang replaces Yin, it may indicate premature action, instability, or struggle to integrate."
+                    },
+                    "1": {
+                        "name": "Emergence and Alignment",
+                        "meaning": "At the Blue Note, the quartet taps into a rare moment where individual musicians merge into harmonious music. Sarah's saxophone intertwines with Marcus's piano, creating a profound connection. This stage signifies the birth of a deeper musical journey, with each note and rhythm finding a perfect match in the ensemble. The transition from Yang to Yin here could represent a hesitation or weakness in the merging of musical elements, causing a temporary discordance or lack of readiness.",
+                        "changing": "If Yin replaces Yang, it suggests hesitation, weakness, or a lack of readiness."
+                    }
+                }
+            },
+            {
+                "title": "The Dolphin Dance (Man vs. Nature)",
+                "theme": "Rachel Carson",
+                "summary": "Marine biologist Elena Martinez had studied dolphin pods for fifteen years, but this encounter was different. As she floated quietly in the warm Caribbean waters, a young female dolphin approached, matching her posture in the water. When Elena rotated slightly, the dolphin mirrored her movement perfectly. Soon they were engaged in an underwater ballet, each responding to the other's subtle shifts and turns. More dolphins joined, until Elena found herself at the center of a whirling, harmonious dance. Through their sonar, they would be perceiving her internal organs, her heartbeat, her blood flow - seeing her as music made flesh. And somehow, through movement and presence, she was learning their language of pure being, pure joy. For an eternal moment, the barrier between species dissolved into resonant understanding.",
+                "lines_in_context": {
+                    "6": {
+                        "name": "Return to Unity",
+                        "meaning": "Closing of the transformative cycle, surrendering to the shared connection and refining the experience.",
+                        "changing": "If Yang replaces Yin, resistance towards the completion of unity may prolong the process, delaying the harmonious dissolution and reintegration."
+                    },
+                    "5": {
+                        "name": "Fulfillment in Unity",
+                        "meaning": "Complete engagement in unified expression and shared experience of harmonious connection.",
+                        "changing": "If Yin replaces Yang, the full realization of unity may be hindered, leading to a potential loss of collective engagement or direction."
+                    },
+                    "4": {
+                        "name": "Preparation for Integration",
+                        "meaning": "Alignment with external forces and readiness to further solidify the emerging unity.",
+                        "changing": "If Yang replaces Yin, premature attempts at external expression may disrupt the stable foundation of the developing connection."
+                    },
+                    "3": {
+                        "name": "Transition to Unity",
+                        "meaning": "Culmination of inner realization transitioning into external manifestation of unity and fluidity.",
+                        "changing": "If Yin replaces Yang, the final step towards harmonious integration may be hindered by inner hesitations or resistance."
+                    },
+                    "2": {
+                        "name": "Alignment of Souls",
+                        "meaning": "Formation of a deep connection through mutual understanding and shared resonance.",
+                        "changing": "If Yang replaces Yin, premature signs of closeness may disrupt the natural flow of empathy and harmony."
+                    },
+                    "1": {
+                        "name": "Emergence of Harmony",
+                        "meaning": "Initiation of a transformative encounter marked by the birth of potential connection and unity.",
+                        "changing": "If Yin replaces Yang, the initial bonding may lack strength or direction, leading to a shallow interaction."
+                    }
+                }
+            },
+            {
+                "title": "The Meditation Garden (Man vs. Self)",
+                "theme": "Hermann Hesse",
+                "summary": "After forty years of striving, Thomas finally discovered that enlightenment wasn't something to achieve but a resonance to find. It began in his small garden, where one morning he stopped trying to meditate and simply sat in open attention. The wind in the bamboo, the subtle shifts of light, the movement of birds - all were expressing the same harmony he had sought for so long. His breathing naturally aligned with the garden's rhythm, his thoughts settled like leaves on water. Each day brought deeper resonance, until he could no longer find the boundary between inner and outer peace. Visitors to his garden began to notice, not knowing why they felt so settled there, unaware that they were experiencing the ripples of one person's perfect alignment with existence.",
+                "lines_in_context": {
+                    "6": {
+                        "name": "Completion of Harmony",
+                        "meaning": "Closing the cycle of transformation, surrendering to change, refining the experience of perfect alignment with existence. Significance when changing: Yin to Yang may suggest resistance to closure, clinging to the achieved harmony, or struggling to let go of the refined state of being.",
+                        "changing": "Transition: surrender to change, completion of the cycle, refinement leading to a new beginning."
+                    },
+                    "5": {
+                        "name": "Manifestation of Peace",
+                        "meaning": "Fully engaging with the world and sharing the discovered resonance with visitors, becoming a leader in radiating peace. Significance when changing: Yang to Yin could indicate indecision in leadership, loss of authority in sharing resonance, or incomplete realization of the essence of peace.",
+                        "changing": "Transition: leadership in sharing resonance, active engagement in spreading peace."
+                    },
+                    "4": {
+                        "name": "External Serenity",
+                        "meaning": "Aligning with external forces, preparing for further action in spreading the serenity of the garden to visitors. Significance when changing: Yin to Yang may imply premature external assertion or actions taken before stability is established.",
+                        "changing": "Transition: alignment with external harmony, poised for leadership and manifestation."
+                    },
+                    "3": {
+                        "name": "Culmination of Peace",
+                        "meaning": "The culmination of inner realization as Thomas transitions to external expression, embodying the boundary between inner and outer peace. Significance when changing: Yin to Yang suggests hesitation in fully expressing the inner peace or reluctance to enter the external world with this realization.",
+                        "changing": "Transition: inner peace reaching a threshold, poised for external manifestation and sharing."
+                    },
+                    "2": {
+                        "name": "Resonant Alignment",
+                        "meaning": "The active state where Thomas embodies the resonance he discovered, aligning with the subtle rhythms of the garden and finding peace within. Significance when changing: Yang to Yin indicates premature action, struggle to integrate, or instability in embodying resonance.",
+                        "changing": "Transition: harmonization solidifying, integration of inner peace supporting external manifestation."
+                    },
+                    "1": {
+                        "name": "Harmony Unfolding",
+                        "meaning": "The birth of potential harmony within Thomas as he transitions from striving to resonance. This stage marks the emergence of a new way of being in alignment with existence. Significance when changing: Yin to Yang brings hesitation, potential weakness, or lack of readiness.",
+                        "changing": "Transition: inner strength finding balance within openness, preparing for external expression."
+                    }
+                }
+            }
+        ]
+    },
+    "history": {
+        "title": "The Woodstock Festival",
+        "subtitle": "\"Resonance\" in History",
+        "summary": "In August 1969, what began as a music festival became a legendary example of spontaneous human harmony and resonance. Despite crowds swelling to over 400,000 people, far beyond capacity, and challenging weather conditions that could have sparked chaos, Woodstock demonstrated an extraordinary spirit of peaceful cooperation. When food ran short, people shared what they had. When rain turned the fields to mud, strangers helped strangers find shelter. The music itself became a medium of mass resonance - when Richie Havens improvised \"Freedom\" on the spot, when Jimi Hendrix transformed the national anthem, when half a million people swayed together to \"i Feel Like I'm Fixin' to Die Rag,\" the festival transcended mere entertainment to become a demonstration of collective harmony. Even the local townspeople, initially alarmed by the invasion of hippies, began providing free food and assistance. The festival revealed how joy could be both intimate and universal, personal and collective. Max Yasgur, the dairy farmer who provided his land for the festival, later said he witnessed \"the greatest demonstration of compassion and consideration that America has ever seen.\"",
+        "source": [
+            "\"Woodstock: Three Days That Rocked the World\" by Mike Evans",
+            "Paul Kingsbury (Sterling, 2009)"
+        ],
+        "lines_in_history": {
+            "6": {
+                "name": "Completion in Harmony",
+                "meaning": "The closing of the festival marked a return to individual experiences, surrendering to the transformational power of the collective event. Participants refined their understanding of unity, signaling the end of a cycle that emphasized the beauty of shared experiences and the essence of togetherness.",
+                "changing": "Line 6 changed to Yang: The completion in harmony may face resistance to closure, clinging to power, or an extended presence when the transformative cycle has naturally concluded."
+            },
+            "5": {
+                "name": "Manifestation of Unity",
+                "meaning": "Amidst the festival, the full manifestation of unity and resonance became evident, as participants engaged fully in shared experiences, leading with leadership and executing the potential for collective harmony. The vision of unity reached its peak as the community embraced a sense of oneness.",
+                "changing": "Line 5 changed to Yin: The manifestation of unity may face indecision or loss of authority, hindering the complete realization of the vision of collective harmony."
+            },
+            "4": {
+                "name": "Emergence of Cooperation",
+                "meaning": "Externally, the emergence of cooperation became apparent as participants aligned with external forces and prepared for further actions rooted in collaboration and mutual understanding. The foundation of cooperation was laid, setting the stage for expanded harmony.",
+                "changing": "Line 4 changed to Yang: The emergence of cooperation encounters premature external assertion or instability, challenging the preparedness for further actions rooted in collaboration."
+            },
+            "3": {
+                "name": "Transition to Unity",
+                "meaning": "The culmination of inner realization led to a transition where the spirit of unity was ready to manifest externally. Participants stood at the threshold of change, poised to carry the essence of harmony into the outer world, marking a transformative shift in collective consciousness.",
+                "changing": "Line 3 changed to Yin: The transition to unity faces hesitation in carrying the inner realization outward, potentially leading to stagnation in the manifestation of collective consciousness."
+            },
+            "2": {
+                "name": "Formation of Fellowship",
+                "meaning": "As the festival progressed, the formation of a unique fellowship unfolded, characterized by shared resources, mutual support, and the structuring of communal bonds. Participants aligned in their efforts to create a space of inclusivity and collaboration.",
+                "changing": "Line 2 changed to Yang: The formation of fellowship encounters premature action or instability, disrupting the harmonious structuring of communal bonds."
+            },
+            "1": {
+                "name": "Emergence of Harmony",
+                "meaning": "In the initial stage, the Woodstock Festival emerged as a gathering of music enthusiasts seeking connection and unity. The spirit of cooperation and harmony began to take shape, setting the tone for a transformative event where individuals came together as a collective.",
+                "changing": "Line 1 changed to Yin: The emergence of harmony faces a moment of hesitation and potential weakness, challenging the initial birth of unity."
+            }
+        }
+    }
+}
