@@ -1,0 +1,271 @@
+{
+    "id": 49,
+    "hexagram_code": "䷰",
+    "name": "Evolution",
+    "description": "The fundamental transformation of systems and structures. Like a caterpillar becoming a butterfly or a society undergoing paradigm shift, this represents deep change that alters the essential nature of something while preserving its core identity.",
+    "king_wen": {
+        "sequence": 49,
+        "traditional_title": "Ge/Revolution/Molting",
+        "common_title": ""
+    },
+    "binary_sequence": 29,
+    "trigrams": {
+        "above": {
+            "Trigram Number": 8,
+            "Binary Decimal": 4,
+            "Symbol": "☱",
+            "Chinese Symbol": "兑",
+            "Phonetic": "Duì",
+            "English Translation": "Lake/Marsh",
+            "English Symbol": "泽",
+            "Meaning": "The Joyous",
+            "Quality": "Joyful and Harmonious"
+        },
+        "below": {
+            "Trigram Number": 7,
+            "Binary Decimal": 5,
+            "Symbol": "☲",
+            "Chinese Symbol": "离",
+            "Phonetic": "Lí",
+            "English Translation": "Fire",
+            "English Symbol": "火",
+            "Meaning": "Bright and Radiant",
+            "Quality": "Strong and Creative"
+        }
+    },
+    "attributes": {
+        "perspective": "The transformation of existing structures into new forms",
+        "nature": "Transformative, revolutionary, metamorphic",
+        "action": "Fundamental change, restructuring, renewal",
+        "success_through": "Clear vision and timing of necessary changes",
+        "challenge": "Managing change without destroying essential foundations"
+    },
+    "lines": [
+        {
+            "position": 6,
+            "name": "Culmination of Transformation",
+            "meaning": "The final line represents the climax of evolving change. It captures the moment when transformation is complete, heralding both fulfillment and the promise of renewal.",
+            "changing": "The process concludes as the last vestiges of yin surrender to a dominant yang force, culminating in an enlightened state ready to embrace its next cycle."
+        },
+        {
+            "position": 5,
+            "name": "Radiating Integration",
+            "meaning": "At the peak of this transformative process, disparate elements merge into a harmonious whole. This stage reflects the integration of new strengths with established wisdom.",
+            "changing": "The once subtle yin influences are now fully transformed into the vibrant expression of yang, shining outwards with balanced power."
+        },
+        {
+            "position": 4,
+            "name": "Stabilizing the Core",
+            "meaning": "Amid sudden shifts, this line brings balance by anchoring the change. It signifies the conscious effort to ground evolving energies into a stable form.",
+            "changing": "The fluid yin energy is disciplined into a structured yang presence, ensuring that transformation is both internal and sustainable."
+        },
+        {
+            "position": 3,
+            "name": "Confronting Flux",
+            "meaning": "Here, dynamic forces clash and merge. This line embodies the tension of change itself, where challenges demand adaptation and recalibration.",
+            "changing": "The inherent vulnerability of yin transforms, pressing into the assertive potential of yang, driving the evolution forward."
+        },
+        {
+            "position": 2,
+            "name": "Gathering Momentum",
+            "meaning": "At this stage, the early stirrings coalesce into a focused drive. There is an emerging sense of direction and potential which promises further development.",
+            "changing": "A gentle shift occurs as yin receptivity molds into yang assertiveness, gathering strength for the next phase."
+        },
+        {
+            "position": 1,
+            "name": "Seed of Change",
+            "meaning": "This initial line represents the quiet stirrings of transformation. It is a moment when potential is planted, inviting subtle change amidst humble beginnings.",
+            "changing": "The passive, receptive yin energy awakens and begins its evolution toward a more active, expressive yang state."
+        }
+    ],
+    "tholonic_analysis": {
+        "negotiation": "The hexagram represents the balance between preservation and transformation. The fire below energizes while the lake above contains and shapes, showing how change can be both powerful and controlled.",
+        "limitation": "The structure defines boundaries between constructive and destructive change. It establishes how transformation must occur within sustainable limits, showing that evolution requires maintaining core stability.",
+        "contribution": "This configuration contributes to systemic evolution by demonstrating how systems can fundamentally transform while maintaining integrity. It shows how structured change creates sustainable advancement.",
+        "significance_in_thologram": "Represents the critical process of systemic evolution. Functions as a model for how awareness transforms structures while preserving essential functions. Important in understanding how systems evolve through managed transformation."
+    },
+    "transformations": {
+        "no_moving_lines": "The situation calls for careful preparation and timing. Continue building support and clarity while waiting for the right moment. Success comes through well-planned transformation.",
+        "all_moving_lines": "Complete transformation of the system is occurring. All aspects are in flux. The evolution will create fundamental change, requiring careful attention to maintaining core stability."
+    },
+    "hierarchy": {
+        "order8child": "Fundamental transformation",
+        "order8parent": "FINAL INTEGRATION; Higher Order Emergence"
+    },
+    "image": {
+        "description": "The image captures the essence of profound transformation embodied by the hexagram \"Evolution,\" reflecting a universe in flux yet balanced by interconnected, hierarchical structures. The surreal elements symbolize the dynamic interplay of change and stability, akin to the metamorphosis described by the hexagram. The composition's triadic themes convey the integration of chaos and structure, visible in the juxtaposition of flowing organic forms against rigid, geometric patterns. This interplay showcases the emergence of order from apparent disorder, highlighting the cyclical renewal underlying transformative processes. By portraying entities in various stages of evolution, the painting underscores the harmony between preservation and transformation, mirroring how systems evolve while maintaining core integrity. The piece, through its vivid surrealism, embodies not just a moment of change but the eternal dance of development and continuity central to the hexagram's meaning.",
+        "file": "49.png"
+    },
+    "energy_cycle": "ascending",
+    "stories": {
+        "title": "Three Tales of \"Evolution",
+        "entries": [
+            {
+                "title": "The Digital Revolution (Man vs. Man)",
+                "theme": "In the style of William Gibson",
+                "summary": "Dr. Sarah Chen watched her quantum algorithm unfold across the holographic display, its patterns shifting like digital origami. After twenty years of corporate Ai development, she had finally created something that would render current encryption methods obsolete. The implications were staggering - every financial system, every secure communication channel, every digital lock would need to be transformed. But she knew the danger of releasing this too soon, before safeguards were in place. The mega-corps would kill to possess it, authoritarian states would use it to crush privacy, chaos would reign if it leaked prematurely. Her team understood: this wasn't just another tech upgrade, this was technological evolution that would reshape society. They worked in secret, building the new architecture of a post-quantum world, knowing they were midwives to a new digital age. The old systems would have to die, but the transition had to be managed, or civilization itself might not survive the birth pangs of its next iteration.",
+                "lines_in_context": {
+                    "6": {
+                        "name": "Stage of Completion: Civilization's Rebirth",
+                        "meaning": "The surrender to change as a cycle closes, marking the refinement and potential dissolution of existing systems. The delicate balance between power and change is navigated, preparing for the birth of a new era.",
+                        "changing": "When yang replaces yin, resistance to closure or clinging to power may obstruct the natural flow of renewal."
+                    },
+                    "5": {
+                        "name": "Stage of Manifestation: The Quantum Revelation",
+                        "meaning": "The full engagement in executing the vision, taking the lead in shaping the future of digital security. Dr. Sarah Chen embodies authority and implements the quantum algorithm with decisive action.",
+                        "changing": "When yin replaces yang, indecision, loss of authority, or incomplete realization of the groundbreaking vision may hinder progress."
+                    },
+                    "4": {
+                        "name": "Stage of Preparation: Crisis Averted",
+                        "meaning": "The preparedness for imminent external forces as the new architecture emerges into the open world. Alignment with external conditions and stability is sought to prevent premature exposure.",
+                        "changing": "When yang replaces yin, premature external assertion may create instability and disrupt the carefully laid foundations."
+                    },
+                    "3": {
+                        "name": "Stage of Transition: Evolution's Threshold",
+                        "meaning": "The culmination of inner realization transitioning to external action, poised at the brink of a new digital age. Dr. Sarah Chen faces the decision to carry the transformative potential outward, marking the threshold of change.",
+                        "changing": "When yin replaces yang, the flow of transition may stall, leading to hesitation or stagnation in progressing to the next phase."
+                    },
+                    "2": {
+                        "name": "Stage of Materialization: Secrecy's Veil",
+                        "meaning": "The act of working in secrecy to avoid the dangers of premature revelation, channeling potential into a structured form behind closed doors. Dr. Sarah Chen's team aligns in support of the vision, forming the new architecture silently.",
+                        "changing": "When yang replaces yin, premature action or struggles with integration may disrupt the carefully crafted plan."
+                    },
+                    "1": {
+                        "name": "Stage of Emergence: Quantum Catalyst",
+                        "meaning": "The inception of a revolutionary quantum algorithm that challenges existing encryption methods and heralds a new era in digital security. Dr. Sarah Chen's creation holds the power to transform financial systems and communication channels.",
+                        "changing": "When yin replaces yang, the initial drive to bring change encounters resistance, hesitation, or unpreparedness."
+                    }
+                }
+            },
+            {
+                "title": "The Great Migration (Man vs. Nature)",
+                "theme": "In the style of Isak Dinesen",
+                "summary": "When the droughts came to the Serengeti, the old patterns began to change. The matriarch elephant had lived sixty years, leading her herd through the ancient cycles of rain and dry, feast and famine. But now the water holes dried too soon, the grass withered too quickly, and the traditional routes no longer sustained them. She could feel it in her bones - the necessity of finding new paths. Some of the younger bulls grew restless, wanting to rush ahead into unknown territories. But she had seen how hasty changes led to disaster. Instead, she led them gradually, testing new routes while keeping within reach of known resources, expanding their range through careful exploration. Other herds followed, and slowly, a new migration pattern emerged. The old ways were dying, but the wisdom that had shaped them lived on in this deliberate transformation, this evolution of ancient knowledge to meet new challenges.",
+                "lines_in_context": {
+                    "6": {
+                        "name": "Closure and Renewed Beginnings",
+                        "meaning": "As the new migration pattern stabilizes, the herd prepares for closure and potential renewal. This stage signifies surrender to change, refinement of experience, and a cyclical return to the essence. Yet, should yang emerge from yin, resistance to closure and an extended process beyond its course may hinder progress, calling for acceptance and adaptation to inevitable transformations.",
+                        "changing": "closure, adaptation, resistance"
+                    },
+                    "5": {
+                        "name": "Full Engagement in Transformation",
+                        "meaning": "Amidst the evolving migration patterns, the herd fully engages in the transformative journey. Leadership and execution blend seamlessly, embodying the essence of active participation and manifestation. However, if yin supplants yang, indecision and incomplete realization may threaten, urging a reevaluation of vision and authority before proceeding further.",
+                        "changing": "leadership, authority, indecision"
+                    },
+                    "4": {
+                        "name": "Adapting to External Realities",
+                        "meaning": "As the new migration pattern takes shape, the herd learns to adapt to the changing external landscapes. This stage represents preparation for action and alignment with the emerging order. Yet, should yang replace yin, premature assertion and instability may arise, cautioning the integration of external changes with adequate readiness and balance.",
+                        "changing": "preparation, stability, premature assertion"
+                    },
+                    "3": {
+                        "name": "Culminating Transition",
+                        "meaning": "The herd nears the threshold of external action, poised for a significant transition. This completion stage marks the inner realization ready to manifest outwardly. Strong determination blends with the grant of hesitation, striking a delicate balance as yang transitions into yin, signifying the threshold of change and evolution.",
+                        "changing": "determination, stagnation, hesitation"
+                    },
+                    "2": {
+                        "name": "Alignment with the Flow",
+                        "meaning": "As the herd cautiously explores new routes, they seek support and structure in the face of uncertainty. The active state of aligning with external forces, marking a stage of learning and adaptation. Yet, if yin replaces yang, premature action and struggle to integrate ripple through, urging patience and consolidation before further progress.",
+                        "changing": "support, stability, premature action"
+                    },
+                    "1": {
+                        "name": "Emergence of Awareness",
+                        "meaning": "The matriarch elephant senses the shifting patterns, recognizing the emergence of a new necessity. The initial stage of transformation beckons, pushing towards unfamiliar territory. As yang gives way to yin, the call to pause, consider, and adapt grows stronger, signaling a pivotal moment for internal alignment and preparation for change.",
+                        "changing": "hesitation, adaptation, readiness"
+                    }
+                }
+            },
+            {
+                "title": "The Inner Metamorphosis (Man vs. Self)",
+                "theme": "In the style of Hermann Hesse",
+                "summary": "After twenty years of building his identity as a ruthless corporate lawyer, James discovered meditation through a chance encounter. Like a crack in a dam, this small opening began to reshape everything. He noticed at first how his aggressive courtroom tactics felt increasingly hollow, how each victory left him feeling more empty. But he couldn't simply abandon his practice - clients depended on him, employees needed their jobs, his family relied on his income. The transformation had to be gradual, intentional. He began integrating mindfulness into his practice, finding ways to resolve conflicts that served all parties. His reputation shifted from \"feared opponent\" to \"respected mediator.\" Each case became an opportunity to evolve his practice, transforming the very nature of his work without destroying the foundation he'd built. The old warrior was dying, but something more powerful was emerging in its place.",
+                "lines_in_context": {
+                    "6": {
+                        "name": "Completion - Closing of the Cycle",
+                        "meaning": "Marking the closure, return, or dissolution of a cycle, this stage signifies surrender to change and refinement of experiences. If yang replaces yin in this line, resistance to closure, clinging to power, or prolonging a process beyond its natural conclusion may lead to stagnation.",
+                        "changing": "In case yang takes over from yin in this line, it prompts the individual to embrace change gracefully, release attachments, and allow for the natural closure and renewal to unfold, paving the way for the next phase of growth."
+                    },
+                    "5": {
+                        "name": "Manifestation - Full Engagement in the World",
+                        "meaning": "Signifying full engagement in the outer world and the execution of potential, this phase embodies leadership and active participation. If yin replaces yang in this line, indecision, loss of authority, or incomplete realization of visions may hinder the full realization of transformative actions.",
+                        "changing": "When yin replaces yang in this line, it highlights the need to reassess one's leadership style, decision-making processes, and commitment to ensure alignment with the evolving transformation within and around."
+                    },
+                    "4": {
+                        "name": "Alignment - Preparing for External Action",
+                        "meaning": "As the initial phase in the external world, this stage represents alignment with external forces and preparation for forthcoming actions. When yang replaces yin in this line, premature external assertion or actions taken without stable conditions may lead to complications.",
+                        "changing": "If yang replaces yin in this line, it calls for a mindful approach to external interactions, ensuring readiness and alignment with external circumstances before proceeding with decisive actions."
+                    },
+                    "3": {
+                        "name": "Transition - Culmination of Inner Process",
+                        "meaning": "At the completion stage of the inner cycle, this line marks the transition from internal realization to external action. If yin replaces yang in this line, hesitation in manifesting inner changes outwardly or stagnation at the brink of transformation may impede progress.",
+                        "changing": "Should yin replace yang in this line, it signals the need to overcome internal barriers and fears to embrace the outward expression of the inner transformation, stepping into the fullness of change."
+                    },
+                    "2": {
+                        "name": "Formation - Structuring Potential",
+                        "meaning": "Representing the support and alignment required to structure emerging potential, this stage signifies the transition from inception to actualization. If yang replaces yin in this line, premature action, instability, or struggles in integration may hinder the process of formation.",
+                        "changing": "When yang takes over from yin in this line, it calls for a careful balance between action and receptivity to ensure the transformation unfolds smoothly and purposefully."
+                    },
+                    "1": {
+                        "name": "Emergence - Birthing Potential",
+                        "meaning": "As the initial stage of transformation, this phase marks the birth of potential and the initiation of a new path. When the yin value replaces yang in this line, it suggests hesitance, weakness, or unreadiness, hindering the process of initiation.",
+                        "changing": "If yin replaces yang in this line, it indicates a need to overcome internal resistance and embrace the new beginning with courage and determination."
+                    }
+                }
+            }
+        ]
+    },
+    "history": {
+        "title": "Meiji Restoration",
+        "subtitle": "\"Evolution\" in History",
+        "summary": "In 1853, when Commodore Perry's \"black ships\" appeared in Edo Bay, Japan faced its greatest crisis since unification. After two centuries of self-imposed isolation, the country was forced to confront the technological and military superiority of the Western powers. The Meiji Restoration that followed represents one of history's most remarkable examples of managed evolution. Rather than either fighting a hopeless battle against Western powers or submitting to colonization, Japan's leaders chose a third path: radical transformation while preserving cultural essence. The young Emperor Meiji and his advisors embarked on an ambitious program of modernization, sending scholars to study Western institutions and technology while carefully adapting these innovations to Japanese culture. They abolished the feudal system, created a modern military, established universal education, and industrialized the economy - all while maintaining Japan's cultural sovereignty. Within one generation, Japan transformed from a feudal society into a modern industrial power. This evolution was guided by the principle of \"Wakon Yōsai\" (Japanese spirit, Western learning), demonstrating how fundamental change could be achieved while preserving core identity.",
+        "source": [
+            "\"The Making of Modern Japan\" by Marius B. Jansen (Harvard University Press, 2002)"
+        ],
+        "lines_in_history": {
+            "6": {
+                "name": "Harmony of Evolution",
+                "meaning": "The transformation from a feudal society to a modern power demonstrates a harmonious evolution, aligning technological progress with the preservation of cultural essence.",
+                "changing": "If the changing line indicates resistance to closure, clinging to past power structures, or enforced continuation beyond a cycle's end, the evolution process may face challenges, requiring adaptation or renewal."
+            },
+            "5": {
+                "name": "Achievement of Mastery",
+                "meaning": "Within a generation, Japan evolved into a formidable industrial power while maintaining its cultural sovereignty, showcasing the success of the Meiji Restoration's strategic evolution.",
+                "changing": "If the changing line denotes indecision, loss of authority, or incomplete realization, the mastery achieved could be jeopardized or questioned, necessitating a reevaluation of leadership."
+            },
+            "4": {
+                "name": "Consolidation of Power",
+                "meaning": "As Japan enacted reforms abolishing feudalism, modernizing the military, prioritizing education, and industrializing the economy, a new societal structure emerged.",
+                "changing": "When the changing line suggests premature external assertion or instability in foundational reforms, the stability of the transformed system may be undermined, requiring adjustments in implementation."
+            },
+            "3": {
+                "name": "Revolutionary Transformation",
+                "meaning": "The Meiji Restoration embodies a monumental shift from a feudal society to a modern industrial power, guided by the principle of Japanese spirit merging with Western learning.",
+                "changing": "If the changing line signifies hesitation in externalizing realized changes or stagnation at the brink of transformation, the restoration process may face delays or incomplete evolution."
+            },
+            "2": {
+                "name": "Path of Decision",
+                "meaning": "Japan's leaders faced a pivotal decision: either resist Western powers in a futile war or acquiesce to colonization, or choose a third path of radical transformation while preserving core identity.",
+                "changing": "When the changing line suggests premature action or struggle to integrate, the decision-making process may encounter setbacks, necessitating a reassessment of strategies."
+            },
+            "1": {
+                "name": "Emergence of Crisis",
+                "meaning": "The appearance of Commodore Perry's \"black ships\" in Edo Bay marked a critical juncture for Japan, challenging its self-imposed isolation and traditional way of life.",
+                "changing": "If the changing line indicates a lack of readiness, the crisis may deepen, urging a delay in addressing external pressures."
+            }
+        }
+    },
+    "trigram_phrase": {
+        "Jungian": "The emergence of dynamic creativity reveals itself in the symphony of joyous harmony.",
+        "Platonic": "In the realm of the spirited intellect, the fusion of vibrant creativity unveils itself as a symphony of joyous concord.",
+        "Taoist": "In the dance of the hexagram, the daring spirit sings, harmonizing with the joyous notes of the universe's eternal balance.",
+        "Tholonic": "The dance of boundless strength and creativity unfolds through the harmonious symphony of joy.",
+        "Thermodynamics": "The emanation of vigorous creativity finds its equilibrium through the resonant harmony of joyful thermodynamic processes."
+    },
+    "line_type": [
+        "⚋",
+        "⚊",
+        "⚊",
+        "⚊",
+        "⚋",
+        "⚊"
+    ]
+}

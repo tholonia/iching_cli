@@ -1,53 +1,4 @@
-**Prompt/Explanation for the Publisher Pitch:**
 
-I am submitting my manuscript, *The Tholonic I Ching*, which offers a groundbreaking reinterpretation of the I Ching, blending ancient Taoist wisdom with modern methodologies and artistic expressions. This book is designed to be as much a literary and historical pleasure as it is a doorway to profound philosophical insights. Below are the key elements of the manuscript and its unique value proposition:
-
-1. **Comprehensive and Unique Structure**:
-
-   - Each of the 64 hexagrams is explored through 
-
-     three narrative interpretations
-
-     , crafted in the styles of famous authors, illustrating universal themes:
-
-     - *Man versus Man*
-     - *Man versus Nature*
-     - *Man versus Self*
-
-   - These narratives are complemented by **historical anecdotes**, carefully chosen to reflect the essence of each hexagram. The commentary includes detailed insights into the significance of each line, offering a fresh perspective on the I Ching’s structure and wisdom.
-
-2. **Visual Artistry**:
-
-   - The book includes **AI-generated imagery** for every hexagram. These images are not merely illustrations but stand-alone works of art, which can be described as beautiful, profound, dramatic, abstract, and symbolic. They visually encapsulate the concepts and interpretations of the hexagrams, enriching the reader’s engagement with the text.
-
-3. **Foundation in Modern Thinking**:
-
-   - While the manuscript draws upon new models of thought based on solid reasoning from natural sciences and metaphysical philosophies, it does not delve into the full depth of the larger body of ongoing work known as the Tholonic model. Instead, it integrates the model's 
-
-     core foundational principles
-
-     :
-
-     - All existence arises from awareness and intention.
-     - Everything possesses the properties of negotiation (balance), definition (limitation), and integration (contribution).
-
-   - These concepts are briefly but sufficiently explained in the book’s introduction to provide clarity and enrich the reinterpretation of the I Ching without overshadowing its primary focus.
-
-4. **Standalone Accessibility**:
-
-   - The book does not aim to explain the Tholonic model in detail, as that is a large, ongoing body of work. Instead, it provides a **self-contained exploration** of the I Ching that seamlessly incorporates these foundational concepts for context, making it accessible to a wide audience.
-
-5. **Positioning**:
-
-   - *The Tholonic I Ching* is more than a reinterpretation; it is a unique synthesis of literature, history, philosophy, and art. It invites readers to experience the I Ching as a profound framework for understanding existence, presented through the lens of both ancient Taoist wisdom and contemporary intellectual rigor.
-
-The manuscript has been completed in its entirety and accompanies this letter for your consideration. I am confident that its distinctive blend of literary styles, historical depth, philosophical insight, and artistic beauty will captivate a broad and diverse readership.
-
-
-
----
-
-Here’s the updated pitch letter:
 
 ------
 
@@ -81,6 +32,46 @@ I am confident this book will resonate with a wide audience and would make a tra
 
 Warm regards,
 [Your Name]
+
+
+
+**Inner Traditions**: https://www.innertraditions.com,
+
+- https://www.innertraditions.com/publish?utm_source=chatgpt.com
+- The Complete I Ching — 10th Anniversary Edition
+
+**Shambhala Publications**: https://www.shambhala.com
+
+- no details
+- I Ching: The Book of Change (Shambhala Library)
+
+**Columbia University Press**: https://cup.columbia.edu
+
+- https://cup.columbia.edu/manuscript-submissions?utm_source=chatgpt.com
+- The Classic of Changes: A New Translation of the I Ching as Interpreted by Wang Bi
+
+
+
+
+**Sounds True**: https://www.soundstrue.com
+
+- no details
+
+**Hackett Publishing**: https://www.hackettpublishing.com
+
+- https://hackettpublishing.com/manuscript-proposals?utm_source=chatgpt.com
+
+**World Wisdom**: https://www.worldwisdom.com
+
+- no details
+
+**Paulist Press**: https://www.paulistpress.com
+
+- no details
+
+
+
+
 
 ------
 

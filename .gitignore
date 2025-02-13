@@ -27,5 +27,16 @@ book/v2/images_archive/
 book/v2/bin/safe/
 book/v2/bin/safe2/
 book/v2/includes/
-RSYHC
+RSYNC
+book/v2/keys/
+book/v2/ok2/
+book/v2/colon/
+book/v2/_v3_colon/
+book/v2/converted/
+archive/
+book/v2/_v1/
+book/v2/_v2/
+book/v2/_v3/
+*.org
+*copy*
 

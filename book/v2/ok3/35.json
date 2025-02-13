@@ -1,0 +1,271 @@
+{
+    "id": 35,
+    "hexagram_code": "䷢",
+    "name": "Accelerated Progress",
+    "description": "The rapid advancement of awareness and understanding through structured growth. Like the sun rising over the earth, this represents the swift emergence of clarity and enlightened action through ordered progression.",
+    "king_wen": {
+        "sequence": 35,
+        "traditional_title": "Chin",
+        "common_title": "Progress"
+    },
+    "binary_sequence": 40,
+    "trigrams": {
+        "above": {
+            "Trigram Number": 7,
+            "Binary Decimal": 5,
+            "Symbol": "☲",
+            "Chinese Symbol": "离",
+            "Phonetic": "Lí",
+            "English Translation": "Fire",
+            "English Symbol": "火",
+            "Meaning": "The Clinging",
+            "Quality": "Bright and Radiant"
+        },
+        "below": {
+            "Trigram Number": 2,
+            "Binary Decimal": 0,
+            "Symbol": "☷",
+            "Chinese Symbol": "坤",
+            "Phonetic": "Kūn",
+            "English Translation": "Earth",
+            "English Symbol": "地",
+            "Meaning": "The Receptive",
+            "Quality": "Receptive and Nurturing"
+        }
+    },
+    "attributes": {
+        "perspective": "Awareness emerging into form through structured advancement",
+        "nature": "Swift progression",
+        "action": "Structured advancement",
+        "success_through": "Ordered development",
+        "challenge": "Maintaining balance during rapid expansion"
+    },
+    "lines": [
+        {
+            "position": 6,
+            "name": "Harmonious Culmination",
+            "meaning": "The journey of accelerated progress reaches its harmonious conclusion. Reflection on the rapid ascent is essential to integrate achievements and prepare for new cycles.",
+            "changing": "The energetic drive (yang) gracefully recedes into balanced receptivity (yin), allowing the attained power to settle and seed future progress."
+        },
+        {
+            "position": 5,
+            "name": "Peak Momentum",
+            "meaning": "This line represents the zenith of swift progress. The energy is at its highest, guiding with clarity and purpose, yet it warns against overextension.",
+            "changing": "The transformation culminates, with instinctive, nurturing energy (yin) fully expressed as a powerful, decisive force (yang) ready to manifest outcomes."
+        },
+        {
+            "position": 4,
+            "name": "Rapid Ascent",
+            "meaning": "At this stage, progress accelerates steeply, and bold movement defines the journey. Caution is advised to prevent recklessness as the pace intensifies.",
+            "changing": "The soft, receptive energy (yin) evolves into a clarion call of assertiveness (yang), steering the ascent while maintaining structure."
+        },
+        {
+            "position": 3,
+            "name": "Surging Flow",
+            "meaning": "Here, the sparks of early effort coalesce into a strong, surging current of action. Obstacles may appear, but they are now navigated with courage and adaptive finesse.",
+            "changing": "The inherent flexibility (yin) transforms into a robust, decisive force (yang), creating a balanced progression through emerging challenges."
+        },
+        {
+            "position": 2,
+            "name": "Emerging Drive",
+            "meaning": "Building on the foundation, this line signifies a growing determination and emerging energy. Caution and optimism blend as progress begins to accelerate.",
+            "changing": "A subtle shift occurs; receptivity (yin) is increasingly infused with assertive energy (yang), propelling momentum forward."
+        },
+        {
+            "position": 1,
+            "name": "Seed of Momentum",
+            "meaning": "This line represents the initial spark of progress. It is a call to prepare the groundwork with careful planning before rapid advancement takes root.",
+            "changing": "The latent potential (yin) begins its transformation into active drive (yang), marking the start of dynamic growth."
+        }
+    ],
+    "tholonic_analysis": {
+        "negotiation": "The balance between speed and stability is critical. The hexagram demonstrates how rapid progress must be negotiated with sustainable growth. It represents the negotiation between advancement and foundation.",
+        "limitation": "Structures advancement through natural patterns rather than forced growth. The earth below provides stability for the fire above, showing how limitation can enhance rather than restrict progress.",
+        "contribution": "Contributes to the larger system by demonstrating how accelerated development can occur within structured parameters. Like a plant growing in optimal conditions, this progress enables efficient evolution.",
+        "significance_in_thologram": "Represents the optimal conditions for rapid yet sustainable growth. Shows how awareness can manifest efficiently when proper structure and support are in place."
+    },
+    "transformations": {
+        "no_moving_lines": "When no lines are moving, this indicates a period where progress is natural and well-supported. Use this time to advance steadily while maintaining balance and structure. Trust in the natural order of development.",
+        "all_moving_lines": "All lines moving suggests a complete transformation in how progress occurs. The current structures of advancement are changing fundamentally. Prepare for new methods and patterns of growth while maintaining core stability."
+    },
+    "hierarchy": {
+        "order8child": "Forward movement",
+        "order8parent": "TRANSFORMATION; Active Change"
+    },
+    "image": {
+        "description": "The cheetah embodies the essence of \"Accelerated Progress,\" symbolizing speed and forward momentum, key to transformation and active change. Futurism captures this dynamic essence, emphasizing movement and the energy of the new age, aligning with the theme of transformation. Digital painting as a medium allows for the vivid, fluid expression of this energy, bridging traditional art with modern technology to illustrate rapid progression. Although Andy Warhol is not the actual artist, his association with bold, transformative art parallels the concept of breaking boundaries and redefining perspectives. In a tholonic sense, the image is a tholon—a complex interplay of awareness, negotiation, and integration—depicting the balance and emergence of new realities from the primal point of intention and awareness.",
+        "file": "35.png"
+    },
+    "energy_cycle": "descending",
+    "stories": {
+        "title": "Three Tales of \"Accelerated Progress",
+        "entries": [
+            {
+                "title": "The Prodigy's Rise (Man vs. Man)",
+                "theme": "Jane Austen",
+                "summary": "Miss Sarah Chen's extraordinary talent for mathematics had not gone unnoticed at Cambridge, though many of her male colleagues wished it had. At three-and-twenty, she found herself in the peculiar position of having discovered an elegant solution to the Hoffman-Bradley conjecture, which had confounded the mathematical community for decades. Her department chair, Professor Blackwood, initially dismissed her work with patronizing encouragement. However, Sarah's solution proved irrefutable, demonstrating not only mathematical brilliance but also careful attention to academic protocol. Through measured steps and graceful persistence, she advanced from obscure student to celebrated theorist, her progress accelerated by both merit and methodical preparation. By the time she accepted the Fields Medal, even her strongest critics acknowledged that her rise had been as inevitable as it was swift.",
+                "lines_in_context": {
+                    "6": {
+                        "name": "Return: Culmination of Success",
+                        "meaning": "As Sarah accepts the Fields Medal, her journey reaches a state of refinement and surrender, closing a cycle of exceptional achievement.",
+                        "changing": "If Yang replaces Yin, it may indicate resistance to closure, suggesting challenges in gracefully concluding her extraordinary rise."
+                    },
+                    "5": {
+                        "name": "Manifestation: Leadership and Execution",
+                        "meaning": "Sarah fully engages in the mathematical world, leading with authority and executing her vision with precision.",
+                        "changing": "If Yin replaces Yang, it could signify indecision or incomplete realization of her mathematical prowess."
+                    },
+                    "4": {
+                        "name": "Emergence: Recognition in the Academic Sphere",
+                        "meaning": "Professor Blackwood recognizes Sarah's alignment with external forces, preparing for her impactful entry into the mathematical community.",
+                        "changing": "If Yang replaces Yin, it may signal premature assertion in the external world, risking challenges due to unstable conditions."
+                    },
+                    "3": {
+                        "name": "Transition: Bridging Inner Realization to External Action",
+                        "meaning": "Sarah's solution marks the culmination of her inner journey, poised for a transition into the realm of external recognition and change.",
+                        "changing": "If Yin replaces Yang, it hints at hesitation in transitioning her profound insights outward, risking stagnation in her transformative path."
+                    },
+                    "2": {
+                        "name": "Formation: Structuring Potential",
+                        "meaning": "Her mathematical brilliance aligns with careful attention, forming the foundation for her groundbreaking solution.",
+                        "changing": "If Yang replaces Yin, it may indicate premature action, leading to instability in integrating her innovative approach."
+                    },
+                    "1": {
+                        "name": "Initiation: Unveiling Potential",
+                        "meaning": "Miss Sarah Chen's extraordinary talent for mathematics begins to emerge at Cambridge, revealing the birth of a remarkable potential.",
+                        "changing": "If Yin replaces Yang, it suggests hesitation or a lack of readiness in unlocking her inherent abilities."
+                    }
+                }
+            },
+            {
+                "title": "The Desert Bloom (Man vs. Nature)",
+                "theme": "Gabriel García Márquez",
+                "summary": "In the sun-scorched valleys where nothing had grown for a hundred years, Dr. Isabella Ramirez planted her first bioengineered cacti. They were strange things, these plants, carrying within their DNA an ancient memory of how to transform salt into sustenance. The local farmers had laughed at first, calling her la soñadora, the dreamer, but Isabella understood the patient language of desert adaptation. Within six months, her cacti had not only survived but thrived, their roots weaving underground networks that transformed salt deposits into nutrients. The soil around them gradually changed, and other plants began to grow. After three years, the valley that had known only dust and salt for a century bloomed with life, as if the desert itself had been waiting all this time for someone who knew how to unlock its hidden vitality.",
+                "lines_in_context": {
+                    "6": {
+                        "name": "Stage of Completion and Renewal",
+                        "meaning": "The cycle closes with the flourishing life in the valley, surrendering to change and refining the experience, symbolizing a renewal of the landscape.",
+                        "changing": "Changing: If Yang replaces Yin, resistance to closure or an attempt to prolong a process beyond its natural course may lead to challenges."
+                    },
+                    "5": {
+                        "name": "Stage of Manifestation in the External World",
+                        "meaning": "The full realization of the cacti's impact as life blooms in the once barren valley, demonstrating leadership and the execution of potential.",
+                        "changing": "Changing: If Yin replaces Yang, indecision or a loss of authority may impede the complete realization of the envisioned transformation."
+                    },
+                    "4": {
+                        "name": "Stage of Emergence in the External World",
+                        "meaning": "The valley begins to respond to the cacti's influence, aligning with external forces to prepare for the broader impact of the transformation.",
+                        "changing": "Changing: If Yang replaces Yin, premature assertion in the external world may disrupt the natural progression, causing instability in the emerging environment."
+                    },
+                    "3": {
+                        "name": "Stage of Transition",
+                        "meaning": "Culmination of internal transformation as the cacti's adaptation transitions outward, marking the shift towards external action and manifestation.",
+                        "changing": "Changing: If Yin replaces Yang, it hints at reluctance to fully express and extend the inner transformation outward, potentially hindering progress."
+                    },
+                    "2": {
+                        "name": "Stage of Formation",
+                        "meaning": "As cacti grow and develop roots, structuring the soil and initiating the underground network's formation to convert salt into nutrients.",
+                        "changing": "Changing: If Yang replaces Yin, premature action may disrupt the harmonious integration process, leading to instability."
+                    },
+                    "1": {
+                        "name": "Stage of Emergence",
+                        "meaning": "The initial breakthrough of planting bioengineered cacti in desolate valleys, sparking the potential for transformation and adaptation.",
+                        "changing": "Changing: If Yin replaces Yang, it signifies hesitation in embracing new possibilities, delaying the birth of potential."
+                    }
+                }
+            },
+            {
+                "title": "The Mind's Marathon (Man vs. Self)",
+                "theme": "J.R.R. Tolkien",
+                "summary": "In the depths of his mind, where shadows of self-doubt had long dwelt, Thomas began a journey of transformation. Like the ancient heroes of old who had ventured into dark forests seeking wisdom, he entered therapy not as a quest for quick healing but as a path of understanding. Each session became a step on a road that wound ever upward, through valleys of childhood memories and over peaks of newfound insight. His therapist, wise in the ways of the mind's hidden paths, guided him not as one who pushes, but as one who illuminates the way ahead. Progress came swiftly yet naturally, like a seed that had waited long in darkness suddenly finding the light it needed to grow. When others remarked on his transformation, Thomas simply smiled, knowing that the swiftest journey is often the one that follows its own true path.",
+                "lines_in_context": {
+                    "6": {
+                        "name": "Closure and Refinement",
+                        "meaning": "With the journey progressing, Thomas encountered moments of closure and transition. Line 6 signified surrender to change, refining his experiences and preparing for the completion of a cycle. This stage marked the closure of his transformation, leading to further renewal and evolution.",
+                        "changing": "When line 6 changes from Yin to Yang, it may indicate resistance to closure, clinging to power, or a prolonged continuation of a process that has reached its end."
+                    },
+                    "5": {
+                        "name": "Engagement in Manifestation",
+                        "meaning": "Fully engaged in the world of transformation, Thomas took on a leadership role in executing his potential. Line 5 symbolized his active participation, guiding him to express his vision authentically and with authority.",
+                        "changing": "When line 5 changes from Yang to Yin, it could imply indecision, loss of authority, or an incomplete realization of the envisioned transformation."
+                    },
+                    "4": {
+                        "name": "Alignment for Action",
+                        "meaning": "As Thomas ventured into the external world, he aligned himself with the forces at play, preparing for the actions that lay ahead. The receptive nature of line 4 reflected his readiness to interact with external influences, ensuring a stable foundation for his endeavors.",
+                        "changing": "When line 4 changes from Yin to Yang, it may suggest premature external assertion before the conditions are fully stable."
+                    },
+                    "3": {
+                        "name": "Transition to External Action",
+                        "meaning": "With the culmination of inner realization, Thomas stood at the threshold of transition, ready to carry his transformed self outward. The inner completion marked the beginning of external manifestation, signaling the shift towards application and action in the external world.",
+                        "changing": "When line 3 changes from Yang to Yin, it suggests hesitation in expressing the inner realization outward or stagnation at the threshold of change."
+                    },
+                    "2": {
+                        "name": "Structuring Alignment",
+                        "meaning": "Each session with his therapist acted as a supportive force, aligning and structuring the potential within Thomas. The guidance provided by the therapist illuminated the hidden paths ahead, aiding Thomas in weaving his thoughts and experiences into a cohesive structure.",
+                        "changing": "When line 2 changes from Yin to Yang, it may indicate premature action, instability, or a struggle to integrate the newfound insights."
+                    },
+                    "1": {
+                        "name": "Initiating Potential",
+                        "meaning": "In the depths of his mind, where shadows of self-doubt had long dwelt, Thomas began a journey of transformation. Like the ancient heroes of old who had ventured into dark forests seeking wisdom, he entered therapy not as a quest for quick healing but as a path of understanding. Each session became a step on a road that wound ever upward, through valleys of childhood memories and over peaks of newfound insight.",
+                        "changing": "When line 1 changes from Yang to Yin, it signifies a moment of hesitation, weakness, or unreadiness in facing the emerging potential."
+                    }
+                }
+            }
+        ]
+    },
+    "history": {
+        "title": "The Space Race Acceleration",
+        "subtitle": "\"Accelerated Progress\" in History",
+        "summary": "In 1961, when President John F. Kennedy declared that America would put a man on the moon before the decade's end, NASA was far behind the Soviet Union in the space race. The Soviets had already launched the first satellite, put the first animal in orbit, and sent the first human into space. Yet Kennedy's declaration sparked one of history's most remarkable examples of accelerated progress. NASA, building upon existing research but implementing new management and technical approaches, advanced from basic orbital flights to lunar missions in just eight years. This progress was methodical yet unprecedented in its speed. The organization grew from 36,000 to 400,000 personnel, developed completely new technologies, and solved seemingly impossible technical challenges. Each mission - from Mercury to Gemini to Apollo - built upon the last, creating a structured but rapid advancement of capabilities. From having never sent a human into orbit in 1961, NASA achieved the seemingly impossible goal of landing humans on the moon on July 20, 1969, with Apollo 11. This accelerated progress was made possible not through reckless speed, but through structured, well-supported advancement that balanced innovation with careful testing and validation.",
+        "source": [
+            "\"A Man on the Moon: The Voyages of the Apollo Astronauts\" by Andrew Chaikin (1994)"
+        ],
+        "lines_in_history": {
+            "6": {
+                "name": "Completion and Renewal",
+                "meaning": "As NASA landed humans on the moon, the sixth line marked the closure of a monumental cycle. Surrendering to change and refining experiences led to a symbolic elevation of human achievement.",
+                "changing": "A changing line toward resistance or reluctance to conclude the cycle may disrupt the natural closure and renewal process, prolonging outdated structures and obstructing progress."
+            },
+            "5": {
+                "name": "Executing Lunar Manifestation",
+                "meaning": "At the center of the upper trigram, the fifth line represented NASA's full engagement in realizing the lunar missions. Leadership and determination were key factors in the successful execution of the moon landing.",
+                "changing": "A line change here might indicate indecision, loss of authority, or incomplete realization of the mission, potentially affecting the outcome and leadership position."
+            },
+            "4": {
+                "name": "Preparation for Cosmic Encounters",
+                "meaning": "The emergence in the outer world reflected NASA's alignment with external forces and the preparation for overcoming challenges in space exploration. Each success paved the way for bolder endeavors.",
+                "changing": "An incoming change of line could signify premature actions or initiatives before stable conditions are established, risking the flow of strategic preparations."
+            },
+            "3": {
+                "name": "Culminating Transformation",
+                "meaning": "Reaching the completion stage marked a significant transition from internal preparation to external action. NASA's technical capabilities and accomplishments propelled them towards the ambitious lunar missions.",
+                "changing": "If the changing line introduces hesitation or stagnation in externalizing accomplishments, it may hinder the culmination of transformation and progress towards the ultimate goal."
+            },
+            "2": {
+                "name": "Forming Strategic Foundations",
+                "meaning": "As NASA transitioned to implementing new strategies and technical approaches, the foundation for structured advancement was solidified. Each mission, from Mercury to Gemini, built upon previous successes.",
+                "changing": "A changing line here could indicate premature actions or struggles in integrating new strategies, potentially disrupting the stable foundation of progress."
+            },
+            "1": {
+                "name": "The Emergence of Vision",
+                "meaning": "At the initial stage, the vision of reaching the moon before the decade's end sparked unprecedented progress and determination within NASA. This vision set the course for structured advancement and innovation.",
+                "changing": "When the changing line leads to hesitation or lack of clarity, the vision may lose its momentum, causing a setback in the transformative progress."
+            }
+        }
+    },
+    "trigram_phrase": {
+        "Jungian": "The Earth, in its nurturing embrace, elevates and intensifies the radiance of the Fire, revealing its full potential through a harmonious balance of support and illumination. – Carl Jung",
+        "Platonic": "The concordant fruition of the Receptive and Nurturing essence emerges as a vibrant and radiant luminosity.",
+        "Taoist": "The Earth nurtures with gentle grace, while Fire shines with radiant brilliance. Together, they weave a dance of becoming and light, each amplifying the other's essence in the endless flow of the Tao.",
+        "Tholonic": "When the gentle reception of nurture entwines with the luminous spark of brilliance, there emerges a symphony of vibrant transformation, a reflection of harmony in motion.",
+        "Thermodynamics": "The nurturing entropy of Earth engenders the enthalpy of Fire, resulting in a thermodynamic equilibrium of radiant energy and organic proliferation."
+    },
+    "line_type": [
+        "⚊",
+        "⚋",
+        "⚊",
+        "⚋",
+        "⚋",
+        "⚋"
+    ]
+}

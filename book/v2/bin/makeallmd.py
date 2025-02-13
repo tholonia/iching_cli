@@ -49,11 +49,11 @@ Environment:
 
 # Predefined list of all hexagrams
 # xHEXAGRAMS = [ '20','23','28','30','31','39','55','56','59']
-xHEXAGRAMS = [ '20','23','25','28','50','51'] # bad hex values
+HEXAGRAMS = [ '03']
 
 
 
-HEXAGRAMS = [ '01', '02', '03', '04', '05', '06', '07', '08', '09', '10',
+xHEXAGRAMS = [ '01', '02', '03', '04', '05', '06', '07', '08', '09', '10',
     '11', '12', '13', '14', '15', '16', '17', '18', '19', '20',
     '21', '22', '23', '24', '25', '26', '27', '28', '29', '30',
     '31', '32', '33', '34', '35', '36', '37', '38', '39', '40',
@@ -167,6 +167,12 @@ def format_core_section(core, sfnum):
 
     """Format the core hexagram section"""
 
+
+    """
+    ### {core['trigram_phrase']['Thermodynamics']} *--Thermodynamics*
+    """
+
+
     ostr = f"""
 # &nbsp;
 <div style="margin: 0 auto; text-align: center;border-bottom:1px solid #c5c5c5;padding-bottom:1em;">
@@ -175,7 +181,10 @@ def format_core_section(core, sfnum):
 
 ## {core['description']}
 
-## {core['trigram_phrase']}
+### {core['trigram_phrase']['Taoist']} *--Taoist*
+### {core['trigram_phrase']['Platonic']} *--Platonic*
+### {core['trigram_phrase']['Jungian']} *--Jungian*
+### {core['trigram_phrase']['Tholonic']} *--Tholonic*
 
 <img src="{ROOT}/{core['image']['file']}">
 <span style="margin-bottom: 8px;"> &nbsp; </span>
@@ -190,12 +199,12 @@ def format_core_section(core, sfnum):
 
 #### ***Lines in Transition***
 
-<ul><li><B>Line {core['lines'][0]['position']}</B>: <I>{core['lines'][0]['name']}</I> - {core['lines'][0]['meaning']}.\n<i>Changing</i>: {core['lines'][0]['changing']}</li></ul>
-<ul><li><B>Line {core['lines'][1]['position']}</B>: <I>{core['lines'][1]['name']}</I> - {core['lines'][1]['meaning']}.\n<i>Changing</i>: {core['lines'][1]['changing']}</li></ul>
-<ul><li><B>Line {core['lines'][2]['position']}</B>: <I>{core['lines'][2]['name']}</I> - {core['lines'][2]['meaning']}.\n<i>Changing</i>: {core['lines'][2]['changing']}</li></ul>
-<ul><li><B>Line {core['lines'][3]['position']}</B>: <I>{core['lines'][3]['name']}</I> - {core['lines'][3]['meaning']}.\n<i>Changing</i>: {core['lines'][3]['changing']}</li></ul>
-<ul><li><B>Line {core['lines'][4]['position']}</B>: <I>{core['lines'][4]['name']}</I> - {core['lines'][4]['meaning']}.\n<i>Changing</i>: {core['lines'][4]['changing']}</li></ul>
-<ul><li><B>Line {core['lines'][5]['position']}</B>: <I>{core['lines'][5]['name']}</I> - {core['lines'][5]['meaning']}.\n<i>Changing</i>: {core['lines'][5]['changing']}</li></ul>
+<ul><li><B>{core['lines'][0]['position']} {core['line_type'][0]} </B>: <I>{core['lines'][0]['name']}</I> - {core['lines'][0]['meaning']}.\n<i>Changing</i>: {core['lines'][0]['changing']}</li></ul>
+<ul><li><B>{core['lines'][1]['position']} {core['line_type'][1]} </B>: <I>{core['lines'][1]['name']}</I> - {core['lines'][1]['meaning']}.\n<i>Changing</i>: {core['lines'][1]['changing']}</li></ul>
+<ul><li><B>{core['lines'][2]['position']} {core['line_type'][2]} </B>: <I>{core['lines'][2]['name']}</I> - {core['lines'][2]['meaning']}.\n<i>Changing</i>: {core['lines'][2]['changing']}</li></ul>
+<ul><li><B>{core['lines'][3]['position']} {core['line_type'][3]} </B>: <I>{core['lines'][3]['name']}</I> - {core['lines'][3]['meaning']}.\n<i>Changing</i>: {core['lines'][3]['changing']}</li></ul>
+<ul><li><B>{core['lines'][4]['position']} {core['line_type'][4]} </B>: <I>{core['lines'][4]['name']}</I> - {core['lines'][4]['meaning']}.\n<i>Changing</i>: {core['lines'][4]['changing']}</li></ul>
+<ul><li><B>{core['lines'][5]['position']} {core['line_type'][5]} </B>: <I>{core['lines'][5]['name']}</I> - {core['lines'][5]['meaning']}.\n<i>Changing</i>: {core['lines'][5]['changing']}</li></ul>
 
 #### **No Moving Lines**: {core['transformations']['no_moving_lines']}
 #### **All Moving Lines**: {core['transformations']['all_moving_lines']}
@@ -209,7 +218,7 @@ def format_core_section(core, sfnum):
 """
     return ostr
 
-def format_stories_section(stories):
+def format_stories_section(core,stories):
     """Format the three stories section"""
     result = f"\n\n###### {stories['title']}\n\n"
 
@@ -222,12 +231,12 @@ def format_stories_section(stories):
 #### {udesc}
 
 #### ***Lines in Context:***
-<ul><li><B>6</B>: <i>{story['lines_in_context']['6']['name']}</i> - {story['lines_in_context']['6']['meaning']}. <i>Changing</i> - {story['lines_in_context']['6']['changing']}</li></ul>
-<ul><li><B>5</B>: <i>{story['lines_in_context']['5']['name']}</i> - {story['lines_in_context']['5']['meaning']}. <i>Changing</i> - {story['lines_in_context']['5']['changing']}</li></ul>
-<ul><li><B>4</B>: <i>{story['lines_in_context']['4']['name']}</i> - {story['lines_in_context']['4']['meaning']}. <i>Changing</i> - {story['lines_in_context']['4']['changing']}</li></ul>
-<ul><li><B>3</B>: <i>{story['lines_in_context']['3']['name']}</i> - {story['lines_in_context']['3']['meaning']}. <i>Changing</i> - {story['lines_in_context']['3']['changing']}</li></ul>
-<ul><li><B>2</B>: <i>{story['lines_in_context']['2']['name']}</i> - {story['lines_in_context']['2']['meaning']}. <i>Changing</i> - {story['lines_in_context']['2']['changing']}</li></ul>
-<ul><li><B>1</B>: <i>{story['lines_in_context']['1']['name']}</i> - {story['lines_in_context']['1']['meaning']}. <i>Changing</i> - {story['lines_in_context']['1']['changing']}</li></ul>
+<ul><li><B>6 {core['line_type'][0]}</B>: <i>{story['lines_in_context']['6']['name']}</i> - {story['lines_in_context']['6']['meaning']}. <i>Changing</i> - {story['lines_in_context']['6']['changing']}</li></ul>
+<ul><li><B>5 {core['line_type'][1]}</B>: <i>{story['lines_in_context']['5']['name']}</i> - {story['lines_in_context']['5']['meaning']}. <i>Changing</i> - {story['lines_in_context']['5']['changing']}</li></ul>
+<ul><li><B>4 {core['line_type'][3]}</B>: <i>{story['lines_in_context']['4']['name']}</i> - {story['lines_in_context']['4']['meaning']}. <i>Changing</i> - {story['lines_in_context']['4']['changing']}</li></ul>
+<ul><li><B>3 {core['line_type'][4]}</B>: <i>{story['lines_in_context']['3']['name']}</i> - {story['lines_in_context']['3']['meaning']}. <i>Changing</i> - {story['lines_in_context']['3']['changing']}</li></ul>
+<ul><li><B>2 {core['line_type'][5]}</B>: <i>{story['lines_in_context']['2']['name']}</i> - {story['lines_in_context']['2']['meaning']}. <i>Changing</i> - {story['lines_in_context']['2']['changing']}</li></ul>
+<ul><li><B>1 {core['line_type'][5]}</B>: <i>{story['lines_in_context']['1']['name']}</i> - {story['lines_in_context']['1']['meaning']}. <i>Changing</i> - {story['lines_in_context']['1']['changing']}</li></ul>
 """
 
     return result
@@ -245,12 +254,12 @@ def format_history_section(history, core):
 
 #### ***Lines in Context:***
 
-<ul><li><B>1</B>: <i>{history['lines_in_history']['6']['name']}</i> - {history['lines_in_history']['6']['meaning']} <i>Changing</i> - {history['lines_in_history']['6']['changing']}</li></ul>
-<ul><li><B>2</B>: <i>{history['lines_in_history']['5']['name']}</i> - {history['lines_in_history']['5']['meaning']} <i>Changing</i> - {history['lines_in_history']['5']['changing']}</li></ul>
-<ul><li><B>3</B>: <i>{history['lines_in_history']['4']['name']}</i> - {history['lines_in_history']['4']['meaning']} <i>Changing</i> - {history['lines_in_history']['4']['changing']}</li></ul>
-<ul><li><B>4</B>: <i>{history['lines_in_history']['3']['name']}</i> - {history['lines_in_history']['3']['meaning']} <i>Changing</i> - {history['lines_in_history']['3']['changing']}</li></ul>
-<ul><li><B>5</B>: <i>{history['lines_in_history']['2']['name']}</i> - {history['lines_in_history']['2']['meaning']} <i>Changing</i> - {history['lines_in_history']['2']['changing']}</li></ul>
-<ul><li><B>6</B>: <i>{history['lines_in_history']['1']['name']}</i> - {history['lines_in_history']['1']['meaning']} <i>Changing</i> - {history['lines_in_history']['1']['changing']}</li></ul>
+<ul><li><B>6 {core['line_type'][0]}</B>: <i>{history['lines_in_history']['6']['name']}</i> - {history['lines_in_history']['6']['meaning']} <i>Changing</i> - {history['lines_in_history']['6']['changing']}</li></ul>
+<ul><li><B>5 {core['line_type'][1]}</B>: <i>{history['lines_in_history']['5']['name']}</i> - {history['lines_in_history']['5']['meaning']} <i>Changing</i> - {history['lines_in_history']['5']['changing']}</li></ul>
+<ul><li><B>4 {core['line_type'][3]}</B>: <i>{history['lines_in_history']['4']['name']}</i> - {history['lines_in_history']['4']['meaning']} <i>Changing</i> - {history['lines_in_history']['4']['changing']}</li></ul>
+<ul><li><B>3 {core['line_type'][4]}</B>: <i>{history['lines_in_history']['3']['name']}</i> - {history['lines_in_history']['3']['meaning']} <i>Changing</i> - {history['lines_in_history']['3']['changing']}</li></ul>
+<ul><li><B>2 {core['line_type'][5]}</B>: <i>{history['lines_in_history']['2']['name']}</i> - {history['lines_in_history']['2']['meaning']} <i>Changing</i> - {history['lines_in_history']['2']['changing']}</li></ul>
+<ul><li><B>1 {core['line_type'][5]}</B>: <i>{history['lines_in_history']['1']['name']}</i> - {history['lines_in_history']['1']['meaning']} <i>Changing</i> - {history['lines_in_history']['1']['changing']}</li></ul>
 """
 
 def format_intro_section(args):
@@ -299,7 +308,7 @@ def generate_markdown_from_json(json_data, sfnum):
     markdown += format_core_section(core, sfnum)
 
     # Add stories section
-    markdown += format_stories_section(json_data['stories'])
+    markdown += format_stories_section(json_data,json_data['stories'])
 
     # Add history section
     markdown += "\n\n" + format_history_section(json_data['history'], json_data)

@@ -111,9 +111,10 @@ body {
     height: auto !important;
 }
 
-/* === Print-Specific Styles === */
+
 @page {
     size: @page-width @page-height !important;
+    counter-reset: page 5 !important; /* Start counting from 3, so first page will be 4 */
 }
 
 @page :left {

@@ -1,0 +1,271 @@
+{
+    "id": 47,
+    "hexagram_code": "䷮",
+    "name": "Depletion",
+    "description": "A time of diminishing resources and challenging circumstances that demands resilience and strategic conservation. Like a lake during drought or batteries running low, this represents the need to manage scarcity while maintaining essential functions.",
+    "king_wen": {
+        "sequence": 47,
+        "traditional_title": "Kun/Oppression/Exhaustion",
+        "common_title": ""
+    },
+    "binary_sequence": 26,
+    "trigrams": {
+        "above": {
+            "Trigram Number": 8,
+            "Binary Decimal": 4,
+            "Symbol": "☱",
+            "Chinese Symbol": "兑",
+            "Phonetic": "Duì",
+            "English Translation": "Lake/Marsh",
+            "English Symbol": "泽",
+            "Meaning": "The Joyous",
+            "Quality": "Joyful and Harmonious"
+        },
+        "below": {
+            "Trigram Number": 6,
+            "Binary Decimal": 2,
+            "Symbol": "☵",
+            "Chinese Symbol": "坎",
+            "Phonetic": "Kǎn",
+            "English Translation": "Water",
+            "English Symbol": "水",
+            "Meaning": "The Abysmal",
+            "Quality": "Deep and Mysterious"
+        }
+    },
+    "attributes": {
+        "perspective": "Managing scarcity while maintaining core integrity",
+        "nature": "Constraining, challenging, limiting",
+        "action": "Conservation, adaptation, endurance",
+        "success_through": "Careful resource management and maintaining optimism",
+        "challenge": "Maintaining effectiveness and spirit during times of scarcity"
+    },
+    "lines": [
+        {
+            "position": 6,
+            "name": "The Transcendent End",
+            "meaning": "The final line marks the culmination of depletion, where what remains is refined into a state ready for rebirth. It signifies that every ending holds the seed of a new beginning.",
+            "changing": "At this terminal phase, the exhausted yin completes its cycle by fully metamorphosing into yang energy, signaling the imminent arrival of regeneration and fresh potential."
+        },
+        {
+            "position": 5,
+            "name": "Crystalline Resolve",
+            "meaning": "Amid the decay, a clarifying moment crystallizes determination. This line embodies the emergence of clarity and firmness in purpose during trying times.",
+            "changing": "The energy of passive yin, when honed by resolve, transforms into a potent yang that consolidates dwindling resources into a concentrated drive for renewal."
+        },
+        {
+            "position": 4,
+            "name": "The Waning Beacon",
+            "meaning": "Even as resources and energies diminish, a residual light offers wisdom. This line speaks to the deep understanding that comes from accepting limitations.",
+            "changing": "In the balance of loss and learning, the remaining yin can be refashioned into a focused yang force, providing measured progress from the embers."
+        },
+        {
+            "position": 3,
+            "name": "Crossroads of Decline",
+            "meaning": "Positioned in the heart of depletion, this line represents a critical juncture where decision and insight become essential. The path chosen now determines the future stability.",
+            "changing": "By recognizing this pivotal moment, one can catalyze a reawakening of yang energy from the passive yin, setting the stage for a reformed outlook."
+        },
+        {
+            "position": 2,
+            "name": "Resisting Decay",
+            "meaning": "A struggle emerges between diminishing resources and the will to persevere. This line reflects the tension of trying to maintain what is precious amid inevitable loss.",
+            "changing": "Through determined action, the passive yin can begin to transform gradually into active yang, symbolizing the slow rekindling of strength."
+        },
+        {
+            "position": 1,
+            "name": "Hidden Fractures",
+            "meaning": "At the inception of depletion, subtle cracks signal inherent vulnerability. This line advises careful observation of the weakening structure and cautious steps forward.",
+            "changing": "A latent potential exists to stir a small burst of yang energy from a receding yin, hinting at the possibility of initiating renewal."
+        }
+    ],
+    "tholonic_analysis": {
+        "negotiation": "The hexagram represents the balance between scarcity and sufficiency. The water below (danger) and lake above (joy) suggests that even in times of depletion, opportunities for renewal exist if resources are managed wisely.",
+        "limitation": "The structure defines boundaries between necessary and wasteful expenditure. It establishes how conservation must occur within practical constraints, showing that effective management requires understanding true needs.",
+        "contribution": "This configuration contributes to systemic evolution by demonstrating how systems adapt to and survive periods of scarcity. It shows how limitation can lead to innovation and more efficient use of resources.",
+        "significance_in_thologram": "Represents a critical phase where systems must optimize and adapt to reduced resources. Functions as a model for how awareness navigates scarcity. Important in understanding how systems maintain integrity during challenging periods."
+    },
+    "transformations": {
+        "no_moving_lines": "The situation calls for careful conservation and strategic adaptation. Continue managing resources wisely while maintaining core functions. Success comes through patient endurance.",
+        "all_moving_lines": "Complete transformation of the resource situation is occurring. All aspects of scarcity are in flux. The depletion will lead to fundamental change, requiring careful attention to maintaining essential operations."
+    },
+    "hierarchy": {
+        "order8child": "Depletion before renewal",
+        "order8parent": "RESOLUTION; Moving Toward Completion"
+    },
+    "image": {
+        "description": "The imagery chosen for the hexagram \"Depletion\" illustrates a profound interplay of universal patterns and hierarchical relationships, capturing the essence of scarcity and resilience. The stark contrast between the gnarled, withered branches and the ethereal forms suggests a dynamic relationship where chaos and structure coexist. This visual triad, linking the grounded roots with the airy, abstract shapes above, embodies the concept of emergent order, where constraints spur adaptation and innovation. The dark, foreboding trees represent constraining forces while the suspended, fluid forms indicate potential renewal and adaptability, echoing the balance between maintaining core integrity amidst limitation. The medium's contrast and the spatial dynamics highlight the choreography between depletion and optimism, mirroring metamorphosis through strategic conservation and endurance.",
+        "file": "47.png"
+    },
+    "energy_cycle": "ascending",
+    "stories": {
+        "title": "Three Tales of 'Depletion'",
+        "entries": [
+            {
+                "title": "The Last Signal (Man vs. Man)",
+                "theme": "Isaac Asimov",
+                "summary": "Commander Sarah Chen stared at the dimming holographic display of the Europa Research Station. After the solar storm had knocked out their primary power systems, the station's fifty-seven inhabitants had only enough fusion fuel to maintain life support for another three weeks. Earth had received their distress signal, but the nearest rescue vessel was two months away. 'Status report,' she commanded, her voice steady despite the fear gnawing at her core. Her engineering team had already shut down non-essential systems, but it wasn't enough. They needed to reduce power consumption by another 40% to survive until help arrived. The social tensions were mounting as each department fought to preserve their research priorities. Chen knew that their only hope lay in perfect resource management and maintaining crew morale. She had already moved all personnel to the central hub to conserve heat and initiated strict rationing of both food and power. As she worked on the calculations for the seventh time, she realized that survival would require not just technical solutions, but a deep understanding of human psychology under extreme stress.",
+                "lines_in_context": {
+                    "6": {
+                        "name": "Completion and Refinement",
+                        "meaning": "Closure of a cycle, surrender to change, or refinement of experience. Receptive phase.",
+                        "changing": "If the line's Yin changes to Yang, it may indicate resistance to closure, clinging to power, or forced extension beyond the natural completion."
+                    },
+                    "5": {
+                        "name": "Leadership and Execution",
+                        "meaning": "Engagement in the world, leadership, and full realization of potential. Active force.",
+                        "changing": "If the line's Yang changes to Yin, it could mean indecision, loss of authority, or incomplete realization of vision."
+                    },
+                    "4": {
+                        "name": "Alignment and Preparation",
+                        "meaning": "Alignment with external forces and readiness for action. Receptive phase.",
+                        "changing": "If the line's Yin changes to Yang, it may suggest premature external assertion before conditions stabilize."
+                    },
+                    "3": {
+                        "name": "Transition and Manifestation",
+                        "meaning": "Culmination of inner process transitioning to external action. Strength in completion.",
+                        "changing": "If the line's Yang changes to Yin, it may suggest hesitation in carrying realization outward or stagnation at the threshold of change."
+                    },
+                    "2": {
+                        "name": "Structuring Harmony",
+                        "meaning": "Support, alignment, and formation of potential. Receptive phase.",
+                        "changing": "If the line's Yin changes to Yang, it may indicate premature action, instability, or struggle to integrate."
+                    },
+                    "1": {
+                        "name": "Cultivating Potential",
+                        "meaning": "Initial stage where potential takes form. Initiating force.",
+                        "changing": "If the line's Yang changes to Yin, it may signal hesitation, weakness, or unreadiness."
+                    }
+                }
+            },
+            {
+                "title": "The Desert Crossing (Man vs. Nature)",
+                "theme": "Ernest Hemingway",
+                "summary": "The old truck sputtered on its last drops of fuel. Hassan checked his water supply: two liters left. The Sahara stretched endless in every direction, the next oasis still three days' walk away. He had driven this route for twenty years, but never this late in the season. The sun was stronger now. Different. He could feel it trying to drain him dry. The truck's radiator had been leaking for the past hundred kilometers. He had patched it with soap and egg whites, an old trick learned from his father, but it wouldn't hold much longer. Hassan stepped out into the heat. The wind had erased the track again. He studied the sun's position, remembering the old ways of navigation. His grandfather had crossed this same desert on a camel, reading the stars and the wind. Hassan smiled. Sometimes going forward meant going back to older wisdom. He shouldered his water bag and began walking, leaving the truck to be swallowed by the sands.",
+                "lines_in_context": {
+                    "6": {
+                        "name": "Completion",
+                        "meaning": "Closure of a cycle and surrender to change or refinement of experience. Reversing to yang could indicate resistance to closure or the urge to prolong a process beyond its natural end.",
+                        "changing": "Contribution (Integration): The force of integration faces disruptions as resistance to closure emerges, impacting the harmonious completion of cycles."
+                    },
+                    "5": {
+                        "name": "Leadership",
+                        "meaning": "Full engagement in external actions and realization of vision. Changing to yin may imply indecision or a loss of authority in executing plans.",
+                        "changing": "Limitation (Definition): The need for clearer structures and boundaries becomes apparent as the execution of plans faces challenges in maintaining authority and direction."
+                    },
+                    "4": {
+                        "name": "Adaptation",
+                        "meaning": "Preparation for external manifestation and alignment with external forces. Reversal to yang suggests premature assertion in the outer world.",
+                        "changing": "Negotiation (Balance): Imbalance arises as external influences clash, leading to challenges in achieving alignment and readiness for manifestation."
+                    },
+                    "3": {
+                        "name": "Transition",
+                        "meaning": "Completion of internal transformation and readiness for external action. Reversing to yin may indicate hesitation in moving forward or reluctance to manifest change outwardly.",
+                        "changing": "Contribution (Integration): The energy of integration seeks expression but encounters resistance, delaying the transition to the external world."
+                    },
+                    "2": {
+                        "name": "Formation",
+                        "meaning": "Active structuring of potential and alignment with support systems. Changing to yang may signify premature action or instability.",
+                        "changing": "Limitation (Definition): The need for clear boundaries emerges, guiding the integration of structures and fostering stability."
+                    },
+                    "1": {
+                        "name": "Emergence",
+                        "meaning": "The beginning stage of transformation where potential arises and initiates change. Reversal to yin can indicate hesitancy or lack of readiness.",
+                        "changing": "Negotiation (Balance): The force of balance struggles to find equilibrium, leading to uncertainty and potential stagnation."
+                    }
+                }
+            },
+            {
+                "title": "The Writer's Block (Man vs. Self)",
+                "theme": "Jorge Luis Borges",
+                "summary": "In the labyrinth of his mind, where once infinite stories bloomed like desert flowers after rain, the writer found only empty pages and echoing silence. For thirty years, words had flowed through him like a river, twenty-three novels that had earned him prizes and acclaim. But now, in his sixtieth year, the well had run dry. He sat at his desk each morning, as disciplined as ever, but the words that came were hollow, lifeless things. His publisher waited for the next masterpiece, but how could he explain that the source of his inspiration had become a maze where each turn led back to the beginning? In his dreams, he wandered through vast libraries where all the books were blank. Yet in this emptiness, he began to discover something new: the value of silence, the weight of a single, perfect word. Perhaps, he thought, this drought was not an ending but a transformation, teaching him to find depth in scarcity where once he had reveled in abundance.",
+                "lines_in_context": {
+                    "6": {
+                        "name": "Closure to Renewal",
+                        "meaning": "The writer nears the end of his journey through emptiness, finding closure in the acceptance of his transformed state. This closure signals the dawn of renewal, a shedding of old selves to allow space for the birth of new creative visions.",
+                        "changing": "If the closing line (Yin) transitions into renewal (Yang), it symbolizes the end as a new beginning, the cycle of completion giving rise to the seeds of fresh creativity and a renaissance of self-expression."
+                    },
+                    "5": {
+                        "name": "Exploration to Leadership",
+                        "meaning": "At the core of the writer's emptiness lies the seed of exploration. This phase calls for leadership, a full engagement with the void to unearth the buried treasures of creativity within. The writer emerges as a guide to his own transformation.",
+                        "changing": "When the exploratory line (Yang) ascends to a position of leadership (Yin), it signifies a shift from seeking to guiding, embracing the responsibility of leading oneself through the uncharted territories of creative discovery."
+                    },
+                    "4": {
+                        "name": "Limitation to Liberation",
+                        "meaning": "Externally, the writer's confinement to his struggle becomes evident. This phase of limitation acts as a crucible for his liberation, offering the opportunity to break free from constraints and forge a new path forward.",
+                        "changing": "If the limited line (Yin) transitions into freedom (Yang), it represents the moment of breaking boundaries, shattering constraints, and embracing the liberation that comes from transcending one's existing limitations."
+                    },
+                    "3": {
+                        "name": "Transition to Evolution",
+                        "meaning": "As the writer contemplates his plight, he stands at the threshold of transition. The completion of his internal struggle beckons the moment to evolve beyond his current state. The silence whispers of growth and adaptation.",
+                        "changing": "When the transitional line (Yang) evolves into a new form (Yin), it signifies the completion of one phase and the initiation of a cycle of growth and renewal, embracing the evolution of self."
+                    },
+                    "2": {
+                        "name": "Reflection to Transformation",
+                        "meaning": "Amidst the silence, the writer begins to see the reflection of his inner struggles. His journey shifts from contemplation to the realization that transformation must follow reflection. Every hollow word becomes a mirror for his evolving self.",
+                        "changing": "When the reflective line (Yin) transforms into a force of inner change (Yang), it indicates the readiness to break free from self-imposed limitations and embrace the metamorphosis ahead."
+                    },
+                    "1": {
+                        "name": "Stagnation to Potential",
+                        "meaning": "The writer, once prolific, now faces a void within his creative domain. Stagnation has replaced the flow of inspiration. However, within this emptiness lies the seed of potential, awaiting the spark of transformation.",
+                        "changing": "If the stagnant line (Yin) changes to potential (Yang), it signifies the awakening of creative forces, breaking free from inertia and embracing new beginnings."
+                    }
+                }
+            }
+        ]
+    },
+    "history": {
+        "title": "The Long March of Mao",
+        "subtitle": "\"Depletion\" in History",
+        "summary": "In October 1934, Mao Zedong and the Chinese Communist Party faced near annihilation. Surrounded by Nationalist forces and severely depleted in resources, they embarked on what would become known as the Long March - one of history's most remarkable examples of endurance under extreme depletion. Beginning with 86,000 troops, the Communists were forced to abandon their stronghold in Jiangxi Province, beginning a retreat that would cover over 6,000 miles through some of China's most treacherous terrain. Their resources were desperately scarce: soldiers survived on a daily ration of a handful of rice, many without shoes or adequate clothing. They crossed 18 mountain ranges and 24 rivers, often while under attack from hostile forces and dealing with severe weather conditions. The march depleted their numbers drastically - only about 8,000 of the original marchers completed the journey. Yet this period of extreme hardship ultimately strengthened the movement. The survivors developed incredible resilience and resourcefulness, and the march became a powerful symbol of determination against overwhelming odds. When they finally reached their destination in Yan'an, the remaining force had been forged into a hardened core that would eventually lead the Communist Party to victory in 1949.",
+        "source": [
+            "The Long March: The True History of Communist China's Founding Myth by Sun Shuyun (Doubleday, 2006)"
+        ],
+        "lines_in_history": {
+            "6": {
+                "name": "Completion - Closure and New Beginnings",
+                "meaning": "Concluding the cycle, this stage signals the closure of a phase, surrendering to change, and refining experiences for new beginnings. It represents the end of a chapter and the preparation for fresh starts and transformations. When the line's yin or yang value changes to its opposite, there is a shift from clinging to power or resisting closure to embracing necessary endings and facilitating the process of renewal and regeneration.",
+                "changing": "changing line"
+            },
+            "5": {
+                "name": "Action - Full Engagement and Leadership",
+                "meaning": "Representing full engagement in the external world, this stage embodies leadership and the active execution of potential. It signifies taking charge and leading with authority, ensuring the realization of objectives and visions. When the line's yin or yang value changes to its opposite, there is a shift from indecision or incomplete realization to assertive decision-making and the fulfillment of responsibilities with clarity and confidence.",
+                "changing": "changing line"
+            },
+            "4": {
+                "name": "Adaptation - Flexibility and Preparation",
+                "meaning": "In the outer world cycle, this stage emphasizes alignment with external forces and preparation for action. It calls for adaptability and readiness to respond to changing circumstances, setting the stage for effective engagement with the environment. When the line's yin or yang value changes to its opposite, there is a shift from premature assertion to strategic preparedness, allowing for a more grounded and effective approach to external challenges.",
+                "changing": "changing line"
+            },
+            "3": {
+                "name": "Transition - Culmination and Transition",
+                "meaning": "As the culmination of the inner cycle, this stage marks the transition to external action, signifying the completion of internal processes and readiness for outward manifestations. It symbolizes the threshold of change and the evolution towards tangible outcomes. When the line's yin or yang value changes to its opposite, there is a shift from stagnation or hesitation to proactive progression, urging the realization of inner transformations in the external world.",
+                "changing": "changing line"
+            },
+            "2": {
+                "name": "Alignment - Forming Support",
+                "meaning": "At this stage, receptivity and alignment with supportive forces come into play, structuring the potential for growth and development. It signifies the need for stability and harmony to nurture emerging possibilities. When the line's yin or yang value changes to its opposite, there is a shift from premature action or instability to a solid foundation that fosters growth and resilience in the face of challenges.",
+                "changing": "changing line"
+            },
+            "1": {
+                "name": "Emergence - Initiating Potential",
+                "meaning": "This stage represents the birth of potential and the initiation of a force. The emergence of new beginnings and the spark of action are embodied in this transformation. When the line's yin or yang value changes to its opposite, a decisive shift occurs, signaling a transition from hesitation or weakness to a bold step forward in embracing new opportunities and overcoming obstacles.",
+                "changing": "changing line"
+            }
+        }
+    },
+    "trigram_phrase": {
+        "Jungian": "In the dance of the psyche, the deepest mysteries reveal themselves when we harmonize with the joyful resonance of the Self.",
+        "Platonic": "The emergence of true profundity is discovered in the harmonious balance of joy and order.",
+        "Taoist": "In the dance of vibrant balance, the essence of deep mystery reveals itself.",
+        "Tholonic": "In the dance between profound depth and radiant harmony, hidden insights unfold, whispered through a joyous and unified expression.",
+        "Thermodynamics": "The revelation of deep enigma emerges as a thermodynamic waltz in a state of joyful equilibrium."
+    },
+    "line_type": [
+        "⚋",
+        "⚊",
+        "⚊",
+        "⚋",
+        "⚊",
+        "⚋"
+    ]
+}
