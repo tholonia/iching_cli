@@ -1,13 +1,44 @@
 #!/bin/bash
 
-# This script regenerates lines in context for a specific I Ching hexagram.
-# It requires exactly one argument: the hexagram number (an integer between 1 and 64).
+# =============================================================================
+# regen_lines_in_context_HEX.sh - I Ching Hexagram Line Context Generator
+# =============================================================================
+#
+# Description:
+#   This script regenerates line context data for a specific I Ching hexagram.
+#   It processes each line (0-2) of the specified hexagram, updating the
+#   contextual information in the corresponding files.
 #
 # Usage:
 #   ./regen_lines_in_context_HEX.sh <hexagram_number>
 #
-# Example:
-#   ./regen_lines_in_context_HEX.sh 1
+# Arguments:
+#   hexagram_number: Number of the hexagram (1-64)
+#
+# Examples:
+#   ./regen_lines_in_context_HEX.sh 1    # Process hexagram 1
+#
+# Process:
+#   1. Validates input hexagram number (1-64)
+#   2. For each line (0-2):
+#      - Calls regen_lines_in_context.py
+#      - Updates context data in ../regen directory
+#
+# Dependencies:
+#   - regen_lines_in_context.py script
+#   - Python environment with required packages
+#
+# File Structure:
+#   - Input/Output: ../regen/<hexagram_number>_*.json
+#
+# Error Handling:
+#   - Validates number of arguments
+#   - Ensures hexagram number is valid integer
+#   - Checks range (1-64)
+#
+# Author: JW
+# Last Updated: 2024
+# =============================================================================
 
 # Check if exactly one argument is provided
 if [ "$#" -ne 1 ]; then

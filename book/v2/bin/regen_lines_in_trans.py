@@ -1,54 +1,57 @@
 #!/bin/env python
 
 """
-regen_lines_in_trans.py - Regenerate Lines in Transition for I Ching Hexagrams
+=============================================================================
+regen_lines_in_trans.py - I Ching Line Transition Generator
+=============================================================================
 
-This script uses OpenAI's GPT-4 to generate new interpretations for the lines_in_transition
-fields in I Ching hexagram JSON files. It processes each hexagram and updates its
-line interpretations while maintaining the original structure.
-
-Key Features:
-- Uses GPT-4 to generate new line interpretations
-- Processes specified hexagram files
-- Maintains JSON structure and formatting
-- Validates generated content
-- Provides colorized progress feedback
-
-Input: source_dir/*.json files
-Output: dest_dir/*.json files
+Description:
+  This script generates line transition interpretations for I Ching hexagrams
+  using the OpenAI API. It processes JSON files containing hexagram data and
+  updates them with new line-by-line transition meanings. For each line,
+  it generates a name, meaning, and changing line interpretation based on
+  the hexagram's context.
 
 Usage:
-    ./regen_lines_in_trans.py <from_dir> <to_dir>
+  ./regen_lines_in_trans.py <source_dir> <dest_dir>
 
-Required Arguments:
-    from_dir: Source directory containing JSON files
-    to_dir: Destination directory for transformed files
+Arguments:
+  source_dir: Directory containing source hexagram JSON files
+  dest_dir: Directory to write updated JSON files
 
-Example:
-    ./regen_lines_in_trans.py ../_v2 ../_v3
-
-Environment Variables:
-    OPENAI_API_KEY: Your OpenAI API key (required)
-
-File Processing:
-    - Reads hexagram files from source directory
-    - Generates new interpretations via OpenAI API
-    - Updates lines_in_transition fields
-    - Saves transformed files to destination directory
-
-Error Handling:
-    - Validates input directory exists
-    - Creates output directory if needed
-    - Validates API responses
-    - Reports processing errors per file
-    - Continues processing on individual file errors
-    - Exits if required arguments are missing
+Process:
+  1. Validates input/output directories
+  2. Loads hexagram JSON data
+  3. For each hexagram (1-64):
+     - Extracts hexagram context and data
+     - Uses OpenAI API to generate line transitions
+     - For each line (1-6):
+       * Generates name capturing transition concept
+       * Generates meaning interpretation
+       * Generates changing line interpretation
+  4. Updates JSON with new line data
+  5. Saves to destination directory
 
 Dependencies:
-    - Python 3.6+
-    - openai
-    - colorama
-    - Standard library (os, json, re, sys)
+  - Python 3.x
+  - Required packages: openai, colorama
+  - OpenAI API key in environment
+
+File Structure:
+  - Input: <source_dir>/<hexagram>.json
+  - Output: <dest_dir>/<hexagram>.json
+
+Environment:
+  OPENAI_API_KEY: OpenAI API authentication key
+
+Error Handling:
+  - Validates directory paths
+  - Ensures valid JSON formatting
+  - Handles API errors gracefully
+
+Author: JW
+Last Updated: 2024
+=============================================================================
 """
 
 import os
@@ -109,14 +112,14 @@ print(f"Processing files from {input_dir} to {output_dir}")
 def generate_all_line_interpretations(hexagram_data):
     """Generate interpretations for all 6 lines using a single OpenAI API call."""
     print(f"{Fore.CYAN}Generating interpretations for all lines of {hexagram_data['name']}...{Style.RESET_ALL}")
-    
+
     prompt = f"""
     For I Ching hexagram {hexagram_data['name']}, generate new interpretations for all 6 lines.
     For each line (1-6), provide:
     1. A name that captures the essence of the line
     2. A meaning that explains its significance
     3. A yin_to_yang transformation description if applicable
-    
+
     Return only a JSON object with keys "1" through "6", each containing "name", "meaning", and "yin_to_yang" fields.
     """
 
@@ -129,11 +132,11 @@ def generate_all_line_interpretations(hexagram_data):
                 {"role": "user", "content": prompt}
             ]
         )
-        
+
         # Get the response content
         response_text = response.choices[0].message.content.strip()
         print(f"{Fore.GREEN}Received response from API{Style.RESET_ALL}")
-        
+
         try:
             result = json.loads(response_text)
             return result
@@ -148,7 +151,7 @@ def generate_all_line_interpretations(hexagram_data):
 def process_json(file_path):
     """Process JSON file, generate new interpretations, and update the file."""
     print(f"\n{Fore.CYAN}Processing file: {file_path}{Style.RESET_ALL}")
-    
+
     try:
         with open(file_path, "r", encoding="utf-8") as f:
             data = json.load(f)

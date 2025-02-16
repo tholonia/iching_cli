@@ -1,59 +1,90 @@
 #!/bin/env python
 
 """
-I Ching Book Generator
+=============================================================================
+makeallmd.py - I Ching Book Markdown Generator
+=============================================================================
 
-This script generates a formatted markdown document for the I Ching book by combining:
-- Introduction text
-- Hexagram data from JSON files
-- Generated literary descriptions
-- Images and their descriptions
+Description:
+  This script generates a formatted markdown document for the I Ching book by
+  combining JSON data, generated descriptions, and images into a cohesive
+  document structure.
 
-Features:
-1. Processes hexagrams defined in HEXAGRAMS list (configurable subset of 01-64)
-2. For each hexagram, generates sections for:
-   - Title and basic information
-   - Core hexagram description and image
-   - Line-by-line interpretations
-   - Three thematic stories
-   - Historical context
-   - Notes section
-3. Formats content with:
-   - Proper page breaks for book layout
-   - Consistent heading hierarchy
-   - Structured lists for line interpretations
-   - Image placement and captions
-4. Caches generated descriptions to avoid redundant API calls
+Usage:
+  python makeallmd.py [--content {all,pages}] [--test]
 
-Input Files:
-- /BOOK_INTRO.md: Introduction text
-- /*.json: Hexagram data files (XX.json where XX is hexagram number)
-- /*_img.txt: Cached image descriptions
-- /*_hex.txt: Cached hexagram descriptions
-- /export.yaml: Document metadata and configuration
+Arguments:
+  --content: Choose content to include
+    all: Include introduction and hexagram pages (default)
+    pages: Include only hexagram pages
+  --test: Use test set of hexagrams instead of full set
+    When active, uses test_HEXAGRAMS = ['01']
+    When inactive, uses all 64 hexagrams
 
-Output:
-- docs/iching.md: Complete markdown document ready for PDF conversion
+Process:
+  1. Processes hexagrams defined in HEXAGRAMS list
+     (or test_HEXAGRAMS if --test is active)
+  2. For each hexagram, generates sections for:
+     - Title and basic information
+     - Core hexagram description and image
+     - Line-by-line interpretations
+     - Three thematic stories
+     - Historical context
+     - Notes section
+  3. Formats content with:
+     - Proper page breaks for book layout
+     - Consistent heading hierarchy
+     - Structured lists for line interpretations
+     - Image placement and captions
+  4. Adds table of contents navigation element
 
 Dependencies:
-- colorama: Terminal output formatting
-- openai: GPT-4 API for literary descriptions
-- pyyaml: YAML frontmatter handling
-- json: JSON data parsing
-- re: Regular expression text processing
+  - Required Python packages:
+    - colorama: Terminal output formatting
+    - pyyaml: YAML frontmatter handling
+    - json: JSON data parsing
+    - re: Regular expression text processing
+    - argparse: Command line argument parsing
+
+File Structure:
+  Input:
+    - /BOOK_INTRO.md: Introduction text
+    - /*.json: Hexagram data files (XX.json where XX is hexagram number)
+    - /*_img.txt: Cached image descriptions
+    - /*_hex.txt: Cached hexagram descriptions
+    - /export.yaml: Document metadata and configuration
+  Output:
+    - includes/iching.md: Complete markdown document with TOC
+
+TOC Structure:
+  - Adds navigation element at start of document:
+    <nav role="doc-toc">
+      <h1>Table of Contents</h1>
+    </nav>
+  - Required for Prince PDF generation
+  - Must be properly formatted for CSS styling
 
 Environment:
-- Requires OPENAI_API_KEY environment variable
-- Expects ROOT directory with required input files
-"""
+  - ROOT: Base directory containing required input files
 
+Example:
+  # Generate full book with all hexagrams
+  python makeallmd.py --content all
+
+  # Generate only hexagram pages with test set
+  python makeallmd.py --content pages --test
+
+Author: JW
+Last Updated: 2024
+=============================================================================
+"""
 # Predefined list of all hexagrams
 # xHEXAGRAMS = [ '20','23','28','30','31','39','55','56','59']
-HEXAGRAMS = [ '03']
+test_HEXAGRAMS = [ '01','02','03']
 
 
 
-xHEXAGRAMS = [ '01', '02', '03', '04', '05', '06', '07', '08', '09', '10',
+HEXAGRAMS = [ '01', '02', '03', '04', '05', '06', '07', '08', '09', '10',
     '11', '12', '13', '14', '15', '16', '17', '18', '19', '20',
     '21', '22', '23', '24', '25', '26', '27', '28', '29', '30',
     '31', '32', '33', '34', '35', '36', '37', '38', '39', '40',
@@ -170,6 +201,10 @@ def format_core_section(core, sfnum):
 
     """
     ### {core['trigram_phrase']['Thermodynamics']} *--Thermodynamics*
+### {core['trigram_phrase']['Taoist']} *--Taoist*
+### {core['trigram_phrase']['Platonic']} *--Platonic*
+### {core['trigram_phrase']['Jungian']} *--Jungian*
+### {core['trigram_phrase']['Tholonic']} *--Tholonic*
     """
 
 
@@ -181,10 +216,7 @@ def format_core_section(core, sfnum):
 
 ## {core['description']}
 
-### {core['trigram_phrase']['Taoist']} *--Taoist*
-### {core['trigram_phrase']['Platonic']} *--Platonic*
-### {core['trigram_phrase']['Jungian']} *--Jungian*
-### {core['trigram_phrase']['Tholonic']} *--Tholonic*
+### Trigrams: {core['trigram_phrase']['Jungian']}
 
 <img src="{ROOT}/{core['image']['file']}">
 <span style="margin-bottom: 8px;"> &nbsp; </span>
@@ -223,7 +255,7 @@ def format_stories_section(core,stories):
     result = f"\n\n###### {stories['title']}\n\n"
 
     for story in stories['entries']:
-        udesc = re.sub(r'(?<!\n)\n(?!\n)', '\n\n', story['summary'])
+        udesc = re.sub(r'(?<!\n)\n(?!\n)', '\n\n', story['short_story'])
         result += f"""
 ##### {story['title']}
 ### In the style of {story['theme']}
@@ -248,7 +280,7 @@ def format_history_section(history, core):
 
 ##### *{history['title']}*
 
-#### {history['summary']}
+#### {history['short_story']}
 
 <div style="font-size: 8pt;font-style:italic">Source: {', '.join(history['source'])}</div>
 
@@ -265,7 +297,7 @@ def format_history_section(history, core):
 def format_intro_section(args):
     """Format the intro section"""
     if args.content == "all":
-        with open(f"{ROOT}/docs/BOOK_INTRO.md", 'r', encoding='utf-8') as file:
+        with open(f"{ROOT}/includes/BOOK_INTRO.md", 'r', encoding='utf-8') as file:
             intro = file.read()
 
         # intro += "\n<div style=\"page-break-after: always;\"></div>\n"
@@ -349,10 +381,10 @@ def generate_markdown_from_json(json_data, sfnum):
 
     markdown += f"""
 
+<div style="page-break-before: always;"></div>
 ###### *Notes*
 
 ### **King Wen Order**: {core['king_wen']['sequence']} {core['hexagram_code']} {core['king_wen']['common_title']} **Binary**: {core['binary_sequence']}, **Above**: {above_num} (binary {above_bin}) {above_engtr} {above_symbol} {above_meaning}, **Below**: {below_num} (binary {below_bin}) {below_engtr} {below_symbol} {below_meaning}
-
 """
     return markdown
 
@@ -383,8 +415,13 @@ def parse_args():
     parser.add_argument(
         '--content',
         choices=['all', 'pages'],
-        default='all',
+        default='pages',
         help='Include all content (with intro) or just hexagram pages'
+    )
+    parser.add_argument(
+        '--test',
+        action='store_true',
+        help='Use test hexagrams instead of full set'
     )
     args = parser.parse_args()
 
@@ -440,11 +477,18 @@ def main():
     # Parse command line arguments
     args = parse_args()
 
+    # Set HEXAGRAMS based on --test flag
+    global HEXAGRAMS
+    if args.test:
+        HEXAGRAMS = test_HEXAGRAMS
+        print(Fore.YELLOW + "Using test hexagrams: " + str(HEXAGRAMS) + Style.RESET_ALL)
+
     # Get intro section if requested
     markdown_output = format_intro_section(args)
 
     # Load the version string
     json_version = get_json_version()
+
 
     for sfnum in HEXAGRAMS:
         # Construct the filename using the version string
@@ -471,8 +515,26 @@ def main():
 
     # Write output to file
     output_file = f"{ROOT}/includes/iching.md"
-    with open(output_file, 'w', encoding='utf-8') as file:
+    with open(output_file, 'a', encoding='utf-8') as file:
         file.write(markdown_output)
+
+# currently not used
+    toc_marker = f"""\n\n
+<nav role="doc-toc">
+<h1>Table of Contents</h1>
+</nav>
+
+<div style=\"page-break-before: always;\"></div>\n\n
+    """
+
+    # Write TOC marker to beginning of file
+    with open(output_file, 'r', encoding='utf-8') as file:
+        content = file.read()
+
+    with open(output_file, 'w', encoding='utf-8') as file:
+        file.write(content)
+
+
     print(f"Markdown has been saved to {output_file}")
 
 if __name__ == "__main__":

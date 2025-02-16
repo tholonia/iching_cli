@@ -1,20 +1,44 @@
 #!/bin/env python
 
 """
-This script uses the OpenAI API to generate a concise one- or two-word title that best expresses the concept of a hexagram.
+=============================================================================
+regen_titles.py - I Ching Hexagram Title Generator
+=============================================================================
+
+Description:
+  This script uses the OpenAI API to generate a concise one- or two-word title
+  that best expresses the core concept of a specific I Ching hexagram. It
+  processes a JSON file containing hexagram data and updates the title based
+  on the hexagram's meaning and context.
 
 Usage:
-    ./regen_titles.py <source_dir> <hexagram_number>
+  ./regen_titles.py <source_dir> <hexagram_number>
 
-Required Arguments:
-    source_dir: The directory containing the source JSON files
-    hexagram_number: The number of the hexagram to process (1-64)
+Arguments:
+  source_dir: Directory containing hexagram JSON files
+  hexagram_number: Number of hexagram to process (1-64)
 
-Example:
-    ./regen_titles.py ../path/to/source 01
+Process:
+  1. Validates input arguments and file existence
+  2. Loads hexagram JSON data
+  3. Extracts current hexagram name
+  4. Uses OpenAI API to generate new concise title
+  5. Updates JSON with new title
 
-Environment Variables:
-    OPENAI_API_KEY: Your OpenAI API key (required)
+Dependencies:
+  - Python 3.x
+  - Required packages: openai, colorama
+  - OpenAI API key in environment
+
+File Structure:
+  - Input/Output: <source_dir>/<hexagram_number>.json
+
+Environment:
+  OPENAI_API_KEY: OpenAI API authentication key
+
+Author: JW
+Last Updated: 2024
+=============================================================================
 """
 
 import os

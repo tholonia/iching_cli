@@ -1,0 +1,628 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "properties": {
+    "id": {
+      "type": "integer"
+    },
+    "hexagram_code": {
+      "type": "string"
+    },
+    "name": {
+      "type": "string"
+    },
+    "description": {
+      "type": "string"
+    },
+    "king_wen": {
+      "type": "object",
+      "properties": {
+        "sequence": {
+          "type": "integer"
+        },
+        "traditional_title": {
+          "type": "string"
+        },
+        "common_title": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "sequence",
+        "traditional_title",
+        "common_title"
+      ]
+    },
+    "binary_sequence": {
+      "type": "integer"
+    },
+    "trigrams": {
+      "type": "object",
+      "properties": {
+        "above": {
+          "type": "object",
+          "properties": {
+            "Trigram Number": {
+              "type": "integer"
+            },
+            "Binary Decimal": {
+              "type": "integer"
+            },
+            "Symbol": {
+              "type": "string"
+            },
+            "Chinese Symbol": {
+              "type": "string"
+            },
+            "Phonetic": {
+              "type": "string"
+            },
+            "English Translation": {
+              "type": "string"
+            },
+            "English Symbol": {
+              "type": "string"
+            },
+            "Meaning": {
+              "type": "string"
+            },
+            "Quality": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "Trigram Number",
+            "Binary Decimal",
+            "Symbol",
+            "Chinese Symbol",
+            "Phonetic",
+            "English Translation",
+            "English Symbol",
+            "Meaning",
+            "Quality"
+          ]
+        },
+        "below": {
+          "type": "object",
+          "properties": {
+            "Trigram Number": {
+              "type": "integer"
+            },
+            "Binary Decimal": {
+              "type": "integer"
+            },
+            "Symbol": {
+              "type": "string"
+            },
+            "Chinese Symbol": {
+              "type": "string"
+            },
+            "Phonetic": {
+              "type": "string"
+            },
+            "English Translation": {
+              "type": "string"
+            },
+            "English Symbol": {
+              "type": "string"
+            },
+            "Meaning": {
+              "type": "string"
+            },
+            "Quality": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "Trigram Number",
+            "Binary Decimal",
+            "Symbol",
+            "Chinese Symbol",
+            "Phonetic",
+            "English Translation",
+            "English Symbol",
+            "Meaning",
+            "Quality"
+          ]
+        }
+      },
+      "required": [
+        "above",
+        "below"
+      ]
+    },
+    "attributes": {
+      "type": "object",
+      "properties": {
+        "perspective": {
+          "type": "string"
+        },
+        "nature": {
+          "type": "string"
+        },
+        "action": {
+          "type": "string"
+        },
+        "success_through": {
+          "type": "string"
+        },
+        "challenge": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "perspective",
+        "nature",
+        "action",
+        "success_through",
+        "challenge"
+      ]
+    },
+    "lines": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "position": {
+            "type": "integer"
+          },
+          "name": {
+            "type": "string"
+          },
+          "meaning": {
+            "type": "string"
+          },
+          "changing": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "position",
+          "name",
+          "meaning",
+          "changing"
+        ]
+      }
+    },
+    "tholonic_analysis": {
+      "type": "object",
+      "properties": {
+        "negotiation": {
+          "type": "string"
+        },
+        "limitation": {
+          "type": "string"
+        },
+        "contribution": {
+          "type": "string"
+        },
+        "significance_in_thologram": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "negotiation",
+        "limitation",
+        "contribution",
+        "significance_in_thologram"
+      ]
+    },
+    "transformations": {
+      "type": "object",
+      "properties": {
+        "no_moving_lines": {
+          "type": "string"
+        },
+        "all_moving_lines": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "no_moving_lines",
+        "all_moving_lines"
+      ]
+    },
+    "hierarchy": {
+      "type": "object",
+      "properties": {
+        "order8child": {
+          "type": "string"
+        },
+        "order8parent": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "order8child",
+        "order8parent"
+      ]
+    },
+    "image": {
+      "type": "object",
+      "properties": {
+        "description": {
+          "type": "string"
+        },
+        "file": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "description",
+        "file"
+      ]
+    },
+    "energy_cycle": {
+      "type": "string"
+    },
+    "stories": {
+      "type": "object",
+      "properties": {
+        "title": {
+          "type": "string"
+        },
+        "entries": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "title": {
+                "type": "string"
+              },
+              "theme": {
+                "type": "string"
+              },
+              "summary": {
+                "type": "string"
+              },
+              "lines_in_context": {
+                "type": "object",
+                "properties": {
+                  "6": {
+                    "type": "object",
+                    "properties": {
+                      "name": {
+                        "type": "string"
+                      },
+                      "meaning": {
+                        "type": "string"
+                      },
+                      "changing": {
+                        "type": "string"
+                      }
+                    },
+                    "required": [
+                      "name",
+                      "meaning",
+                      "changing"
+                    ]
+                  },
+                  "5": {
+                    "type": "object",
+                    "properties": {
+                      "name": {
+                        "type": "string"
+                      },
+                      "meaning": {
+                        "type": "string"
+                      },
+                      "changing": {
+                        "type": "string"
+                      }
+                    },
+                    "required": [
+                      "name",
+                      "meaning",
+                      "changing"
+                    ]
+                  },
+                  "4": {
+                    "type": "object",
+                    "properties": {
+                      "name": {
+                        "type": "string"
+                      },
+                      "meaning": {
+                        "type": "string"
+                      },
+                      "changing": {
+                        "type": "string"
+                      }
+                    },
+                    "required": [
+                      "name",
+                      "meaning",
+                      "changing"
+                    ]
+                  },
+                  "3": {
+                    "type": "object",
+                    "properties": {
+                      "name": {
+                        "type": "string"
+                      },
+                      "meaning": {
+                        "type": "string"
+                      },
+                      "changing": {
+                        "type": "string"
+                      }
+                    },
+                    "required": [
+                      "name",
+                      "meaning",
+                      "changing"
+                    ]
+                  },
+                  "2": {
+                    "type": "object",
+                    "properties": {
+                      "name": {
+                        "type": "string"
+                      },
+                      "meaning": {
+                        "type": "string"
+                      },
+                      "changing": {
+                        "type": "string"
+                      }
+                    },
+                    "required": [
+                      "name",
+                      "meaning",
+                      "changing"
+                    ]
+                  },
+                  "1": {
+                    "type": "object",
+                    "properties": {
+                      "name": {
+                        "type": "string"
+                      },
+                      "meaning": {
+                        "type": "string"
+                      },
+                      "changing": {
+                        "type": "string"
+                      }
+                    },
+                    "required": [
+                      "name",
+                      "meaning",
+                      "changing"
+                    ]
+                  }
+                },
+                "required": [
+                  "6",
+                  "5",
+                  "4",
+                  "3",
+                  "2",
+                  "1"
+                ]
+              }
+            },
+            "required": [
+              "title",
+              "theme",
+              "summary",
+              "lines_in_context"
+            ]
+          }
+        }
+      },
+      "required": [
+        "title",
+        "entries"
+      ]
+    },
+    "history": {
+      "type": "object",
+      "properties": {
+        "title": {
+          "type": "string"
+        },
+        "subtitle": {
+          "type": "string"
+        },
+        "summary": {
+          "type": "string"
+        },
+        "source": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "lines_in_history": {
+          "type": "object",
+          "properties": {
+            "6": {
+              "type": "object",
+              "properties": {
+                "name": {
+                  "type": "string"
+                },
+                "meaning": {
+                  "type": "string"
+                },
+                "changing": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "name",
+                "meaning",
+                "changing"
+              ]
+            },
+            "5": {
+              "type": "object",
+              "properties": {
+                "name": {
+                  "type": "string"
+                },
+                "meaning": {
+                  "type": "string"
+                },
+                "changing": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "name",
+                "meaning",
+                "changing"
+              ]
+            },
+            "4": {
+              "type": "object",
+              "properties": {
+                "name": {
+                  "type": "string"
+                },
+                "meaning": {
+                  "type": "string"
+                },
+                "changing": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "name",
+                "meaning",
+                "changing"
+              ]
+            },
+            "3": {
+              "type": "object",
+              "properties": {
+                "name": {
+                  "type": "string"
+                },
+                "meaning": {
+                  "type": "string"
+                },
+                "changing": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "name",
+                "meaning",
+                "changing"
+              ]
+            },
+            "2": {
+              "type": "object",
+              "properties": {
+                "name": {
+                  "type": "string"
+                },
+                "meaning": {
+                  "type": "string"
+                },
+                "changing": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "name",
+                "meaning",
+                "changing"
+              ]
+            },
+            "1": {
+              "type": "object",
+              "properties": {
+                "name": {
+                  "type": "string"
+                },
+                "meaning": {
+                  "type": "string"
+                },
+                "changing": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "name",
+                "meaning",
+                "changing"
+              ]
+            }
+          },
+          "required": [
+            "6",
+            "5",
+            "4",
+            "3",
+            "2",
+            "1"
+          ]
+        }
+      },
+      "required": [
+        "title",
+        "subtitle",
+        "summary",
+        "source",
+        "lines_in_history"
+      ]
+    },
+    "trigram_phrase": {
+      "type": "object",
+      "properties": {
+        "Jungian": {
+          "type": "string"
+        },
+        "Platonic": {
+          "type": "string"
+        },
+        "Taoist": {
+          "type": "string"
+        },
+        "Tholonic": {
+          "type": "string"
+        },
+        "Thermodynamics": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "Jungian",
+        "Platonic",
+        "Taoist",
+        "Tholonic",
+        "Thermodynamics"
+      ]
+    },
+    "line_type": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    }
+  },
+  "required": [
+    "id",
+    "hexagram_code",
+    "name",
+    "description",
+    "king_wen",
+    "binary_sequence",
+    "trigrams",
+    "attributes",
+    "lines",
+    "tholonic_analysis",
+    "transformations",
+    "hierarchy",
+    "image",
+    "energy_cycle",
+    "stories",
+    "history",
+    "trigram_phrase",
+    "line_type"
+  ]
+}

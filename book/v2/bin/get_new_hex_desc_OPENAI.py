@@ -1,29 +1,50 @@
 #!/bin/env python3
 """
-A script that generates descriptive paragraphs for I Ching hexagrams using OpenAI's GPT-4 API.
+=============================================================================
+get_new_hex_desc_OPENAI.py - I Ching Hexagram Description Generator
+=============================================================================
 
-This script takes a hexagram number (1-64) as input and generates two narrative paragraphs:
-1. A general description of the hexagram's archetypal meaning
-2. A description relating to tholonic concepts specific to the hexagram
-
-The script uses context from local files (tholonic_primer.md and hexagram-specific JSON)
-to inform GPT-4's response. The resulting description is printed to stdout and optionally
-saved to a text file when using the --save flag.
-
-Requirements:
-    - OpenAI Python package (v1.0.0 or later)
-    - Valid OpenAI API key set in OPENAI_API_KEY environment variable
-    - Access to GPT-4 model in your OpenAI account
+Description:
+  This script generates descriptive paragraphs for I Ching hexagrams using
+  OpenAI's GPT-4 API. For each hexagram, it generates two narrative paragraphs:
+  1. A general description of the hexagram's archetypal meaning
+  2. A description relating to tholonic concepts specific to the hexagram
 
 Usage:
-    python get_new_hex_desc_OPENAI.py [-s] <hexagram_number>
-Options:
-    -s, --save    Save the output to a text file
-Example:
-    python get_new_hex_desc_OPENAI.py 20         # Display output only
-    python get_new_hex_desc_OPENAI.py -s 20      # Display and save output
-"""
+  python get_new_hex_desc_OPENAI.py [-s] <hexagram_number>
 
+Arguments:
+  hexagram_number: Number of the hexagram (1-64)
+  -s, --save: Save the output to a text file
+
+Examples:
+  python get_new_hex_desc_OPENAI.py 20         # Display output only
+  python get_new_hex_desc_OPENAI.py -s 20      # Display and save output
+
+Process:
+  1. Reads context from local files (tholonic_primer.md and hexagram JSON)
+  2. Sends context to OpenAI's GPT-4 API for processing
+  3. Generates two formatted paragraphs
+  4. Optionally saves output to text file
+
+Dependencies:
+  - OpenAI Python package (v1.0.0 or later)
+  - Valid OpenAI API key set in OPENAI_API_KEY environment variable
+  - Access to GPT-4 model in your OpenAI account
+  - Required Python packages: openai, colorama
+
+File Structure:
+  - Input: /book/tholonic_primer.md
+  - Input: /book/v2/<hexagram_number>.json
+  - Output: /book/v2/<hexagram_number>_hex.txt (when using --save)
+
+Environment Variables:
+  OPENAI_API_KEY: Your OpenAI API key (required)
+
+Author: JW
+Last Updated: 2024
+=============================================================================
+"""
 import os
 import sys
 import base64

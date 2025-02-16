@@ -1,23 +1,48 @@
 #!/bin/env python
 
 """
-Generate six stages of change for a specific story in I Ching Hexagrams using OpenAI API.
+=============================================================================
+regen_lines_in_history.py - I Ching Line History Generator
+=============================================================================
 
-This script loads a JSON file from a specified source directory based on the hexagram number, extracts the history section, and uses the OpenAI API to generate the six stages of change. It updates the JSON file with the new data, including a name, meaning, and changing description for each line.
+Description:
+  This script generates the six stages of change for a specific hexagram's
+  history section using the OpenAI API. It processes a JSON file containing
+  hexagram data and updates it with generated line-by-line interpretations.
 
 Usage:
-    ./regen_lines_in_history.py <source_dir> <hexagram_number>
+  ./regen_lines_in_history.py <source_dir> <hexagram_number>
 
-Required Arguments:
-    source_dir: The directory containing the source JSON files
-    hexagram_number: The number of the hexagram to process (1-64)
+Arguments:
+  source_dir: Directory containing hexagram JSON files
+  hexagram_number: Number of hexagram to process (1-64)
 
-Example:
-    ./regen_lines_in_history.py ../path/to/source 01
+Process:
+  1. Validates input arguments and file existence
+  2. Loads hexagram JSON data
+  3. Extracts history section
+  4. Uses OpenAI API to generate line interpretations
+  5. Updates JSON with new line data:
+     - name: Concept name for the line
+     - meaning: Line interpretation
+     - changing: Meaning when line changes
 
-Environment Variables:
-    OPENAI_API_KEY: Your OpenAI API key (required)
+Dependencies:
+  - Python 3.x
+  - Required packages: openai, colorama
+  - OpenAI API key in environment
+
+File Structure:
+  - Input/Output: <source_dir>/<hexagram_number>.json
+
+Environment:
+  OPENAI_API_KEY: OpenAI API authentication key
+
+Author: JW
+Last Updated: 2024
+=============================================================================
 """
+
 
 import os
 import json

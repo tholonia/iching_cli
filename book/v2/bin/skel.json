@@ -1,0 +1,118 @@
+{
+    "stories": {
+        "title": "The title of the collection of three stories about creation.",
+        "entries": [
+            {
+                "title": "The title of a story about man versus man.",
+                "theme": "The literary style or influence of the story.",
+                "summary": "A brief synopsis of the story, outlining its core plot and themes.",
+                "lines_in_context": {
+                    "6": {
+                        "name": "The label given to line six, representing a stage in the hexagram's progression.",
+                        "meaning": "An explanation of the significance of line six within the context of the story.",
+                        "changing": "A description of what occurs when the value of line six changes, indicating a shift in meaning or interpretation."
+                    },
+                    "5": {
+                        "name": "The label given to line five, representing a stage in the hexagram's progression.",
+                        "meaning": "An explanation of the significance of line five within the context of the story.",
+                        "changing": "A description of what occurs when the value of line five changes, indicating a shift in meaning or interpretation."
+                    },
+                    "4": {
+                        "name": "The label given to line four, representing a stage in the hexagram's progression.",
+                        "meaning": "An explanation of the significance of line four within the context of the story.",
+                        "changing": "A description of what occurs when the value of line four changes, indicating a shift in meaning or interpretation."
+                    },
+                    "3": {
+                        "name": "The label given to line three, representing a stage in the hexagram's progression.",
+                        "meaning": "An explanation of the significance of line three within the context of the story.",
+                        "changing": "A description of what occurs when the value of line three changes, indicating a shift in meaning or interpretation."
+                    },
+                    "2": {
+                        "name": "The label given to line two, representing a stage in the hexagram's progression.",
+                        "meaning": "An explanation of the significance of line two within the context of the story.",
+                        "changing": "A description of what occurs when the value of line two changes, indicating a shift in meaning or interpretation."
+                    },
+                    "1": {
+                        "name": "The label given to line one, representing a stage in the hexagram's progression.",
+                        "meaning": "An explanation of the significance of line one within the context of the story.",
+                        "changing": "A description of what occurs when the value of line one changes, indicating a shift in meaning or interpretation."
+                    }
+                }
+            },
+            {
+                "title": "The title of a story about man versus nature.",
+                "theme": "The literary style or influence of the story.",
+                "summary": "A brief synopsis of the story, outlining its core plot and themes.",
+                "lines_in_context": {
+                    "6": {
+                        "name": "The label given to line six, representing a stage in the hexagram's progression.",
+                        "meaning": "An explanation of the significance of line six within the context of the story.",
+                        "changing": "A description of what occurs when the value of line six changes, indicating a shift in meaning or interpretation."
+                    },
+                    "5": {
+                        "name": "The label given to line five, representing a stage in the hexagram's progression.",
+                        "meaning": "An explanation of the significance of line five within the context of the story.",
+                        "changing": "A description of what occurs when the value of line five changes, indicating a shift in meaning or interpretation."
+                    },
+                    "4": {
+                        "name": "The label given to line four, representing a stage in the hexagram's progression.",
+                        "meaning": "An explanation of the significance of line four within the context of the story.",
+                        "changing": "A description of what occurs when the value of line four changes, indicating a shift in meaning or interpretation."
+                    },
+                    "3": {
+                        "name": "The label given to line three, representing a stage in the hexagram's progression.",
+                        "meaning": "An explanation of the significance of line three within the context of the story.",
+                        "changing": "A description of what occurs when the value of line three changes, indicating a shift in meaning or interpretation."
+                    },
+                    "2": {
+                        "name": "The label given to line two, representing a stage in the hexagram's progression.",
+                        "meaning": "An explanation of the significance of line two within the context of the story.",
+                        "changing": "A description of what occurs when the value of line two changes, indicating a shift in meaning or interpretation."
+                    },
+                    "1": {
+                        "name": "The label given to line one, representing a stage in the hexagram's progression.",
+                        "meaning": "An explanation of the significance of line one within the context of the story.",
+                        "changing": "A description of what occurs when the value of line one changes, indicating a shift in meaning or interpretation."
+                    }
+                }
+            },
+            {
+                "title": "The title of a story about man versus self.",
+                "theme": "The literary style or influence of the story.",
+                "summary": "A brief synopsis of the story, outlining its core plot and themes.",
+                "lines_in_context": {
+                    "6": {
+                        "name": "The label given to line six, representing a stage in the hexagram's progression.",
+                        "meaning": "An explanation of the significance of line six within the context of the story.",
+                        "changing": "A description of what occurs when the value of line six changes, indicating a shift in meaning or interpretation."
+                    },
+                    "5": {
+                        "name": "The label given to line five, representing a stage in the hexagram's progression.",
+                        "meaning": "An explanation of the significance of line five within the context of the story.",
+                        "changing": "A description of what occurs when the value of line five changes, indicating a shift in meaning or interpretation."
+                    },
+                    "4": {
+                        "name": "The label given to line four, representing a stage in the hexagram's progression.",
+                        "meaning": "An explanation of the significance of line four within the context of the story.",
+                        "changing": "A description of what occurs when the value of line four changes, indicating a shift in meaning or interpretation."
+                    },
+                    "3": {
+                        "name": "The label given to line three, representing a stage in the hexagram's progression.",
+                        "meaning": "An explanation of the significance of line three within the context of the story.",
+                        "changing": "A description of what occurs when the value of line three changes, indicating a shift in meaning or interpretation."
+                    },
+                    "2": {
+                        "name": "The label given to line two, representing a stage in the hexagram's progression.",
+                        "meaning": "An explanation of the significance of line two within the context of the story.",
+                        "changing": "A description of what occurs when the value of line two changes, indicating a shift in meaning or interpretation."
+                    },
+                    "1": {
+                        "name": "The label given to line one, representing a stage in the hexagram's progression.",
+                        "meaning": "An explanation of the significance of line one within the context of the story.",
+                        "changing": "A description of what occurs when the value of line one changes, indicating a shift in meaning or interpretation."
+                    }
+                }
+            }
+        ]
+    }
+}

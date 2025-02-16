@@ -1,20 +1,45 @@
 #!/bin/env python
 
 """
-This script creates a trigram phrase for a specific hexagram JSON file and updates the file with the new phrase.
+=============================================================================
+regen_trigram_phrase.py - I Ching Trigram Phrase Generator
+=============================================================================
+
+Description:
+  This script generates interpretive phrases for I Ching hexagrams based on
+  their upper and lower trigram combinations using the OpenAI API. It processes
+  a JSON file containing hexagram data and can update it with the new trigram
+  interpretation.
 
 Usage:
-    ./regen_trigram_phrase.py <source_dir> <hexagram_number> [--save]
+  ./regen_trigram_phrase.py <source_dir> <hexagram_number> [--save]
 
-Required Arguments:
-    source_dir: The directory containing the source JSON files
-    hexagram_number: The number of the hexagram to process (1-64)
+Arguments:
+  source_dir: Directory containing hexagram JSON files
+  hexagram_number: Number of hexagram to process (1-64)
+  --save: Optional flag to save changes to JSON file
 
-Optional Arguments:
-    --save: If provided, the script will save the updated JSON file.
+Process:
+  1. Validates input arguments and file existence
+  2. Loads hexagram JSON data
+  3. Extracts trigram information
+  4. Uses OpenAI API to generate interpretive phrase
+  5. Optionally updates JSON with new phrase
 
-Environment Variables:
-    OPENAI_API_KEY: Your OpenAI API key (required)
+Dependencies:
+  - Python 3.x
+  - Required packages: openai, colorama
+  - OpenAI API key in environment
+
+File Structure:
+  - Input/Output: <source_dir>/<hexagram_number>.json
+
+Environment:
+  OPENAI_API_KEY: OpenAI API authentication key
+
+Author: JW
+Last Updated: 2024
+=============================================================================
 """
 
 import os

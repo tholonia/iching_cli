@@ -1,22 +1,43 @@
 #!/bin/env python
-
 """
-Generate six stages of change for a specific story in I Ching Hexagrams using OpenAI API.
+=============================================================================
+regen_trigrams.py - I Ching Trigram Generator
+=============================================================================
 
-This script loads a JSON file from a specified source directory based on the hexagram number, extracts the history section, and uses the OpenAI API to generate the six stages of change. It updates the JSON file with the new data, including a name, meaning, and changing description for each line.
+Description:
+  This script generates interpretations of trigram combinations for I Ching
+  hexagrams using the OpenAI API. It processes a JSON file containing hexagram
+  data and updates it with new trigram-based interpretations that reflect the
+  interaction between the upper and lower trigrams.
 
 Usage:
-    ./regen_lines_in_history.py <source_dir> <hexagram_number>
+  ./regen_trigrams.py <source_dir> <hexagram_number>
 
-Required Arguments:
-    source_dir: The directory containing the source JSON files
-    hexagram_number: The number of the hexagram to process (1-64)
+Arguments:
+  source_dir: Directory containing hexagram JSON files
+  hexagram_number: Number of hexagram to process (1-64)
 
-Example:
-    ./regen_lines_in_history.py ../path/to/source 01
+Process:
+  1. Validates input arguments and file existence
+  2. Loads hexagram JSON data
+  3. Extracts trigram information
+  4. Uses OpenAI API to generate interpretations
+  5. Updates JSON with new trigram data
 
-Environment Variables:
-    OPENAI_API_KEY: Your OpenAI API key (required)
+Dependencies:
+  - Python 3.x
+  - Required packages: openai, colorama
+  - OpenAI API key in environment
+
+File Structure:
+  - Input/Output: <source_dir>/<hexagram_number>.json
+
+Environment:
+  OPENAI_API_KEY: OpenAI API authentication key
+
+Author: JW
+Last Updated: 2024
+=============================================================================
 """
 
 import os

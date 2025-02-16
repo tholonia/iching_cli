@@ -1,22 +1,21 @@
+/*
 // Page Size Variables
 
 // @page-width: 7.44in;
 // @page-height: 9.68in;
-
-@page-width: 8.3in;
-@page-height: 11.7in;
+*/
+@page-width: 8.5in;
+@page-height: 11in;
 
 @margin-outer: 0.5in;
 @margin-gutter: 1in;
 @margin-top: 0.5in;
 @margin-bottom: 0.5in;
 
-// Font Variables
-@base-font-family: 'LinLibertine', serif;
+@base-font-family: 'LinLibertine';
 @base-font-size: 11pt;
 @base-line-height: 1.4;
 
-// Color Variables
 @text-color: #1f0909;
 @heading-color-1: #666;
 @heading-color-2: #555;
@@ -26,7 +25,6 @@
 @heading-color-6: #555;
 @border-color: #c5c5c5;
 
-// Mixins
 .font-smoothing() {
     -webkit-font-smoothing: antialiased !important;
     -moz-osx-font-smoothing: grayscale !important;
@@ -36,8 +34,11 @@
 .avoid-breaks() {
     page-break-inside: avoid !important;
     break-inside: avoid !important;
-    page-break-after: avoid !important;
-    break-after: avoid !important;
+    /*
+    // creates too much whitespace
+    // page-break-after: avoid !important;
+    // break-after: avoid !important;
+    */
 }
 
 /* === Font Declarations === */
@@ -72,18 +73,18 @@
 
     @font-face {
         font-family: @base-font-family;
-        src: url('./iching_7_44-9_68/LinLibertine_R.ttf') format('truetype') !important;
-        font-weight: normal !important;
-        font-style: normal !important;
-        font-display: swap !important;
+        src: url('./iching/LinLibertine_R.ttf') format('truetype');
+        font-weight: normal;
+        font-style: normal;
+        // font-display: swap !important;
     }
 
     @font-face {
         font-family: @base-font-family;
-        src: url('./iching_7_44-9_68/LinLibertine_RB.ttf') format('truetype') !important;
-        font-weight: bold !important;
-        font-style: normal !important;
-        font-display: swap !important;
+        src: url('./iching/LinLibertine_RB.ttf') format('truetype');
+        font-weight: bold;
+        font-style: normal;
+        // font-display: swap !important;
     }
 }
 
@@ -111,37 +112,47 @@ body {
     height: auto !important;
 }
 
+body {
+    counter-reset: page -1;
+}
+
+
 
 @page {
     size: @page-width @page-height !important;
-    counter-reset: page 5 !important; /* Start counting from 3, so first page will be 4 */
-}
-
-@page :left {
-    margin-top: @margin-top !important;
-    margin-bottom: @margin-bottom !important;
-    margin-right: @margin-gutter !important;
-    margin-left: @margin-outer !important;
-    // border: 1px solid red !important;
-
-    @bottom-center {
-        content: "Page " counter(page) " of " counter(pages);
-    }
-
-}
-
-@page :right {
-    margin-top: @margin-top !important;
-    margin-bottom: @margin-bottom !important;
-    margin-left: @margin-gutter !important;
-    margin-right: @margin-outer !important;
-    // border: 1px solid blue !important;
-
+    counter-reset: page -1;
     @bottom-center {
         content: "Page " counter(page) " of " counter(pages);
     }
 }
 
+/*
+
+// @page :left {
+//     margin-top: @margin-top !important;
+//     margin-bottom: @margin-bottom !important;
+//     margin-right: @margin-gutter !important;
+//     margin-left: @margin-outer !important;
+//     // border: 1px solid red !important;
+
+//     @bottom-center {
+//         content: "Page " counter(page) " of " counter(pages);
+//     }
+
+// }
+
+// @page :right {
+//     margin-top: @margin-top !important;
+//     margin-bottom: @margin-bottom !important;
+//     margin-left: @margin-gutter !important;
+//     margin-right: @margin-outer !important;
+//     // border: 1px solid blue !important;
+
+//     @bottom-center {
+//         content: "Page " counter(page) " of " counter(pages);
+//     }
+// }
+*/
 @media print {
     body {
         width: auto !important;

@@ -1,27 +1,46 @@
 #!/bin/env python3
 """
-A script that generates descriptive paragraphs for I Ching hexagrams using AI.
+=============================================================================
+get_new_hex_desc_LOCAL.py - I Ching Hexagram Description Generator
+=============================================================================
 
-This script takes a hexagram number (1-64) as input and generates two narrative paragraphs:
-1. A general description of the hexagram's archetypal meaning
-2. A description relating to tholonic concepts specific to the hexagram
-
-The script uses context from local files (tholonic_primer.md and hexagram-specific JSON)
-to inform the AI's response. The resulting description is printed to stdout and optionally
-saved to a text file when using the --save flag.
-
-Requires an API key set in the OPENAI_API_KEY environment variable, though this can be
-any string when using the local server.
+Description:
+  This script generates descriptive paragraphs for I Ching hexagrams using AI.
+  For each hexagram, it generates two narrative paragraphs:
+  1. A general description of the hexagram's archetypal meaning
+  2. A description relating to tholonic concepts specific to the hexagram
 
 Usage:
-    python get_new_hex_desc.py [-s] <hexagram_number>
-Options:
-    -s, --save    Save the output to a text file
-Example:
-    python get_new_hex_desc.py 20         # Display output only
-    python get_new_hex_desc.py -s 20      # Display and save output
-"""
+  python get_new_hex_desc_LOCAL.py [-s] <hexagram_number>
 
+Arguments:
+  hexagram_number: Number of the hexagram (1-64)
+  -s, --save: Save the output to a text file
+
+Examples:
+  python get_new_hex_desc_LOCAL.py 20         # Display output only
+  python get_new_hex_desc_LOCAL.py -s 20      # Display and save output
+
+Process:
+  1. Reads context from local files (tholonic_primer.md and hexagram JSON)
+  2. Sends context to local AI server for processing
+  3. Generates two formatted paragraphs
+  4. Optionally saves output to text file
+
+Dependencies:
+  - OpenAI API key (can be any string when using local server)
+  - Local AI server running on http://127.0.0.1:1234/v1
+  - Required Python packages: openai, colorama
+
+File Structure:
+  - Input: /book/tholonic_primer.md
+  - Input: /book/v2/<hexagram_number>.json
+  - Output: /book/v2/<hexagram_number>_hex.txt (when using --save)
+
+Author: JW
+Last Updated: 2024
+=============================================================================
+"""
 import os
 import sys
 import base64
