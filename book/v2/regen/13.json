@@ -1,6 +1,6 @@
 {
     "id": 13,
-    "hexagram_code": "\u4dcc",
+    "hexagram_code": "䷌",
     "name": "Coalition",
     "description": "The power of aligned forces working toward common purpose. Like light and heat uniting in flame, this represents the synergistic effect of different energies combining in harmony.",
     "king_wen": {
@@ -13,22 +13,22 @@
         "above": {
             "Trigram Number": 1,
             "Binary Decimal": 7,
-            "Symbol": "\u2630",
-            "Chinese Symbol": "\u4e7e",
-            "Phonetic": "Qi\u00e1n",
+            "Symbol": "☰",
+            "Chinese Symbol": "乾",
+            "Phonetic": "Qián",
             "English Translation": "Heaven",
-            "English Symbol": "\u5929",
+            "English Symbol": "天",
             "Meaning": "The Creative",
             "Quality": "Strong and Creative"
         },
         "below": {
             "Trigram Number": 7,
             "Binary Decimal": 5,
-            "Symbol": "\u2632",
-            "Chinese Symbol": "\u79bb",
-            "Phonetic": "L\u00ed",
+            "Symbol": "☲",
+            "Chinese Symbol": "离",
+            "Phonetic": "Lí",
             "English Translation": "Fire",
-            "English Symbol": "\u706b",
+            "English Symbol": "火",
             "Meaning": "The Clinging",
             "Quality": "Bright and Radiant"
         }
@@ -103,7 +103,7 @@
             {
                 "title": "The Invisible Architect (Man vs. Man)",
                 "theme": "Italo Calvino",
-                "short_story": "In a bustling city filled with cacophony and chaos, a silent figure began to weave threads of connection between people. No plans, no blueprints, just a vision of unity that transcended walls and silences. The Architect, as he was known, moved like a shadow, planting ideas as charismatic seeds in the minds of the city's most influential figures. This unspoken network grew, its tendrils stretching silently across the districts. Gradually, distrustful glances transformed into nods of understanding. Competitors found themselves in unexpected alliances, fused by a shared purpose that none could precisely name but all could feel. However, when the city began to change palpably, the Architect faced his greatest challenge \u2014 the fear of change. As old power structures pushed back, the Architect realized that his silent revolution needed voice. He stepped into the light, revealing the intricate web he had quietly spun. This culmination was not his own achievement but a living entity pulsing with the city's newfound collective energy. In stepping back, he watched as the city continued to blossom, the pattern of cooperative power remaining tethered not to him, but to the spirit he had nurtured \u2014 a spirit now perpetually evolving.",
+                "short_story": "In a bustling city filled with cacophony and chaos, a silent figure began to weave threads of connection between people. No plans, no blueprints, just a vision of unity that transcended walls and silences. The Architect, as he was known, moved like a shadow, planting ideas as charismatic seeds in the minds of the city's most influential figures. This unspoken network grew, its tendrils stretching silently across the districts. Gradually, distrustful glances transformed into nods of understanding. Competitors found themselves in unexpected alliances, fused by a shared purpose that none could precisely name but all could feel. However, when the city began to change palpably, the Architect faced his greatest challenge — the fear of change. As old power structures pushed back, the Architect realized that his silent revolution needed voice. He stepped into the light, revealing the intricate web he had quietly spun. This culmination was not his own achievement but a living entity pulsing with the city's newfound collective energy. In stepping back, he watched as the city continued to blossom, the pattern of cooperative power remaining tethered not to him, but to the spirit he had nurtured — a spirit now perpetually evolving.",
                 "lines_in_context": {
                     "6": {
                         "name": "Transcendence of Influence",
@@ -186,7 +186,7 @@
                     },
                     "5": {
                         "name": "Mastery of Creation",
-                        "meaning": "Alyssa achieves a peak in her artistic ability, controlling the painting\u2019s every facet with confidence.",
+                        "meaning": "Alyssa achieves a peak in her artistic ability, controlling the painting’s every facet with confidence.",
                         "changing": "If yang changes to yin, her confidence might falter, risking the integrity of the completed work."
                     },
                     "4": {
@@ -206,7 +206,7 @@
                     },
                     "1": {
                         "name": "Emergence of Inspiration",
-                        "meaning": "Alyssa\u2019s first sparks of creativity awaken, untamed and awaiting direction for realization.",
+                        "meaning": "Alyssa’s first sparks of creativity awaken, untamed and awaiting direction for realization.",
                         "changing": "If yang changes to yin, hesitation could stall her inspiration, preventing artistic exploration."
                     }
                 }
@@ -261,14 +261,16 @@
         "Platonic": "Behold, the essence of radiant clarity, unveiled through the conduit of dynamic innovation.",
         "Taoist": "The radiant light of clarity arises from the dance of creative flow.",
         "Tholonic": "In the Tholonic realm, one finds the symphonic union of radiant clarity, achieved through the artistry of potent and imaginative expression.",
-        "Thermodynamics": "The radiant emergence of illumination is propelled by the entropic dance of dynamic creativity."
+        "Thermodynamics": "The radiant emergence of illumination is propelled by the entropic dance of dynamic creativity.",
+        "general": "The union of bright clarity and strong creativity gives rise to transformative brilliance.",
+        "explanation": "In Coalition, the lower trigram 'The Clinging' symbolizes clarity and illumination, while the upper trigram 'The Creative' embodies strength and innovation. Together, they form a powerful synergy where the clarity of vision is amplified by creative force, resulting in transformative brilliance that aligns with the synthesis of philosophical perspectives."
     },
     "line_type": [
-        "\u268a",
-        "\u268a",
-        "\u268a",
-        "\u268a",
-        "\u268b",
-        "\u268a"
+        "───",
+        "───",
+        "───",
+        "───",
+        "─ ─",
+        "───"
     ]
 }

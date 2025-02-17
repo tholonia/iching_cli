@@ -1,6 +1,6 @@
 {
     "id": 9,
-    "hexagram_code": "\u4dc8",
+    "hexagram_code": "䷈",
     "name": "Refinement",
     "description": "The process of careful development through subtle influence. Like wind gathering clouds, this represents the gradual accumulation of small improvements leading to significant change.",
     "king_wen": {
@@ -13,22 +13,22 @@
         "above": {
             "Trigram Number": 5,
             "Binary Decimal": 6,
-            "Symbol": "\u2634",
-            "Chinese Symbol": "\u5dfd",
-            "Phonetic": "X\u00f9n",
+            "Symbol": "☴",
+            "Chinese Symbol": "巽",
+            "Phonetic": "Xùn",
             "English Translation": "Wind/Wood",
-            "English Symbol": "\u98ce/\u6728",
+            "English Symbol": "风/木",
             "Meaning": "The Gentle",
             "Quality": "Gentle and Penetrating"
         },
         "below": {
             "Trigram Number": 1,
             "Binary Decimal": 7,
-            "Symbol": "\u2630",
-            "Chinese Symbol": "\u4e7e",
-            "Phonetic": "Qi\u00e1n",
+            "Symbol": "☰",
+            "Chinese Symbol": "乾",
+            "Phonetic": "Qián",
             "English Translation": "Heaven",
-            "English Symbol": "\u5929",
+            "English Symbol": "天",
             "Meaning": "The Creative",
             "Quality": "Strong and Creative"
         }
@@ -50,7 +50,7 @@
         {
             "position": 5,
             "name": "Radiant Transformation",
-            "meaning": "The individual\u2019s inner refinement shines outward, influencing one\u2019s environment with balanced strength and serene purpose.",
+            "meaning": "The individual’s inner refinement shines outward, influencing one’s environment with balanced strength and serene purpose.",
             "changing": "The transformation from inner nurture to outward illumination signifies a heralded burst of creative force."
         },
         {
@@ -102,8 +102,8 @@
         "entries": [
             {
                 "title": "The Sculptor's Symphony (Man vs. Man)",
-                "theme": "Gabriel Garc\u00eda M\u00e1rquez",
-                "short_story": "In a forgotten coastal village, young sculptor Isabella began carving her masterpiece from an ancient, twisted tree root. She felt the unrestrained potential within, but its gnarled complexity thwarted her initial attempts at creation. Despite offers of simpler materials, Isabella remained with her chosen wood, drawing threads of inspiration from dreams and whispers of the sea breeze.\n\nHer path was fraught with obstacles; the local council denied her a place to exhibit, believing such artistic endeavors futile in practical times. However, Isabella carved on, chipping away at her creation with relentless patience, drawing in quiet moments from the dance of shadows cast by candlelight.\n\nWhen the council\u2019s opinion became hostile, threatening to dispose of her work, Isabella ingeniously collaborated with a traveling bard, whose songs wove tales of her unfolding vision, turning opposition to curiosity.\n\nAs her work took form, local artisans noticed a symphony of echoes reverberating from its curves, a melody that drew villagers from their routines to witness this birth of art. Standing before her new creation\u2014a harmonious blend of nature's history and human creativity\u2014Isabella realized it had transcended her own making, resonating with the community, shifting the village's perception of art and beauty entirely.",
+                "theme": "Gabriel García Márquez",
+                "short_story": "In a forgotten coastal village, young sculptor Isabella began carving her masterpiece from an ancient, twisted tree root. She felt the unrestrained potential within, but its gnarled complexity thwarted her initial attempts at creation. Despite offers of simpler materials, Isabella remained with her chosen wood, drawing threads of inspiration from dreams and whispers of the sea breeze.\n\nHer path was fraught with obstacles; the local council denied her a place to exhibit, believing such artistic endeavors futile in practical times. However, Isabella carved on, chipping away at her creation with relentless patience, drawing in quiet moments from the dance of shadows cast by candlelight.\n\nWhen the council’s opinion became hostile, threatening to dispose of her work, Isabella ingeniously collaborated with a traveling bard, whose songs wove tales of her unfolding vision, turning opposition to curiosity.\n\nAs her work took form, local artisans noticed a symphony of echoes reverberating from its curves, a melody that drew villagers from their routines to witness this birth of art. Standing before her new creation—a harmonious blend of nature's history and human creativity—Isabella realized it had transcended her own making, resonating with the community, shifting the village's perception of art and beauty entirely.",
                 "lines_in_context": {
                     "6": {
                         "name": "Surrender to the Symphony",
@@ -177,11 +177,11 @@
             {
                 "title": "The Unseen Canvas (Man vs. Self)",
                 "theme": "Virginia Woolf",
-                "short_story": "Within the quietude of her secluded studio, Eleanor was haunted by a specter of inspiration, an ethereal vision that whisperingly beckoned her towards creation. Her solitude reverberated with undulating waves of potential, formless yet intense, as if an entire landscape waited within her mind for the birth of its first colors. She stood at the precipice of this possibility, her brush poised to transform raw thought into tangible art. Her journey of creation commenced with hesitant strokes as she began coaxing her vision into existence. Across the days, obstacles loomed\u2014a fleeting sense of failure, the relentless pull of self-doubt threatening to unravel her intentions. She battled against her inner tumult, seeking clarity in the discord of her mind. Determined, Eleanor aligned her imagination with skill, each brushstroke an act of wilful clarity that brought her vision into focus. She harnessed her burgeoning command over her craft, metamorphosing her concept into a masterpiece that resonated beyond its canvas. In the final act of release, her creation transcended its origin, echoing through the lives it touched with a beauty that was once merely an unseen thought.",
+                "short_story": "Within the quietude of her secluded studio, Eleanor was haunted by a specter of inspiration, an ethereal vision that whisperingly beckoned her towards creation. Her solitude reverberated with undulating waves of potential, formless yet intense, as if an entire landscape waited within her mind for the birth of its first colors. She stood at the precipice of this possibility, her brush poised to transform raw thought into tangible art. Her journey of creation commenced with hesitant strokes as she began coaxing her vision into existence. Across the days, obstacles loomed—a fleeting sense of failure, the relentless pull of self-doubt threatening to unravel her intentions. She battled against her inner tumult, seeking clarity in the discord of her mind. Determined, Eleanor aligned her imagination with skill, each brushstroke an act of wilful clarity that brought her vision into focus. She harnessed her burgeoning command over her craft, metamorphosing her concept into a masterpiece that resonated beyond its canvas. In the final act of release, her creation transcended its origin, echoing through the lives it touched with a beauty that was once merely an unseen thought.",
                 "lines_in_context": {
                     "6": {
                         "name": "Transcendence of Art",
-                        "meaning": "Eleanor's painting no longer belongs to her\u2014it reverberates with life, touching others deeply and existing as a shared experience.",
+                        "meaning": "Eleanor's painting no longer belongs to her—it reverberates with life, touching others deeply and existing as a shared experience.",
                         "changing": "If yang changes to yin, Eleanor might cling to her creation, restraining its broader impact and shared resonance."
                     },
                     "5": {
@@ -259,14 +259,16 @@
         "Platonic": "The fruit of vigorous creativity, when deftly guided by a delicate yet all-encompassing sway, reveals its true essence.",
         "Taoist": "The gentle flow of dynamic power and creative spirit reveals its strength through the quiet dance of pervasive influence.",
         "Tholonic": "Amid the dance of vivid imagination, creation emerges with a subtle yet deeply resonant impact.",
-        "Thermodynamics": "The resulting state from the interplay of dynamic and inventive energies is expressed through the subtle yet pervasive principles of thermal equilibrium."
+        "Thermodynamics": "The resulting state from the interplay of dynamic and inventive energies is expressed through the subtle yet pervasive principles of thermal equilibrium.",
+        "general": "The fusion of strong creativity and gentle influence reveals true potential through subtle harmony.",
+        "explanation": "The lower trigram, 'The Creative,' symbolizes strength and innovation, while the upper trigram, 'The Gentle,' embodies subtlety and influence. Together, they illustrate how robust creative forces, when guided by gentle, pervasive influence, can achieve a balanced and harmonious expression, unveiling true potential in a subtle yet impactful manner."
     },
     "line_type": [
-        "\u268a",
-        "\u268a",
-        "\u268b",
-        "\u268a",
-        "\u268a",
-        "\u268a"
+        "───",
+        "───",
+        "─ ─",
+        "───",
+        "───",
+        "───"
     ]
 }

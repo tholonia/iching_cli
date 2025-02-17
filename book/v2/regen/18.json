@@ -1,6 +1,6 @@
 {
     "id": 18,
-    "hexagram_code": "\u4dd1",
+    "hexagram_code": "䷑",
     "name": "Restoration",
     "description": "The process of renewing what has been corrupted or degraded. Like wind gradually wearing away mountain stones to reveal fresh surfaces, this represents the careful work of addressing root causes to restore original integrity.",
     "king_wen": {
@@ -13,22 +13,22 @@
         "above": {
             "Trigram Number": 3,
             "Binary Decimal": 3,
-            "Symbol": "\u2636",
-            "Chinese Symbol": "\u826e",
-            "Phonetic": "G\u00e8n",
+            "Symbol": "☶",
+            "Chinese Symbol": "艮",
+            "Phonetic": "Gèn",
             "English Translation": "Mountain",
-            "English Symbol": "\u5c71",
+            "English Symbol": "山",
             "Meaning": "The Still",
             "Quality": "Still and Enduring"
         },
         "below": {
             "Trigram Number": 5,
             "Binary Decimal": 6,
-            "Symbol": "\u2634",
-            "Chinese Symbol": "\u5dfd",
-            "Phonetic": "X\u00f9n",
+            "Symbol": "☴",
+            "Chinese Symbol": "巽",
+            "Phonetic": "Xùn",
             "English Translation": "Wind/Wood",
-            "English Symbol": "\u98ce/\u6728",
+            "English Symbol": "风/木",
             "Meaning": "The Gentle",
             "Quality": "Gentle and Penetrating"
         }
@@ -102,38 +102,38 @@
         "entries": [
             {
                 "title": "The Sculptor's Vision (Man vs. Man)",
-                "theme": "Gabriel Garc\u00eda M\u00e1rquez",
-                "short_story": "In the heart of Cartagena, \u00c1lvaro, a young sculptor, faced a block of raw stone with fiery passion, but no clear vision. His hands itched to carve, yet the image eluded him. His fervor was palpable, but without guidance (Line 1: Emergence). Struggling against the whispers of doubt, he began to sketch lines in the air, finding form amidst chaos and teasing an outline from the stone's stubborn silence (Line 2: Formation). Yet, as \u00c1lvaro chipped away, townsfolk criticized his work, calling it aimless. The weight of their words threatened to crush his spirit (Line 3: Conflict). Undeterred, \u00c1lvaro refined his strokes, each chiseling aligning closer to his burgeoning truth. Momentum grew as fragments fell away, revealing contours that spoke of dreams and reality intertwined (Line 4: Manifestation). Persistence begat excellence; \u00c1lvaro now expertly commanded each stroke, the sculpture beginning to speak its own language, drawing admiration from skeptics (Line 5: Mastery). As the final piece of stone fell, \u00c1lvaro stepped aside, witnessing his creation transcend into a symbol of universal beauty, no longer his alone but an oracle to the soul of Latin America itself (Line 6: Transcendence).",
+                "theme": "Gabriel García Márquez",
+                "short_story": "In the heart of Cartagena, Álvaro, a young sculptor, faced a block of raw stone with fiery passion, but no clear vision. His hands itched to carve, yet the image eluded him. His fervor was palpable, but without guidance (Line 1: Emergence). Struggling against the whispers of doubt, he began to sketch lines in the air, finding form amidst chaos and teasing an outline from the stone's stubborn silence (Line 2: Formation). Yet, as Álvaro chipped away, townsfolk criticized his work, calling it aimless. The weight of their words threatened to crush his spirit (Line 3: Conflict). Undeterred, Álvaro refined his strokes, each chiseling aligning closer to his burgeoning truth. Momentum grew as fragments fell away, revealing contours that spoke of dreams and reality intertwined (Line 4: Manifestation). Persistence begat excellence; Álvaro now expertly commanded each stroke, the sculpture beginning to speak its own language, drawing admiration from skeptics (Line 5: Mastery). As the final piece of stone fell, Álvaro stepped aside, witnessing his creation transcend into a symbol of universal beauty, no longer his alone but an oracle to the soul of Latin America itself (Line 6: Transcendence).",
                 "lines_in_context": {
                     "6": {
                         "name": "Transcendence",
-                        "meaning": "The sculpture becomes more than a personal creation, existing beyond \u00c1lvaro, affecting a broader audience.",
-                        "changing": "If yang changes to yin, \u00c1lvaro may cling to the work, unable to let it go, thus hindering its greater impact."
+                        "meaning": "The sculpture becomes more than a personal creation, existing beyond Álvaro, affecting a broader audience.",
+                        "changing": "If yang changes to yin, Álvaro may cling to the work, unable to let it go, thus hindering its greater impact."
                     },
                     "5": {
                         "name": "Mastery",
-                        "meaning": "\u00c1lvaro achieves full control over his creation, showcasing his expertise at the peak of his ability.",
-                        "changing": "If yang changes to yin, arrogance could appear, undermining \u00c1lvaro's genuine connection with his art."
+                        "meaning": "Álvaro achieves full control over his creation, showcasing his expertise at the peak of his ability.",
+                        "changing": "If yang changes to yin, arrogance could appear, undermining Álvaro's genuine connection with his art."
                     },
                     "4": {
                         "name": "Manifestation",
-                        "meaning": "\u00c1lvaro's vision aligns perfectly with reality, gaining momentum as the sculpture takes form.",
-                        "changing": "If yin changes to yang, \u00c1lvaro's ambition might lead to unsustainable or destructive decisions."
+                        "meaning": "Álvaro's vision aligns perfectly with reality, gaining momentum as the sculpture takes form.",
+                        "changing": "If yin changes to yang, Álvaro's ambition might lead to unsustainable or destructive decisions."
                     },
                     "3": {
                         "name": "Conflict",
-                        "meaning": "External criticism and doubt pose major challenges to \u00c1lvaro's determination in realizing his vision.",
-                        "changing": "If yang changes to yin, \u00c1lvaro could retreat or become exhausted, unable to fulfill his creative potential."
+                        "meaning": "External criticism and doubt pose major challenges to Álvaro's determination in realizing his vision.",
+                        "changing": "If yang changes to yin, Álvaro could retreat or become exhausted, unable to fulfill his creative potential."
                     },
                     "2": {
                         "name": "Formation",
-                        "meaning": "\u00c1lvaro begins to shape his potential, defining his path amidst external doubts.",
-                        "changing": "If yin changes to yang, \u00c1lvaro might act prematurely, leading to instability and misalignment with his true vision."
+                        "meaning": "Álvaro begins to shape his potential, defining his path amidst external doubts.",
+                        "changing": "If yin changes to yang, Álvaro might act prematurely, leading to instability and misalignment with his true vision."
                     },
                     "1": {
                         "name": "Emergence",
-                        "meaning": "\u00c1lvaro is filled with the raw potential to create, yet lacks a clear direction or vision.",
-                        "changing": "If yang changes to yin, hesitation or failure to act might delay \u00c1lvaro's creative journey."
+                        "meaning": "Álvaro is filled with the raw potential to create, yet lacks a clear direction or vision.",
+                        "changing": "If yang changes to yin, hesitation or failure to act might delay Álvaro's creative journey."
                     }
                 }
             },
@@ -177,7 +177,7 @@
             {
                 "title": "The Alchemist's Symphony (Man vs. Self)",
                 "theme": "Neil Gaiman",
-                "short_story": "Sylvia, a reclusive alchemist living in the shadows of Mistwood, felt an unformed potential bubbling within her soul. Her mind pulsed with vibrant ideas yet remained unshaped, wandering like restless shadows in her laboratory. As dawn kissed the horizon, a fiery curiosity ignited within her, pulling her towards the ancient tomes she had long abandoned (Emergence). \n\nShe began meticulously gathering elements, her hands tracing the starry patterns each night, sketching imaginary symphonies in her mind. Yet, the ghosts of past failures clouded her visions, blurring the lines she'd drawn between possibility and futility (Formation).\n\nThe elements hissed and crackled defiantly, and whispers of doubt echoed from the laboratory walls, threatening to drown her newfound resolve. But Sylvia, driven by an unseen force, pushed against the tide of disbelief (Conflict).\n\nDetermined, she tuned into the rhythm of her breath, each beat aligning her vision with reality. Her creation started to take form, a delicate dance between the seen and unseen (Manifestation).\n\nFinally, standing at the heart of her laboratory, Sylvia watched as her creation came to life\u2014a radiant symphony beyond melody, echoing through the halls of Mistwood, her spirit resonating with every note (Mastery).\n\nThe alchemical notes transformed into a saga that sung itself into the stars, leaving Sylvia not as its creator, but its chosen scribe (Transcendence).",
+                "short_story": "Sylvia, a reclusive alchemist living in the shadows of Mistwood, felt an unformed potential bubbling within her soul. Her mind pulsed with vibrant ideas yet remained unshaped, wandering like restless shadows in her laboratory. As dawn kissed the horizon, a fiery curiosity ignited within her, pulling her towards the ancient tomes she had long abandoned (Emergence). \n\nShe began meticulously gathering elements, her hands tracing the starry patterns each night, sketching imaginary symphonies in her mind. Yet, the ghosts of past failures clouded her visions, blurring the lines she'd drawn between possibility and futility (Formation).\n\nThe elements hissed and crackled defiantly, and whispers of doubt echoed from the laboratory walls, threatening to drown her newfound resolve. But Sylvia, driven by an unseen force, pushed against the tide of disbelief (Conflict).\n\nDetermined, she tuned into the rhythm of her breath, each beat aligning her vision with reality. Her creation started to take form, a delicate dance between the seen and unseen (Manifestation).\n\nFinally, standing at the heart of her laboratory, Sylvia watched as her creation came to life—a radiant symphony beyond melody, echoing through the halls of Mistwood, her spirit resonating with every note (Mastery).\n\nThe alchemical notes transformed into a saga that sung itself into the stars, leaving Sylvia not as its creator, but its chosen scribe (Transcendence).",
                 "lines_in_context": {
                     "6": {
                         "name": "Transcendence",
@@ -260,14 +260,16 @@
         "Platonic": "The result emerges when the Patient and Perceptive essence gradually molds the Steadfast and Resilient nature.",
         "Taoist": "When the Subtle Force of Penetration flows in harmony with the Steadfast Essence of Endurance, the outcome naturally unfolds.",
         "Tholonic": "In the quiet endurance of the Mountain, the gentle breath of Wind weaves its unseen tapestry.",
-        "Thermodynamics": "The consequence is the equilibrium dance of entropy's gentle persuasion interwoven with the constancy of thermodynamic stability."
+        "Thermodynamics": "The consequence is the equilibrium dance of entropy's gentle persuasion interwoven with the constancy of thermodynamic stability.",
+        "general": "The gentle influence of change gradually transforms the steadfast nature into a new state of balance.",
+        "explanation": "The lower trigram, The Gentle, signifies subtle and persistent change, akin to the wind's influence. The upper trigram, The Still, represents stability and endurance, like a mountain. Together, they illustrate how gentle, persistent efforts can reshape and restore even the most steadfast elements, leading to a harmonious transformation. This interaction highlights the balance between change and stability, resulting in restoration and renewal."
     },
     "line_type": [
-        "\u268a",
-        "\u268b",
-        "\u268b",
-        "\u268a",
-        "\u268a",
-        "\u268b"
+        "───",
+        "─ ─",
+        "─ ─",
+        "───",
+        "───",
+        "─ ─"
     ]
 }

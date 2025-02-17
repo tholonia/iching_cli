@@ -1,6 +1,6 @@
 {
     "id": 26,
-    "hexagram_code": "\u4dd9",
+    "hexagram_code": "䷙",
     "name": "Cultivation",
     "description": "The process of accumulating power through discipline. Like a mountain containing powerful forces, this represents the development of potential through restraint.",
     "king_wen": {
@@ -13,22 +13,22 @@
         "above": {
             "Trigram Number": 3,
             "Binary Decimal": 3,
-            "Symbol": "\u2636",
-            "Chinese Symbol": "\u826e",
-            "Phonetic": "G\u00e8n",
+            "Symbol": "☶",
+            "Chinese Symbol": "艮",
+            "Phonetic": "Gèn",
             "English Translation": "Mountain",
-            "English Symbol": "\u5c71",
+            "English Symbol": "山",
             "Meaning": "The Still",
             "Quality": "Still and Enduring"
         },
         "below": {
             "Trigram Number": 1,
             "Binary Decimal": 7,
-            "Symbol": "\u2630",
-            "Chinese Symbol": "\u4e7e",
-            "Phonetic": "Qi\u00e1n",
+            "Symbol": "☰",
+            "Chinese Symbol": "乾",
+            "Phonetic": "Qián",
             "English Translation": "Heaven",
-            "English Symbol": "\u5929",
+            "English Symbol": "天",
             "Meaning": "The Creative",
             "Quality": "Strong and Creative"
         }
@@ -56,7 +56,7 @@
         {
             "position": 4,
             "name": "The Blossom of Insight",
-            "meaning": "Clarity emerges as insights unfurl like petals, inviting new growth and understanding in one\u2019s journey.",
+            "meaning": "Clarity emerges as insights unfurl like petals, inviting new growth and understanding in one’s journey.",
             "changing": "The introspective yin nature evolves into vivid yang revelation, where hidden truths bloom into visible wisdom."
         },
         {
@@ -103,7 +103,7 @@
             {
                 "title": "The Duel of Pottery Masters (Man vs. Man)",
                 "theme": "Ernest Hemingway",
-                "short_story": "In a quiet village nestled in a verdant valley, two master potters were entwined in a rivalry as age-old as their craft. Julian, known for his audacious designs that mirrored the wild spirit of the mountains, and Eli, whose work captured the profound serenity of still waters, found themselves at odds in a contest of creation.\n\nThe challenge was simple yet daunting: to craft a vase that embodied the soul of their shared homeland. Julian, fiery and impetuous, set to work with vigor, his hands a blur of movement. The initial burst of inspiration was raw and powerful, promising a piece of startling beauty if he could only contain his energy.\n\nEli, ever methodical, approached the clay with deliberate care, shaping his vision with the patience of one who listens to the whispers of the earth itself. Yet, he faced the creeping shadow of doubt, aware that too much caution could snuff out the spark of creativity.\n\nAs the deadline loomed, both artisans faced their demons. Julian risked exhausting his passion, while Eli struggled against the tide of timidity. In the end, their duel was not merely against each other, but against the limits of human creativity.\n\nWhen the vases were unveiled, both men realized the fruits of their labors transcended competition. Julian's vase burst with vibrant energy, capturing the dynamic forces of life, while Eli\u2019s work resonated with the soothing essence of tranquility. Together, they represented a timeless balance, a synthesis that enriched their craft and deepened their respect for one another.",
+                "short_story": "In a quiet village nestled in a verdant valley, two master potters were entwined in a rivalry as age-old as their craft. Julian, known for his audacious designs that mirrored the wild spirit of the mountains, and Eli, whose work captured the profound serenity of still waters, found themselves at odds in a contest of creation.\n\nThe challenge was simple yet daunting: to craft a vase that embodied the soul of their shared homeland. Julian, fiery and impetuous, set to work with vigor, his hands a blur of movement. The initial burst of inspiration was raw and powerful, promising a piece of startling beauty if he could only contain his energy.\n\nEli, ever methodical, approached the clay with deliberate care, shaping his vision with the patience of one who listens to the whispers of the earth itself. Yet, he faced the creeping shadow of doubt, aware that too much caution could snuff out the spark of creativity.\n\nAs the deadline loomed, both artisans faced their demons. Julian risked exhausting his passion, while Eli struggled against the tide of timidity. In the end, their duel was not merely against each other, but against the limits of human creativity.\n\nWhen the vases were unveiled, both men realized the fruits of their labors transcended competition. Julian's vase burst with vibrant energy, capturing the dynamic forces of life, while Eli’s work resonated with the soothing essence of tranquility. Together, they represented a timeless balance, a synthesis that enriched their craft and deepened their respect for one another.",
                 "lines_in_context": {
                     "6": {
                         "name": "Transcendent Synthesis",
@@ -140,11 +140,11 @@
             {
                 "title": "The Tale of the Reckless River (Man vs. Nature)",
                 "theme": "Jack London",
-                "short_story": "In the heart of a wildland, a river untried and untamed carved its path through the unmapped wilderness. Its currents bore the power of creation but meandered without purpose, scattering energy across the banks. As winter tightened its icy grip, it became apparent that the raging waters needed guidance.\n\nAn old woodsman, seasoned by years and trials, stood by the river\u2019s edge, seeing more than just chaotic flow. He envisioned an avenue of prosperity that only required form and guidance. He set about using fallen trees and earthen dams to lend shape to the river\u2019s destiny.\n\nYet the forces of nature resisted; the mighty currents crashed against his barriers, defying the man\u2019s influence. Resolute, he adjusted his structures, attuning them with the river's feral temper.\n\nAs spring brought its thaw, the river's redefined course nourished fields and forests, its energy harnessed into a conduit of life. The woodsman had not conquered the river but had listened and shaped, transferring his legacy from transient wood to the perpetual whisper of water\u2014power held, released, and thus transformed.",
+                "short_story": "In the heart of a wildland, a river untried and untamed carved its path through the unmapped wilderness. Its currents bore the power of creation but meandered without purpose, scattering energy across the banks. As winter tightened its icy grip, it became apparent that the raging waters needed guidance.\n\nAn old woodsman, seasoned by years and trials, stood by the river’s edge, seeing more than just chaotic flow. He envisioned an avenue of prosperity that only required form and guidance. He set about using fallen trees and earthen dams to lend shape to the river’s destiny.\n\nYet the forces of nature resisted; the mighty currents crashed against his barriers, defying the man’s influence. Resolute, he adjusted his structures, attuning them with the river's feral temper.\n\nAs spring brought its thaw, the river's redefined course nourished fields and forests, its energy harnessed into a conduit of life. The woodsman had not conquered the river but had listened and shaped, transferring his legacy from transient wood to the perpetual whisper of water—power held, released, and thus transformed.",
                 "lines_in_context": {
                     "6": {
                         "name": "Conduit of Life",
-                        "meaning": "The river\u2019s energy, no longer contained, sustains the land, leaving the woodsman's handiwork as a testimony.",
+                        "meaning": "The river’s energy, no longer contained, sustains the land, leaving the woodsman's handiwork as a testimony.",
                         "changing": "If its flow is forcefully curbed, the river might overflow, reclaiming its wild nature and chaos."
                     },
                     "5": {
@@ -154,7 +154,7 @@
                     },
                     "4": {
                         "name": "Alignment of Forces",
-                        "meaning": "Where man meets nature, the woodsman draws upon his learnings to guide the river\u2019s energies effectively.",
+                        "meaning": "Where man meets nature, the woodsman draws upon his learnings to guide the river’s energies effectively.",
                         "changing": "Unchecked ambition might sabotage the equilibrium, causing his efforts to collapse."
                     },
                     "3": {
@@ -169,15 +169,15 @@
                     },
                     "1": {
                         "name": "The First Stirring",
-                        "meaning": "At the dawn of creation, the river\u2019s potent but unfocused energy seeks a path.",
-                        "changing": "An uninspired or hesitant start could delay the river\u2019s potential emergence."
+                        "meaning": "At the dawn of creation, the river’s potent but unfocused energy seeks a path.",
+                        "changing": "An uninspired or hesitant start could delay the river’s potential emergence."
                     }
                 }
             },
             {
                 "title": "The Alchemist's Inner Journey (Man vs. Self)",
-                "theme": "Gabriel Garc\u00eda M\u00e1rquez",
-                "short_story": "In a quaint, sun-drenched village, an alchemist named Julian stood at the pinnacle of his craft, yet unease gnawed at him. His dreams brimmed with vivid symbols and unbridled creativity, urging him toward deeper truths. Initially, Julian failed to comprehend the raw, untamed potential within him, feeling rather detached from it, like a puzzle missing its final pieces. Seeking solace and direction, he began the task of blending his dreams into tangible experiments, shaping ideas into forms. However, the alchemist soon encountered barriers; his optimistic attempts occasionally threatened to slip into chaos. Over time, a profound alignment emerged as Julian's craft began echoing his visions \u2013 a manifestation of deep understanding, bridging internal creativity with the external world. His work transformed into masterpieces, yet, attaining mastery made Julian ponder the fine balance between ego and art. Overcoming his arrogance, he realized the notion of true transcendence lay in letting his creations live beyond himself. The alchemist, once confined by doubts, now found profound fulfillment in witnessing his craft flourish, realizing that releasing it to the world was the ultimate journey.",
+                "theme": "Gabriel García Márquez",
+                "short_story": "In a quaint, sun-drenched village, an alchemist named Julian stood at the pinnacle of his craft, yet unease gnawed at him. His dreams brimmed with vivid symbols and unbridled creativity, urging him toward deeper truths. Initially, Julian failed to comprehend the raw, untamed potential within him, feeling rather detached from it, like a puzzle missing its final pieces. Seeking solace and direction, he began the task of blending his dreams into tangible experiments, shaping ideas into forms. However, the alchemist soon encountered barriers; his optimistic attempts occasionally threatened to slip into chaos. Over time, a profound alignment emerged as Julian's craft began echoing his visions – a manifestation of deep understanding, bridging internal creativity with the external world. His work transformed into masterpieces, yet, attaining mastery made Julian ponder the fine balance between ego and art. Overcoming his arrogance, he realized the notion of true transcendence lay in letting his creations live beyond himself. The alchemist, once confined by doubts, now found profound fulfillment in witnessing his craft flourish, realizing that releasing it to the world was the ultimate journey.",
                 "lines_in_context": {
                     "6": {
                         "name": "Transcendence",
@@ -256,17 +256,19 @@
     },
     "trigram_phrase": {
         "Jungian": "The union of vibrant creativity and unwavering perseverance gives rise to a profound and lasting force.",
-        "Platonic": "The fruit borne of the dynamic impulse of creativity, tempered and guided by steadfast endurance, is the true revelation of the soul\u2019s inherent potential.",
+        "Platonic": "The fruit borne of the dynamic impulse of creativity, tempered and guided by steadfast endurance, is the true revelation of the soul’s inherent potential.",
         "Taoist": "Creativity flows like a river through the patient heart, nourished by the steadfast roots of stability.",
         "Tholonic": "Through the unwavering constancy of enduring presence, the vivid essence of creativity finds its flow.",
-        "Thermodynamics": "The confluence of dynamic creative energy with steadfast stability results in a potent and enduring thermodynamic equilibrium."
+        "Thermodynamics": "The confluence of dynamic creative energy with steadfast stability results in a potent and enduring thermodynamic equilibrium.",
+        "general": "The fusion of creative energy and steadfast stability forms a powerful and enduring force.",
+        "explanation": "The Creative, with its dynamic and strong nature, represents the potential for innovation and growth. The Still, embodying stability and endurance, provides the grounding necessary for this creative energy to manifest effectively. Together, they create a harmonious balance where creativity is both nurtured and sustained, leading to a lasting and impactful presence."
     },
     "line_type": [
-        "\u268a",
-        "\u268b",
-        "\u268b",
-        "\u268a",
-        "\u268a",
-        "\u268a"
+        "───",
+        "─ ─",
+        "─ ─",
+        "───",
+        "───",
+        "───"
     ]
 }

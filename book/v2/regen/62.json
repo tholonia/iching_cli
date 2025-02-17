@@ -1,6 +1,6 @@
 {
     "id": 62,
-    "hexagram_code": "\u4dfd",
+    "hexagram_code": "䷽",
     "name": "Incremental Progress",
     "description": "The power of deep understanding and inner truth. Like a flash of clarity that illuminates hidden connections or the realization that reveals underlying patterns, this represents the capacity to perceive essential nature.",
     "king_wen": {
@@ -13,22 +13,22 @@
         "above": {
             "Trigram Number": 4,
             "Binary Decimal": 1,
-            "Symbol": "\u2633",
-            "Chinese Symbol": "\u9707",
-            "Phonetic": "Zh\u00e8n",
+            "Symbol": "☳",
+            "Chinese Symbol": "震",
+            "Phonetic": "Zhèn",
             "English Translation": "Thunder",
-            "English Symbol": "\u96f7",
+            "English Symbol": "雷",
             "Meaning": "The Arousing",
             "Quality": "Dynamic and Exciting"
         },
         "below": {
             "Trigram Number": 3,
             "Binary Decimal": 3,
-            "Symbol": "\u2636",
-            "Chinese Symbol": "\u826e",
-            "Phonetic": "G\u00e8n",
+            "Symbol": "☶",
+            "Chinese Symbol": "艮",
+            "Phonetic": "Gèn",
             "English Translation": "Mountain",
-            "English Symbol": "\u5c71",
+            "English Symbol": "山",
             "Meaning": "The Still",
             "Quality": "Still and Enduring"
         }
@@ -93,7 +93,7 @@
         "order8parent": "COMPLETION & RENEWAL; Return to Source"
     },
     "image": {
-        "description": "The choice of a bird in Fan Kuan's award-winning watercolor represents the theme of \"Incremental Progress\" and the idea of transcending limits through completion and renewal. The bird, a symbol of freedom and higher perspective, aligns with the tholonic concept of awareness expanding and striving towards new heights. The realism style captures both the intricacy and authenticity of nature, illustrating the meticulous journey of growth and evolution. Watercolor, with its fluidity and transparency, embodies the dynamic interactions within the Thologram, where awareness and intention shape the fabric of reality. Fan Kuan, known for integrating nature\u2019s vastness and interconnectedness, complements the hexagram by reflecting universal love as an artistic principle, capturing the beauty and complexity of existence in each brushstroke.",
+        "description": "The choice of a bird in Fan Kuan's award-winning watercolor represents the theme of \"Incremental Progress\" and the idea of transcending limits through completion and renewal. The bird, a symbol of freedom and higher perspective, aligns with the tholonic concept of awareness expanding and striving towards new heights. The realism style captures both the intricacy and authenticity of nature, illustrating the meticulous journey of growth and evolution. Watercolor, with its fluidity and transparency, embodies the dynamic interactions within the Thologram, where awareness and intention shape the fabric of reality. Fan Kuan, known for integrating nature’s vastness and interconnectedness, complements the hexagram by reflecting universal love as an artistic principle, capturing the beauty and complexity of existence in each brushstroke.",
         "file": "62.png"
     },
     "energy_cycle": "ascending",
@@ -102,38 +102,38 @@
         "entries": [
             {
                 "title": "The Sculptor's Dream (Man vs. Man)",
-                "theme": "Gabriel Garc\u00eda M\u00e1rquez",
-                "short_story": "In a quaint, vivid village, a sculptor by the name of El\u00e9azar lived in seclusion, filled with untapped creative fervor. His heart yearned to carve a masterpiece that would convey the soul of the village. Hidden behind his studio's walls, dreams of immortalizing the essence of his people consumed him. Despite the vibrant energy filling his vision, indecision and doubt threatened to wither his ambition. El\u00e9azar embraced each chisel's echo, carving with meticulous precision. But as he shaped the stone, envious whispers arose from fellow villagers who questioned his silent devotion. El\u00e9azar steeled his resolve, seeing the faces of the village in each chiseled curve. Aligned with an internal rhythm, the sculpture began to reflect their collective spirit, gaining an enriching momentum that silenced the skeptics. He mastered his craft, standing poised, as the form transcended his initial vision. Upon unveiling the piece, the community gasped, seeing their reflection in the stone\u2014not as mere figures, but as a testament to their shared journey and unintended legacy. There El\u00e9azar stood, the creation handing him ephemeral glory before becoming entwined with the heart of the village, no longer his alone to wield.",
+                "theme": "Gabriel García Márquez",
+                "short_story": "In a quaint, vivid village, a sculptor by the name of Eléazar lived in seclusion, filled with untapped creative fervor. His heart yearned to carve a masterpiece that would convey the soul of the village. Hidden behind his studio's walls, dreams of immortalizing the essence of his people consumed him. Despite the vibrant energy filling his vision, indecision and doubt threatened to wither his ambition. Eléazar embraced each chisel's echo, carving with meticulous precision. But as he shaped the stone, envious whispers arose from fellow villagers who questioned his silent devotion. Eléazar steeled his resolve, seeing the faces of the village in each chiseled curve. Aligned with an internal rhythm, the sculpture began to reflect their collective spirit, gaining an enriching momentum that silenced the skeptics. He mastered his craft, standing poised, as the form transcended his initial vision. Upon unveiling the piece, the community gasped, seeing their reflection in the stone—not as mere figures, but as a testament to their shared journey and unintended legacy. There Eléazar stood, the creation handing him ephemeral glory before becoming entwined with the heart of the village, no longer his alone to wield.",
                 "lines_in_context": {
                     "6": {
                         "name": "Transcendence",
-                        "meaning": "El\u00e9azar's sculpture becomes a communal emblem, transcending personal authorship and becoming a shared cultural icon, symbolizing a lasting creative legacy.",
-                        "changing": "If yang changes to yin, El\u00e9azar might struggle with letting go, attempting to maintain ownership, thus stalling the sculpture's integration into the village's identity."
+                        "meaning": "Eléazar's sculpture becomes a communal emblem, transcending personal authorship and becoming a shared cultural icon, symbolizing a lasting creative legacy.",
+                        "changing": "If yang changes to yin, Eléazar might struggle with letting go, attempting to maintain ownership, thus stalling the sculpture's integration into the village's identity."
                     },
                     "5": {
                         "name": "Mastery",
-                        "meaning": "El\u00e9azar achieves mastery over his craft, channeling his raw vision into a refined work that commands respect and admiration from the community.",
-                        "changing": "When yang changes to yin, El\u00e9azar's confidence could falter, risking his creation's potential with self-doubt or misrecognition of its impact."
+                        "meaning": "Eléazar achieves mastery over his craft, channeling his raw vision into a refined work that commands respect and admiration from the community.",
+                        "changing": "When yang changes to yin, Eléazar's confidence could falter, risking his creation's potential with self-doubt or misrecognition of its impact."
                     },
                     "4": {
                         "name": "Manifestation",
-                        "meaning": "El\u00e9azar's steadfast dedication allows his vision to crystallize, aligning perfectly with the village's essence and earning their acceptance.",
-                        "changing": "If yin changes to yang, El\u00e9azar might overreach in his artistic expression, risking alienation by imposing excessive personal embellishments."
+                        "meaning": "Eléazar's steadfast dedication allows his vision to crystallize, aligning perfectly with the village's essence and earning their acceptance.",
+                        "changing": "If yin changes to yang, Eléazar might overreach in his artistic expression, risking alienation by imposing excessive personal embellishments."
                     },
                     "3": {
                         "name": "Conflict",
-                        "meaning": "El\u00e9azar faces skepticism and envy from the village, which serves as both a crucible and a confrontational force in his creative process.",
-                        "changing": "If yang changes to yin, El\u00e9azar might retreat, exhausted by the lack of support, abandoning his vision before completion."
+                        "meaning": "Eléazar faces skepticism and envy from the village, which serves as both a crucible and a confrontational force in his creative process.",
+                        "changing": "If yang changes to yin, Eléazar might retreat, exhausted by the lack of support, abandoning his vision before completion."
                     },
                     "2": {
                         "name": "Formation",
-                        "meaning": "The initial chaotic energy of creation begins to solidify as El\u00e9azar refines his techniques, shaping his raw potential into a tangible form.",
-                        "changing": "When yin changes to yang, El\u00e9azar might act prematurely, risking instability as he pushes the sculpture towards finality too quickly."
+                        "meaning": "The initial chaotic energy of creation begins to solidify as Eléazar refines his techniques, shaping his raw potential into a tangible form.",
+                        "changing": "When yin changes to yang, Eléazar might act prematurely, risking instability as he pushes the sculpture towards finality too quickly."
                     },
                     "1": {
                         "name": "Emergence",
-                        "meaning": "El\u00e9azar's dream stirs within him, the raw potential of his unshaped vision drives his initial creative impulse, though lacking clarity.",
-                        "changing": "If yang changes to yin, El\u00e9azar's hesitations could delay his start, jeopardizing the birth of his artistic endeavor."
+                        "meaning": "Eléazar's dream stirs within him, the raw potential of his unshaped vision drives his initial creative impulse, though lacking clarity.",
+                        "changing": "If yang changes to yin, Eléazar's hesitations could delay his start, jeopardizing the birth of his artistic endeavor."
                     }
                 }
             },
@@ -177,7 +177,7 @@
             {
                 "title": "The Alchemist's Journey (Man vs. Self)",
                 "theme": "Paulo Coelho",
-                "short_story": "In a small village, a young alchemist named Alejandro was driven by a dream to transform base metals into gold. His heart brimmed with raw potential, but the path was unclear. Faced with the initial flicker of passion, Alejandro hesitated, the fear of failure gnawing at his resolve. Yet, guided by an inner voice, he gathered his courage and embarked on a journey of exploration. As he began to experiment, ideas started taking shape, each failure laying the foundation for future success. His hands danced through the air as he honed his craft, but fatigue and doubt soon shadowed his progress. The challenges of the world \u2013 skepticism and unforeseen trials \u2013 tested his will. Gritting his teeth, Alejandro pushed forward, aligning his dreams with reality as the vision crystallized in his mind. Mastery greeted him as the final ingredients fused, shimmering gold from the toil of his labor. His creation surpassed his ambition, shining bright in the eyes of the village, a testament to dedication and the transformative power of dreams. As the villagers gathered, Alejandro understood that the gold was never his alone; it was a legacy to inspire journeys of discovery and the pursuit of one's dreams.",
+                "short_story": "In a small village, a young alchemist named Alejandro was driven by a dream to transform base metals into gold. His heart brimmed with raw potential, but the path was unclear. Faced with the initial flicker of passion, Alejandro hesitated, the fear of failure gnawing at his resolve. Yet, guided by an inner voice, he gathered his courage and embarked on a journey of exploration. As he began to experiment, ideas started taking shape, each failure laying the foundation for future success. His hands danced through the air as he honed his craft, but fatigue and doubt soon shadowed his progress. The challenges of the world – skepticism and unforeseen trials – tested his will. Gritting his teeth, Alejandro pushed forward, aligning his dreams with reality as the vision crystallized in his mind. Mastery greeted him as the final ingredients fused, shimmering gold from the toil of his labor. His creation surpassed his ambition, shining bright in the eyes of the village, a testament to dedication and the transformative power of dreams. As the villagers gathered, Alejandro understood that the gold was never his alone; it was a legacy to inspire journeys of discovery and the pursuit of one's dreams.",
                 "lines_in_context": {
                     "6": {
                         "name": "Transcendence",
@@ -258,14 +258,16 @@
         "Platonic": "The fruition of unwavering serenity finds its vigor in the spirited dance of vivacity.",
         "Taoist": "In the stillness of tranquil being, the dance of vibrant energy awakens.",
         "Tholonic": "In the heart of dynamic vigor lies the serene blossoming of unwavering tranquility.",
-        "Thermodynamics": "The equilibrium of serene entropy emerges amidst the vibrant energy flux of dynamism."
+        "Thermodynamics": "The equilibrium of serene entropy emerges amidst the vibrant energy flux of dynamism.",
+        "general": "The harmony of enduring calm and lively energy creates a balanced path of growth.",
+        "explanation": "The lower trigram, 'The Still,' embodies stability and persistence, providing a foundation of calm. The upper trigram, 'The Arousing,' introduces movement and excitement, adding dynamism. Together, they symbolize a journey where steady perseverance meets lively enthusiasm, fostering balanced progress."
     },
     "line_type": [
-        "\u268b",
-        "\u268b",
-        "\u268a",
-        "\u268a",
-        "\u268b",
-        "\u268b"
+        "─ ─",
+        "─ ─",
+        "───",
+        "───",
+        "─ ─",
+        "─ ─"
     ]
 }

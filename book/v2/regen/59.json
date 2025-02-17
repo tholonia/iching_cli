@@ -1,6 +1,6 @@
 {
     "id": 59,
-    "hexagram_code": "\u4dfa",
+    "hexagram_code": "䷺",
     "name": "Dissolution",
     "description": "The process of breaking down barriers and dissolving separation. Like ice melting into water or rigid structures becoming flexible, this represents the transformation from solid to fluid states and the resulting potential for new connections.",
     "king_wen": {
@@ -13,22 +13,22 @@
         "above": {
             "Trigram Number": 7,
             "Binary Decimal": 5,
-            "Symbol": "\u2632",
-            "Chinese Symbol": "\u79bb",
-            "Phonetic": "L\u00ed",
+            "Symbol": "☲",
+            "Chinese Symbol": "离",
+            "Phonetic": "Lí",
             "English Translation": "Fire",
-            "English Symbol": "\u706b",
+            "English Symbol": "火",
             "Meaning": "The Clinging",
             "Quality": "Bright and Radiant"
         },
         "below": {
             "Trigram Number": 6,
             "Binary Decimal": 2,
-            "Symbol": "\u2635",
-            "Chinese Symbol": "\u574e",
-            "Phonetic": "K\u01cen",
+            "Symbol": "☵",
+            "Chinese Symbol": "坎",
+            "Phonetic": "Kǎn",
             "English Translation": "Water",
-            "English Symbol": "\u6c34",
+            "English Symbol": "水",
             "Meaning": "The Abysmal",
             "Quality": "Deep and Mysterious"
         }
@@ -103,7 +103,7 @@
             {
                 "title": "The Artist's Unveiling (Man vs. Man)",
                 "theme": "Haruki Murakami",
-                "short_story": "On a dimly lit night in Tokyo, the air was thick with the promise of a new creation. Aya, a struggling painter, sat quietly in her cramped studio, surrounded by blank canvases that resonated with the silence of unexpressed dreams. As the moonlight crept through the window, inspiration struck\u2014chaotic and urgent. Her hands moved with raw potential, every stroke charged with energy, tearing through the veil of hesitation. Yet, as the colors mingled, emerging forms flirted with symmetry and chaos alike; it was beauty trying to find its voice in disorder. Over days, the chaotic dance of lines began to converge, revealing an image of stunning clarity\u2014a plunge into whispered blues and screaming reds that sang to a deeper truth. Amidst the cacophony of brushstrokes, Aya wrestled with doubt\u2014a swirling torrent threatening to consume her vision. Determination surfaced, aligning her focus with the rhythm of creation. When completed, the painting was more than pigment on canvas\u2014it was a manifestation of her soul, whispering secrets to those who beheld it. Now, with each viewer, the painting lived a life of its own, a testament to transformation beyond the self.",
+                "short_story": "On a dimly lit night in Tokyo, the air was thick with the promise of a new creation. Aya, a struggling painter, sat quietly in her cramped studio, surrounded by blank canvases that resonated with the silence of unexpressed dreams. As the moonlight crept through the window, inspiration struck—chaotic and urgent. Her hands moved with raw potential, every stroke charged with energy, tearing through the veil of hesitation. Yet, as the colors mingled, emerging forms flirted with symmetry and chaos alike; it was beauty trying to find its voice in disorder. Over days, the chaotic dance of lines began to converge, revealing an image of stunning clarity—a plunge into whispered blues and screaming reds that sang to a deeper truth. Amidst the cacophony of brushstrokes, Aya wrestled with doubt—a swirling torrent threatening to consume her vision. Determination surfaced, aligning her focus with the rhythm of creation. When completed, the painting was more than pigment on canvas—it was a manifestation of her soul, whispering secrets to those who beheld it. Now, with each viewer, the painting lived a life of its own, a testament to transformation beyond the self.",
                 "lines_in_context": {
                     "6": {
                         "name": "Transcendence of Creation",
@@ -139,8 +139,8 @@
             },
             {
                 "title": "The Symphony of the Storm (Man vs. Nature)",
-                "theme": "Gabriel Garc\u00eda M\u00e1rquez",
-                "short_story": "In the heart of a vibrant jungle, Alejandro stood beneath the canopy, a maestro poised to conduct the symphony of the storm brewing overhead. Driven by an untamed inspiration, he sought to capture the wild music of the impending tempest with his orchestra of strings and wind. As the first notes resonated through the humid air, his mind raced with raw, unshaped potential\u2014an intensity seeking form amidst an audience of tangled greens. Thunder roared, a profound counterpoint challenging his symphony's birth. Yet he persisted, shaping chaos into harmony, his fingers weaving through the potential and promise of sound, asserting dominance over the cacophony. Fat droplets transformed leaves into percussion, amplifying his composition in crescendo. His vision, once intangible, found reality in the storm's heart, harmonizing with natural chaos. Alejandro stood at his peak, commanding, his creation an unyielding testament to mastery. As the last note faded, the symphony transcended; a creation liberated, echoing through the vines and across the mountains, beyond his solitary vision. He let it go, the music absorbing into the earth, seeds of sound that would burgeon in the fertile forest, acting as a reminder of the harmony found within nature's tempest.",
+                "theme": "Gabriel García Márquez",
+                "short_story": "In the heart of a vibrant jungle, Alejandro stood beneath the canopy, a maestro poised to conduct the symphony of the storm brewing overhead. Driven by an untamed inspiration, he sought to capture the wild music of the impending tempest with his orchestra of strings and wind. As the first notes resonated through the humid air, his mind raced with raw, unshaped potential—an intensity seeking form amidst an audience of tangled greens. Thunder roared, a profound counterpoint challenging his symphony's birth. Yet he persisted, shaping chaos into harmony, his fingers weaving through the potential and promise of sound, asserting dominance over the cacophony. Fat droplets transformed leaves into percussion, amplifying his composition in crescendo. His vision, once intangible, found reality in the storm's heart, harmonizing with natural chaos. Alejandro stood at his peak, commanding, his creation an unyielding testament to mastery. As the last note faded, the symphony transcended; a creation liberated, echoing through the vines and across the mountains, beyond his solitary vision. He let it go, the music absorbing into the earth, seeds of sound that would burgeon in the fertile forest, acting as a reminder of the harmony found within nature's tempest.",
                 "lines_in_context": {
                     "6": {
                         "name": "Release of Creation",
@@ -177,7 +177,7 @@
             {
                 "title": "The Unseen Artistry (Man vs. Self)",
                 "theme": "Toni Morrison",
-                "short_story": "In the stillness of a small rural town, Elara found herself adrift between the tangible and the imagined. She carried a sketchbook everywhere, its pages filled with the raw energy of things yet unformed\u2014a chaotic swirl of lines without a face. One day, on the bank of a wild river, inspiration struck her like lightning. Her hand moved with sublime recklessness, sculpting the chaos into hints of shapes, revealing secrets held in the heart of silence. Blossoming from her soul was a power she did not fully comprehend but could feel in every cell. As the sun crept toward the horizon, she realized the shapes had transformed into a tree\u2014a symbol of life with roots and branches intertwined, reaching for both earth and sky. She let go of hesitation, allowing the design to speak its language. Yet, in those finished strokes, she saw something beyond herself; the image danced in sunlight, whispering to passersby its own tales. Elara knew her creation had left her grasp, echoing life's undying desire for connection and leaving its indelible mark on those open to its call.",
+                "short_story": "In the stillness of a small rural town, Elara found herself adrift between the tangible and the imagined. She carried a sketchbook everywhere, its pages filled with the raw energy of things yet unformed—a chaotic swirl of lines without a face. One day, on the bank of a wild river, inspiration struck her like lightning. Her hand moved with sublime recklessness, sculpting the chaos into hints of shapes, revealing secrets held in the heart of silence. Blossoming from her soul was a power she did not fully comprehend but could feel in every cell. As the sun crept toward the horizon, she realized the shapes had transformed into a tree—a symbol of life with roots and branches intertwined, reaching for both earth and sky. She let go of hesitation, allowing the design to speak its language. Yet, in those finished strokes, she saw something beyond herself; the image danced in sunlight, whispering to passersby its own tales. Elara knew her creation had left her grasp, echoing life's undying desire for connection and leaving its indelible mark on those open to its call.",
                 "lines_in_context": {
                     "6": {
                         "name": "Transcendence of Creation",
@@ -216,7 +216,7 @@
     "history": {
         "title": "The Fall of the Berlin Wall",
         "subtitle": "\"Dissolution\" in History",
-        "short_story": "On November 9, 1989, the Berlin Wall, the most potent symbol of the Cold War's rigid divisions, began to dissolve not through violence but through a cascade of misunderstandings and popular will. It began when East German government spokesman G\u00fcnter Schabowski mistakenly announced at a press conference that new refugee regulations would take effect \"immediately,\" including free passage across the border. As this news spread through West German television, East Berliners began gathering at checkpoints, creating a peaceful but unstoppable pressure. The border guards, receiving no clear orders and unwilling to use force, began allowing people through. What had been the world's most notorious barrier started dissolving through the simple movement of people walking through it. In the following days, ordinary citizens began dismantling the wall piece by piece - a process they called \"wall pecking\" - transforming a barrier of separation into souvenirs of freedom. The rigid structure that had divided Europe for nearly thirty years dissolved not through military force but through the fluid power of human desire for connection.",
+        "short_story": "On November 9, 1989, the Berlin Wall, the most potent symbol of the Cold War's rigid divisions, began to dissolve not through violence but through a cascade of misunderstandings and popular will. It began when East German government spokesman Günter Schabowski mistakenly announced at a press conference that new refugee regulations would take effect \"immediately,\" including free passage across the border. As this news spread through West German television, East Berliners began gathering at checkpoints, creating a peaceful but unstoppable pressure. The border guards, receiving no clear orders and unwilling to use force, began allowing people through. What had been the world's most notorious barrier started dissolving through the simple movement of people walking through it. In the following days, ordinary citizens began dismantling the wall piece by piece - a process they called \"wall pecking\" - transforming a barrier of separation into souvenirs of freedom. The rigid structure that had divided Europe for nearly thirty years dissolved not through military force but through the fluid power of human desire for connection.",
         "source": [
             "\"The Fall of the Berlin Wall: The Revolutionary Legacy of 1989\" by Jeffrey A. Engel (Oxford University Press, 2011)"
         ],
@@ -258,14 +258,16 @@
         "Platonic": "The dance of profound mysteries is revealed when touched by the light of vivid clarity.",
         "Taoist": "In the light of pure illumination, the depth of profound mysteries is revealed.",
         "Tholonic": "In the Tholonic view, it is through the radiant clarity that the depths of profound mystery are revealed.",
-        "Thermodynamics": "The intricate dance of profound enigmas is unveiled with striking clarity when illuminated by the radiant energy of understanding."
+        "Thermodynamics": "The intricate dance of profound enigmas is unveiled with striking clarity when illuminated by the radiant energy of understanding.",
+        "general": "The light of clarity unveils the mysteries hidden in the depths.",
+        "explanation": "The lower trigram, The Abysmal, symbolizes the deep and mysterious, while the upper trigram, The Clinging, stands for brightness and radiance. Together, they illustrate how clarity and understanding can illuminate and reveal what lies hidden in the depths, merging the unknown with the known."
     },
     "line_type": [
-        "\u268a",
-        "\u268a",
-        "\u268b",
-        "\u268b",
-        "\u268a",
-        "\u268b"
+        "───",
+        "───",
+        "─ ─",
+        "─ ─",
+        "───",
+        "─ ─"
     ]
 }

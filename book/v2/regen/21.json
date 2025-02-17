@@ -1,6 +1,6 @@
 {
     "id": 21,
-    "hexagram_code": "\u4dd4",
+    "hexagram_code": "䷔",
     "name": "Breakthrough",
     "description": "The forceful clarity that breaks through obstacles and illuminates new paths. Like lightning piercing darkness, this represents the moment when awareness cuts through confusion to reveal essential truth.",
     "king_wen": {
@@ -13,22 +13,22 @@
         "above": {
             "Trigram Number": 7,
             "Binary Decimal": 5,
-            "Symbol": "\u2632",
-            "Chinese Symbol": "\u79bb",
-            "Phonetic": "L\u00ed",
+            "Symbol": "☲",
+            "Chinese Symbol": "离",
+            "Phonetic": "Lí",
             "English Translation": "Fire",
-            "English Symbol": "\u706b",
+            "English Symbol": "火",
             "Meaning": "The Clinging",
             "Quality": "Bright and Radiant"
         },
         "below": {
             "Trigram Number": 4,
             "Binary Decimal": 1,
-            "Symbol": "\u2633",
-            "Chinese Symbol": "\u9707",
-            "Phonetic": "Zh\u00e8n",
+            "Symbol": "☳",
+            "Chinese Symbol": "震",
+            "Phonetic": "Zhèn",
             "English Translation": "Thunder",
-            "English Symbol": "\u96f7",
+            "English Symbol": "雷",
             "Meaning": "The Arousing",
             "Quality": "Dynamic and Exciting"
         }
@@ -93,7 +93,7 @@
         "order8parent": "INNER GROWTH; Internal Development"
     },
     "image": {
-        "description": "In this digital painting titled \"BREAKTHROUGH,\" the object of lightning embodies the theme of inner growth and breaking through barriers, resonating with tholonic concepts of awareness and intention manifesting dynamic change. Surrealism amplifies this transformative energy, merging reality with imagination to symbolize an emergent consciousness, akin to a tholon evolving beyond its bounds. The digital medium allows for vivid, symbolic expression, capturing the essence of conceptual energy\u2014intention shaping form. Though no specific artist is identified, the reference to Leonardo da Vinci suggests an integration of science and art, reflecting the balance of negotiation and limitation within the Thologram. This award-winning piece vividly depicts the forces of awareness and contribution, illustrating an interconnected holarchy of personal evolution and universal potential.",
+        "description": "In this digital painting titled \"BREAKTHROUGH,\" the object of lightning embodies the theme of inner growth and breaking through barriers, resonating with tholonic concepts of awareness and intention manifesting dynamic change. Surrealism amplifies this transformative energy, merging reality with imagination to symbolize an emergent consciousness, akin to a tholon evolving beyond its bounds. The digital medium allows for vivid, symbolic expression, capturing the essence of conceptual energy—intention shaping form. Though no specific artist is identified, the reference to Leonardo da Vinci suggests an integration of science and art, reflecting the balance of negotiation and limitation within the Thologram. This award-winning piece vividly depicts the forces of awareness and contribution, illustrating an interconnected holarchy of personal evolution and universal potential.",
         "file": "21.png"
     },
     "energy_cycle": "descending",
@@ -103,7 +103,7 @@
             {
                 "title": "The Sculptor's Dilemma (Man vs. Man)",
                 "theme": "Mary Shelley",
-                "short_story": "In a gloomy workshop perched on the cliffs, Vincent toiled over a block of marble. Each hammer strike chipped away the stone, guided by his frustration with a world reluctant to accept change. His creation, he believed, would reshape the artistic landscape, freeing beauty trapped beneath rock's surface.\n\nBut as the figure emerged, a vision of grace, the village elders gathered, skeptical of this break with tradition. 'The old ways guard us,' they cautioned, their fear of new ideas like chains around their minds.\n\nYet Vincent's resolve was unyielding. He saw not just stone, but potential. Every subtle detail captured not only an expression but the very essence of life itself.\n\nHours turned to days, and finally, under a moonlit sky, the sculpture stood complete\u2014a testament to Vincent\u2019s endurance and insight. The villagers, drawn by whispers of its beauty, came to witness its unveiling.\n\nIn awe, they saw not a threat, but a transformation, their resistance dissolving before their eyes. The sculpture was no longer just Vincent's; it became a part of them all, a symbol of embracing the new without fearing the unknown.",
+                "short_story": "In a gloomy workshop perched on the cliffs, Vincent toiled over a block of marble. Each hammer strike chipped away the stone, guided by his frustration with a world reluctant to accept change. His creation, he believed, would reshape the artistic landscape, freeing beauty trapped beneath rock's surface.\n\nBut as the figure emerged, a vision of grace, the village elders gathered, skeptical of this break with tradition. 'The old ways guard us,' they cautioned, their fear of new ideas like chains around their minds.\n\nYet Vincent's resolve was unyielding. He saw not just stone, but potential. Every subtle detail captured not only an expression but the very essence of life itself.\n\nHours turned to days, and finally, under a moonlit sky, the sculpture stood complete—a testament to Vincent’s endurance and insight. The villagers, drawn by whispers of its beauty, came to witness its unveiling.\n\nIn awe, they saw not a threat, but a transformation, their resistance dissolving before their eyes. The sculpture was no longer just Vincent's; it became a part of them all, a symbol of embracing the new without fearing the unknown.",
                 "lines_in_context": {
                     "6": {
                         "name": "Transcendence",
@@ -140,7 +140,7 @@
             {
                 "title": "The Untamed Wilderness (Man vs. Nature)",
                 "theme": "Cormac McCarthy",
-                "short_story": "In an untamed land where the sky clashed with the earth, a young protagonist stood before a forest that held secrets older than time. This forest was not just an expanse of trees but a fierce entity resisting the intrusion of the outside world. As the protagonist ventured in, they felt the pull of the forest's raw creative force, teeming with unseen potential and life. It whispered tales of the old gods and spirits, urging the wanderer to discover its secrets.\n\nYet, the forest was unforgiving, with roots snaking across the ground and branches clawing down from above. It tested the youth's resolve, challenging them to align their modern perspective with the ancient rhythms hidden within. Each step deeper into the forest brought new challenges and revelations, until the forest itself seemed to guide them, revealing forgotten paths.\n\nAs the journey neared its climax, the forest's wisdom enveloped the young discoverer, teaching them to see with new eyes. When they emerged, they were not reduced to conqueror or victim, but a part of the forest\u2014a bridge between the world of men and the ancient wilderness. The forest's secrets now lived not just in its depths, but in the heart of the one who dared to listen.",
+                "short_story": "In an untamed land where the sky clashed with the earth, a young protagonist stood before a forest that held secrets older than time. This forest was not just an expanse of trees but a fierce entity resisting the intrusion of the outside world. As the protagonist ventured in, they felt the pull of the forest's raw creative force, teeming with unseen potential and life. It whispered tales of the old gods and spirits, urging the wanderer to discover its secrets.\n\nYet, the forest was unforgiving, with roots snaking across the ground and branches clawing down from above. It tested the youth's resolve, challenging them to align their modern perspective with the ancient rhythms hidden within. Each step deeper into the forest brought new challenges and revelations, until the forest itself seemed to guide them, revealing forgotten paths.\n\nAs the journey neared its climax, the forest's wisdom enveloped the young discoverer, teaching them to see with new eyes. When they emerged, they were not reduced to conqueror or victim, but a part of the forest—a bridge between the world of men and the ancient wilderness. The forest's secrets now lived not just in its depths, but in the heart of the one who dared to listen.",
                 "lines_in_context": {
                     "6": {
                         "name": "Unity with Nature",
@@ -154,7 +154,7 @@
                     },
                     "4": {
                         "name": "Integration",
-                        "meaning": "Bridging the gap between the forest\u2019s ancient secrets and the protagonist\u2019s modern perspective gains momentum.",
+                        "meaning": "Bridging the gap between the forest’s ancient secrets and the protagonist’s modern perspective gains momentum.",
                         "changing": "A rush towards integration without preparation may lead to reckless actions and potential harm."
                     },
                     "3": {
@@ -165,19 +165,19 @@
                     "2": {
                         "name": "Discovery and Shaping",
                         "meaning": "The protagonist begins to shape their potential amid the forest's challenges, exploring its age-old secrets.",
-                        "changing": "Premature exploration without respect for the forest\u2019s rhythms endangers the protagonist's endeavor."
+                        "changing": "Premature exploration without respect for the forest’s rhythms endangers the protagonist's endeavor."
                     },
                     "1": {
                         "name": "Initial Encounter",
                         "meaning": "The protagonist steps into the forceful yet inviting arms of the forest, sensing immense potential.",
-                        "changing": "Hesitation to engage with the forest's call would delay discoveries, deferring the protagonist\u2019s evolution."
+                        "changing": "Hesitation to engage with the forest's call would delay discoveries, deferring the protagonist’s evolution."
                     }
                 }
             },
             {
                 "title": "The Forge of Dreams (Man vs. Self)",
                 "theme": "Ray Bradbury",
-                "short_story": "Beneath a sea of endless stars, Jonathan stood, eyes wide with dreams burning within. The Forge\u2014a wild tempest of creativity\u2014roiled inside him, urging him to bring forth something yet unimaginable. But how? The vision was there, glowing, elusive like lightning in his mind. Hesitation clawed at him, and he feared it would grow cold if not acted upon. He knew he must shape it, but where to begin? He sculpted with fervor, his hands wrestling with clay, only to meet frustration as shapes crumbled beneath his tenuous grasp.\n\nEach failure felt like a flint strike, sparking yet dull, until slowly, he found rhythm in the chaos. Challenges arose, demons whispering of futility, as if mocking his every move. Yet, Jonathan persisted, envisioning his masterpiece with eyes lit by the fire within and tempered by opposition.\n\nIn time, form greeted function; his creation took root in reality, alignment refined as exposures became bold steps. The crescendo: Jonathan's soul glittered with mastery\u2014the world stood amazed. From his hands flowed not mere craftsmanship, but art transcendent, claiming identity beyond his own. His heart swelled with the fulfillment of release, as he understood that true creation knows no chains.",
+                "short_story": "Beneath a sea of endless stars, Jonathan stood, eyes wide with dreams burning within. The Forge—a wild tempest of creativity—roiled inside him, urging him to bring forth something yet unimaginable. But how? The vision was there, glowing, elusive like lightning in his mind. Hesitation clawed at him, and he feared it would grow cold if not acted upon. He knew he must shape it, but where to begin? He sculpted with fervor, his hands wrestling with clay, only to meet frustration as shapes crumbled beneath his tenuous grasp.\n\nEach failure felt like a flint strike, sparking yet dull, until slowly, he found rhythm in the chaos. Challenges arose, demons whispering of futility, as if mocking his every move. Yet, Jonathan persisted, envisioning his masterpiece with eyes lit by the fire within and tempered by opposition.\n\nIn time, form greeted function; his creation took root in reality, alignment refined as exposures became bold steps. The crescendo: Jonathan's soul glittered with mastery—the world stood amazed. From his hands flowed not mere craftsmanship, but art transcendent, claiming identity beyond his own. His heart swelled with the fulfillment of release, as he understood that true creation knows no chains.",
                 "lines_in_context": {
                     "6": {
                         "name": "Release",
@@ -196,7 +196,7 @@
                     },
                     "3": {
                         "name": "Opposition",
-                        "meaning": "As Jonathan progresses, challenges arise\u2014external and internal\u2014creating friction that tests his commitment to the vision.",
+                        "meaning": "As Jonathan progresses, challenges arise—external and internal—creating friction that tests his commitment to the vision.",
                         "changing": "Retreat would symbolize defeat; giving up before the breakthrough would diminish potential."
                     },
                     "2": {
@@ -259,14 +259,16 @@
         "Platonic": "The effulgence of the spirited and exhilarating metamorphoses into a radiant and enlightening illumination.",
         "Taoist": "From the dance of energy and vigor arises the light of illumination and insight.",
         "Tholonic": "The effulgent dance of dynamic fervor unfurls as an incandescent radiance and lucidity.",
-        "Thermodynamics": "The entropic dance of dynamic energy materializes as radiant clarity and illuminative expression."
+        "Thermodynamics": "The entropic dance of dynamic energy materializes as radiant clarity and illuminative expression.",
+        "general": "The energetic drive ignites a path of clarity and understanding.",
+        "explanation": "The lower trigram, 'The Arousing,' symbolizes dynamic and exciting energy, akin to an initial spark or drive. This energy fuels movement and transformation. The upper trigram, 'The Clinging,' represents brightness and radiance, signifying clarity and enlightenment. Together, they illustrate how dynamic energy can lead to a breakthrough in understanding, where the initial excitement and vigor illuminate a path forward, fostering insight and clarity."
     },
     "line_type": [
-        "\u268a",
-        "\u268b",
-        "\u268a",
-        "\u268b",
-        "\u268b",
-        "\u268a"
+        "───",
+        "─ ─",
+        "───",
+        "─ ─",
+        "─ ─",
+        "───"
     ]
 }

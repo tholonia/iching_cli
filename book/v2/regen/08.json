@@ -1,6 +1,6 @@
 {
     "id": 8,
-    "hexagram_code": "\u4dc7",
+    "hexagram_code": "䷇",
     "name": "Unity",
     "description": "The state of natural belonging and mutual support. Like water finding its level, this represents the power of aligned connection and shared purpose.",
     "king_wen": {
@@ -13,22 +13,22 @@
         "above": {
             "Trigram Number": 6,
             "Binary Decimal": 2,
-            "Symbol": "\u2635",
-            "Chinese Symbol": "\u574e",
-            "Phonetic": "K\u01cen",
+            "Symbol": "☵",
+            "Chinese Symbol": "坎",
+            "Phonetic": "Kǎn",
             "English Translation": "Water",
-            "English Symbol": "\u6c34",
+            "English Symbol": "水",
             "Meaning": "The Abysmal",
             "Quality": "Deep and Mysterious"
         },
         "below": {
             "Trigram Number": 2,
             "Binary Decimal": 0,
-            "Symbol": "\u2637",
-            "Chinese Symbol": "\u5764",
-            "Phonetic": "K\u016bn",
+            "Symbol": "☷",
+            "Chinese Symbol": "坤",
+            "Phonetic": "Kūn",
             "English Translation": "Earth",
-            "English Symbol": "\u5730",
+            "English Symbol": "地",
             "Meaning": "The Receptive",
             "Quality": "Receptive and Nurturing"
         }
@@ -102,7 +102,7 @@
         "entries": [
             {
                 "title": "Harmony in Chaos (Man vs. Man)",
-                "theme": "Gabriel Garc\u00eda M\u00e1rquez",
+                "theme": "Gabriel García Márquez",
                 "short_story": "In a bustling marketplace, amidst the clamorous soundscape of vendors shouting and children laughing, a young composer named Lucas finds himself overwhelmed by the plethora of clashing sounds. Initially disoriented, Lucas feels the raw creative energy bubbling within him, unshaped and chaotic, much like a storm contained within his mind. As he wanders through the cacophony, he begins to perceive a rhythm, a hidden harmony within the chaos. Inspiration strikes as he envisions a symphony composed entirely of these discordant elements. Guided by this vision, Lucas starts crafting his symphony, shaping each sound into a cohesive whole. He faces skepticism and ridicule from those around him who fail to see his vision, their doubts materializing as obstacles in his creative path. Yet, Lucas persists, refining his work, aligning his vision with the chaotic reality around him, gaining momentum from the very pushback that once threatened to stop him. In mastering this soundscape, Lucas stands at the pinnacle of his creative power, weaving a tapestry of sound that transcends the marketplace, touching the heart of every listener. His creation is no longer just his; it becomes an embodiment of unity and potential, a harmonious blend of chaos finding its form.",
                 "lines_in_context": {
                     "6": {
@@ -153,8 +153,8 @@
                         "changing": "If Yang changes to Yin, a risk of overconfidence might disrupt her clear expression, leading to miscommunication of her creative intent."
                     },
                     "4": {
-                        "name": "Nature\u2019s Alignment",
-                        "meaning": "The wind's natural rhythm aligns with Yumi\u2019s art, transforming reality to harmonize with her creative intention.",
+                        "name": "Nature’s Alignment",
+                        "meaning": "The wind's natural rhythm aligns with Yumi’s art, transforming reality to harmonize with her creative intention.",
                         "changing": "If Yin changes to Yang, she overextends, upsetting the balance between her art and the natural world, causing creative collapse."
                     },
                     "3": {
@@ -260,14 +260,16 @@
         "Platonic": "The confluence of nurturing receptivity unfurls within the profound chasms of enigmatic mystery.",
         "Taoist": "In the depths of profound mystery, the essence of nurturing receptivity finds its true form.",
         "Tholonic": "The melding of tender receptivity and the depths of enigma births a symphony of balance.",
-        "Thermodynamics": "The dynamic interchange of gentle entropy within the mysterious confines of a system catalyzes a state of thermodynamic equilibrium."
+        "Thermodynamics": "The dynamic interchange of gentle entropy within the mysterious confines of a system catalyzes a state of thermodynamic equilibrium.",
+        "general": "The union of nurturing receptivity and deep mystery creates a harmonious balance.",
+        "explanation": "The lower trigram, 'The Receptive,' symbolizes a nurturing and open nature, while the upper trigram, 'The Abysmal,' represents profound mystery. Together, they form a balance where openness and depth coexist, allowing for a harmonious state. This synthesis reflects how nurturing qualities can embrace and harmonize with the unknown, creating a unified and balanced whole."
     },
     "line_type": [
-        "\u268b",
-        "\u268a",
-        "\u268b",
-        "\u268b",
-        "\u268b",
-        "\u268b"
+        "─ ─",
+        "───",
+        "─ ─",
+        "─ ─",
+        "─ ─",
+        "─ ─"
     ]
 }

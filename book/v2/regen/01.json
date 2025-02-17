@@ -1,6 +1,6 @@
 {
     "id": 1,
-    "hexagram_code": "\u4dc0",
+    "hexagram_code": "䷀",
     "name": "Creation",
     "description": "The pure force of origination and initiative. Like heaven generating existence, this represents the primary creative impulse that initiates all manifestation.",
     "king_wen": {
@@ -13,22 +13,22 @@
         "above": {
             "Trigram Number": 1,
             "Binary Decimal": 7,
-            "Symbol": "\u2630",
-            "Chinese Symbol": "\u4e7e",
-            "Phonetic": "Qi\u00e1n",
+            "Symbol": "☰",
+            "Chinese Symbol": "乾",
+            "Phonetic": "Qián",
             "English Translation": "Heaven",
-            "English Symbol": "\u5929",
+            "English Symbol": "天",
             "Meaning": "The Creative",
             "Quality": "Strong and Creative"
         },
         "below": {
             "Trigram Number": 1,
             "Binary Decimal": 7,
-            "Symbol": "\u2630",
-            "Chinese Symbol": "\u4e7e",
-            "Phonetic": "Qi\u00e1n",
+            "Symbol": "☰",
+            "Chinese Symbol": "乾",
+            "Phonetic": "Qián",
             "English Translation": "Heaven",
-            "English Symbol": "\u5929",
+            "English Symbol": "天",
             "Meaning": "The Creative",
             "Quality": "Strong and Creative"
         }
@@ -93,7 +93,7 @@
         "order8parent": "PRIMAL DEFINITION; Creation of Basic Forms"
     },
     "image": {
-        "description": "The dragon, a timeless symbol of raw, untamed energy, perfectly embodies CREATION's essence of pure creative force, representing the dynamic potential that drives the formation of all things. The impressionistic style, with its bold and fluid strokes, captures the unbounded and evolving nature of creativity, resonating with the tholonic concept of negotiation, where energy flows freely to shape new realities. Watercolor, with its ability to blend and layer unpredictably, reflects the spontaneous and transformative quality of primal creation. J. M. W. Turner, renowned for his mastery of light and motion, vividly conveys the dragon\u2019s elemental power and the stormy emergence of form from chaos, making this image a profound representation of pure, dynamic creation.",
+        "description": "The dragon, a timeless symbol of raw, untamed energy, perfectly embodies CREATION's essence of pure creative force, representing the dynamic potential that drives the formation of all things. The impressionistic style, with its bold and fluid strokes, captures the unbounded and evolving nature of creativity, resonating with the tholonic concept of negotiation, where energy flows freely to shape new realities. Watercolor, with its ability to blend and layer unpredictably, reflects the spontaneous and transformative quality of primal creation. J. M. W. Turner, renowned for his mastery of light and motion, vividly conveys the dragon’s elemental power and the stormy emergence of form from chaos, making this image a profound representation of pure, dynamic creation.",
         "file": "01.png"
     },
     "energy_cycle": "descending",
@@ -140,7 +140,7 @@
             {
                 "title": "The Forge of Elements (Man vs. Nature)",
                 "theme": "J.R.R. Tolkien",
-                "short_story": "High in the rugged peaks of the Misty Mountains, a young blacksmith named Brayden gazed at the fierce storm brewing in the sky. Unyielding and untamed, the storm mirrored the unshaped potential within him. Yet, he was but an apprentice, uncertain of his capability to harness such raw power. Overwhelmed by his trepidation, Brayden nearly faltered, allowing the primordial force to slip through his fingers.\n\nBut the fire within his heart awakened, sparking determination as he delved deeper into his craft. He faced the raw elements, forging them into the backbone of his creation with persistent strokes. Challenges rose like mountain beasts, each threatening to leave his vision in ruin. Brayden fought against the elements' fierce opposition, his resolve unwavering.\n\nAs weeks passed, the storm's fury waned, and Brayden's creation emerged\u2014an otherworldly sword imbued with the storm's essence. He polished his work, each stroke harmonizing the storm's power with earthly grace. Standing at the peak of his mastery, he commanded the sword's energy with precision, the product of his labor a testament to his skill.\n\nFinally, the sword transcended his hold, no longer a mere creation but an emblem of nature's fury and man's courage, belonging to the world's heartbeat.",
+                "short_story": "High in the rugged peaks of the Misty Mountains, a young blacksmith named Brayden gazed at the fierce storm brewing in the sky. Unyielding and untamed, the storm mirrored the unshaped potential within him. Yet, he was but an apprentice, uncertain of his capability to harness such raw power. Overwhelmed by his trepidation, Brayden nearly faltered, allowing the primordial force to slip through his fingers.\n\nBut the fire within his heart awakened, sparking determination as he delved deeper into his craft. He faced the raw elements, forging them into the backbone of his creation with persistent strokes. Challenges rose like mountain beasts, each threatening to leave his vision in ruin. Brayden fought against the elements' fierce opposition, his resolve unwavering.\n\nAs weeks passed, the storm's fury waned, and Brayden's creation emerged—an otherworldly sword imbued with the storm's essence. He polished his work, each stroke harmonizing the storm's power with earthly grace. Standing at the peak of his mastery, he commanded the sword's energy with precision, the product of his labor a testament to his skill.\n\nFinally, the sword transcended his hold, no longer a mere creation but an emblem of nature's fury and man's courage, belonging to the world's heartbeat.",
                 "lines_in_context": {
                     "6": {
                         "name": "Emblem of Triumph",
@@ -177,7 +177,7 @@
             {
                 "title": "The Artisan's Awakening (Man vs. Self)",
                 "theme": "Haruki Murakami",
-                "short_story": "In the quiet urban heartbeat of Tokyo, beneath the shadows of towering steel giants, a lone artist named Kenji slept fitfully, dreams colored with brilliant hues unknown to waking eyes. These were dreams of splendor, swirling with raw imagination, yet when morning seeped through his window, they retreated, leaving only a vapid canvas and an unformed vision. Vehemently, Kenji began to sculpt from the haze the form of a dragon, the embodiment of untamed creative force that churned within him.\n\nYet, as his brush met canvas, uncertainty clawed at his resolve. With the dragon's fierce eyes half-formed, life outside encroached, whispers of doubt threading through his fervor. His past failures loomed, formidable specters casting long shadows over his ephemeral sparks.\n\nKenji pressed forward, his inner turmoil a river now \u2013 relentless, purposeful. As days unfurled, his dragon took shape, colors converging with elegant ferocity. The storm within him subsided, replaced by clarity and quiet mastery.\n\nAnd then the dragon was there, soaring beyond the canvas, a testament to his struggle and triumph. In that moment, Kenji learned to let go, his creation given wings, a part of the world and yet forever imbued with his eternal force.",
+                "short_story": "In the quiet urban heartbeat of Tokyo, beneath the shadows of towering steel giants, a lone artist named Kenji slept fitfully, dreams colored with brilliant hues unknown to waking eyes. These were dreams of splendor, swirling with raw imagination, yet when morning seeped through his window, they retreated, leaving only a vapid canvas and an unformed vision. Vehemently, Kenji began to sculpt from the haze the form of a dragon, the embodiment of untamed creative force that churned within him.\n\nYet, as his brush met canvas, uncertainty clawed at his resolve. With the dragon's fierce eyes half-formed, life outside encroached, whispers of doubt threading through his fervor. His past failures loomed, formidable specters casting long shadows over his ephemeral sparks.\n\nKenji pressed forward, his inner turmoil a river now – relentless, purposeful. As days unfurled, his dragon took shape, colors converging with elegant ferocity. The storm within him subsided, replaced by clarity and quiet mastery.\n\nAnd then the dragon was there, soaring beyond the canvas, a testament to his struggle and triumph. In that moment, Kenji learned to let go, his creation given wings, a part of the world and yet forever imbued with his eternal force.",
                 "lines_in_context": {
                     "6": {
                         "name": "Liberation of Creation",
@@ -260,14 +260,16 @@
         "Platonic": "The confluence of infinite creative potential represents the essence of pure innovation.",
         "Taoist": "The zenith of vibrant potential emerges through the ceaseless flow of innate creativity.",
         "Tholonic": "The birth of formidable creativity emanates from the steadfast wellspring of generative force.",
-        "Thermodynamics": "The result emerges as the equilibrium attained when a potent creative energy is funneled through the unwavering constancy of creative work."
+        "Thermodynamics": "The result emerges as the equilibrium attained when a potent creative energy is funneled through the unwavering constancy of creative work.",
+        "general": "Boundless creativity arises from the dynamic interplay of infinite potential and enduring strength.",
+        "explanation": "The lower trigram of 'The Creative' symbolizes strong, creative energy, while the upper trigram mirrors this with equal strength and creativity. Together, they represent a harmonious and dynamic interaction, where limitless potential and steadfast power combine to foster boundless innovation and creation. This duality embodies the essence of creative emergence, where the interplay of these forces leads to the realization of new possibilities."
     },
     "line_type": [
-        "\u268a",
-        "\u268a",
-        "\u268a",
-        "\u268a",
-        "\u268a",
-        "\u268a"
+        "───",
+        "───",
+        "───",
+        "───",
+        "───",
+        "───"
     ]
 }

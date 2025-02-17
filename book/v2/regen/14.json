@@ -1,6 +1,6 @@
 {
     "id": 14,
-    "hexagram_code": "\u4dcd",
+    "hexagram_code": "䷍",
     "name": "Radiance",
     "description": "The illuminating power of conscious awareness joined with creative force. Like sunlight filling the sky, this represents the expansive influence of clear understanding combined with powerful action.",
     "king_wen": {
@@ -13,22 +13,22 @@
         "above": {
             "Trigram Number": 7,
             "Binary Decimal": 5,
-            "Symbol": "\u2632",
-            "Chinese Symbol": "\u79bb",
-            "Phonetic": "L\u00ed",
+            "Symbol": "☲",
+            "Chinese Symbol": "离",
+            "Phonetic": "Lí",
             "English Translation": "Fire",
-            "English Symbol": "\u706b",
+            "English Symbol": "火",
             "Meaning": "The Clinging",
             "Quality": "Bright and Radiant"
         },
         "below": {
             "Trigram Number": 1,
             "Binary Decimal": 7,
-            "Symbol": "\u2630",
-            "Chinese Symbol": "\u4e7e",
-            "Phonetic": "Qi\u00e1n",
+            "Symbol": "☰",
+            "Chinese Symbol": "乾",
+            "Phonetic": "Qián",
             "English Translation": "Heaven",
-            "English Symbol": "\u5929",
+            "English Symbol": "天",
             "Meaning": "The Creative",
             "Quality": "Strong and Creative"
         }
@@ -139,8 +139,8 @@
             },
             {
                 "title": "The Radiance Within the Storm (Man vs. Nature)",
-                "theme": "Gabriel Garc\u00eda M\u00e1rquez",
-                "short_story": "In the village of San Andaluz, a powerful storm brewed on the horizon, threatening to swallow the fledgling crops and dreams of its people. At the heart of the village, young Alejandra, touched by an unquenchable spark of creativity, saw in the tempest a dance of infinite potential rather than a force to fear. Her mind ablaze with inspiration, she began crafting luminous kites designed to capture the storm\u2019s energy. As the gales intensified, skeptics doubted her vision, yet Alejandra persevered, shaping her dreams against the stark ferocity of nature. But her path was fraught with challenges\u2014the first kites tore asunder amid the howling winds, nearly quenching her spirit. Yet determination fueled Alejandra, and through intuitive adjustments, her kites took form, ascending to the angry skies, harnessing the storm\u2019s fury into radiant displays of light. In time, Alejandra\u2019s creation became more than mere spectacle; it empowered the village, dispelling darkness with newly harnessed energy, linking each home with vibrant connections of brilliance. By releasing the true potential of her vision, Alejandra transcended her creation, leaving an indelible glow upon her world.",
+                "theme": "Gabriel García Márquez",
+                "short_story": "In the village of San Andaluz, a powerful storm brewed on the horizon, threatening to swallow the fledgling crops and dreams of its people. At the heart of the village, young Alejandra, touched by an unquenchable spark of creativity, saw in the tempest a dance of infinite potential rather than a force to fear. Her mind ablaze with inspiration, she began crafting luminous kites designed to capture the storm’s energy. As the gales intensified, skeptics doubted her vision, yet Alejandra persevered, shaping her dreams against the stark ferocity of nature. But her path was fraught with challenges—the first kites tore asunder amid the howling winds, nearly quenching her spirit. Yet determination fueled Alejandra, and through intuitive adjustments, her kites took form, ascending to the angry skies, harnessing the storm’s fury into radiant displays of light. In time, Alejandra’s creation became more than mere spectacle; it empowered the village, dispelling darkness with newly harnessed energy, linking each home with vibrant connections of brilliance. By releasing the true potential of her vision, Alejandra transcended her creation, leaving an indelible glow upon her world.",
                 "lines_in_context": {
                     "6": {
                         "name": "Transcendence of Creation",
@@ -149,12 +149,12 @@
                     },
                     "5": {
                         "name": "Mastery Over Elements",
-                        "meaning": "Alejandra reaches her zenith, demonstrating unparalleled mastery in capturing and transforming the storm\u2019s energy.",
+                        "meaning": "Alejandra reaches her zenith, demonstrating unparalleled mastery in capturing and transforming the storm’s energy.",
                         "changing": "If mastery is marred by arrogance, Alejandra risks losing control over her kites, leading to possible failure."
                     },
                     "4": {
                         "name": "Manifestation of Innovation",
-                        "meaning": "Alejandra\u2019s kites take flight, bridging her vision with the fury of the storm, and realizing her creative design.",
+                        "meaning": "Alejandra’s kites take flight, bridging her vision with the fury of the storm, and realizing her creative design.",
                         "changing": "Overreaching ambition could lead to instability, threatening the structural integrity of her innovation."
                     },
                     "3": {
@@ -259,14 +259,16 @@
         "Platonic": "Behold the harmonious dance of potent creativity, revealing itself as a radiant light.",
         "Taoist": "When the mighty energies of creation merge, they blossom into a radiant and lucid understanding.",
         "Tholonic": "When the harmonious forces of Might and Imagination entwine, they give life to a resplendent Luminescence.",
-        "Thermodynamics": "The entropic confluence of Force and Ingeniousness materializes as Radiant Energy."
+        "Thermodynamics": "The entropic confluence of Force and Ingeniousness materializes as Radiant Energy.",
+        "general": "The fusion of strong creativity and radiant clarity creates a luminous brilliance.",
+        "explanation": "The lower trigram, 'The Creative,' symbolizes strength and innovation, while the upper trigram, 'The Clinging,' represents brightness and clarity. Together, they form a harmonious blend where powerful creative forces illuminate and clarify, resulting in a radiant and luminous brilliance. This synthesis reflects the dynamic interplay of energy and insight, producing a unified expression of radiant creativity."
     },
     "line_type": [
-        "\u268a",
-        "\u268b",
-        "\u268a",
-        "\u268a",
-        "\u268a",
-        "\u268a"
+        "───",
+        "─ ─",
+        "───",
+        "───",
+        "───",
+        "───"
     ]
 }

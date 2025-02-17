@@ -1,6 +1,6 @@
 {
     "id": 32,
-    "hexagram_code": "\u4ddf",
+    "hexagram_code": "䷟",
     "name": "Sustainable Momentum",
     "description": "The maintenance of consistent, enduring progress through balanced action and awareness. Like a planet in stable orbit, this hexagram represents the achievement of sustainable cycles that can persist indefinitely through self-reinforcing patterns.",
     "king_wen": {
@@ -13,22 +13,22 @@
         "above": {
             "Trigram Number": 4,
             "Binary Decimal": 1,
-            "Symbol": "\u2633",
-            "Chinese Symbol": "\u9707",
-            "Phonetic": "Zh\u00e8n",
+            "Symbol": "☳",
+            "Chinese Symbol": "震",
+            "Phonetic": "Zhèn",
             "English Translation": "Thunder",
-            "English Symbol": "\u96f7",
+            "English Symbol": "雷",
             "Meaning": "The Arousing",
             "Quality": "Dynamic and Exciting"
         },
         "below": {
             "Trigram Number": 5,
             "Binary Decimal": 6,
-            "Symbol": "\u2634",
-            "Chinese Symbol": "\u5dfd",
-            "Phonetic": "X\u00f9n",
+            "Symbol": "☴",
+            "Chinese Symbol": "巽",
+            "Phonetic": "Xùn",
             "English Translation": "Wind/Wood",
-            "English Symbol": "\u98ce/\u6728",
+            "English Symbol": "风/木",
             "Meaning": "The Gentle",
             "Quality": "Gentle and Penetrating"
         }
@@ -93,7 +93,7 @@
         "order8parent": "CHALLENGES; Testing & Strengthening"
     },
     "image": {
-        "description": "The choice of a tree as the object symbolizes endurance and sustainable momentum, embodying the theme of challenges and steadfastness through its deep roots and towering strength, akin to awareness manifesting in nature. Realism allows for an authentic, detailed portrayal of this resilience, capturing the tree's essence as both a self-contained whole and a part of a larger ecosystem\u2014a tholon in the world's holarchy. Watercolor as a medium offers fluidity and subtle gradation, akin to the tholonic energy that underlies dynamic, emerging systems. Katsushika Hokusai, renowned for his mastery in capturing nature through art, imparts an award-winning, highly symbolic quality to the piece, aligning universal love and intention with the creative expressions of awareness. Through these elements, the artwork becomes a vivid reflection of the I Ching hexagram it represents, emphasizing balance, definition, and integration within the recursive structures of existence.",
+        "description": "The choice of a tree as the object symbolizes endurance and sustainable momentum, embodying the theme of challenges and steadfastness through its deep roots and towering strength, akin to awareness manifesting in nature. Realism allows for an authentic, detailed portrayal of this resilience, capturing the tree's essence as both a self-contained whole and a part of a larger ecosystem—a tholon in the world's holarchy. Watercolor as a medium offers fluidity and subtle gradation, akin to the tholonic energy that underlies dynamic, emerging systems. Katsushika Hokusai, renowned for his mastery in capturing nature through art, imparts an award-winning, highly symbolic quality to the piece, aligning universal love and intention with the creative expressions of awareness. Through these elements, the artwork becomes a vivid reflection of the I Ching hexagram it represents, emphasizing balance, definition, and integration within the recursive structures of existence.",
         "file": "32.png"
     },
     "energy_cycle": "ascending",
@@ -102,8 +102,8 @@
         "entries": [
             {
                 "title": "The Unyielding Artisan (Man vs. Man)",
-                "theme": "Gabriel Garc\u00eda M\u00e1rquez",
-                "short_story": "In a bustling market town drenched in vivid hues, Pedro, the artisan, was consumed by a vision. His hands were filled with the raw potential of unsullied clay, a testament to his dream of creating a flawless vase. Yet, amid the vibrant chaos of the marketplace, his inspiration remained unshaped, a promise as elusive as the swirling dust.\n\nHe began molding the clay with hesitant fingers, sculpting a fragile shape as obstacles emerged like ghosts in a novella. Vendors and customers became barriers, their casual indifference casting a shadow over his burgeoning creation. Pedro's spirit wavered, his efforts teetering on the brink of abandonment.\n\nBut a whisper of the market\u2019s rhythm rekindled his resolve. Aligning with the pulse of his surroundings, he refined each curve, merging vision with reality. His work gained momentum, turning whispers into an emphatic song that quivered with the energy of creation.\n\nWith mastery in his grasp, Pedro stood amidst the cacophony, the vase an embodiment of his defiant artistry. As the sun set, it transformed into a beacon, transcending its humble origin. Yet, in this triumph lay a lesson: attached to his creation, Pedro risked losing its deeper truth, lost in the labyrinth of his own making.",
+                "theme": "Gabriel García Márquez",
+                "short_story": "In a bustling market town drenched in vivid hues, Pedro, the artisan, was consumed by a vision. His hands were filled with the raw potential of unsullied clay, a testament to his dream of creating a flawless vase. Yet, amid the vibrant chaos of the marketplace, his inspiration remained unshaped, a promise as elusive as the swirling dust.\n\nHe began molding the clay with hesitant fingers, sculpting a fragile shape as obstacles emerged like ghosts in a novella. Vendors and customers became barriers, their casual indifference casting a shadow over his burgeoning creation. Pedro's spirit wavered, his efforts teetering on the brink of abandonment.\n\nBut a whisper of the market’s rhythm rekindled his resolve. Aligning with the pulse of his surroundings, he refined each curve, merging vision with reality. His work gained momentum, turning whispers into an emphatic song that quivered with the energy of creation.\n\nWith mastery in his grasp, Pedro stood amidst the cacophony, the vase an embodiment of his defiant artistry. As the sun set, it transformed into a beacon, transcending its humble origin. Yet, in this triumph lay a lesson: attached to his creation, Pedro risked losing its deeper truth, lost in the labyrinth of his own making.",
                 "lines_in_context": {
                     "6": {
                         "name": "Transcendence",
@@ -258,14 +258,16 @@
         "Platonic": "When the gentle tenacity of the soul dances with the lively vigor of the spirit, a harmonious motion is thus born.",
         "Taoist": "When gentle whispers dance with lively spirits, the boundless nature of the Way is revealed.",
         "Tholonic": "In the Tholonic realm, where subtle tenacity harmonizes with dynamic brilliance, a vibrant testament to enduring potential is born.",
-        "Thermodynamics": "The equilibrium of latent perseverance and kinetic vitality orchestrates the thermodynamic trajectory of sustained transformation."
+        "Thermodynamics": "The equilibrium of latent perseverance and kinetic vitality orchestrates the thermodynamic trajectory of sustained transformation.",
+        "general": "When gentle persistence meets dynamic energy, a lasting and harmonious movement is created.",
+        "explanation": "The lower trigram, 'The Gentle,' signifies a steady and penetrating force, while the upper trigram, 'The Arousing,' embodies dynamic and exciting energy. Together, they illustrate a balance where gentle persistence fuels dynamic actions, resulting in sustained progress and harmony. This combination reflects a continuous and harmonious momentum, where the subtlety of perseverance complements the vibrancy of dynamic change, creating a unified and enduring movement."
     },
     "line_type": [
-        "\u268b",
-        "\u268b",
-        "\u268a",
-        "\u268a",
-        "\u268a",
-        "\u268b"
+        "─ ─",
+        "─ ─",
+        "───",
+        "───",
+        "───",
+        "─ ─"
     ]
 }

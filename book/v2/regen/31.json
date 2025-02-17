@@ -1,6 +1,6 @@
 {
     "id": 31,
-    "hexagram_code": "\u4dde",
+    "hexagram_code": "䷞",
     "name": "Resonant Attraction",
     "description": "The harmonious interplay of complementary forces creating mutual influence and transformation. Like electromagnetic fields that invisibly shape and affect each other, this hexagram represents the dynamic attraction between different but compatible energies that leads to creative unity.",
     "king_wen": {
@@ -13,22 +13,22 @@
         "above": {
             "Trigram Number": 8,
             "Binary Decimal": 4,
-            "Symbol": "\u2631",
-            "Chinese Symbol": "\u5151",
-            "Phonetic": "Du\u00ec",
+            "Symbol": "☱",
+            "Chinese Symbol": "兑",
+            "Phonetic": "Duì",
             "English Translation": "Lake/Marsh",
-            "English Symbol": "\u6cfd",
+            "English Symbol": "泽",
             "Meaning": "The Joyous",
             "Quality": "Joyful and Harmonious"
         },
         "below": {
             "Trigram Number": 3,
             "Binary Decimal": 3,
-            "Symbol": "\u2636",
-            "Chinese Symbol": "\u826e",
-            "Phonetic": "G\u00e8n",
+            "Symbol": "☶",
+            "Chinese Symbol": "艮",
+            "Phonetic": "Gèn",
             "English Translation": "Mountain",
-            "English Symbol": "\u5c71",
+            "English Symbol": "山",
             "Meaning": "The Still",
             "Quality": "Still and Enduring"
         }
@@ -93,7 +93,7 @@
         "order8parent": "CHALLENGES; Testing & Strengthening"
     },
     "image": {
-        "description": "The image captures the essence of \"Resonant Attraction\" through its vivid interplay of forms and energies, representing a universal pattern of dynamic harmony. It visually communicates the triadic relationship of openness and stability with organic and cosmic elements concocting in a balanced dance between structure and chaos. This harmonizes the concept of sustainable influence emerging from natural affinities, demonstrated through intricate networks connecting celestial bodies and the figure\u2019s innovative gesture. The scene embodies emergence, suggesting a divine order arising from the seeming chaos of cosmic interactions, reflecting a hierarchy that extends from the microcosm of human expression to the macrocosm of universal dance. It encapsulates the transformative power of authentic connection and the seamless integration of disparate elements into a cohesive whole, echoing the core message of cultivating mutual influence through genuine interaction.",
+        "description": "The image captures the essence of \"Resonant Attraction\" through its vivid interplay of forms and energies, representing a universal pattern of dynamic harmony. It visually communicates the triadic relationship of openness and stability with organic and cosmic elements concocting in a balanced dance between structure and chaos. This harmonizes the concept of sustainable influence emerging from natural affinities, demonstrated through intricate networks connecting celestial bodies and the figure’s innovative gesture. The scene embodies emergence, suggesting a divine order arising from the seeming chaos of cosmic interactions, reflecting a hierarchy that extends from the microcosm of human expression to the macrocosm of universal dance. It encapsulates the transformative power of authentic connection and the seamless integration of disparate elements into a cohesive whole, echoing the core message of cultivating mutual influence through genuine interaction.",
         "file": "31.png"
     },
     "energy_cycle": "ascending",
@@ -140,7 +140,7 @@
             {
                 "title": "Whispering Woods (Man vs. Nature)",
                 "theme": "Isabel Allende",
-                "short_story": "Sofia, a young botanist, ventured deep into the forest, drawn by whispers of uncharted flora. She was filled with raw curiosity and unbound potential, seeing the forest as a canvas yearning for discovery. As she roamed, she unearthed peculiar seedlings, their vivid hues unknown to her. But she faltered, unsure if her discoveries were truly novel or merely perceived with fresh eyes. Undeterred, Sofia began cataloging her findings, forming a scientific path through trial and observation. Her methods stirred skepticism among her peers who dismissed her claims as fanciful (Line 3). Despite the disparity, Sofia refined her techniques, employing patience and persistence, and soon her unique findings began to gain acknowledgment. Her dedication led to the discovery of a rare species unknown to the scientific community, an affirmation of her diligent labor (Line 5). Sofia ultimately embraced the forest's secrets as a guardian, rather than a conqueror, understanding that her revelations were but a glimpse into the world\u2019s vast ecological mysteries.",
+                "short_story": "Sofia, a young botanist, ventured deep into the forest, drawn by whispers of uncharted flora. She was filled with raw curiosity and unbound potential, seeing the forest as a canvas yearning for discovery. As she roamed, she unearthed peculiar seedlings, their vivid hues unknown to her. But she faltered, unsure if her discoveries were truly novel or merely perceived with fresh eyes. Undeterred, Sofia began cataloging her findings, forming a scientific path through trial and observation. Her methods stirred skepticism among her peers who dismissed her claims as fanciful (Line 3). Despite the disparity, Sofia refined her techniques, employing patience and persistence, and soon her unique findings began to gain acknowledgment. Her dedication led to the discovery of a rare species unknown to the scientific community, an affirmation of her diligent labor (Line 5). Sofia ultimately embraced the forest's secrets as a guardian, rather than a conqueror, understanding that her revelations were but a glimpse into the world’s vast ecological mysteries.",
                 "lines_in_context": {
                     "6": {
                         "name": "Guardianship",
@@ -259,14 +259,16 @@
         "Platonic": "In the symphony of nature's wisdom, let us behold how the unyielding essence of the Mountain is mirrored in the jubilant serenade of the Lake, thereby weaving a tapestry of tranquil harmony and balanced accord.",
         "Taoist": "The timeless soul of the Mountain mirrors itself in the gentle laughter of the Lake, weaving a dance of steadfastness and bliss.",
         "Tholonic": "The steadfast Mountain, in its tranquil presence, converses with the joyful echo of the Lake, together weaving a timeless melody of peace and harmonious delight.",
-        "Thermodynamics": "The convergence of entropy in equilibrium with the thermodynamic cheerfulness yields a harmonic entropy equilibrium, where stability and energy flux coalesce to form a balanced system."
+        "Thermodynamics": "The convergence of entropy in equilibrium with the thermodynamic cheerfulness yields a harmonic entropy equilibrium, where stability and energy flux coalesce to form a balanced system.",
+        "general": "The steadfast Mountain harmonizes with the joyful Lake to create a balanced and enduring unity.",
+        "explanation": "The lower trigram, 'The Still,' symbolizes stability and endurance, akin to a Mountain's resilience. The upper trigram, 'The Joyous,' represents joy and harmony, like the Lake's cheerful nature. Together, they illustrate how steadfastness and joy can combine to form a harmonious and balanced unity, where enduring strength meets joyful energy, creating a stable yet dynamic system."
     },
     "line_type": [
-        "\u268b",
-        "\u268a",
-        "\u268a",
-        "\u268a",
-        "\u268b",
-        "\u268b"
+        "─ ─",
+        "───",
+        "───",
+        "───",
+        "─ ─",
+        "─ ─"
     ]
 }

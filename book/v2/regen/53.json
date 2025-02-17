@@ -1,6 +1,6 @@
 {
     "id": 53,
-    "hexagram_code": "\u4df4",
+    "hexagram_code": "䷴",
     "name": "Progression",
     "description": "The steady, natural development of systems and situations. Like a tree growing or a civilization developing, this represents the gradual, organic advancement that creates lasting change and sustainable growth.",
     "king_wen": {
@@ -13,22 +13,22 @@
         "above": {
             "Trigram Number": 5,
             "Binary Decimal": 6,
-            "Symbol": "\u2634",
-            "Chinese Symbol": "\u5dfd",
-            "Phonetic": "X\u00f9n",
+            "Symbol": "☴",
+            "Chinese Symbol": "巽",
+            "Phonetic": "Xùn",
             "English Translation": "Wind/Wood",
-            "English Symbol": "\u98ce/\u6728",
+            "English Symbol": "风/木",
             "Meaning": "The Gentle",
             "Quality": "Gentle and Penetrating"
         },
         "below": {
             "Trigram Number": 3,
             "Binary Decimal": 3,
-            "Symbol": "\u2636",
-            "Chinese Symbol": "\u826e",
-            "Phonetic": "G\u00e8n",
+            "Symbol": "☶",
+            "Chinese Symbol": "艮",
+            "Phonetic": "Gèn",
             "English Translation": "Mountain",
-            "English Symbol": "\u5c71",
+            "English Symbol": "山",
             "Meaning": "The Still",
             "Quality": "Still and Enduring"
         }
@@ -93,7 +93,7 @@
         "order8parent": "FINAL INTEGRATION; Higher Order Emergence"
     },
     "image": {
-        "description": "The selection of an oak tree, realism, oil painting, and Vincent van Gogh for the hexagram \u201cProgression\u201d embodies the tholonic concept of higher order emergence through steady integration. The oak tree symbolizes strong, gradual growth, reflecting the emergence of complex systems from simple origins, consistent with tholonic awareness manifesting in holistic development. Realism captures the meticulous and tangible aspect of growth, akin to the precise balance and negotiation forces within a Thologram. Oil painting, as a classic and enduring medium, complements the sense of timeless progression and the integration of form and meaning, akin to the Tholon\u2019s partons forming a cohesive whole. Vincent van Gogh\u2019s style, renowned for its vividness and emotional depth, highlights the essence of organic transformation, resonating with the creative energy of universal love in the Tholonic Model. Collectively, these elements portray an award-winning, symbolically rich representation of gradual, natural progression.",
+        "description": "The selection of an oak tree, realism, oil painting, and Vincent van Gogh for the hexagram “Progression” embodies the tholonic concept of higher order emergence through steady integration. The oak tree symbolizes strong, gradual growth, reflecting the emergence of complex systems from simple origins, consistent with tholonic awareness manifesting in holistic development. Realism captures the meticulous and tangible aspect of growth, akin to the precise balance and negotiation forces within a Thologram. Oil painting, as a classic and enduring medium, complements the sense of timeless progression and the integration of form and meaning, akin to the Tholon’s partons forming a cohesive whole. Vincent van Gogh’s style, renowned for its vividness and emotional depth, highlights the essence of organic transformation, resonating with the creative energy of universal love in the Tholonic Model. Collectively, these elements portray an award-winning, symbolically rich representation of gradual, natural progression.",
         "file": "53.png"
     },
     "energy_cycle": "descending",
@@ -140,7 +140,7 @@
             {
                 "title": "The Whispering Grove (Man vs. Nature)",
                 "theme": "Haruki Murakami",
-                "short_story": "In the remote village of Aokigahara, Akira was akin to an ancient tree whisperer\u2014a young man filled with the raw energy of untapped potential. The grove near his home pulsed with mysterious life, yet Akira felt purposeless, unsure how to channel his burgeoning desire for creation. One morning, drawn by an inexplicable force, he ventured deeper into the forest and began planting saplings, envisioning them growing into a lush, mystical wood. His initial excitement wavered when he discovered rocky soil and tangled roots beneath the surface, threatening to stymie his grand ambitions. Nevertheless, Akira persisted, adjusting his methods and nurturing each seedling. When a fierce storm battered the countryside, many trees bent low but none uprooted, their roots having tangled tightly together for support. This symbiosis fueled Akira's zeal, and soon the grove flourished, each tree standing as a testament to his resilience and ingenuity. Far beyond it, travelers came to rest under the canopy's soothing shade, touched by its tranquility. However, Akira understood the forest no longer needed him; it was a world unto itself, a testament to nature's eternal embrace and the quiet power of endurance and growth.",
+                "short_story": "In the remote village of Aokigahara, Akira was akin to an ancient tree whisperer—a young man filled with the raw energy of untapped potential. The grove near his home pulsed with mysterious life, yet Akira felt purposeless, unsure how to channel his burgeoning desire for creation. One morning, drawn by an inexplicable force, he ventured deeper into the forest and began planting saplings, envisioning them growing into a lush, mystical wood. His initial excitement wavered when he discovered rocky soil and tangled roots beneath the surface, threatening to stymie his grand ambitions. Nevertheless, Akira persisted, adjusting his methods and nurturing each seedling. When a fierce storm battered the countryside, many trees bent low but none uprooted, their roots having tangled tightly together for support. This symbiosis fueled Akira's zeal, and soon the grove flourished, each tree standing as a testament to his resilience and ingenuity. Far beyond it, travelers came to rest under the canopy's soothing shade, touched by its tranquility. However, Akira understood the forest no longer needed him; it was a world unto itself, a testament to nature's eternal embrace and the quiet power of endurance and growth.",
                 "lines_in_context": {
                     "6": {
                         "name": "The Forest's Legacy",
@@ -176,8 +176,8 @@
             },
             {
                 "title": "The Artisan's Quest (Man vs. Self)",
-                "theme": "Gabriel Garc\u00eda M\u00e1rquez",
-                "short_story": "In a forgotten corner of town, Lucia, a passionate artisan, sat at her workbench, surrounded by the soft glow of candlelight. Her mind was a whirl of ideas, each more vivid than the last, yet elusive as morning mist. She longed to bring them into being, but fear of imperfection held her back. Resolute, she set her hands to the clay, shaping with determined grace. As the piece took form, she faced resistance\u2014a flaw in the clay threatened to collapse her creation. Anguished but undeterred, Lucia molded around the flaw, transforming it into a feature of beauty. Triumph blossomed within her as she refined her work, drawing from an unseen reservoir of skill. At last, the sculpture stood complete, a testament to her journey. It commanded its own presence, resonating with those who beheld it. Yet, as pride swelled within her, Lucia felt a sense of release; the sculpture was no longer hers alone. It belonged to the world, imbued with a life beyond her original vision\u2014a creation transcending its creator.",
+                "theme": "Gabriel García Márquez",
+                "short_story": "In a forgotten corner of town, Lucia, a passionate artisan, sat at her workbench, surrounded by the soft glow of candlelight. Her mind was a whirl of ideas, each more vivid than the last, yet elusive as morning mist. She longed to bring them into being, but fear of imperfection held her back. Resolute, she set her hands to the clay, shaping with determined grace. As the piece took form, she faced resistance—a flaw in the clay threatened to collapse her creation. Anguished but undeterred, Lucia molded around the flaw, transforming it into a feature of beauty. Triumph blossomed within her as she refined her work, drawing from an unseen reservoir of skill. At last, the sculpture stood complete, a testament to her journey. It commanded its own presence, resonating with those who beheld it. Yet, as pride swelled within her, Lucia felt a sense of release; the sculpture was no longer hers alone. It belonged to the world, imbued with a life beyond her original vision—a creation transcending its creator.",
                 "lines_in_context": {
                     "6": {
                         "name": "Transcendent Creation",
@@ -259,14 +259,16 @@
         "Platonic": "In the constancy of the Mountain do we perceive its essence, for it is through the gentle yet profound persuasion of the Wind that its true capacity is unveiled.",
         "Taoist": "In the unwavering of the Still, the Gentle flows, revealing the harmony: steadfastness and yielding progress as one.",
         "Tholonic": "In the steadfast calm of the Mountain, the gentle and all-encompassing breath of the Wind weaves its tale, revealing the harmony between unwavering existence and the art of transformative whispers.",
-        "Thermodynamics": "In the realm of thermodynamics, the unyielding constancy of equilibrium manifests profoundly through the subtle yet pervasive influence of entropy\u2019s gentle touch, exemplifying the harmony between stable systems and the transformative dance of molecular interactions."
+        "Thermodynamics": "In the realm of thermodynamics, the unyielding constancy of equilibrium manifests profoundly through the subtle yet pervasive influence of entropy’s gentle touch, exemplifying the harmony between stable systems and the transformative dance of molecular interactions.",
+        "general": "The harmony of steady presence and gentle influence reveals progress through balance and transformation.",
+        "explanation": "The lower trigram, 'The Still,' symbolizes stability and endurance, akin to a mountain's steadfastness. The upper trigram, 'The Gentle,' represents subtle influence and gradual change, like the wind's persistent touch. Together, they illustrate how enduring strength and gentle persuasion create a balanced progression, where stability allows for transformative growth and subtle shifts lead to lasting impact."
     },
     "line_type": [
-        "\u268a",
-        "\u268a",
-        "\u268b",
-        "\u268a",
-        "\u268b",
-        "\u268b"
+        "───",
+        "───",
+        "─ ─",
+        "───",
+        "─ ─",
+        "─ ─"
     ]
 }

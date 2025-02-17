@@ -1,6 +1,6 @@
 {
     "id": 30,
-    "hexagram_code": "\u4ddd",
+    "hexagram_code": "䷝",
     "name": "Radiant Awareness",
     "description": "The illumination of consciousness and its ability to bring clarity and understanding. Like the sun that sustains life on Earth, this hexagram represents the coherent emanation of awareness that nurtures growth and transformation through clarity and insight.",
     "king_wen": {
@@ -13,22 +13,22 @@
         "above": {
             "Trigram Number": 7,
             "Binary Decimal": 5,
-            "Symbol": "\u2632",
-            "Chinese Symbol": "\u79bb",
-            "Phonetic": "L\u00ed",
+            "Symbol": "☲",
+            "Chinese Symbol": "离",
+            "Phonetic": "Lí",
             "English Translation": "Fire",
-            "English Symbol": "\u706b",
+            "English Symbol": "火",
             "Meaning": "Bright and Radiant",
             "Quality": "Strong and Creative"
         },
         "below": {
             "Trigram Number": 7,
             "Binary Decimal": 5,
-            "Symbol": "\u2632",
-            "Chinese Symbol": "\u79bb",
-            "Phonetic": "L\u00ed",
+            "Symbol": "☲",
+            "Chinese Symbol": "离",
+            "Phonetic": "Lí",
             "English Translation": "Fire",
-            "English Symbol": "\u706b",
+            "English Symbol": "火",
             "Meaning": "Bright and Radiant",
             "Quality": "Strong and Creative"
         }
@@ -93,7 +93,7 @@
         "order8parent": "CHALLENGES; Testing & Strengthening"
     },
     "image": {
-        "description": "The choice of the sun as the object signifies radiant awareness, embodying the essence of light and life that overcomes challenges and strengthens through persistence, much like the theme and subtheme suggest. Impressionism, with its emphasis on capturing fleeting moments and the dynamic play of light, mirrors the transient nature of struggles and resolutions in life. Ink as a medium brings a stark contrast and permanence, highlighting the indelible marks challenges leave on existence. Ansel Adams, renowned for his dramatic yet controlled compositions of nature, represents the tholonic concept of awareness interacting within structured boundaries to evoke a deeper consciousness. This interplay of elements through tholons\u2014balancing, defining, and integrating\u2014reflects universal love as a creative force, guiding art to symbolize resilience.",
+        "description": "The choice of the sun as the object signifies radiant awareness, embodying the essence of light and life that overcomes challenges and strengthens through persistence, much like the theme and subtheme suggest. Impressionism, with its emphasis on capturing fleeting moments and the dynamic play of light, mirrors the transient nature of struggles and resolutions in life. Ink as a medium brings a stark contrast and permanence, highlighting the indelible marks challenges leave on existence. Ansel Adams, renowned for his dramatic yet controlled compositions of nature, represents the tholonic concept of awareness interacting within structured boundaries to evoke a deeper consciousness. This interplay of elements through tholons—balancing, defining, and integrating—reflects universal love as a creative force, guiding art to symbolize resilience.",
         "file": "30.png"
     },
     "energy_cycle": "descending",
@@ -103,7 +103,7 @@
             {
                 "title": "The Spark of Creation (Man vs. Man)",
                 "theme": "Neil Gaiman",
-                "short_story": "In a world where creativity holds magical power, young artist Lydia discovers a rare gift within her\u2014a flame of inspiration capable of bringing imagination to life. At first, it flickers uncertainly, representing raw potential but lacking form or purpose. As Lydia begins to shape her visions into delicate sculptures, she faces naysayers who challenge her talent, claiming her art is mere illusion. The more she struggles against their doubt, the brighter her creative fire burns, solidifying her resolve. With perseverance, she channels her inner strength to refine her craft, aligning her visions with the external world until they dance as vibrant, living entities. Her art transcends its origins, capturing the hearts of those who once doubted her, converting even opposition into appreciation. Yet, as her creations take on lives of their own, Lydia must learn the delicate balance of releasing what she has formed, allowing them to impact others without her control. Her journey epitomizes the transformation from hesitant spark to an illuminating force that transcends individual limitation, embodying the essence of radiant awareness.",
+                "short_story": "In a world where creativity holds magical power, young artist Lydia discovers a rare gift within her—a flame of inspiration capable of bringing imagination to life. At first, it flickers uncertainly, representing raw potential but lacking form or purpose. As Lydia begins to shape her visions into delicate sculptures, she faces naysayers who challenge her talent, claiming her art is mere illusion. The more she struggles against their doubt, the brighter her creative fire burns, solidifying her resolve. With perseverance, she channels her inner strength to refine her craft, aligning her visions with the external world until they dance as vibrant, living entities. Her art transcends its origins, capturing the hearts of those who once doubted her, converting even opposition into appreciation. Yet, as her creations take on lives of their own, Lydia must learn the delicate balance of releasing what she has formed, allowing them to impact others without her control. Her journey epitomizes the transformation from hesitant spark to an illuminating force that transcends individual limitation, embodying the essence of radiant awareness.",
                 "lines_in_context": {
                     "6": {
                         "name": "Transcendence",
@@ -139,7 +139,7 @@
             },
             {
                 "title": "The Dancer's Dawn (Man vs. Nature)",
-                "theme": "Gabriel Garc\u00eda M\u00e1rquez",
+                "theme": "Gabriel García Márquez",
                 "short_story": "In a forgotten village nestled between mountains and sea, a young dancer named Solana felt the first stirrings of an unformed rhythm within her. It pulsed through her veins like an emerging dawn, a call to express what words could not. As she began to shape this raw energy into the elegance of movement, her steps stumbled upon the ancient roots of tradition. Elders scorned her unorthodox forms, yet she persevered, undeterred. Her defiant rhythm grew louder, attracting whispers of admiration from the villagers. In time, she stood amidst the townspeople, transforming a desolate square into a vibrant cascade of light and color, her dance breathing life into withered stones. Her mastery turned doubters into disciples, and her performance became a ritual that transcended the village's confines. Finally, as the sky blazed with her final leap, Solana realized she was but a vessel, her creation spiraling free into the hearts of those who watched. Yet, the art she unleashed was no longer hers; it belonged to the world, forever part of the circling sun and sea.",
                 "lines_in_context": {
                     "6": {
@@ -177,7 +177,7 @@
             {
                 "title": "The Fire Within (Man vs. Self)",
                 "theme": "Haruki Murakami",
-                "short_story": "In the quiet confines of his Tokyo apartment, Yuto felt the first flicker of a story, a whisper of an idea that promised to kindle his heart. Yet this fledgling notion lacked form, its edges blurred and indistinct. Yuto wrestled with doubt, battling the inertia that threatened to extinguish his creative spark. Gradually, he began to nurture this idea, sketching outlines, giving it shape against the blank page. As the world around him faded, he entered a realm of vibrant colors and whispered promises. Obstacles confronted him\u2014critics whispered that his characters lacked life, that his plot meandered like a river lost in the desert. But he persisted, refining each sentence until it harmonized with the rhythm of his vision. Each word was a brushstroke, his narrative growing into a symphony of thoughts and dreams. Upon completion, Yuto found himself both liberated and detached as his story left his hands to traverse the minds of others. Yet he understood that creation was ephemeral, a cycle of inspiration and release, transcending its creator to exist independently. In the quiet after, Yuto realized that his journey of transformation was not in the story's end but in his soul's eternal embrace with its next beginning.",
+                "short_story": "In the quiet confines of his Tokyo apartment, Yuto felt the first flicker of a story, a whisper of an idea that promised to kindle his heart. Yet this fledgling notion lacked form, its edges blurred and indistinct. Yuto wrestled with doubt, battling the inertia that threatened to extinguish his creative spark. Gradually, he began to nurture this idea, sketching outlines, giving it shape against the blank page. As the world around him faded, he entered a realm of vibrant colors and whispered promises. Obstacles confronted him—critics whispered that his characters lacked life, that his plot meandered like a river lost in the desert. But he persisted, refining each sentence until it harmonized with the rhythm of his vision. Each word was a brushstroke, his narrative growing into a symphony of thoughts and dreams. Upon completion, Yuto found himself both liberated and detached as his story left his hands to traverse the minds of others. Yet he understood that creation was ephemeral, a cycle of inspiration and release, transcending its creator to exist independently. In the quiet after, Yuto realized that his journey of transformation was not in the story's end but in his soul's eternal embrace with its next beginning.",
                 "lines_in_context": {
                     "6": {
                         "name": "Transcendence",
@@ -258,14 +258,16 @@
         "Platonic": "Behold, the union of mighty innovation, revealing itself in the vibrant and luminous essence of brilliance.",
         "Taoist": "Dynamic creativity arises, casting its luminous glow upon the world, revealing its inherent strength and vitality like the unfurling of a radiant dawn.",
         "Tholonic": "When potent creativity interlaces with channels of vibrant radiance, it burgeons with intensified synergy, each element enlivening the other in a dance of mutual amplification.",
-        "Thermodynamics": "The generation of dynamic innovation emerges from the confluence of radiant thermal energy."
+        "Thermodynamics": "The generation of dynamic innovation emerges from the confluence of radiant thermal energy.",
+        "general": "Dynamic creativity and radiant brilliance unite to unleash profound innovation and vitality.",
+        "explanation": "The lower trigram, representing strong and creative forces, combines with the upper trigram's similar qualities. This duality amplifies their shared attributes, fostering an environment where creativity and brilliance thrive together, leading to innovative and vibrant outcomes."
     },
     "line_type": [
-        "\u268a",
-        "\u268b",
-        "\u268a",
-        "\u268a",
-        "\u268b",
-        "\u268a"
+        "───",
+        "─ ─",
+        "───",
+        "───",
+        "─ ─",
+        "───"
     ]
 }

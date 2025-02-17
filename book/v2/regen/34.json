@@ -1,6 +1,6 @@
 {
     "id": 34,
-    "hexagram_code": "\u4de1",
+    "hexagram_code": "䷡",
     "name": "Breakthrough Force",
     "description": "The unleashing of accumulated potential through decisive action. Like thunder emanating from heaven, this represents the moment when stored energy manifests as transformative power.",
     "king_wen": {
@@ -13,22 +13,22 @@
         "above": {
             "Trigram Number": 4,
             "Binary Decimal": 1,
-            "Symbol": "\u2633",
-            "Chinese Symbol": "\u9707",
-            "Phonetic": "Zh\u00e8n",
+            "Symbol": "☳",
+            "Chinese Symbol": "震",
+            "Phonetic": "Zhèn",
             "English Translation": "Thunder",
-            "English Symbol": "\u96f7",
+            "English Symbol": "雷",
             "Meaning": "The Arousing",
             "Quality": "Dynamic and Exciting"
         },
         "below": {
             "Trigram Number": 1,
             "Binary Decimal": 7,
-            "Symbol": "\u2630",
-            "Chinese Symbol": "\u4e7e",
-            "Phonetic": "Qi\u00e1n",
+            "Symbol": "☰",
+            "Chinese Symbol": "乾",
+            "Phonetic": "Qián",
             "English Translation": "Heaven",
-            "English Symbol": "\u5929",
+            "English Symbol": "天",
             "Meaning": "The Creative",
             "Quality": "Strong and Creative"
         }
@@ -140,7 +140,7 @@
             {
                 "title": "The Call of the Storm (Man vs. Nature)",
                 "theme": "Ernest Hemingway",
-                "short_story": "In the untamed wilderness of Patagonia, a young explorer named Lucas felt the undeniable pull of adventure coursing through his veins. The night sky was a tapestry of stars, mirroring the boundless potential in his heart. With a map in hand and a compass pointing steadily northward, Lucas embarked on a journey to conquer the legendary Storm Peak. As dawn broke, he faced the first crest of the mountain, its jagged barriers a testament to nature\u2019s inescapable trials. Unfazed, Lucas pressed forward, carving a path where none existed, each step a testament to his unwavering resolve. But as he reached the peak\u2019s shadow, the sky darkened, and a tempestuous wind threatened to unseat his ambition. With grit consuming every fiber, Lucas encountered the storm's fury, his determination the only beacon against the gale. Overhead, the clouds swirled, and with one final push, he emerged victorious, standing atop the windswept summit. Below, the world lay beneath him, a creation now beyond his grasp, as the wind carried whispers of yet another journey. Lucas\u2019s triumph transcended the mere conquering of a peak; it was the realization that true mastery lies in embracing the storm, not resisting it.",
+                "short_story": "In the untamed wilderness of Patagonia, a young explorer named Lucas felt the undeniable pull of adventure coursing through his veins. The night sky was a tapestry of stars, mirroring the boundless potential in his heart. With a map in hand and a compass pointing steadily northward, Lucas embarked on a journey to conquer the legendary Storm Peak. As dawn broke, he faced the first crest of the mountain, its jagged barriers a testament to nature’s inescapable trials. Unfazed, Lucas pressed forward, carving a path where none existed, each step a testament to his unwavering resolve. But as he reached the peak’s shadow, the sky darkened, and a tempestuous wind threatened to unseat his ambition. With grit consuming every fiber, Lucas encountered the storm's fury, his determination the only beacon against the gale. Overhead, the clouds swirled, and with one final push, he emerged victorious, standing atop the windswept summit. Below, the world lay beneath him, a creation now beyond his grasp, as the wind carried whispers of yet another journey. Lucas’s triumph transcended the mere conquering of a peak; it was the realization that true mastery lies in embracing the storm, not resisting it.",
                 "lines_in_context": {
                     "6": {
                         "name": "Transcendence",
@@ -159,7 +159,7 @@
                     },
                     "3": {
                         "name": "Conflict",
-                        "meaning": "Nature\u2019s forces challenge Lucas's resolve as the storm intensifies, testing his commitment to the climb.",
+                        "meaning": "Nature’s forces challenge Lucas's resolve as the storm intensifies, testing his commitment to the climb.",
                         "changing": "A shift from yang to yin indicates Lucas's retreat from hardship, his spirit worn by the mountain's relentless push."
                     },
                     "2": {
@@ -177,7 +177,7 @@
             {
                 "title": "The Sculptor's Journey (Man vs. Self)",
                 "theme": "Ray Bradbury",
-                "short_story": "In a dimly lit workshop, nestled at the end of a crooked street, an old sculptor named Elias sat amidst marble fragments. The room hummed with potential, as if each stone waited patiently to shed its roughness and reveal its intended form. Elias, however, grappled with his elusive vision, aware that within each block lay the faint glimmers of a masterpiece poised to emerge. As the first light of dawn filtered through dusty windows, Elias felt the surge of inspiration that demanded focus and discipline. Tools in hand, he began, yet uncertainty knit a tangled web within his mind. Every stroke chipped away doubt but also whispered the risk of overreach. The marble pushed back, challenging his resolve, threatening to engulf him in self-doubt. Guided by a flicker of clarity, Elias steadied his hands, translating whimsy into tangible curves. The day's work unfolded into a symphony of intent as his vision took shape. At last, the sculpture stood complete\u2014a testament to his perseverance, transcendent of his original intent. Elias knew it was no longer his alone but a voice bidding the world to listen. For Elias, creation was a dialogue, a dance with the universe that blossomed when he dared to surrender control.",
+                "short_story": "In a dimly lit workshop, nestled at the end of a crooked street, an old sculptor named Elias sat amidst marble fragments. The room hummed with potential, as if each stone waited patiently to shed its roughness and reveal its intended form. Elias, however, grappled with his elusive vision, aware that within each block lay the faint glimmers of a masterpiece poised to emerge. As the first light of dawn filtered through dusty windows, Elias felt the surge of inspiration that demanded focus and discipline. Tools in hand, he began, yet uncertainty knit a tangled web within his mind. Every stroke chipped away doubt but also whispered the risk of overreach. The marble pushed back, challenging his resolve, threatening to engulf him in self-doubt. Guided by a flicker of clarity, Elias steadied his hands, translating whimsy into tangible curves. The day's work unfolded into a symphony of intent as his vision took shape. At last, the sculpture stood complete—a testament to his perseverance, transcendent of his original intent. Elias knew it was no longer his alone but a voice bidding the world to listen. For Elias, creation was a dialogue, a dance with the universe that blossomed when he dared to surrender control.",
                 "lines_in_context": {
                     "6": {
                         "name": "Release",
@@ -258,14 +258,16 @@
         "Platonic": "The harmonious dance of celestial creativity is enlivened through the exhilarating cadence of Thunder's ancient vitality.",
         "Taoist": "In the embrace of Heaven's boundless creation, the lively spirit of Thunder unveils its vibrant force.",
         "Tholonic": "When Heaven's boundless creativity merges with the electrifying vigor of Thunder, a transformative renewal is born.",
-        "Thermodynamics": "The confluence of limitless entropy with invigorating kinetic energy acts as a catalyst for transformative thermodynamic processes."
+        "Thermodynamics": "The confluence of limitless entropy with invigorating kinetic energy acts as a catalyst for transformative thermodynamic processes.",
+        "general": "The boundless creativity of Heaven ignites with the dynamic energy of Thunder, sparking transformative renewal.",
+        "explanation": "The lower trigram, 'The Creative,' symbolizes strong and creative forces, representing boundless potential. The upper trigram, 'The Arousing,' embodies dynamic and exciting energy, akin to Thunder's primal force. Together, they illustrate how Heaven's unlimited creativity, when energized by Thunder's dynamic vitality, leads to transformative change and renewal, aligning with the synthesis of diverse philosophical perspectives."
     },
     "line_type": [
-        "\u268b",
-        "\u268b",
-        "\u268a",
-        "\u268a",
-        "\u268a",
-        "\u268a"
+        "─ ─",
+        "─ ─",
+        "───",
+        "───",
+        "───",
+        "───"
     ]
 }

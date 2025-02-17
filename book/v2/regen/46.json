@@ -1,6 +1,6 @@
 {
     "id": 46,
-    "hexagram_code": "\u4ded",
+    "hexagram_code": "䷭",
     "name": "Emergence",
     "description": "The process of ascending, growth, and manifestation from lower to higher states. Like a seed pushing through soil or an idea taking concrete form, this represents the upward movement of energy and awareness into new levels of expression.",
     "king_wen": {
@@ -13,22 +13,22 @@
         "above": {
             "Trigram Number": 2,
             "Binary Decimal": 0,
-            "Symbol": "\u2637",
-            "Chinese Symbol": "\u5764",
-            "Phonetic": "K\u016bn",
+            "Symbol": "☷",
+            "Chinese Symbol": "坤",
+            "Phonetic": "Kūn",
             "English Translation": "Earth",
-            "English Symbol": "\u5730",
+            "English Symbol": "地",
             "Meaning": "The Receptive",
             "Quality": "Receptive and Nurturing"
         },
         "below": {
             "Trigram Number": 5,
             "Binary Decimal": 6,
-            "Symbol": "\u2634",
-            "Chinese Symbol": "\u5dfd",
-            "Phonetic": "X\u00f9n",
+            "Symbol": "☴",
+            "Chinese Symbol": "巽",
+            "Phonetic": "Xùn",
             "English Translation": "Wind/Wood",
-            "English Symbol": "\u98ce/\u6728",
+            "English Symbol": "风/木",
             "Meaning": "The Gentle",
             "Quality": "Gentle and Penetrating"
         }
@@ -93,7 +93,7 @@
         "order8parent": "RESOLUTION; Moving Toward Completion"
     },
     "image": {
-        "description": "The object of a growing tree represents the hexagram \"EMERGENCE\" through its symbolic portrayal of life\u2019s ascending movement towards completion, reflecting natural cycles of growth and resolution. The realist style captures the intricate details of this progression, mirroring the Tholonic concept of awareness manifesting through complex systems. Carving this from wood emphasizes transformation and the emergence of hidden potential from raw material, akin to the evolutionary process of awareness interacting and evolving. Choosing Vincent van Gogh as the artist adds depth, as his works often explore themes of life\u2019s cyclical nature, embodying universal love and creativity. This award-winning, highly symbolic piece serves as a tholon\u2014both a holistic entity and part of a larger holarchic system, engaging with the dynamics of negotiation, limitation, and contribution to reflect the interconnectedness and unfolding reality.",
+        "description": "The object of a growing tree represents the hexagram \"EMERGENCE\" through its symbolic portrayal of life’s ascending movement towards completion, reflecting natural cycles of growth and resolution. The realist style captures the intricate details of this progression, mirroring the Tholonic concept of awareness manifesting through complex systems. Carving this from wood emphasizes transformation and the emergence of hidden potential from raw material, akin to the evolutionary process of awareness interacting and evolving. Choosing Vincent van Gogh as the artist adds depth, as his works often explore themes of life’s cyclical nature, embodying universal love and creativity. This award-winning, highly symbolic piece serves as a tholon—both a holistic entity and part of a larger holarchic system, engaging with the dynamics of negotiation, limitation, and contribution to reflect the interconnectedness and unfolding reality.",
         "file": "46.png"
     },
     "energy_cycle": "ascending",
@@ -102,8 +102,8 @@
         "entries": [
             {
                 "title": "The Creator's Dilemma (Man vs. Man)",
-                "theme": "Gabriel Garc\u00eda M\u00e1rquez",
-                "short_story": "In a timeless village, nestled between lush mountains and a never-ending sky, lived an artist named Eladio, whose desire was to paint the world anew. With dreams unfurling like dawn's first light, he gathered his brushes, yet lacked the clarity of vision to begin. Friends and strangers alike acknowledged his potential, yet whispered doubts echoed louder than encouragement. As he started drawing lines upon the canvas, the image fought back, challenging his every stroke with unforeseen complexities. Just as defeat seemed inevitable, Eladio found inspiration in the soft sway of village life\u2014conversations, markets, sunlight upon cobblestones\u2014and his art harmoniously began to reflect reality. Empowered, he mastered his creation, embodying the artist consumed by the act itself. But as his magnum opus neared completion, Eladio realized the painting had grown beyond him, resonating with emotions he hadn't consciously infused. Accepting this, he released the work into the world, transcending personal artistry into communal blessing. There it hung, a perpetual dialogue, influencing lives like the unseen whispers of a benevolent spirit.",
+                "theme": "Gabriel García Márquez",
+                "short_story": "In a timeless village, nestled between lush mountains and a never-ending sky, lived an artist named Eladio, whose desire was to paint the world anew. With dreams unfurling like dawn's first light, he gathered his brushes, yet lacked the clarity of vision to begin. Friends and strangers alike acknowledged his potential, yet whispered doubts echoed louder than encouragement. As he started drawing lines upon the canvas, the image fought back, challenging his every stroke with unforeseen complexities. Just as defeat seemed inevitable, Eladio found inspiration in the soft sway of village life—conversations, markets, sunlight upon cobblestones—and his art harmoniously began to reflect reality. Empowered, he mastered his creation, embodying the artist consumed by the act itself. But as his magnum opus neared completion, Eladio realized the painting had grown beyond him, resonating with emotions he hadn't consciously infused. Accepting this, he released the work into the world, transcending personal artistry into communal blessing. There it hung, a perpetual dialogue, influencing lives like the unseen whispers of a benevolent spirit.",
                 "lines_in_context": {
                     "6": {
                         "name": "Transcendent Creation",
@@ -140,7 +140,7 @@
             {
                 "title": "The Whispering Ocean (Man vs. Nature)",
                 "theme": "Virginia Woolf",
-                "short_story": "In the serene cradle of a coastal village, a young woman named Elara felt the urge of the vast ocean echo within her soul. Drawn by its unfathomable depths, she found herself on the brink of a creative journey spurred by unseen forces. She held a brush, yet the canvas remained untouched, filled only with the potential she alone perceived. Determined, she began to shape her inner vision, sketching strokes that mirrored the whispers of the waves that had once been mere echoes in her heart. But the ocean, eternal and unconquered, posed its challenges. Furious winds threatened to shatter her peace, and doubts as ancient as the tides rose to meet her. Yet Elara persisted, surrendering to the rhythmic dance between creation and nature. In time, her work took form; the impetuous winds became part of her palette, the ocean's tumultuous dance an integral rhythm within her art. Reaching her pinnacle, she mastered the language of the tides, crafting a masterpiece that was an ode to both her inner journey and the vast, spirited ocean. As the canvas found its final strokes, Elara realized her creation now belonged to the world\u2014a testament to nature\u2019s whisperings and the ceaseless, gentle tides of emergence.",
+                "short_story": "In the serene cradle of a coastal village, a young woman named Elara felt the urge of the vast ocean echo within her soul. Drawn by its unfathomable depths, she found herself on the brink of a creative journey spurred by unseen forces. She held a brush, yet the canvas remained untouched, filled only with the potential she alone perceived. Determined, she began to shape her inner vision, sketching strokes that mirrored the whispers of the waves that had once been mere echoes in her heart. But the ocean, eternal and unconquered, posed its challenges. Furious winds threatened to shatter her peace, and doubts as ancient as the tides rose to meet her. Yet Elara persisted, surrendering to the rhythmic dance between creation and nature. In time, her work took form; the impetuous winds became part of her palette, the ocean's tumultuous dance an integral rhythm within her art. Reaching her pinnacle, she mastered the language of the tides, crafting a masterpiece that was an ode to both her inner journey and the vast, spirited ocean. As the canvas found its final strokes, Elara realized her creation now belonged to the world—a testament to nature’s whisperings and the ceaseless, gentle tides of emergence.",
                 "lines_in_context": {
                     "6": {
                         "name": "Transcendent Creation",
@@ -177,7 +177,7 @@
             {
                 "title": "The Painter's Awakening (Man vs. Self)",
                 "theme": "Haruki Murakami",
-                "short_story": "In the quiet solitude of his studio, Hiroshi faced the endless stretch of canvas with a paintbrush poised in hesitant hands. Ideas fluttered like birds within his mind, each carrying the seeds of something extraordinary, yet none settled long enough to be captured. He stood on the threshold of creation, feeling raw potential pulse through his veins, but direction eluded him. An unexpected echo of doubt whispered through his thoughts, tempting him towards the safer path of inaction, yet something deeper urged him on. Gradually, Hiroshi dipped his brush and began. The first strokes defined his path\u2014a journey through self-imposed barriers. Each line became a battle against invisible resistance that threatened to subdue the awakening vision. Obstacles rose as doubters questioned his intent, each external voice challenging his inner certainty. Despite this, Hiroshi pushed forward, finding rhythm in the chaos. At last, his work took shape, aligning his inner world with the world beyond, forming a symphony of color and form. His vision became complete, transcending him, revealing a truth that existed beyond himself, touching something universal yet intimately personal. The canvas no longer belonged solely to him, but to all who experienced it.",
+                "short_story": "In the quiet solitude of his studio, Hiroshi faced the endless stretch of canvas with a paintbrush poised in hesitant hands. Ideas fluttered like birds within his mind, each carrying the seeds of something extraordinary, yet none settled long enough to be captured. He stood on the threshold of creation, feeling raw potential pulse through his veins, but direction eluded him. An unexpected echo of doubt whispered through his thoughts, tempting him towards the safer path of inaction, yet something deeper urged him on. Gradually, Hiroshi dipped his brush and began. The first strokes defined his path—a journey through self-imposed barriers. Each line became a battle against invisible resistance that threatened to subdue the awakening vision. Obstacles rose as doubters questioned his intent, each external voice challenging his inner certainty. Despite this, Hiroshi pushed forward, finding rhythm in the chaos. At last, his work took shape, aligning his inner world with the world beyond, forming a symphony of color and form. His vision became complete, transcending him, revealing a truth that existed beyond himself, touching something universal yet intimately personal. The canvas no longer belonged solely to him, but to all who experienced it.",
                 "lines_in_context": {
                     "6": {
                         "name": "Completion and Release",
@@ -256,16 +256,18 @@
     "trigram_phrase": {
         "Jungian": "The soft and penetrating essence seamlessly intertwines with the receptive and nurturing soil of the psyche, fostering the organic growth and manifestation of the soul's latent potential.",
         "Platonic": "When the gentle yet enduring persuasion meets with the open-hearted and fostering embrace, it paves the way for the innate potential to blossom forth in its true form.",
-        "Taoist": "In the dance of the unseen and gentle breath, the open vessel gives way to life\u2019s hidden blossoms.",
+        "Taoist": "In the dance of the unseen and gentle breath, the open vessel gives way to life’s hidden blossoms.",
         "Tholonic": "When the gentle art of persuasion meets the depth of open receptivity, it creates a rich soil where hidden potentials are awakened and allowed to flourish.",
-        "Thermodynamics": "The entropic interplay between the Gentle and Penetrating energies attains equilibrium with the Receptive and Nurturing forces, engendering a state where subtle interactions catalyze thermodynamic growth."
+        "Thermodynamics": "The entropic interplay between the Gentle and Penetrating energies attains equilibrium with the Receptive and Nurturing forces, engendering a state where subtle interactions catalyze thermodynamic growth.",
+        "general": "When gentle influence meets open acceptance, hidden potentials naturally emerge and flourish.",
+        "explanation": "The Gentle represents a subtle yet persistent force that penetrates and influences, while The Receptive embodies openness and nurturing support. Together, they create an environment where latent possibilities can develop and come to fruition, much like seeds growing in fertile soil."
     },
     "line_type": [
-        "\u268b",
-        "\u268b",
-        "\u268b",
-        "\u268a",
-        "\u268a",
-        "\u268b"
+        "─ ─",
+        "─ ─",
+        "─ ─",
+        "───",
+        "───",
+        "─ ─"
     ]
 }

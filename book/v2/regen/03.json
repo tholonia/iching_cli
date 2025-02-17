@@ -1,6 +1,6 @@
 {
     "id": 3,
-    "hexagram_code": "\u4dc2",
+    "hexagram_code": "䷂",
     "name": "Initiation",
     "description": "The challenging beginning of new growth. Like plants breaking through soil, this represents the difficult but necessary start of any significant endeavor.",
     "king_wen": {
@@ -13,22 +13,22 @@
         "above": {
             "Trigram Number": 6,
             "Binary Decimal": 2,
-            "Symbol": "\u2635",
-            "Chinese Symbol": "\u574e",
-            "Phonetic": "K\u01cen",
+            "Symbol": "☵",
+            "Chinese Symbol": "坎",
+            "Phonetic": "Kǎn",
             "English Translation": "Water",
-            "English Symbol": "\u6c34",
+            "English Symbol": "水",
             "Meaning": "The Abysmal",
             "Quality": "Deep and Mysterious"
         },
         "below": {
             "Trigram Number": 4,
             "Binary Decimal": 1,
-            "Symbol": "\u2633",
-            "Chinese Symbol": "\u9707",
-            "Phonetic": "Zh\u00e8n",
+            "Symbol": "☳",
+            "Chinese Symbol": "震",
+            "Phonetic": "Zhèn",
             "English Translation": "Thunder",
-            "English Symbol": "\u96f7",
+            "English Symbol": "雷",
             "Meaning": "The Arousing",
             "Quality": "Dynamic and Exciting"
         }
@@ -75,7 +75,7 @@
             "position": 1,
             "name": "Spark of Emergence",
             "meaning": "The first line represents the initial stirrings of action. It signifies the moment when latent forces awaken, inviting one to prepare for transformative efforts.",
-            "changing": "A subtle shift from passive receptivity into the primal energy of action \u2013 the spark that begins the journey from the internal yin potential to outward yang expression."
+            "changing": "A subtle shift from passive receptivity into the primal energy of action – the spark that begins the journey from the internal yin potential to outward yang expression."
         }
     ],
     "tholonic_analysis": {
@@ -93,7 +93,7 @@
         "order8parent": "PRIMAL DEFINITION; Creation of Basic Forms"
     },
     "image": {
-        "description": "The image of sprouting seeds embodies Hexagram 3, \"Initiation,\" reflecting the initial challenges and delicate balance required for growth and manifestation. The intertwining sprouts symbolize the interconnectedness of beginnings, where potential transforms into form through effort and resilience. The impressionistic style, with its vivid, textured strokes, conveys the energy and vitality of emerging life, resonating with the tholonic concept of negotiation\u2014where structure emerges from chaos. Watercolor, as a medium, mirrors the fluid and uncertain nature of early growth, capturing both vulnerability and dynamism. Vincent van Gogh, known for his ability to portray the raw beauty of nature, expresses the struggle and beauty of life's first steps, making this image a perfect representation of the hexagram's theme of primal initiation.",
+        "description": "The image of sprouting seeds embodies Hexagram 3, \"Initiation,\" reflecting the initial challenges and delicate balance required for growth and manifestation. The intertwining sprouts symbolize the interconnectedness of beginnings, where potential transforms into form through effort and resilience. The impressionistic style, with its vivid, textured strokes, conveys the energy and vitality of emerging life, resonating with the tholonic concept of negotiation—where structure emerges from chaos. Watercolor, as a medium, mirrors the fluid and uncertain nature of early growth, capturing both vulnerability and dynamism. Vincent van Gogh, known for his ability to portray the raw beauty of nature, expresses the struggle and beauty of life's first steps, making this image a perfect representation of the hexagram's theme of primal initiation.",
         "file": "03.png"
     },
     "energy_cycle": "ascending",
@@ -103,7 +103,7 @@
             {
                 "title": "The Sculptor's Vision (Man vs. Man)",
                 "theme": "Stephen King",
-                "short_story": "In a forgotten studio in Maine, young sculptor Ethan discovered a peculiar block of granite, raw with untapped potential. His mind teemed with ideas, yet his hands were tentative, unsure where to chisel first. The stone seemed to whisper of forms hidden beneath its surface.\n\nEthan\u2019s first strike was hesitant, but as the sunlight faded, he found rhythm in the shaping of stone. The block transformed, slowly revealing a figure yet unimagined. Neighbors and townsfolk dropped by, skepticism evident, casting shadows on his burgeoning masterpiece.\n\nOne stormy afternoon, all progress seemed lost as a fracture threatened to split the stone and his dream. Yet, in the eye of adversity, Ethan found clarity and focus. He refined his vision, each stroke aligning with a purpose he barely understood himself.\n\nWith time, Ethan\u2019s skill and the form coalesced, birthing a sculpture of haunting beauty, a creation that seemed to gaze into the soul of each admirer. Yet, as spectators marveled, Ethan realized the creation had transcended him\u2014it belonged to a world that would forget its creator, becoming a timeless monument to the delicate dance of chaos and control, desire and surrender.",
+                "short_story": "In a forgotten studio in Maine, young sculptor Ethan discovered a peculiar block of granite, raw with untapped potential. His mind teemed with ideas, yet his hands were tentative, unsure where to chisel first. The stone seemed to whisper of forms hidden beneath its surface.\n\nEthan’s first strike was hesitant, but as the sunlight faded, he found rhythm in the shaping of stone. The block transformed, slowly revealing a figure yet unimagined. Neighbors and townsfolk dropped by, skepticism evident, casting shadows on his burgeoning masterpiece.\n\nOne stormy afternoon, all progress seemed lost as a fracture threatened to split the stone and his dream. Yet, in the eye of adversity, Ethan found clarity and focus. He refined his vision, each stroke aligning with a purpose he barely understood himself.\n\nWith time, Ethan’s skill and the form coalesced, birthing a sculpture of haunting beauty, a creation that seemed to gaze into the soul of each admirer. Yet, as spectators marveled, Ethan realized the creation had transcended him—it belonged to a world that would forget its creator, becoming a timeless monument to the delicate dance of chaos and control, desire and surrender.",
                 "lines_in_context": {
                     "6": {
                         "name": "The Sculpture's Legacy",
@@ -123,12 +123,12 @@
                     "3": {
                         "name": "Creative Conflict",
                         "meaning": "Highlights the struggles Ethan faces when his work meets external skepticism and material challenges.",
-                        "changing": "If yang changes to yin, it signals Ethan\u2019s retreat or giving in due to exhaustion, blocking full realization."
+                        "changing": "If yang changes to yin, it signals Ethan’s retreat or giving in due to exhaustion, blocking full realization."
                     },
                     "2": {
                         "name": "Shaping Potential",
                         "meaning": "Illustrates Ethan beginning to define his creative path, molding the stone as barriers arise.",
-                        "changing": "If yin changes to yang, it signifies Ethan\u2019s premature action, leading to instability in his work."
+                        "changing": "If yin changes to yang, it signifies Ethan’s premature action, leading to instability in his work."
                     },
                     "1": {
                         "name": "The Genesis of Creation",
@@ -140,7 +140,7 @@
             {
                 "title": "The First Spark (Man vs. Nature)",
                 "theme": "Ray Bradbury",
-                "short_story": "On a windswept moor in a world untamed, a young inventor named Jonas discovered fire. Not the blazing kind that devours, but the tender flicker that dances within flint and stone, waiting to be born. His heart was full of uncharted dreams, yet his hands trembled, uncertain of the path to creation.\n\nHis first strike against a cold morning rock was timid, echoing across the quiet land. Onlookers watched, their skepticism palpable, like shadows cast by an unseen sun. Each failure ate at his resolve, and the raw chill of the earth seemed almost a mockery of his fervent quest.\n\nYet as adversity set in, Jonas found within himself an ember of relentless hope. He learned to listen to the moorland winds, to understand their whispers, and each day, he drew closer to his goal.\n\nWhen at last, the fire leapt to life in his hands, it was not merely his creation but a gift to the world\u2014a beacon of possibility in the vast wilderness. The fire belonged to him no longer; it had its own story to tell, igniting the night with tales of warmth and light, singing to the stars of the primal dance of resilience and revelation.",
+                "short_story": "On a windswept moor in a world untamed, a young inventor named Jonas discovered fire. Not the blazing kind that devours, but the tender flicker that dances within flint and stone, waiting to be born. His heart was full of uncharted dreams, yet his hands trembled, uncertain of the path to creation.\n\nHis first strike against a cold morning rock was timid, echoing across the quiet land. Onlookers watched, their skepticism palpable, like shadows cast by an unseen sun. Each failure ate at his resolve, and the raw chill of the earth seemed almost a mockery of his fervent quest.\n\nYet as adversity set in, Jonas found within himself an ember of relentless hope. He learned to listen to the moorland winds, to understand their whispers, and each day, he drew closer to his goal.\n\nWhen at last, the fire leapt to life in his hands, it was not merely his creation but a gift to the world—a beacon of possibility in the vast wilderness. The fire belonged to him no longer; it had its own story to tell, igniting the night with tales of warmth and light, singing to the stars of the primal dance of resilience and revelation.",
                 "lines_in_context": {
                     "6": {
                         "name": "The Transcendent Flame",
@@ -177,7 +177,7 @@
             {
                 "title": "The Shadow Weaver (Man vs. Self)",
                 "theme": "Neil Gaiman",
-                "short_story": "In the dusky corner of an age-old forest, a young shadow weaver named Elara toiled in obscurity, her heart ablaze with untamed dreams. Her hands trembled, uncertain, as she attempted to sculpt form from the intangible. Each whisper of shade she summoned left her longing for mastery, yet consigned her to self-doubt. \n\nHer first serious attempt at conjuring light from shadow met with disquieting failure\u2014a shapeless wisp dissolving into nothing as an unseen raven cawed, mocking her ambition. Nonetheless, the spirit of the forest nudged her forward, compelling her to try anew. \n\nElara pressed on, confronting doubts given flesh in the forest\u2019s mute stone and swirling mists. Disheartened, she drew closer to herself, a chrysalis of quiet power unraveling her fears. Each renewed invocation brought clarity, each failure chipped away at hesitation. \n\nWhen at last her art found its form, a sentient figure of shadow and light danced before her. It was no longer hers alone but belonged to the twilight whispers of the wood, a testament of her labors. In this creation, Elara saw herself\u2014a phoenix of resolve born from the ashes of doubt, eternal and ephemeral.",
+                "short_story": "In the dusky corner of an age-old forest, a young shadow weaver named Elara toiled in obscurity, her heart ablaze with untamed dreams. Her hands trembled, uncertain, as she attempted to sculpt form from the intangible. Each whisper of shade she summoned left her longing for mastery, yet consigned her to self-doubt. \n\nHer first serious attempt at conjuring light from shadow met with disquieting failure—a shapeless wisp dissolving into nothing as an unseen raven cawed, mocking her ambition. Nonetheless, the spirit of the forest nudged her forward, compelling her to try anew. \n\nElara pressed on, confronting doubts given flesh in the forest’s mute stone and swirling mists. Disheartened, she drew closer to herself, a chrysalis of quiet power unraveling her fears. Each renewed invocation brought clarity, each failure chipped away at hesitation. \n\nWhen at last her art found its form, a sentient figure of shadow and light danced before her. It was no longer hers alone but belonged to the twilight whispers of the wood, a testament of her labors. In this creation, Elara saw herself—a phoenix of resolve born from the ashes of doubt, eternal and ephemeral.",
                 "lines_in_context": {
                     "6": {
                         "name": "Eternal Reflection",
@@ -216,7 +216,7 @@
     "history": {
         "title": "ENIAC: Difficult Beginnings of the Computer Age",
         "subtitle": "\"Initiation\" in History",
-        "short_story": "In 1943, amidst World War II, engineers John Mauchly and J. Presper Eckert began work on ENIAC (Electronic Numerical Integrator and Computer), facing seemingly insurmountable challenges. With no precedent for electronic computing, every step required invention. The basic problem of reliable vacuum tubes alone seemed impossible \u2013 the machine would need 18,000 of them to work perfectly in sync.\n\nThe team faced ridicule from skeptics who claimed electronic computing was impossible at such a scale. Each challenge demanded innovative solutions: new circuits had to be designed, novel programming methods developed, and cooling systems invented. The women programmers, including Jean Jennings and Betty Snyder, had to create entirely new mathematical methods as they went.\n\nThe project endured material shortages, technical setbacks, and constant skepticism. When finally unveiled in 1946, ENIAC occupied 1,800 square feet and consumed 150 kilowatts of power. Though it came too late for its intended wartime purpose, ENIAC proved electronic computing was possible, setting off the computer revolution.",
+        "short_story": "In 1943, amidst World War II, engineers John Mauchly and J. Presper Eckert began work on ENIAC (Electronic Numerical Integrator and Computer), facing seemingly insurmountable challenges. With no precedent for electronic computing, every step required invention. The basic problem of reliable vacuum tubes alone seemed impossible – the machine would need 18,000 of them to work perfectly in sync.\n\nThe team faced ridicule from skeptics who claimed electronic computing was impossible at such a scale. Each challenge demanded innovative solutions: new circuits had to be designed, novel programming methods developed, and cooling systems invented. The women programmers, including Jean Jennings and Betty Snyder, had to create entirely new mathematical methods as they went.\n\nThe project endured material shortages, technical setbacks, and constant skepticism. When finally unveiled in 1946, ENIAC occupied 1,800 square feet and consumed 150 kilowatts of power. Though it came too late for its intended wartime purpose, ENIAC proved electronic computing was possible, setting off the computer revolution.",
         "source": [
             "\"ENIAC in Action: Making",
             "Remaking the Modern Computer\" by Thomas Haigh, Mark Priestley,",
@@ -261,14 +261,16 @@
         "Platonic": "The vivacious spirit of dynamic fervor arises from the deep-seated mysteries within the depths of existence.",
         "Taoist": "In the depths of the profound, the spirit of vibrant energy arises.",
         "Tholonic": "From the enigmatic abyss of the arcane domain arises the effulgent vigor and vivacity of dynamic energy.",
-        "Thermodynamics": "The entropic surge of kinetic energy navigates the intricate lattice of enigmatic being."
+        "Thermodynamics": "The entropic surge of kinetic energy navigates the intricate lattice of enigmatic being.",
+        "general": "Dynamic energy emerges from the depths of mystery.",
+        "explanation": "The lower trigram, 'The Arousing', symbolizes dynamic and exciting energy, while the upper trigram, 'The Abysmal', represents depth and mystery. Together, they convey the idea that vibrant energy is born from profound and enigmatic origins, aligning with the synthesis of philosophical perspectives that describe energy arising from deep, mysterious sources."
     },
     "line_type": [
-        "\u268b",
-        "\u268a",
-        "\u268b",
-        "\u268b",
-        "\u268b",
-        "\u268a"
+        "─ ─",
+        "───",
+        "─ ─",
+        "─ ─",
+        "─ ─",
+        "───"
     ]
 }

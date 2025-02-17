@@ -1,6 +1,6 @@
 {
     "id": 7,
-    "hexagram_code": "\u4dc6",
+    "hexagram_code": "䷆",
     "name": "Organization",
     "description": "The coordination of forces toward collective purpose. Like an army moving as one, this represents the power of disciplined unity and structured cooperation.",
     "king_wen": {
@@ -13,22 +13,22 @@
         "above": {
             "Trigram Number": 2,
             "Binary Decimal": 0,
-            "Symbol": "\u2637",
-            "Chinese Symbol": "\u5764",
-            "Phonetic": "K\u016bn",
+            "Symbol": "☷",
+            "Chinese Symbol": "坤",
+            "Phonetic": "Kūn",
             "English Translation": "Earth",
-            "English Symbol": "\u5730",
+            "English Symbol": "地",
             "Meaning": "The Receptive",
             "Quality": "Receptive and Nurturing"
         },
         "below": {
             "Trigram Number": 6,
             "Binary Decimal": 2,
-            "Symbol": "\u2635",
-            "Chinese Symbol": "\u574e",
-            "Phonetic": "K\u01cen",
+            "Symbol": "☵",
+            "Chinese Symbol": "坎",
+            "Phonetic": "Kǎn",
             "English Translation": "Water",
-            "English Symbol": "\u6c34",
+            "English Symbol": "水",
             "Meaning": "The Abysmal",
             "Quality": "Deep and Mysterious"
         }
@@ -102,8 +102,8 @@
         "entries": [
             {
                 "title": "The Artisan's True Canvas (Man vs. Man)",
-                "theme": "Gabriel Garc\u00eda M\u00e1rquez",
-                "short_story": "In the vibrant town of Miraflores, young artist Esperanza stood at an easel, eyes alive with the spark of creation. Her brush hovered over a blank canvas, raw potential coursing through her fingertips, yet fear of judgment loomed. She hesitated, allowing her heart to guide her hand with a gentle stroke, carving shapes and hues from the chaos within. As her vision took form, the trials began\u2014the elders critiqued, the patrons doubted. But Esperanza pressed on, turning critiques into colors, doubts into shadows of depth. With each challenge, she refined her canvas, aligning her dreams with reality, letting the whispers of the town guide her inspirations. As she neared completion, the masterpiece spoke not just of her but of the world she belonged to, transcending her initial fears. Yet, in clinging to the brush as if it was still hers, she longed for one last touch, an adjustment that might only serve her ego. It was then, choosing release over control, that the true essence of her work breathed beyond her, becoming a tale of all who witnessed it.",
+                "theme": "Gabriel García Márquez",
+                "short_story": "In the vibrant town of Miraflores, young artist Esperanza stood at an easel, eyes alive with the spark of creation. Her brush hovered over a blank canvas, raw potential coursing through her fingertips, yet fear of judgment loomed. She hesitated, allowing her heart to guide her hand with a gentle stroke, carving shapes and hues from the chaos within. As her vision took form, the trials began—the elders critiqued, the patrons doubted. But Esperanza pressed on, turning critiques into colors, doubts into shadows of depth. With each challenge, she refined her canvas, aligning her dreams with reality, letting the whispers of the town guide her inspirations. As she neared completion, the masterpiece spoke not just of her but of the world she belonged to, transcending her initial fears. Yet, in clinging to the brush as if it was still hers, she longed for one last touch, an adjustment that might only serve her ego. It was then, choosing release over control, that the true essence of her work breathed beyond her, becoming a tale of all who witnessed it.",
                 "lines_in_context": {
                     "6": {
                         "name": "Transcendent Release",
@@ -177,7 +177,7 @@
             {
                 "title": "The Rising Symphony (Man vs. Self)",
                 "theme": "Haruki Murakami",
-                "short_story": "In the quiet confines of his Tokyo apartment, renowned composer Yuki Hayashi sat before a blank sheet of orchestral paper. A symphony brewed within, an untamed force yearning for expression. Yet his mind was as silent as the page before him\u2014an open field of potential waiting for a gust of inspiration. On the cusp of creation, he hesitated, wrestling with an internal dissonance that tangled his thoughts, threatening the silence with discord.\n\nEmbracing this inner chaos, Yuki began to form the outlines of a melody, guiding his inert ideas into shape. He encountered the initial barriers\u2014critics' voices lingering in his mind, doubts echoing like distant thunder. Yet, determined, he poured his soul into the notes, battling against the tempest of apprehension.\n\nAs he composed, external pressures mounted, demanding every ounce of his resolve. His pen whirred across the paper, turning doubt into notes, until at last, his idea aligned with reality, gaining momentum like a train on well-laid tracks.\n\nHis masterpiece nearing completion, Yuki stood at the peak of his powers, a conductor of his own symphonic vision. The moment of transcendence arrived\u2014he released his creation to the world, understanding it was no longer his alone, but a gift woven into the fabric of collective experience.",
+                "short_story": "In the quiet confines of his Tokyo apartment, renowned composer Yuki Hayashi sat before a blank sheet of orchestral paper. A symphony brewed within, an untamed force yearning for expression. Yet his mind was as silent as the page before him—an open field of potential waiting for a gust of inspiration. On the cusp of creation, he hesitated, wrestling with an internal dissonance that tangled his thoughts, threatening the silence with discord.\n\nEmbracing this inner chaos, Yuki began to form the outlines of a melody, guiding his inert ideas into shape. He encountered the initial barriers—critics' voices lingering in his mind, doubts echoing like distant thunder. Yet, determined, he poured his soul into the notes, battling against the tempest of apprehension.\n\nAs he composed, external pressures mounted, demanding every ounce of his resolve. His pen whirred across the paper, turning doubt into notes, until at last, his idea aligned with reality, gaining momentum like a train on well-laid tracks.\n\nHis masterpiece nearing completion, Yuki stood at the peak of his powers, a conductor of his own symphonic vision. The moment of transcendence arrived—he released his creation to the world, understanding it was no longer his alone, but a gift woven into the fabric of collective experience.",
                 "lines_in_context": {
                     "6": {
                         "name": "Releasing Harmony",
@@ -262,14 +262,16 @@
         "Platonic": "In the nurturing bosom of the earth's unwavering stability, the profound enigmas of existence unveil themselves.",
         "Taoist": "The deep enigma reveals itself through the gentle embrace of yielding nurture.",
         "Tholonic": "The enigmatic depths of being reveal themselves through the tender and sustaining cradle of nurturing openness.",
-        "Thermodynamics": "The enigmatic nature of entropy reveals itself within the equilibrium of a system guided by nurturing energy dynamics."
+        "Thermodynamics": "The enigmatic nature of entropy reveals itself within the equilibrium of a system guided by nurturing energy dynamics.",
+        "general": "The mysteries of existence unfold through the nurturing embrace of stability and openness.",
+        "explanation": "The lower trigram, 'The Abysmal,' symbolizes the deep and mysterious aspects of life, while the upper trigram, 'The Receptive,' embodies nurturing and openness. Together, they suggest that life's profound mysteries are revealed and understood through a stable and open environment that supports growth and insight."
     },
     "line_type": [
-        "\u268b",
-        "\u268b",
-        "\u268a",
-        "\u268b",
-        "\u268a",
-        "\u268b"
+        "─ ─",
+        "─ ─",
+        "───",
+        "─ ─",
+        "───",
+        "─ ─"
     ]
 }

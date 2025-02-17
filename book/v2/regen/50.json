@@ -1,6 +1,6 @@
 {
     "id": 50,
-    "hexagram_code": "\u4df1",
+    "hexagram_code": "䷱",
     "name": "Transformation",
     "description": "The sacred vessel that enables transformation and renewal. Like a crucible that transforms base metals or a ritual space that transforms consciousness, this represents the container or context that makes profound change possible.",
     "king_wen": {
@@ -13,22 +13,22 @@
         "above": {
             "Trigram Number": 7,
             "Binary Decimal": 5,
-            "Symbol": "\u2632",
-            "Chinese Symbol": "\u79bb",
-            "Phonetic": "L\u00ed",
+            "Symbol": "☲",
+            "Chinese Symbol": "离",
+            "Phonetic": "Lí",
             "English Translation": "Fire",
-            "English Symbol": "\u706b",
+            "English Symbol": "火",
             "Meaning": "The Clinging",
             "Quality": "Bright and Radiant"
         },
         "below": {
             "Trigram Number": 5,
             "Binary Decimal": 6,
-            "Symbol": "\u2634",
-            "Chinese Symbol": "\u5dfd",
-            "Phonetic": "X\u00f9n",
+            "Symbol": "☴",
+            "Chinese Symbol": "巽",
+            "Phonetic": "Xùn",
             "English Translation": "Wind/Wood",
-            "English Symbol": "\u98ce/\u6728",
+            "English Symbol": "风/木",
             "Meaning": "The Gentle",
             "Quality": "Gentle and Penetrating"
         }
@@ -93,7 +93,7 @@
         "order8parent": "FINAL INTEGRATION; Higher Order Emergence"
     },
     "image": {
-        "description": "The choice of a retort as the object symbolizes the vessel of transformation, embodying the theme of final integration and higher-order emergence. In Tholonic terms, the retort represents the essential container where different elements\u2014awareness and intention\u2014converge to manifest new properties, akin to the alchemical process of transmutation. The style of surrealism, known for its ability to transcend ordinary reality and blend intuition with the subconscious, aligns perfectly with the Tholonic concept of awareness interacting with itself to form complex structures. Leonardo da Vinci, a polymath embodying universal love and creativity, adds layers of multi-dimensional awareness to this piece. The medium of ink, with its fluidity and permanence, symbolizes both limitation and contribution, reflecting the dual forces that define and integrate emergent structures. Hence, this combination powerfully encapsulates the essence of transformation within the Tholonic Model.",
+        "description": "The choice of a retort as the object symbolizes the vessel of transformation, embodying the theme of final integration and higher-order emergence. In Tholonic terms, the retort represents the essential container where different elements—awareness and intention—converge to manifest new properties, akin to the alchemical process of transmutation. The style of surrealism, known for its ability to transcend ordinary reality and blend intuition with the subconscious, aligns perfectly with the Tholonic concept of awareness interacting with itself to form complex structures. Leonardo da Vinci, a polymath embodying universal love and creativity, adds layers of multi-dimensional awareness to this piece. The medium of ink, with its fluidity and permanence, symbolizes both limitation and contribution, reflecting the dual forces that define and integrate emergent structures. Hence, this combination powerfully encapsulates the essence of transformation within the Tholonic Model.",
         "file": "50.png"
     },
     "energy_cycle": "descending",
@@ -103,7 +103,7 @@
             {
                 "title": "The Canvas of Fate (Man vs. Man)",
                 "theme": "Ray Bradbury",
-                "short_story": "In a future where imagination can paint realities, young Lila discovers a hidden talent within herself\u2014a stroke of whimsical colors that bring the fantastic to life. As her fingers dance on the canvas, mountains of dream and seas of hope emerge, yet her creations tremble with an unheard turbulence. When the world powers learn of her gift, they seek to harness it, coaxing Lila into creating worlds that suit their desires. Yet, the journey from potential to realization is fraught with inner turmoil and external shadows. Lila's heart races as she struggles against their relentless hunger, fearing for the purity of her visions. As she matures, Lila learns the art of balance, beckoning cosmic forces and channeling her fear into vivid expressions. Her canvas evolves beyond her control, impacting countless lives and invoking an era of awe and wonder. In time, she accepts that her creations belong not only to her but to fate itself\u2014a transcendent, magnificent tapestry of chaos, harmony, and transformation.",
+                "short_story": "In a future where imagination can paint realities, young Lila discovers a hidden talent within herself—a stroke of whimsical colors that bring the fantastic to life. As her fingers dance on the canvas, mountains of dream and seas of hope emerge, yet her creations tremble with an unheard turbulence. When the world powers learn of her gift, they seek to harness it, coaxing Lila into creating worlds that suit their desires. Yet, the journey from potential to realization is fraught with inner turmoil and external shadows. Lila's heart races as she struggles against their relentless hunger, fearing for the purity of her visions. As she matures, Lila learns the art of balance, beckoning cosmic forces and channeling her fear into vivid expressions. Her canvas evolves beyond her control, impacting countless lives and invoking an era of awe and wonder. In time, she accepts that her creations belong not only to her but to fate itself—a transcendent, magnificent tapestry of chaos, harmony, and transformation.",
                 "lines_in_context": {
                     "6": {
                         "name": "Transcendence",
@@ -140,7 +140,7 @@
             {
                 "title": "Whispers of Creation (Man vs. Nature)",
                 "theme": "Ursula K. Le Guin",
-                "short_story": "In a hidden valley where shadow and light converse, a young woman named Elara stirs from slumber, filled with the unshaped potential of morning twilight. Her hands tremble with creative yearning as she wanders through the ash groves, seeking form for the whispers in her mind. She begins to sculpt clay, coaxing life from damp earth. With every touch, the figures gain spirit, growing under her tender persistence. But the forest resists her; brambles scratch her skin, whispering of age-old boundaries that shun the new. Elara perseveres, her will forging paths through the unseen thickets of silence. Slowly, her work gains recognition, aligning the valley\u2019s heartbeats with her own. The figures she crafts dance in the dappled sunlight, echoing the land's melodies. Mastery arrives softly, like a gentle breeze. Her creations, now alive, no longer belong to her alone. They are the valley's, the world's, woven into the tapestry of song and stillness. When finally she lets them go, they scatter like seeds on the wind. Elara\u2019s touch remains, ungrasped yet present, a benefaction to all who pass through this enchanted grove of transformation.",
+                "short_story": "In a hidden valley where shadow and light converse, a young woman named Elara stirs from slumber, filled with the unshaped potential of morning twilight. Her hands tremble with creative yearning as she wanders through the ash groves, seeking form for the whispers in her mind. She begins to sculpt clay, coaxing life from damp earth. With every touch, the figures gain spirit, growing under her tender persistence. But the forest resists her; brambles scratch her skin, whispering of age-old boundaries that shun the new. Elara perseveres, her will forging paths through the unseen thickets of silence. Slowly, her work gains recognition, aligning the valley’s heartbeats with her own. The figures she crafts dance in the dappled sunlight, echoing the land's melodies. Mastery arrives softly, like a gentle breeze. Her creations, now alive, no longer belong to her alone. They are the valley's, the world's, woven into the tapestry of song and stillness. When finally she lets them go, they scatter like seeds on the wind. Elara’s touch remains, ungrasped yet present, a benefaction to all who pass through this enchanted grove of transformation.",
                 "lines_in_context": {
                     "6": {
                         "name": "Transcendence",
@@ -154,7 +154,7 @@
                     },
                     "4": {
                         "name": "Manifestation",
-                        "meaning": "Her vision harmonizes with external forces, figures in clay reflect the valley\u2019s hidden tunes.",
+                        "meaning": "Her vision harmonizes with external forces, figures in clay reflect the valley’s hidden tunes.",
                         "changing": "Ambition swells unchecked, unraveling the subtle, fragile dance her art inspires."
                     },
                     "3": {
@@ -177,7 +177,7 @@
             {
                 "title": "The Crucible of Self (Man vs. Self)",
                 "theme": "Haruki Murakami",
-                "short_story": "In a quiet town where clocks tick louder than whispers, Ren, a reclusive artist, stares at an empty canvas. The potential swirls inside him like unformed melodies, yet an invisible boundary holds him back. It's not until he relinquishes the urge to control each brushstroke that the images begin to emerge, shaped by the night's comforting shadows. His journey unravels as colors clash and form within his mind; he paints fervently, battling doubts as if they were storm clouds threatening his creativity. Challenges thwart him\u2014a spilled cup of ink, an unsettling memory\u2014but Ren perseveres, aligning each brushstroke with a newfound resilience. As dawn approaches, his work, once a nebulous idea, manifests as a complex tapestry of personal revelations. It silently pulses with life. Ren stands before his completed creation, raw in its own vitality, and feels the transcendence that comes with letting go. This canvas, no longer his alone, stirs stories in the hearts of those who view it. It lives on, an intangible extension of himself, whispering his truths in its vibrant hues. Ren smiles, aware now that true creation is not claiming control but releasing the tethered spirit within.",
+                "short_story": "In a quiet town where clocks tick louder than whispers, Ren, a reclusive artist, stares at an empty canvas. The potential swirls inside him like unformed melodies, yet an invisible boundary holds him back. It's not until he relinquishes the urge to control each brushstroke that the images begin to emerge, shaped by the night's comforting shadows. His journey unravels as colors clash and form within his mind; he paints fervently, battling doubts as if they were storm clouds threatening his creativity. Challenges thwart him—a spilled cup of ink, an unsettling memory—but Ren perseveres, aligning each brushstroke with a newfound resilience. As dawn approaches, his work, once a nebulous idea, manifests as a complex tapestry of personal revelations. It silently pulses with life. Ren stands before his completed creation, raw in its own vitality, and feels the transcendence that comes with letting go. This canvas, no longer his alone, stirs stories in the hearts of those who view it. It lives on, an intangible extension of himself, whispering his truths in its vibrant hues. Ren smiles, aware now that true creation is not claiming control but releasing the tethered spirit within.",
                 "lines_in_context": {
                     "6": {
                         "name": "Transcendence",
@@ -260,14 +260,16 @@
         "Platonic": "Behold, the harmonious union of delicate ingress and tender persuasion reveals itself through the illuminating essence of clarity and radiance.",
         "Taoist": "In the harmony of subtle weaving lies the revealing glow of true understanding.",
         "Tholonic": "In the luminous dance of existence, the gentle and the penetrating converge through the resplendent light of radiance and brilliance.",
-        "Thermodynamics": "The equilibrium of nuanced and omnipresent forces culminates in the luminous clarity of radiant energy."
+        "Thermodynamics": "The equilibrium of nuanced and omnipresent forces culminates in the luminous clarity of radiant energy.",
+        "general": "The gentle and penetrating forces merge with the bright and radiant light to reveal transformative clarity.",
+        "explanation": "The Gentle, symbolizing subtle influence and depth, combines with The Clinging, which embodies illumination and clarity. Together, they create a transformative process where gentle persuasion and radiant insight lead to profound understanding and change."
     },
     "line_type": [
-        "\u268a",
-        "\u268b",
-        "\u268a",
-        "\u268a",
-        "\u268a",
-        "\u268b"
+        "───",
+        "─ ─",
+        "───",
+        "───",
+        "───",
+        "─ ─"
     ]
 }

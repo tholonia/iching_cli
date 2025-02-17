@@ -1,6 +1,6 @@
 {
     "id": 17,
-    "hexagram_code": "\u4dd0",
+    "hexagram_code": "䷐",
     "name": "Resonance",
     "description": "The alignment of energies that creates natural harmony and following. Like thunder over a lake causing ripples to form in perfect patterns, this represents the power of authentic energy to create spontaneous order and willing participation.",
     "king_wen": {
@@ -13,22 +13,22 @@
         "above": {
             "Trigram Number": 8,
             "Binary Decimal": 4,
-            "Symbol": "\u2631",
-            "Chinese Symbol": "\u5151",
-            "Phonetic": "Du\u00ec",
+            "Symbol": "☱",
+            "Chinese Symbol": "兑",
+            "Phonetic": "Duì",
             "English Translation": "Lake/Marsh",
-            "English Symbol": "\u6cfd",
+            "English Symbol": "泽",
             "Meaning": "The Joyous",
             "Quality": "Joyful and Harmonious"
         },
         "below": {
             "Trigram Number": 4,
             "Binary Decimal": 1,
-            "Symbol": "\u2633",
-            "Chinese Symbol": "\u9707",
-            "Phonetic": "Zh\u00e8n",
+            "Symbol": "☳",
+            "Chinese Symbol": "震",
+            "Phonetic": "Zhèn",
             "English Translation": "Thunder",
-            "English Symbol": "\u96f7",
+            "English Symbol": "雷",
             "Meaning": "The Arousing",
             "Quality": "Dynamic and Exciting"
         }
@@ -44,7 +44,7 @@
         {
             "position": 6,
             "name": "Final Resonance",
-            "meaning": "The hexagram\u2019s journey culminates as the initial echoes transform into a lasting force. It symbolizes both a completion and the promise of regeneration through continuity.",
+            "meaning": "The hexagram’s journey culminates as the initial echoes transform into a lasting force. It symbolizes both a completion and the promise of regeneration through continuity.",
             "changing": "In this final stage, the lingering wisdom of yin merges with the full, creative power of yang, laying the groundwork for new cycles of resonance."
         },
         {
@@ -56,8 +56,8 @@
         {
             "position": 4,
             "name": "Amplified Echo",
-            "meaning": "Resonance becomes more distinct and forceful, echoing outwards with clarity. There is a call to refine one\u2019s purpose and harness the rising energy effectively.",
-            "changing": "The melding of yin\u2019s receptive strength with yang\u2019s dynamic vigor creates a transformative blend, urging decisive yet measured action."
+            "meaning": "Resonance becomes more distinct and forceful, echoing outwards with clarity. There is a call to refine one’s purpose and harness the rising energy effectively.",
+            "changing": "The melding of yin’s receptive strength with yang’s dynamic vigor creates a transformative blend, urging decisive yet measured action."
         },
         {
             "position": 3,
@@ -139,8 +139,8 @@
             },
             {
                 "title": "The Whispering Winds of Change (Man vs. Nature)",
-                "theme": "Gabriel Garc\u00eda M\u00e1rquez",
-                "short_story": "In a coastal village of relentless winds and crashing waves, Celia, a young farmer's daughter, discovered a mysterious capacity to listen beyond the tempest's roar. Her village, accustomed to enduring nature\u2019s fury, faced another season of unsympathetic skyward tantrums. But Celia, drawn by the subtle hums between the gusts, sensed a melody yearning to be set free. With each storm, she realized the wind spoke a language of ancient truths, whispering secrets untold. One afternoon, as the sky darkened ominously, Celia stepped into the wind's embrace, arms wide, inviting its chaotic embrace. The villagers watched, hearts tethered with doubt, expecting nothing but disaster. Yet, beneath Celia's gentle coaxing, the storm gradually yielded, softening like an old friend sharing a hidden poem. Her defiance against tradition was met with skepticism; still, she persisted, learning to weave the sounds into a comforting lullaby that brought tranquility to her people. Over time, the winds became allies, partners in a dance across the fields, breathing life into crops and dispelling the shadows of destruction. Celia had not conquered the storm but had harmonized with it, revealing a path of coexistence whispering through every rustling leaf.",
+                "theme": "Gabriel García Márquez",
+                "short_story": "In a coastal village of relentless winds and crashing waves, Celia, a young farmer's daughter, discovered a mysterious capacity to listen beyond the tempest's roar. Her village, accustomed to enduring nature’s fury, faced another season of unsympathetic skyward tantrums. But Celia, drawn by the subtle hums between the gusts, sensed a melody yearning to be set free. With each storm, she realized the wind spoke a language of ancient truths, whispering secrets untold. One afternoon, as the sky darkened ominously, Celia stepped into the wind's embrace, arms wide, inviting its chaotic embrace. The villagers watched, hearts tethered with doubt, expecting nothing but disaster. Yet, beneath Celia's gentle coaxing, the storm gradually yielded, softening like an old friend sharing a hidden poem. Her defiance against tradition was met with skepticism; still, she persisted, learning to weave the sounds into a comforting lullaby that brought tranquility to her people. Over time, the winds became allies, partners in a dance across the fields, breathing life into crops and dispelling the shadows of destruction. Celia had not conquered the storm but had harmonized with it, revealing a path of coexistence whispering through every rustling leaf.",
                 "lines_in_context": {
                     "6": {
                         "name": "Harmony with Nature",
@@ -177,7 +177,7 @@
             {
                 "title": "The Celestial Sculptor's Dilemma (Man vs. Self)",
                 "theme": "Virginia Woolf",
-                "short_story": "In a world where thoughts shaped reality, a solitary artist named Amara found herself standing at the precipice of creation. Her mind swirled with nebulous visions, each competing for form. She felt them urge her onward, yet hesitation gripped her\u2014how to begin such an immense journey? Tentative at first, she molded the ethereal clay into rudimentary shapes, feeling the rhythms guide her hands. As her sculpture grew, so too did the awareness of an opposing force, a shadow that sought to undo her work. This conflict, instead of deterring her, propelled her into deeper understanding. The obstacles illuminated the essence of her creation, revealing hidden patterns waiting to be unlocked. Fine-tuning these revelations, Amara honed her craft, aligning her vision with the laws of the universe. In her clarity, she found a profound mastery, where each deliberate stroke echoed with purpose. Yet, as the sculpture neared completion, Amara realized it was larger than her own aspirations\u2014an entity yearning to transcend her. She faced the ultimate challenge: to release her creation into the cosmos. In doing so, she absorbed a vital truth\u2014that only by letting go could the art reverberate across time, imbuing the universe with its eternal grace.",
+                "short_story": "In a world where thoughts shaped reality, a solitary artist named Amara found herself standing at the precipice of creation. Her mind swirled with nebulous visions, each competing for form. She felt them urge her onward, yet hesitation gripped her—how to begin such an immense journey? Tentative at first, she molded the ethereal clay into rudimentary shapes, feeling the rhythms guide her hands. As her sculpture grew, so too did the awareness of an opposing force, a shadow that sought to undo her work. This conflict, instead of deterring her, propelled her into deeper understanding. The obstacles illuminated the essence of her creation, revealing hidden patterns waiting to be unlocked. Fine-tuning these revelations, Amara honed her craft, aligning her vision with the laws of the universe. In her clarity, she found a profound mastery, where each deliberate stroke echoed with purpose. Yet, as the sculpture neared completion, Amara realized it was larger than her own aspirations—an entity yearning to transcend her. She faced the ultimate challenge: to release her creation into the cosmos. In doing so, she absorbed a vital truth—that only by letting go could the art reverberate across time, imbuing the universe with its eternal grace.",
                 "lines_in_context": {
                     "6": {
                         "name": "Transcendence",
@@ -259,14 +259,16 @@
         "Platonic": "In the realm of Forms, the exuberant essence of Thunder's dynamic vigor finds its true expression within the tranquil harmony of the Lake, thus weaving a splendid tapestry of exhilaration and bliss.",
         "Taoist": "When Thunder's vigorous pulse meets the Lake's tranquil delight, life dances in harmonious accord.",
         "Tholonic": "In the realm of Joyful Concord, the Vibrant Energy unfurls with elegance, revealing its splendor through the art of Harmonious Expression.",
-        "Thermodynamics": "The fusion of Thunder's kinetic energy with the tranquil entropy of the Lake creates a thermodynamic symphony of exhilarating equilibrium and delight."
+        "Thermodynamics": "The fusion of Thunder's kinetic energy with the tranquil entropy of the Lake creates a thermodynamic symphony of exhilarating equilibrium and delight.",
+        "general": "The dynamic energy of excitement meets the joyful harmony of delight, creating a vibrant dance of life.",
+        "explanation": "The lower trigram 'The Arousing' symbolizes dynamic and exciting energy, igniting movement and change. The upper trigram 'The Joyous' embodies joy and harmony, bringing balance and pleasure. Together, they blend excitement with joy, forming a lively and harmonious interaction that reflects the essence of vibrant life."
     },
     "line_type": [
-        "\u268b",
-        "\u268a",
-        "\u268a",
-        "\u268b",
-        "\u268b",
-        "\u268a"
+        "─ ─",
+        "───",
+        "───",
+        "─ ─",
+        "─ ─",
+        "───"
     ]
 }

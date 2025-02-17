@@ -1,6 +1,6 @@
 {
     "id": 11,
-    "hexagram_code": "\u4dca",
+    "hexagram_code": "䷊",
     "name": "Vitality",
     "description": "The harmonious flow of energy between heaven and earth. Like spring emerging, this represents the natural flourishing that occurs when creative force and receptive conditions align perfectly.",
     "king_wen": {
@@ -13,22 +13,22 @@
         "above": {
             "Trigram Number": 2,
             "Binary Decimal": 0,
-            "Symbol": "\u2637",
-            "Chinese Symbol": "\u5764",
-            "Phonetic": "K\u016bn",
+            "Symbol": "☷",
+            "Chinese Symbol": "坤",
+            "Phonetic": "Kūn",
             "English Translation": "Earth",
-            "English Symbol": "\u5730",
+            "English Symbol": "地",
             "Meaning": "The Receptive",
             "Quality": "Receptive and Nurturing"
         },
         "below": {
             "Trigram Number": 1,
             "Binary Decimal": 7,
-            "Symbol": "\u2630",
-            "Chinese Symbol": "\u4e7e",
-            "Phonetic": "Qi\u00e1n",
+            "Symbol": "☰",
+            "Chinese Symbol": "乾",
+            "Phonetic": "Qián",
             "English Translation": "Heaven",
-            "English Symbol": "\u5929",
+            "English Symbol": "天",
             "Meaning": "The Creative",
             "Quality": "Strong and Creative"
         }
@@ -50,7 +50,7 @@
         {
             "position": 5,
             "name": "The Zenith of Vitality",
-            "meaning": "At its peak, this line embodies the full manifestation of vibrant force. It is the acme of life\u2019s energy where clarity, purpose, and confidence converge, commanding influence.",
+            "meaning": "At its peak, this line embodies the full manifestation of vibrant force. It is the acme of life’s energy where clarity, purpose, and confidence converge, commanding influence.",
             "changing": "An equilibrium of inner intuition and outward action is reached; the receptive yin fully transforms into a commanding yang, displaying the maturity of revitalized strength."
         },
         {
@@ -68,7 +68,7 @@
         {
             "position": 2,
             "name": "The Pulse of Renewal",
-            "meaning": "Here, vitality gains momentum as life\u2019s rhythm becomes more discernible. This line reflects the establishment of a steady, internal pulse that reaffirms the presence of transformative energy.",
+            "meaning": "Here, vitality gains momentum as life’s rhythm becomes more discernible. This line reflects the establishment of a steady, internal pulse that reaffirms the presence of transformative energy.",
             "changing": "The initial spark of yin energy consolidates, allowing a harmonious transition into a measured, proactive yang dynamic that sustains growth."
         },
         {
@@ -103,7 +103,7 @@
             {
                 "title": "The Sculptor's Vision (Man vs. Man)",
                 "theme": "Herman Melville",
-                "short_story": "In the bustling heart of a metropolis, Elias the sculptor sat amidst blocks of marble, envisioning monuments not yet born. Despite the grandeur of his visions, his hands felt paralyzed by the weight of his own ambition. (Emergence) He began chiseling away at the marble, each stroke revealing form where chaos once reigned. Yet, with every strike, walls of doubt emerged, questioning his path. (Formation) Critics and rivals circled like vultures, their words cutting sharper than his tools. He saw the foundation of his work quaking under their weight. (Conflict) Undeterred, Elias carved with renewed intensity, aligning his vision with the world around him. His sculptures began to reflect reality's beauty, gaining momentum like sails catching wind. (Manifestation) At the height of his craft, his studio was a sanctuary of art, each piece a testament to his mastery. There, Elias commanded respect and admiration from all who beheld his work. (Mastery) Yet, there came a moment when the sculptures seemed to finish themselves, their existence extending beyond their creator. Reluctantly, Elias let them go, allowing the world to see them as they truly were\u2014free. (Transcendence)",
+                "short_story": "In the bustling heart of a metropolis, Elias the sculptor sat amidst blocks of marble, envisioning monuments not yet born. Despite the grandeur of his visions, his hands felt paralyzed by the weight of his own ambition. (Emergence) He began chiseling away at the marble, each stroke revealing form where chaos once reigned. Yet, with every strike, walls of doubt emerged, questioning his path. (Formation) Critics and rivals circled like vultures, their words cutting sharper than his tools. He saw the foundation of his work quaking under their weight. (Conflict) Undeterred, Elias carved with renewed intensity, aligning his vision with the world around him. His sculptures began to reflect reality's beauty, gaining momentum like sails catching wind. (Manifestation) At the height of his craft, his studio was a sanctuary of art, each piece a testament to his mastery. There, Elias commanded respect and admiration from all who beheld his work. (Mastery) Yet, there came a moment when the sculptures seemed to finish themselves, their existence extending beyond their creator. Reluctantly, Elias let them go, allowing the world to see them as they truly were—free. (Transcendence)",
                 "lines_in_context": {
                     "6": {
                         "name": "Transcendence",
@@ -139,7 +139,7 @@
             },
             {
                 "title": "Song of the River (Man vs. Nature)",
-                "theme": "Gabriel Garc\u00eda M\u00e1rquez",
+                "theme": "Gabriel García Márquez",
                 "short_story": "In the heart of a dense rainforest, a small river whispered its desire to join the majestic sea it had only heard about in the tales of the jungle. It began as a mere trickle, filled with dreams and the song of endless possibilities. Its journey, however, was impeded by dense foliage, stones, and the roots of ancient trees that wove intricate patterns across its path. Graciously, the river learned to navigate these obstacles, shaping its course with gentle perseverance, slowly carving its own path. Yet, whilst making progress, the river faced the harsh, unforgiving sun that threatened to evaporate its essence. It resisted by thickening its banks and deepening its flow, aligning with the shade of accommodating canopies. As it gained strength, its voice grew louder, harmonizing with the melodies of birds and the rustling leaves. It became a lifeline, nurturing the vivid flora and curious creatures reliant on its presence. Finally, as the river approached the end of its journey, it realized it had given life on its way. Its waters mingled with the vastness of the sea, realizing that its song was now part of a greater symphony, free yet eternal.",
                 "lines_in_context": {
                     "6": {
@@ -177,7 +177,7 @@
             {
                 "title": "The Inner Garden (Man vs. Self)",
                 "theme": "Haruki Murakami",
-                "short_story": "In the heart of a bustling city, Yuki felt the gentle whisper of an idea, like a seed waiting to find soil. Alone in her small apartment, she sensed the quiet chaos of her mind\u2014an expanse of uncharted territory. (Emergence) Determined to give form to her thoughts, Yuki began cultivating her idea, drawing sketches on paper, but found herself hindered by self-doubt and confusion. (Formation) As her vision grew clearer, so did the voices of doubt. Friends and family questioned her passion, urging caution in the face of risk, and Yuki found herself on the brink of abandoning her dream. (Conflict) Despite these challenges, Yuki persisted, bringing her vision into the light of acceptance. Her art, once concealed, found its place in a gallery, shimmering with a newfound harmony. (Manifestation) At this zenith, Yuki basked in the warmth of recognition, her work inspiring others. Yet, she remained humble, knowing arrogance could erode her path. (Mastery) Finally, Yuki realized her creation no longer belonged to her\u2014it had its own life, transcending personal desire, echoing in the hearts of those who encountered it. She let go, free from the bonds of ownership, allowing her art to shape the world anew. (Transcendence)",
+                "short_story": "In the heart of a bustling city, Yuki felt the gentle whisper of an idea, like a seed waiting to find soil. Alone in her small apartment, she sensed the quiet chaos of her mind—an expanse of uncharted territory. (Emergence) Determined to give form to her thoughts, Yuki began cultivating her idea, drawing sketches on paper, but found herself hindered by self-doubt and confusion. (Formation) As her vision grew clearer, so did the voices of doubt. Friends and family questioned her passion, urging caution in the face of risk, and Yuki found herself on the brink of abandoning her dream. (Conflict) Despite these challenges, Yuki persisted, bringing her vision into the light of acceptance. Her art, once concealed, found its place in a gallery, shimmering with a newfound harmony. (Manifestation) At this zenith, Yuki basked in the warmth of recognition, her work inspiring others. Yet, she remained humble, knowing arrogance could erode her path. (Mastery) Finally, Yuki realized her creation no longer belonged to her—it had its own life, transcending personal desire, echoing in the hearts of those who encountered it. She let go, free from the bonds of ownership, allowing her art to shape the world anew. (Transcendence)",
                 "lines_in_context": {
                     "6": {
                         "name": "Transcendence",
@@ -258,15 +258,17 @@
         "Jungian": "The creative essence seeks manifestation through the nurturing embrace of receptive energy, fostering a dynamic equilibrium and a resplendent vitality.",
         "Platonic": "The dance of creation, ever in motion, finds its fullest expression in the harmonious union with the receptive embrace that nurtures it.",
         "Taoist": "The dance of the creative force reaches its fullness in the gentle embrace of nurturing acceptance, bringing forth a seamless and harmonious unfolding.",
-        "Tholonic": "The fruits of creation and boundless energy find their expression through a compassionate and yielding vessel.\" \u2013 Tholonic",
-        "Thermodynamics": "The entropic liberation of creative energy ensues through the optimal conditions provided by a nurturing thermodynamic environment."
+        "Tholonic": "The fruits of creation and boundless energy find their expression through a compassionate and yielding vessel.\" – Tholonic",
+        "Thermodynamics": "The entropic liberation of creative energy ensues through the optimal conditions provided by a nurturing thermodynamic environment.",
+        "general": "The union of creative strength and nurturing receptivity fosters a harmonious and vital balance.",
+        "explanation": "In 'The Creative,' the strong and dynamic energy seeks expression, while 'The Receptive' provides a supportive and nurturing environment. Together, they create a balance where creativity can flourish, much like a seed growing in fertile soil. This synergy mirrors the Jungian, Platonic, Taoist, Tholonic, and thermodynamic views, emphasizing the importance of harmony between active and passive forces to achieve vitality and growth."
     },
     "line_type": [
-        "\u268b",
-        "\u268b",
-        "\u268b",
-        "\u268a",
-        "\u268a",
-        "\u268a"
+        "─ ─",
+        "─ ─",
+        "─ ─",
+        "───",
+        "───",
+        "───"
     ]
 }

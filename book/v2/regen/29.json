@@ -1,6 +1,6 @@
 {
     "id": 29,
-    "hexagram_code": "\u4ddc",
+    "hexagram_code": "䷜",
     "name": "Mastering Flow",
     "description": "The deep understanding and skilled navigation of cyclical patterns. Like water finding its inevitable path, this hexagram represents gaining mastery through repeatedly engaging with challenge, developing competence through practice and persistence.",
     "king_wen": {
@@ -13,20 +13,20 @@
         "above": {
             "Trigram Number": 6,
             "Binary Decimal": 2,
-            "Symbol": "\u2635",
-            "Chinese Symbol": "\u574e",
-            "Phonetic": "K\u01cen",
+            "Symbol": "☵",
+            "Chinese Symbol": "坎",
+            "Phonetic": "Kǎn",
             "English Translation": "Water",
-            "English Symbol": "\u6c34",
+            "English Symbol": "水",
             "Meaning": "The Abysmal",
             "Quality": "Deep and Mysterious"
         },
         "below": {
             "Trigram Number": 6,
             "Binary Decimal": 2,
-            "Symbol": "\u2635",
-            "Chinese Symbol": "\u6c34",
-            "Phonetic": "K\u01cen",
+            "Symbol": "☵",
+            "Chinese Symbol": "水",
+            "Phonetic": "Kǎn",
             "English Translation": "The Abysmal",
             "English Symbol": "Water",
             "Meaning": "Deep and Mysterious",
@@ -93,7 +93,7 @@
         "order8parent": "CHALLENGES; Testing & Strengthening"
     },
     "image": {
-        "description": "In the context of the hexagram's theme of challenges and mastering flow, the river symbolizes the relentless and transformative force of nature, representing the dynamic negotiation and merging within the tholonic framework. Hokusai, a master of capturing nature's raw power, employs Impressionism to convey the ephemeral and fluid essence of the river, aligning with the Tholonic Model's emphasis on awareness manifesting in ever-evolving forms. The use of ink reflects both the strength and delicacy inherent in navigating life's depths, mirroring the Thologram\u2019s balance of limitation and contribution. Thus, the chosen elements coalesce to illustrate the journey of facing and overcoming challenges, embodying resilience, adaptability, and the continuous interplay of awareness and intention as articulated in Tholonic principles.",
+        "description": "In the context of the hexagram's theme of challenges and mastering flow, the river symbolizes the relentless and transformative force of nature, representing the dynamic negotiation and merging within the tholonic framework. Hokusai, a master of capturing nature's raw power, employs Impressionism to convey the ephemeral and fluid essence of the river, aligning with the Tholonic Model's emphasis on awareness manifesting in ever-evolving forms. The use of ink reflects both the strength and delicacy inherent in navigating life's depths, mirroring the Thologram’s balance of limitation and contribution. Thus, the chosen elements coalesce to illustrate the journey of facing and overcoming challenges, embodying resilience, adaptability, and the continuous interplay of awareness and intention as articulated in Tholonic principles.",
         "file": "29.png"
     },
     "energy_cycle": "ascending",
@@ -102,17 +102,17 @@
         "entries": [
             {
                 "title": "The Sculptor's Pulse (Man vs. Man)",
-                "theme": "Gabriel Garc\u00eda M\u00e1rquez",
-                "short_story": "In a small town soaked in the magical realism of its own making, lived Ram\u00f3n, a sculptor with hands blessed by the spirits of the earth. He felt the pulse of creation within him, unformed yet powerful, eager to break free into the world. Yet, the world was not ready for the beauty he envisioned; it was shy, afraid of the unrestrained vigor of Ram\u00f3n's dreams.\n\nThe clay resisted at first, refusing to yield to his vision. Despite the town's whispers of madness, Ram\u00f3n persisted, shaping his potential, one defiant stroke at a time. As his hands began to carve hope from resistance, the clay sang with him, and the townsfolk saw their fears refashioned into something beautiful yet strange.\n\nBut doubt loomed larger, opposing forces trickled through the cracks, threatening the harmony of his creation. Ram\u00f3n fought on, molding imperfection into art. Through this battle, his vision took form, aligned with reality itself, reflecting the world's untouched beauty. Fear melted into awe.\n\nAt last, mastery sprouted, and Ram\u00f3n held his creation aloft, a beacon of his struggles turned into art. He stood, not as the creator, but as a conduit for the dance of clay and spirit. When at last he let go, it transcended into the town's heart, no longer his but a living pulse that belonged to all.",
+                "theme": "Gabriel García Márquez",
+                "short_story": "In a small town soaked in the magical realism of its own making, lived Ramón, a sculptor with hands blessed by the spirits of the earth. He felt the pulse of creation within him, unformed yet powerful, eager to break free into the world. Yet, the world was not ready for the beauty he envisioned; it was shy, afraid of the unrestrained vigor of Ramón's dreams.\n\nThe clay resisted at first, refusing to yield to his vision. Despite the town's whispers of madness, Ramón persisted, shaping his potential, one defiant stroke at a time. As his hands began to carve hope from resistance, the clay sang with him, and the townsfolk saw their fears refashioned into something beautiful yet strange.\n\nBut doubt loomed larger, opposing forces trickled through the cracks, threatening the harmony of his creation. Ramón fought on, molding imperfection into art. Through this battle, his vision took form, aligned with reality itself, reflecting the world's untouched beauty. Fear melted into awe.\n\nAt last, mastery sprouted, and Ramón held his creation aloft, a beacon of his struggles turned into art. He stood, not as the creator, but as a conduit for the dance of clay and spirit. When at last he let go, it transcended into the town's heart, no longer his but a living pulse that belonged to all.",
                 "lines_in_context": {
                     "6": {
                         "name": "Transcendence",
-                        "meaning": "Ram\u00f3n's creation, woven with struggle and beauty, transcends into the essence of the town, no longer confined to his hands but living as part of the whole.",
-                        "changing": "If Yang changes to Yin, Ram\u00f3n clings to his creation, stunting its growth and preventing the town from embracing it as their own."
+                        "meaning": "Ramón's creation, woven with struggle and beauty, transcends into the essence of the town, no longer confined to his hands but living as part of the whole.",
+                        "changing": "If Yang changes to Yin, Ramón clings to his creation, stunting its growth and preventing the town from embracing it as their own."
                     },
                     "5": {
                         "name": "Mastery",
-                        "meaning": "Ram\u00f3n stands at the peak of his creative journey, commanding respect as he brings forth the beauty of form, yet mindful of the temptation of arrogance.",
+                        "meaning": "Ramón stands at the peak of his creative journey, commanding respect as he brings forth the beauty of form, yet mindful of the temptation of arrogance.",
                         "changing": "If Yang changes to Yin, he risks falling into hubris, or a misjudgment that could crack his creation."
                     },
                     "4": {
@@ -122,17 +122,17 @@
                     },
                     "3": {
                         "name": "Conflict",
-                        "meaning": "External forces threaten Ram\u00f3n's vision, challenging the core of his creation and demanding resilience.",
+                        "meaning": "External forces threaten Ramón's vision, challenging the core of his creation and demanding resilience.",
                         "changing": "If Yang changes to Yin, exhaustion could derail his journey, halting the dance before its climax."
                     },
                     "2": {
                         "name": "Formation",
                         "meaning": "He navigates the first barriers, stubborn clay caving to his relentless pursuit of the sculpted form.",
-                        "changing": "If Yin changes to Yang, Ram\u00f3n's impatience could disrupt the natural progression, jeopardizing coherence."
+                        "changing": "If Yin changes to Yang, Ramón's impatience could disrupt the natural progression, jeopardizing coherence."
                     },
                     "1": {
                         "name": "Emergence",
-                        "meaning": "Ram\u00f3n feels the stirrings of creative potential, yearning to form raw energy into tangible beauty.",
+                        "meaning": "Ramón feels the stirrings of creative potential, yearning to form raw energy into tangible beauty.",
                         "changing": "If Yang changes to Yin, hesitation may block his flow, delaying the release of his creative impulse."
                     }
                 }
@@ -140,7 +140,7 @@
             {
                 "title": "The Song of the Mountain (Man vs. Nature)",
                 "theme": "Haruki Murakami",
-                "short_story": "In a remote village nestled at the foot of a vast, whispering mountain, lived a child named Kaito. From an early age, he was captivated by the mountain's serene, yet mysterious nature. Though its towering presence intimidated him, it also stirred a dormant force within his heart. Kaito would often sit quietly, listening to the wind weave tales through the rocks, his mind brimming with amorphous possibilities.\n\nAs years passed, Kaito began to shape his raw musings into melodic notes, playing them on an old ocarina his grandmother had given him. But forging music felt like wrestling chaotic winds into harmony, demanding focus and patience. With each discordant note, Kaito encountered his own limitations, every crevice of doubt an echo of the mountain's challenge.\n\nOne stormy night, as winds howled fiercely, Kaito realized the music was not to be conquered but embraced. He attuned himself to the rhythm of the tempest, allowing it to guide his fingers. The chaotic notes coalesced into a beautiful symphony that spoke of the mountain\u2019s grandeur.\n\nIn that moment, Kaito transcended, the melody no longer his but a gift to the world, resonating with the pulsating heart of the mountain itself.",
+                "short_story": "In a remote village nestled at the foot of a vast, whispering mountain, lived a child named Kaito. From an early age, he was captivated by the mountain's serene, yet mysterious nature. Though its towering presence intimidated him, it also stirred a dormant force within his heart. Kaito would often sit quietly, listening to the wind weave tales through the rocks, his mind brimming with amorphous possibilities.\n\nAs years passed, Kaito began to shape his raw musings into melodic notes, playing them on an old ocarina his grandmother had given him. But forging music felt like wrestling chaotic winds into harmony, demanding focus and patience. With each discordant note, Kaito encountered his own limitations, every crevice of doubt an echo of the mountain's challenge.\n\nOne stormy night, as winds howled fiercely, Kaito realized the music was not to be conquered but embraced. He attuned himself to the rhythm of the tempest, allowing it to guide his fingers. The chaotic notes coalesced into a beautiful symphony that spoke of the mountain’s grandeur.\n\nIn that moment, Kaito transcended, the melody no longer his but a gift to the world, resonating with the pulsating heart of the mountain itself.",
                 "lines_in_context": {
                     "6": {
                         "name": "Transcendence",
@@ -258,14 +258,16 @@
         "Platonic": "The deep mystery is unveiled through the shifting and cryptic nature of Water, embodying the very essence of the fluidity of truth.",
         "Taoist": "In the flowing water, the deep mystery of the Tao is revealed.",
         "Tholonic": "In the Tholonic essence, Water reveals itself as an unfathomable tapestry of profound enigma.",
-        "Thermodynamics": "The emergence of Water presents itself as an inscrutable and profound entropic enigma."
+        "Thermodynamics": "The emergence of Water presents itself as an inscrutable and profound entropic enigma.",
+        "general": "The profound mystery of existence is revealed through the fluid and enigmatic nature of water's flow.",
+        "explanation": "The lower trigram, representing Water, symbolizes the fluidity and adaptability inherent in life's mysteries. The upper trigram, symbolizing the Deep and Mysterious, enhances this by adding depth and complexity. Together, they illustrate how the essence of water embodies the flow of truth and the unveiling of profound mysteries, as it navigates through the challenges and changes of existence, reflecting the interconnectedness of all things."
     },
     "line_type": [
-        "\u268b",
-        "\u268a",
-        "\u268b",
-        "\u268b",
-        "\u268a",
-        "\u268b"
+        "─ ─",
+        "───",
+        "─ ─",
+        "─ ─",
+        "───",
+        "─ ─"
     ]
 }

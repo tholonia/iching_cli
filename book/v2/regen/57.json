@@ -1,6 +1,6 @@
 {
     "id": 57,
-    "hexagram_code": "\u4df8",
+    "hexagram_code": "䷸",
     "name": "Penetration",
     "description": "The gentle but persistent influence that creates lasting change. Like wind shaping mountains or water wearing through stone, this represents the power of subtle, continuous action to transform even the most resistant situations.",
     "king_wen": {
@@ -13,22 +13,22 @@
         "above": {
             "Trigram Number": 5,
             "Binary Decimal": 6,
-            "Symbol": "\u2634",
-            "Chinese Symbol": "\u5dfd",
-            "Phonetic": "X\u00f9n",
+            "Symbol": "☴",
+            "Chinese Symbol": "巽",
+            "Phonetic": "Xùn",
             "English Translation": "Wind/Wood",
-            "English Symbol": "\u98ce/\u6728",
+            "English Symbol": "风/木",
             "Meaning": "The Gentle",
             "Quality": "Gentle and Penetrating"
         },
         "below": {
             "Trigram Number": 5,
             "Binary Decimal": 6,
-            "Symbol": "\u2634",
-            "Chinese Symbol": "\u5dfd",
-            "Phonetic": "X\u00f9n",
+            "Symbol": "☴",
+            "Chinese Symbol": "巽",
+            "Phonetic": "Xùn",
             "English Translation": "Wind/Wood",
-            "English Symbol": "\u98ce/\u6728",
+            "English Symbol": "风/木",
             "Meaning": "The Gentle",
             "Quality": "Gentle and Penetrating"
         }
@@ -103,12 +103,12 @@
             {
                 "title": "Whispers in the Dark (Man vs. Man)",
                 "theme": "Haruki Murakami",
-                "short_story": "In a city woven with neon lights and shadows, Kenji felt the echoes of unshaped ideas stirring within him. A writer caught in a mundane routine, each night he scribbled fragments on napkins in dimly lit bars. It was as if his soul were whispering amidst the noise, urging him to shape his raw potential into stories. But when the tremor of inspiration struck, doubt clouded his vision, stalling his creative impulse like a boat snagged in fog. Determined, he secluded himself at a coastal inn, letting the ocean\u2019s rhythm shape his thoughts. Words began to flow, gentle yet persistent, like ink over paper. His stories formed, although the currents of the outside world threatened to pull him off course, challenging his resolve to create. As he persevered, his narratives took root, aligning with the deeper currents of his consciousness. Kenji found mastery in this alignment, his stories gaining clarity and strength, illuminating hidden corners of human experience. The tales transcended their creator, walking into the world as entities of their own. Kenji, now a vessel rather than a keeper, realized that in creativity, ultimate freedom lay in letting go.",
+                "short_story": "In a city woven with neon lights and shadows, Kenji felt the echoes of unshaped ideas stirring within him. A writer caught in a mundane routine, each night he scribbled fragments on napkins in dimly lit bars. It was as if his soul were whispering amidst the noise, urging him to shape his raw potential into stories. But when the tremor of inspiration struck, doubt clouded his vision, stalling his creative impulse like a boat snagged in fog. Determined, he secluded himself at a coastal inn, letting the ocean’s rhythm shape his thoughts. Words began to flow, gentle yet persistent, like ink over paper. His stories formed, although the currents of the outside world threatened to pull him off course, challenging his resolve to create. As he persevered, his narratives took root, aligning with the deeper currents of his consciousness. Kenji found mastery in this alignment, his stories gaining clarity and strength, illuminating hidden corners of human experience. The tales transcended their creator, walking into the world as entities of their own. Kenji, now a vessel rather than a keeper, realized that in creativity, ultimate freedom lay in letting go.",
                 "lines_in_context": {
                     "6": {
                         "name": "Transcendent Creation",
                         "meaning": "Kenji's creations become autonomous, impacting the world beyond the author's intent, representing the completion and independence of creative endeavors.",
-                        "changing": "If yang changes to yin, Kenji\u2019s tendency to cling to his stories prevents their full realization, hindering their influence and growth."
+                        "changing": "If yang changes to yin, Kenji’s tendency to cling to his stories prevents their full realization, hindering their influence and growth."
                     },
                     "5": {
                         "name": "Clarity and Mastery",
@@ -140,7 +140,7 @@
             {
                 "title": "The Sculptor's Revelation (Man vs. Nature)",
                 "theme": "Gabriel Garcia Marquez",
-                "short_story": "In the remote village of Piedra Blanca, an enigmatic sculptor named Sebastian found himself surrounded by vast quarries, each stone a vessel of unformed dreams. Despite his talent, he seemed lost, staring at the silent blocks without a hammer. His heart brimmed with the potential to breathe life into these lifeless boulders, yet uncertainty tethered him to inaction. As weeks passed, he bravely struck his chisel upon the rock, forming the outline of a figure. The raw stone slowly revealed a hint of humanity, but Sebastian faced mockery from the villagers who saw his work as meaningless toil. Undeterred, he captured their scorn and turned frustration into fervor, refining each curve with unwavering patience. His persistence transformed skeptics into spectators. Guided by whispers of the rustling wind, he shaped his vision to the will of the stone. As months turned, the sculpture stood complete\u2014an eternal dancer poised in mid-flight, testimony to the tenacity of one man's heart. The villagers gazed in awe, no longer seeing Sebastian's mark but a tangible wonder transcending the artist himself. In letting go, he became the legend of Piedra Blanca, and the dancer, though motionless, danced through the hearts of all who saw her.",
+                "short_story": "In the remote village of Piedra Blanca, an enigmatic sculptor named Sebastian found himself surrounded by vast quarries, each stone a vessel of unformed dreams. Despite his talent, he seemed lost, staring at the silent blocks without a hammer. His heart brimmed with the potential to breathe life into these lifeless boulders, yet uncertainty tethered him to inaction. As weeks passed, he bravely struck his chisel upon the rock, forming the outline of a figure. The raw stone slowly revealed a hint of humanity, but Sebastian faced mockery from the villagers who saw his work as meaningless toil. Undeterred, he captured their scorn and turned frustration into fervor, refining each curve with unwavering patience. His persistence transformed skeptics into spectators. Guided by whispers of the rustling wind, he shaped his vision to the will of the stone. As months turned, the sculpture stood complete—an eternal dancer poised in mid-flight, testimony to the tenacity of one man's heart. The villagers gazed in awe, no longer seeing Sebastian's mark but a tangible wonder transcending the artist himself. In letting go, he became the legend of Piedra Blanca, and the dancer, though motionless, danced through the hearts of all who saw her.",
                 "lines_in_context": {
                     "6": {
                         "name": "Transcendence",
@@ -177,7 +177,7 @@
             {
                 "title": "The Sculptor's Silent Symphony (Man vs. Self)",
                 "theme": "Kazuo Ishiguro",
-                "short_story": "In the quiet solitude of his studio, Marcus, a sculptor in a world where art was whispered of but rarely seen, felt an inexplicable pull toward a block of uncut marble. Day after day, the marble loomed, untouched yet teeming with the promise of a masterpiece. His days began to shape around this silent symphony of potential. Doubts gnawed at his resolve, unshaped visions danced beyond clarity. One sunrise, emboldened, Marcus lifted his chisel, daring to carve out the whispers that serenaded his soul. The stone began to echo his heart's unspoken desires, lines shaping into form amidst the rhythm of hammer against stone. Yet, as his vision took shape, the world outside stirred with the noise of criticism, challenging the purity of his intent. Steeling himself against doubt, Marcus let each strike reaffirm his commitment to the creative journey. As time breathed life into stone, he found his hand guided not by force, but a synchrony with the essence of the marble. The sculpture emerged\u2014a figure both haunting and graceful, transcending Marcus's own expectations. In letting it unveil itself, Marcus recognized his creation lived beyond him, a testament to the quiet power of realized potential.",
+                "short_story": "In the quiet solitude of his studio, Marcus, a sculptor in a world where art was whispered of but rarely seen, felt an inexplicable pull toward a block of uncut marble. Day after day, the marble loomed, untouched yet teeming with the promise of a masterpiece. His days began to shape around this silent symphony of potential. Doubts gnawed at his resolve, unshaped visions danced beyond clarity. One sunrise, emboldened, Marcus lifted his chisel, daring to carve out the whispers that serenaded his soul. The stone began to echo his heart's unspoken desires, lines shaping into form amidst the rhythm of hammer against stone. Yet, as his vision took shape, the world outside stirred with the noise of criticism, challenging the purity of his intent. Steeling himself against doubt, Marcus let each strike reaffirm his commitment to the creative journey. As time breathed life into stone, he found his hand guided not by force, but a synchrony with the essence of the marble. The sculpture emerged—a figure both haunting and graceful, transcending Marcus's own expectations. In letting it unveil itself, Marcus recognized his creation lived beyond him, a testament to the quiet power of realized potential.",
                 "lines_in_context": {
                     "6": {
                         "name": "Transcendence Unleashed",
@@ -223,32 +223,32 @@
         "lines_in_history": {
             "6": {
                 "name": "Completion and Refinement",
-                "meaning": "Line 6 (Yin \u268b) signifies the completion of a cycle, surrender to change, or the refinement of experiences. It represents closure and acceptance. If Yang replaces Yin, resistance to closure or clinging to power might be observed.",
+                "meaning": "Line 6 (Yin ⚋) signifies the completion of a cycle, surrender to change, or the refinement of experiences. It represents closure and acceptance. If Yang replaces Yin, resistance to closure or clinging to power might be observed.",
                 "changing": "Resistance to closure or an unwillingness to let go, as indicated by the change from Yin to Yang, can hinder the process of completion and refinement, potentially leading to prolonged states of transition."
             },
             "5": {
                 "name": "Full Engagement and Leadership",
-                "meaning": "Line 5 (Yang \u268a) embodies full engagement, leadership, and the actualization of potential. It represents authority and decisive action. If Yin replaces Yang, indecision or incomplete realization of the vision may occur.",
+                "meaning": "Line 5 (Yang ⚊) embodies full engagement, leadership, and the actualization of potential. It represents authority and decisive action. If Yin replaces Yang, indecision or incomplete realization of the vision may occur.",
                 "changing": "The shift from Yang to Yin in this line may introduce elements of doubt, indecision, or a lack of full realization, impacting the leadership qualities and the manifestation of potential."
             },
             "4": {
                 "name": "Alignment with External Forces",
-                "meaning": "Line 4 (Yin \u268b) prepares for action by aligning with external influences. It signifies the readiness to engage with external circumstances. If Yang replaces Yin, premature external assertion might be made before stability is established.",
+                "meaning": "Line 4 (Yin ⚋) prepares for action by aligning with external influences. It signifies the readiness to engage with external circumstances. If Yang replaces Yin, premature external assertion might be made before stability is established.",
                 "changing": "Premature external assertion due to the shift from Yin to Yang can result in actions taken out of sync with the environment, leading to potential challenges in establishment."
             },
             "3": {
                 "name": "Transition to External Action",
-                "meaning": "Line 3 (Yang \u268a) marks the culmination of the inner process and the shift towards external action. It signifies readiness for outward expression. If Yin replaces Yang, hesitation in externalizing realizations may occur.",
+                "meaning": "Line 3 (Yang ⚊) marks the culmination of the inner process and the shift towards external action. It signifies readiness for outward expression. If Yin replaces Yang, hesitation in externalizing realizations may occur.",
                 "changing": "As the line transitions from Yang to Yin, there may be a delay in manifesting internal realizations into action, potentially leading to stagnation or missed opportunities."
             },
             "2": {
                 "name": "Alignment and Formation",
-                "meaning": "Line 2 (Yin \u268b) represents support and structuring of potential. It signifies alignment and integration. If Yang replaces Yin, premature action or struggle to integrate may arise.",
+                "meaning": "Line 2 (Yin ⚋) represents support and structuring of potential. It signifies alignment and integration. If Yang replaces Yin, premature action or struggle to integrate may arise.",
                 "changing": "The premature action or struggle to integrate may disrupt the harmonious alignment and support that characterize the line's natural state."
             },
             "1": {
                 "name": "Emergence of Potential",
-                "meaning": "Line 1 (Yang \u268a) marks the initial stage where potential begins to take form. It signifies the birth of potential and an initiating force. If Yin replaces Yang, it suggests a lack of readiness or hesitation.",
+                "meaning": "Line 1 (Yang ⚊) marks the initial stage where potential begins to take form. It signifies the birth of potential and an initiating force. If Yin replaces Yang, it suggests a lack of readiness or hesitation.",
                 "changing": "Weakness, hesitation, or unpreparedness may hinder the emergence of potential as the line's energy changes from Yang to Yin."
             }
         }
@@ -258,14 +258,16 @@
         "Platonic": "The result of Steadfast Subtlety and Enduring Influence reveals itself through steadfast subtlety and enduring influence.",
         "Taoist": "Through the soft and all-encompassing currents, the quiet strength and transformative essence of the Way reveal themselves.",
         "Tholonic": "In the dance of Gentle Penetration, its true nature is revealed through the harmonious exchange of delicate influence and the art of gradual infusion.",
-        "Thermodynamics": "The essence of Gentle Penetration emerges as an equilibrium of subtle and pervasive influence, mirroring the intrinsic dynamics of a continuous gentle force within the thermodynamic system."
+        "Thermodynamics": "The essence of Gentle Penetration emerges as an equilibrium of subtle and pervasive influence, mirroring the intrinsic dynamics of a continuous gentle force within the thermodynamic system.",
+        "general": "The essence of Gentle Penetration is a harmonious blend of subtle influence and enduring adaptability.",
+        "explanation": "The lower trigram, representing Gentle and Penetrating, embodies subtle influence and adaptability. The upper trigram, also Gentle and Penetrating, reinforces this with constancy and transformation. Together, they create a balance where gentle forces gradually and persistently permeate, reflecting a unified essence of subtle influence and enduring adaptability."
     },
     "line_type": [
-        "\u268a",
-        "\u268a",
-        "\u268b",
-        "\u268a",
-        "\u268a",
-        "\u268b"
+        "───",
+        "───",
+        "─ ─",
+        "───",
+        "───",
+        "─ ─"
     ]
 }

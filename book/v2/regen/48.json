@@ -1,6 +1,6 @@
 {
     "id": 48,
-    "hexagram_code": "\u4def",
+    "hexagram_code": "䷯",
     "name": "Restoration",
     "description": "The process of renewal and replenishment after depletion. Like a well being refilled or an ecosystem recovering after disruption, this represents the natural cycle of restoration and the return of vitality.",
     "king_wen": {
@@ -13,22 +13,22 @@
         "above": {
             "Trigram Number": 6,
             "Binary Decimal": 2,
-            "Symbol": "\u2635",
-            "Chinese Symbol": "\u574e",
-            "Phonetic": "K\u01cen",
+            "Symbol": "☵",
+            "Chinese Symbol": "坎",
+            "Phonetic": "Kǎn",
             "English Translation": "Water",
-            "English Symbol": "\u6c34",
+            "English Symbol": "水",
             "Meaning": "The Abysmal",
             "Quality": "Deep and Mysterious"
         },
         "below": {
             "Trigram Number": 5,
             "Binary Decimal": 6,
-            "Symbol": "\u2634",
-            "Chinese Symbol": "\u5dfd",
-            "Phonetic": "X\u00f9n",
+            "Symbol": "☴",
+            "Chinese Symbol": "巽",
+            "Phonetic": "Xùn",
             "English Translation": "Wind/Wood",
-            "English Symbol": "\u98ce/\u6728",
+            "English Symbol": "风/木",
             "Meaning": "The Gentle",
             "Quality": "Gentle and Penetrating"
         }
@@ -63,7 +63,7 @@
             "position": 3,
             "name": "Harmonious Integration",
             "meaning": "A balanced moment when opposing forces merge, establishing a firm foundation for further restoration.",
-            "changing": "Here, yin\u2019s quiet persistence is infused with yang\u2019s vitality, leading to a balanced reconfiguration of energy."
+            "changing": "Here, yin’s quiet persistence is infused with yang’s vitality, leading to a balanced reconfiguration of energy."
         },
         {
             "position": 2,
@@ -102,8 +102,8 @@
         "entries": [
             {
                 "title": "The Weaver's Gambit (Man vs. Man)",
-                "theme": "Gabriel Garc\u00eda M\u00e1rquez",
-                "short_story": "In a remote village, hidden by endless waves of saffron blossoms, Javier, a young dreamer, started weaving the tapestry of his destiny with strands of vibrant ambition. He envisioned an intricate design that would capture the essence of the sun and the soul of the earth. As he worked, the villagers watched skeptically, whispering that his bold colors and unfathomable patterns mocked tradition. Undeterred by their doubt, Javier continued, thread by thread, forming the vibrant outline of his vision. The first challenge arose when the mayor, a custodian of the old ways, demanded he cease his work for fear of upsetting the town's delicate balance. Faced with this obstacle, Javier\u2019s resolve wavered. However, drawing inspiration from the mysterious murmurs of the night wind, he pressed on and aligned his threads with the natural rhythms around him. Slowly, his tapestry began to reflect the beauty and depth of the universe itself. With mastery, he wove under the guidance of starlight, every thread a testament to the struggles overcome. At last, the tapestry took on a life of its own, a masterpiece transcending Javier's hands, draping the village in a new dawn's light.",
+                "theme": "Gabriel García Márquez",
+                "short_story": "In a remote village, hidden by endless waves of saffron blossoms, Javier, a young dreamer, started weaving the tapestry of his destiny with strands of vibrant ambition. He envisioned an intricate design that would capture the essence of the sun and the soul of the earth. As he worked, the villagers watched skeptically, whispering that his bold colors and unfathomable patterns mocked tradition. Undeterred by their doubt, Javier continued, thread by thread, forming the vibrant outline of his vision. The first challenge arose when the mayor, a custodian of the old ways, demanded he cease his work for fear of upsetting the town's delicate balance. Faced with this obstacle, Javier’s resolve wavered. However, drawing inspiration from the mysterious murmurs of the night wind, he pressed on and aligned his threads with the natural rhythms around him. Slowly, his tapestry began to reflect the beauty and depth of the universe itself. With mastery, he wove under the guidance of starlight, every thread a testament to the struggles overcome. At last, the tapestry took on a life of its own, a masterpiece transcending Javier's hands, draping the village in a new dawn's light.",
                 "lines_in_context": {
                     "6": {
                         "name": "Transcendence",
@@ -159,7 +159,7 @@
                     },
                     "3": {
                         "name": "Conflict",
-                        "meaning": "Raging storms demolish Ahab\u2019s work; he must weather these challenges to continue creating.",
+                        "meaning": "Raging storms demolish Ahab’s work; he must weather these challenges to continue creating.",
                         "changing": "Retreat from conflict may lead to abandoned dreams and stalled creativity."
                     },
                     "2": {
@@ -191,7 +191,7 @@
                     },
                     "4": {
                         "name": "Manifestation",
-                        "meaning": "Hana channels the storm\u2019s energy, aligning her brushstrokes with the natural chaos to fuel her artistic journey.",
+                        "meaning": "Hana channels the storm’s energy, aligning her brushstrokes with the natural chaos to fuel her artistic journey.",
                         "changing": "Overambition driven by the storm may lead to an overwhelming chaos in her work, upsetting the balance achieved."
                     },
                     "3": {
@@ -258,14 +258,16 @@
         "Platonic": "In the symphony of the soul's voyage, where subtle influence dances with profound depth, there lies an enigmatic odyssey, traversing the veiled strata of existence.",
         "Taoist": "The subtle dance of influence threads through the depths of mystery's embrace.",
         "Tholonic": "In the silent dance of delicate influence and profound enigma, there emerges a gentle immersion into the depths of existence.",
-        "Thermodynamics": "The delicate exchange of energy effuses through the intricate enigmas, seamlessly harmonizing the thermodynamic equilibrium."
+        "Thermodynamics": "The delicate exchange of energy effuses through the intricate enigmas, seamlessly harmonizing the thermodynamic equilibrium.",
+        "general": "A gentle influence navigates the depths of mystery, harmonizing transformation.",
+        "explanation": "The lower trigram, 'The Gentle,' symbolizes a subtle yet persistent influence that penetrates and transforms. The upper trigram, 'The Abysmal,' represents profound depths and mystery. Together, they illustrate a process where gentle, persistent influence navigates and harmonizes with the deep, mysterious aspects of existence, leading to transformation and restoration."
     },
     "line_type": [
-        "\u268b",
-        "\u268a",
-        "\u268b",
-        "\u268a",
-        "\u268a",
-        "\u268b"
+        "─ ─",
+        "───",
+        "─ ─",
+        "───",
+        "───",
+        "─ ─"
     ]
 }

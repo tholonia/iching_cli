@@ -1,6 +1,6 @@
 {
     "id": 43,
-    "hexagram_code": "\u4dea",
+    "hexagram_code": "䷪",
     "name": "Breakthrough",
     "description": "Decisive action that brings resolution through clear communication and determined expression of truth. Like a storm that clears the air, this hexagram represents the moment when tension breaks and clarity emerges.",
     "king_wen": {
@@ -13,22 +13,22 @@
         "above": {
             "Trigram Number": 8,
             "Binary Decimal": 4,
-            "Symbol": "\u2631",
-            "Chinese Symbol": "\u5151",
-            "Phonetic": "Du\u00ec",
+            "Symbol": "☱",
+            "Chinese Symbol": "兑",
+            "Phonetic": "Duì",
             "English Translation": "Lake/Marsh",
-            "English Symbol": "\u6cfd",
+            "English Symbol": "泽",
             "Meaning": "The Joyous",
             "Quality": "Joyful and Harmonious"
         },
         "below": {
             "Trigram Number": 1,
             "Binary Decimal": 7,
-            "Symbol": "\u2630",
-            "Chinese Symbol": "\u4e7e",
-            "Phonetic": "Qi\u00e1n",
+            "Symbol": "☰",
+            "Chinese Symbol": "乾",
+            "Phonetic": "Qián",
             "English Translation": "Heaven",
-            "English Symbol": "\u5929",
+            "English Symbol": "天",
             "Meaning": "The Creative",
             "Quality": "Strong and Creative"
         }
@@ -93,7 +93,7 @@
         "order8parent": "RESOLUTION; Moving Toward Completion"
     },
     "image": {
-        "description": "The choice of lightning as the object symbolizes sudden insight and decisive energy, embodying the theme of resolution and the movement towards completion. In tholonic terms, lightning represents the dynamic force of awareness and intention manifesting rapidly into a transformative action, catalyzing change and advancement. The futurism style, characterized by its emphasis on movement and technological progress, aligns with the energy of breakthrough and resolution, capturing the forward drive of consciousness and the integration of elements into a cohesive whole. Digital illustration as the medium highlights the modern intersection of technology and creativity, echoing the Thologram's recursive and interconnected nature. Although Salvador Dal\u00ed is not accurately associated with futurism, the mention might suggest a surreal approach, evoking the complexity and symbolic layers inherent in awareness striving for definitive resolution, reflecting an award-winning quality of profound symbolic execution.",
+        "description": "The choice of lightning as the object symbolizes sudden insight and decisive energy, embodying the theme of resolution and the movement towards completion. In tholonic terms, lightning represents the dynamic force of awareness and intention manifesting rapidly into a transformative action, catalyzing change and advancement. The futurism style, characterized by its emphasis on movement and technological progress, aligns with the energy of breakthrough and resolution, capturing the forward drive of consciousness and the integration of elements into a cohesive whole. Digital illustration as the medium highlights the modern intersection of technology and creativity, echoing the Thologram's recursive and interconnected nature. Although Salvador Dalí is not accurately associated with futurism, the mention might suggest a surreal approach, evoking the complexity and symbolic layers inherent in awareness striving for definitive resolution, reflecting an award-winning quality of profound symbolic execution.",
         "file": "43.png"
     },
     "energy_cycle": "ascending",
@@ -103,7 +103,7 @@
             {
                 "title": "The Forge of Creation (Man vs. Man)",
                 "theme": "Mary Shelley",
-                "short_story": "In a hidden chamber beneath a castle's lofty towers, Victor Labadie labored in shadows. He sought to harness the raw, unbridled forces of nature into a singular masterpiece\u2014an automaton infused with life itself. As the vision of his creation took form in his mind, Victor's every breath was a dance with the electric potential crackling around him. The pieces lay scattered, mocking his ambition, and yet, driven by a fire unquenched, he shaped and melded the materials before him. However, as his fingers grew weary, so too did doubts claw at his resolve. Would his dream survive the contours of reality? The hourglass spilled its last grains of sand when the automaton first stirred beneath his trembling hands, its eyes flickering with synthetic animation. As its movement grew fluid, Victor found himself both master and witness to this marvel, yet humbled by his fear of its unknowable intent. In the automaton's final ascension\u2014its presence both a triumph and a transcendence\u2014Victor realized his creation, once born of his mind, now belonged to the world, a testament to ambition realized.",
+                "short_story": "In a hidden chamber beneath a castle's lofty towers, Victor Labadie labored in shadows. He sought to harness the raw, unbridled forces of nature into a singular masterpiece—an automaton infused with life itself. As the vision of his creation took form in his mind, Victor's every breath was a dance with the electric potential crackling around him. The pieces lay scattered, mocking his ambition, and yet, driven by a fire unquenched, he shaped and melded the materials before him. However, as his fingers grew weary, so too did doubts claw at his resolve. Would his dream survive the contours of reality? The hourglass spilled its last grains of sand when the automaton first stirred beneath his trembling hands, its eyes flickering with synthetic animation. As its movement grew fluid, Victor found himself both master and witness to this marvel, yet humbled by his fear of its unknowable intent. In the automaton's final ascension—its presence both a triumph and a transcendence—Victor realized his creation, once born of his mind, now belonged to the world, a testament to ambition realized.",
                 "lines_in_context": {
                     "6": {
                         "name": "Transcendence",
@@ -177,7 +177,7 @@
             {
                 "title": "The Art of Becoming (Man vs. Self)",
                 "theme": "Haruki Murakami",
-                "short_story": "Beneath the surface of sense and time, Jun sat in a small, dimly-lit room, an artist facing a blank canvas. Around him swirled a nebula of potential, a universe waiting to be formed from chaos into order. In the silence, his thoughts danced\u2014a symphony of disparate notes seeking harmony. At first, Jun's hands hovered, fearful of disturbing the tranquility of possibility. But then he took the initial stroke, a tentative line whispered across the canvas. Shapes began to coalesce in the subtle interplay of light and shadow, forming a fledgling vision. However, shadows within him rose in opposition, doubts like specters whispering of inadequacy and failure. He felt corrosive anxiety gnaw at his resolve, threatening to engulf his creation. Yet, pushing through the maelstrom, Jun found an inner rhythm, his brush now moving with fluid certainty. As lines coursed the canvas, a world emerged\u2014a mirror of Jun's own internal universe. In the crescendo of creation, Jun's fears dissipated, leaving only beauty. His work, a testament to a journey transcending trepidation, now existed as an entity of its own, beyond him but eternally connected by the threads of his intention.",
+                "short_story": "Beneath the surface of sense and time, Jun sat in a small, dimly-lit room, an artist facing a blank canvas. Around him swirled a nebula of potential, a universe waiting to be formed from chaos into order. In the silence, his thoughts danced—a symphony of disparate notes seeking harmony. At first, Jun's hands hovered, fearful of disturbing the tranquility of possibility. But then he took the initial stroke, a tentative line whispered across the canvas. Shapes began to coalesce in the subtle interplay of light and shadow, forming a fledgling vision. However, shadows within him rose in opposition, doubts like specters whispering of inadequacy and failure. He felt corrosive anxiety gnaw at his resolve, threatening to engulf his creation. Yet, pushing through the maelstrom, Jun found an inner rhythm, his brush now moving with fluid certainty. As lines coursed the canvas, a world emerged—a mirror of Jun's own internal universe. In the crescendo of creation, Jun's fears dissipated, leaving only beauty. His work, a testament to a journey transcending trepidation, now existed as an entity of its own, beyond him but eternally connected by the threads of his intention.",
                 "lines_in_context": {
                     "6": {
                         "name": "Transcendence",
@@ -216,7 +216,7 @@
     "history": {
         "title": "The Storming of the Bastille",
         "subtitle": "\"Breakthrough\" in History",
-        "short_story": "On July 14, 1789, the mounting tensions in Paris reached a critical point. The Bastille, a medieval fortress and prison, stood as a potent symbol of royal authority and oppression. For generations, its towering walls had cast long shadows over the city, housing political prisoners and storing massive quantities of gunpowder and ammunition that the revolutionaries desperately needed. That morning, a crowd of nearly 1,000 Parisians gathered outside its walls, their frustrations with the monarchy's abuses having reached a breaking point. The fortress was defended by 82 invalides (veteran soldiers) and 32 grenadiers, with 30 Swiss guards arriving as reinforcements. After hours of tense negotiations failed, the crowd's patience snapped. In a decisive moment, they surged forward, breaking through the outer wall. The fortress's governor, Bernard-Ren\u00e9 de Launay, initially resisted but ultimately surrendered to prevent further bloodshed. The storming of the Bastille marked a crucial breakthrough moment in the French Revolution, transforming simmering social tensions into decisive revolutionary action. Though only seven prisoners were found inside, the symbolic power of breaching this fortress catalyzed the revolution, marking the end of the absolute monarchy and the birth of modern France. This event perfectly embodies the hexagram's themes of breakthrough, where concentrated social pressure finally ruptures established boundaries, creating irreversible change.",
+        "short_story": "On July 14, 1789, the mounting tensions in Paris reached a critical point. The Bastille, a medieval fortress and prison, stood as a potent symbol of royal authority and oppression. For generations, its towering walls had cast long shadows over the city, housing political prisoners and storing massive quantities of gunpowder and ammunition that the revolutionaries desperately needed. That morning, a crowd of nearly 1,000 Parisians gathered outside its walls, their frustrations with the monarchy's abuses having reached a breaking point. The fortress was defended by 82 invalides (veteran soldiers) and 32 grenadiers, with 30 Swiss guards arriving as reinforcements. After hours of tense negotiations failed, the crowd's patience snapped. In a decisive moment, they surged forward, breaking through the outer wall. The fortress's governor, Bernard-René de Launay, initially resisted but ultimately surrendered to prevent further bloodshed. The storming of the Bastille marked a crucial breakthrough moment in the French Revolution, transforming simmering social tensions into decisive revolutionary action. Though only seven prisoners were found inside, the symbolic power of breaching this fortress catalyzed the revolution, marking the end of the absolute monarchy and the birth of modern France. This event perfectly embodies the hexagram's themes of breakthrough, where concentrated social pressure finally ruptures established boundaries, creating irreversible change.",
         "source": [
             "\"The Oxford History of the French Revolution\" by William Doyle (Oxford University Press, 1989)"
         ],
@@ -258,14 +258,16 @@
         "Platonic": "In the realm where boundless creativity and strength converge, their ultimate form finds articulation in the joyful symphony of expression.",
         "Taoist": "The essence of profound creativity flows in the radiant dance of joy and harmony.",
         "Tholonic": "Behold the fusion of vibrant creativity, woven seamlessly with the serene tapestry of harmonious joy.",
-        "Thermodynamics": "The synthesis of robust creativity is akin to a thermodynamic equilibrium, where diverse energies coalesce to manifest exuberant stability."
+        "Thermodynamics": "The synthesis of robust creativity is akin to a thermodynamic equilibrium, where diverse energies coalesce to manifest exuberant stability.",
+        "general": "The vibrant flow of creativity finds joyful harmony in its expression.",
+        "explanation": "The lower trigram, 'The Creative,' symbolizes strength and innovation, while the upper trigram, 'The Joyous,' embodies joy and harmony. Together, they illustrate a dynamic interaction where robust creativity is expressed joyfully and harmoniously, akin to a balanced dance. This synthesis captures the essence of dynamic creativity flourishing through joyful expression, as each perspective highlights the interplay of strength, creativity, and joy in achieving a harmonious breakthrough."
     },
     "line_type": [
-        "\u268b",
-        "\u268a",
-        "\u268a",
-        "\u268a",
-        "\u268a",
-        "\u268a"
+        "─ ─",
+        "───",
+        "───",
+        "───",
+        "───",
+        "───"
     ]
 }

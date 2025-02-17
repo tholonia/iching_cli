@@ -1,6 +1,6 @@
 {
     "id": 45,
-    "hexagram_code": "\u4dec",
+    "hexagram_code": "䷬",
     "name": "Convergence",
     "description": "The gathering and unification of diverse elements toward a common purpose. Like tributaries flowing into a river or communities coming together for a shared goal, this represents the power of collective focus and mutual support in achieving significant aims.",
     "king_wen": {
@@ -13,22 +13,22 @@
         "above": {
             "Trigram Number": 8,
             "Binary Decimal": 4,
-            "Symbol": "\u2631",
-            "Chinese Symbol": "\u5151",
-            "Phonetic": "Du\u00ec",
+            "Symbol": "☱",
+            "Chinese Symbol": "兑",
+            "Phonetic": "Duì",
             "English Translation": "Lake/Marsh",
-            "English Symbol": "\u6cfd",
+            "English Symbol": "泽",
             "Meaning": "The Joyous",
             "Quality": "Joyful and Harmonious"
         },
         "below": {
             "Trigram Number": 2,
             "Binary Decimal": 0,
-            "Symbol": "\u2637",
-            "Chinese Symbol": "\u5764",
-            "Phonetic": "K\u016bn",
+            "Symbol": "☷",
+            "Chinese Symbol": "坤",
+            "Phonetic": "Kūn",
             "English Translation": "Earth",
-            "English Symbol": "\u5730",
+            "English Symbol": "地",
             "Meaning": "The Receptive",
             "Quality": "Receptive and Nurturing"
         }
@@ -93,7 +93,7 @@
         "order8parent": "RESOLUTION; Moving Toward Completion"
     },
     "image": {
-        "description": "The image titled \"CONVERGENCE\" symbolizes resolution and unity through a river connecting diverse paths, embodying the tholonic concept of awareness manifesting its interconnected nature. The river signifies the negotiation force, harmoniously balancing and merging distinct elements into a cohesive whole, akin to how tholonic energy integrates awareness across various dimensions. Impressionism, with its emphasis on capturing essence and flux, reflects the dynamic and emergent qualities inherent in the tholonic model. The medium of mosaic, constructed from countless discrete pieces forming a larger image, mirrors the holarchical structure of tholons, each a part and a whole simultaneously. Choosing Picasso, renowned for creative innovation and abstraction, underscores the transformative potential of universal love as a driving force, reshaping awareness into new forms and understanding. Thus, the elements of this artistic representation converge to illustrate the journey towards completion, central to CONVERGENCE\u2019s theme.",
+        "description": "The image titled \"CONVERGENCE\" symbolizes resolution and unity through a river connecting diverse paths, embodying the tholonic concept of awareness manifesting its interconnected nature. The river signifies the negotiation force, harmoniously balancing and merging distinct elements into a cohesive whole, akin to how tholonic energy integrates awareness across various dimensions. Impressionism, with its emphasis on capturing essence and flux, reflects the dynamic and emergent qualities inherent in the tholonic model. The medium of mosaic, constructed from countless discrete pieces forming a larger image, mirrors the holarchical structure of tholons, each a part and a whole simultaneously. Choosing Picasso, renowned for creative innovation and abstraction, underscores the transformative potential of universal love as a driving force, reshaping awareness into new forms and understanding. Thus, the elements of this artistic representation converge to illustrate the journey towards completion, central to CONVERGENCE’s theme.",
         "file": "45.png"
     },
     "energy_cycle": "ascending",
@@ -103,7 +103,7 @@
             {
                 "title": "The Artist's Rebellion (Man vs. Man)",
                 "theme": "J.R.R. Tolkien",
-                "short_story": "In a land where creativity was shackled by conventions and societal norms, a young artist named Elara discovered an ancient brush that promised to bring life to her wildest imaginings. From the moment she held it, raw potential surged within her\u2014images of mythic landscapes, bold colors, and creatures unseen filled her thoughts. Yet, as her creative force stirred, Elara wrestled with self-doubt. The council of elders, stern and tradition-bound, forbade deviations from the accepted art forms. Driven by an ungovernable spirit, Elara began her work in secret. Her brush flowed across the canvas, shaping realms that defied description. But as her visions grew bolder, so did the opposition. The council declared her creations blasphemous, threatening to erase them. Undeterred, Elara rallied a fellowship of like-minded souls, proving that each stroke of defiance could reshape their world. As her art manifested, it became a beacon stirring others to awaken. Elara stood before her completed masterpiece\u2014a sweeping panorama capturing the essence of hidden dreams. Its beauty transcended mere form, becoming a testament to boundless possibility. Now, relinquishing her claim, she witnessed it transform into a movement, a new awakening in the hearts of her kin.",
+                "short_story": "In a land where creativity was shackled by conventions and societal norms, a young artist named Elara discovered an ancient brush that promised to bring life to her wildest imaginings. From the moment she held it, raw potential surged within her—images of mythic landscapes, bold colors, and creatures unseen filled her thoughts. Yet, as her creative force stirred, Elara wrestled with self-doubt. The council of elders, stern and tradition-bound, forbade deviations from the accepted art forms. Driven by an ungovernable spirit, Elara began her work in secret. Her brush flowed across the canvas, shaping realms that defied description. But as her visions grew bolder, so did the opposition. The council declared her creations blasphemous, threatening to erase them. Undeterred, Elara rallied a fellowship of like-minded souls, proving that each stroke of defiance could reshape their world. As her art manifested, it became a beacon stirring others to awaken. Elara stood before her completed masterpiece—a sweeping panorama capturing the essence of hidden dreams. Its beauty transcended mere form, becoming a testament to boundless possibility. Now, relinquishing her claim, she witnessed it transform into a movement, a new awakening in the hearts of her kin.",
                 "lines_in_context": {
                     "6": {
                         "name": "Transcendence",
@@ -176,7 +176,7 @@
             },
             {
                 "title": "The Conductor's Journey (Man vs. Self)",
-                "theme": "Gabriel Garc\u00eda M\u00e1rquez",
+                "theme": "Gabriel García Márquez",
                 "short_story": "In a quiet town basked under the golden sun, lived a young conductor named Eliseo. His heart was a treasure chest of symphonies yet to be heard, each note burning to shape the air. With every crescendo in his mind, the world seemed to sit on the precipice of awakening, yet Eliseo struggled against the silent resistance of doubt, unsure of how to weave his dreams into the fabric of reality. From the moment his baton first wove through the air, the orchestra stirred. This was no usual ensemble; each musician's soul carried stories only Eliseo could discern. Together, they faced the silent symphony of the town's apathy, a barrier as tangible as the walls they played within. Yet, in the war between inertia and inspiration, Eliseo found a resolve. He reshaped the quiet whispers of hesitation into a melody that resonated with depth and fire. As the music bloomed into its final embrace, the boundaries of stage and audience dissolved. Eliseo's lifeblood surged through the symphony, casting a spell of transformation over all who heard, bringing the town to life in a cascade of harmonies. He let go, becoming one with the music, as it swept him and the world beyond into its grand, unending dance.",
                 "lines_in_context": {
                     "6": {
@@ -258,14 +258,16 @@
         "Platonic": "The gentle cradle of openness unfolds in a chorus of sublime joy.",
         "Taoist": "When the gentle embrace of yielding finds its path, effortless joy emerges in harmony with the Way.",
         "Tholonic": "In the nurturing embrace of Gaia, a joyful symphony is woven, bringing forth a vibrant confluence of harmony.",
-        "Thermodynamics": "When the entropy of nurturing receptivity aligns with the enthalpy of joyful harmony, the resulting system forms a potent equilibrium of support and exuberance, catalyzing a dynamic synergy that drives the growth of the collective."
+        "Thermodynamics": "When the entropy of nurturing receptivity aligns with the enthalpy of joyful harmony, the resulting system forms a potent equilibrium of support and exuberance, catalyzing a dynamic synergy that drives the growth of the collective.",
+        "general": "The nurturing embrace of receptivity harmonizes with joyful expression, creating a unified flow of collective growth.",
+        "explanation": "The lower trigram, 'The Receptive,' symbolizes a nurturing and open foundation, while the upper trigram, 'The Joyous,' represents a state of joyful harmony. Together, they form a dynamic interaction where nurturing support meets joyful expression, fostering an environment where collective growth and harmony naturally emerge. This synthesis of receptivity and joy creates a balanced and flourishing system, aligning with the philosophical perspectives of convergence and unity."
     },
     "line_type": [
-        "\u268b",
-        "\u268a",
-        "\u268a",
-        "\u268b",
-        "\u268b",
-        "\u268b"
+        "─ ─",
+        "───",
+        "───",
+        "─ ─",
+        "─ ─",
+        "─ ─"
     ]
 }

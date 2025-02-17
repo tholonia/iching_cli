@@ -1,6 +1,6 @@
 {
     "id": 37,
-    "hexagram_code": "\u4de4",
+    "hexagram_code": "䷤",
     "name": "Family Dynamics",
     "description": "The harmonious ordering of relationships within structured systems. Like a well-functioning family unit, this represents the balanced interplay of roles and responsibilities.",
     "king_wen": {
@@ -13,22 +13,22 @@
         "above": {
             "Trigram Number": 5,
             "Binary Decimal": 6,
-            "Symbol": "\u2634",
-            "Chinese Symbol": "\u5dfd",
-            "Phonetic": "X\u00f9n",
+            "Symbol": "☴",
+            "Chinese Symbol": "巽",
+            "Phonetic": "Xùn",
             "English Translation": "Wind/Wood",
-            "English Symbol": "\u98ce/\u6728",
+            "English Symbol": "风/木",
             "Meaning": "The Gentle",
             "Quality": "Gentle and Penetrating"
         },
         "below": {
             "Trigram Number": 7,
             "Binary Decimal": 5,
-            "Symbol": "\u2632",
-            "Chinese Symbol": "\u79bb",
-            "Phonetic": "L\u00ed",
+            "Symbol": "☲",
+            "Chinese Symbol": "离",
+            "Phonetic": "Lí",
             "English Translation": "Fire",
-            "English Symbol": "\u706b",
+            "English Symbol": "火",
             "Meaning": "The Clinging",
             "Quality": "Bright and Radiant"
         }
@@ -93,7 +93,7 @@
         "order8parent": "TRANSFORMATION; Active Change"
     },
     "image": {
-        "description": "The wolf pack as the object signifies the essence of family dynamics, representing the intricate balance and active change within group dynamics. Wolves embody transformation through their structured yet fluid social hierarchies, showcasing negotiation, limitation, and contribution\u2014key tholonic forces\u2014within their pack. The realism style enhances the authenticity of this natural metaphor, capturing the raw interactions and relationships of the wolves. Digital painting as the medium allows for precise and vivid representation of the wolves' expressions and surroundings, symbolizing the nuanced complexities of familial transformations. Attributed to \"Jack London,\" the artist choice nods to his exploration of nature\u2019s truths and primal instincts, dovetailing with the symbolic nature of award-winning art. This combination uniquely illustrates the hexagram's themes of transformation and group dynamics through a tholonic lens, where awareness and creative intention manifest the interconnectedness of family roles and structures.",
+        "description": "The wolf pack as the object signifies the essence of family dynamics, representing the intricate balance and active change within group dynamics. Wolves embody transformation through their structured yet fluid social hierarchies, showcasing negotiation, limitation, and contribution—key tholonic forces—within their pack. The realism style enhances the authenticity of this natural metaphor, capturing the raw interactions and relationships of the wolves. Digital painting as the medium allows for precise and vivid representation of the wolves' expressions and surroundings, symbolizing the nuanced complexities of familial transformations. Attributed to \"Jack London,\" the artist choice nods to his exploration of nature’s truths and primal instincts, dovetailing with the symbolic nature of award-winning art. This combination uniquely illustrates the hexagram's themes of transformation and group dynamics through a tholonic lens, where awareness and creative intention manifest the interconnectedness of family roles and structures.",
         "file": "37.png"
     },
     "energy_cycle": "descending",
@@ -103,7 +103,7 @@
             {
                 "title": "The Artisan's Symphony (Man vs. Man)",
                 "theme": "Virginia Woolf",
-                "short_story": "In the quaint silence of an ancient village, nestled between mist-laden hills, lived Elara, a weaver whose fingertips danced with the unbidden rhythm of creation. Her loom whispered secrets of color, pattern, and texture, yet her vision remained unshaped, entangled in the ether of potential. Each day began the same, threads of possibility hanging in the balance. As dawn's light brushed the horizon, Elara stood at the precipice of creation's cusp, ready to transform whispers into woven tapestries. The village murmured with expectation, the market awaiting her artistry. Guided by inspiration and limitation, her hands found harmony in each weave, her spirit tethering ideas to fiber. Yet conflict emerged in the guise of demand and material scarcity, threatening the continuation of her craft. In defiance, Elara drew upon her inner light, steering the threads into a tapestry that narrated her tale, aligning her art with the world's needs. With each completion, she marveled at the tapestries standing apart, no longer an extension of herself but entities of infinite tales. Relinquishing control, Elara understood the beauty in transcendence, where creation touched upon the world\u2014a testament to her journey from emergence to eternal influence.",
+                "short_story": "In the quaint silence of an ancient village, nestled between mist-laden hills, lived Elara, a weaver whose fingertips danced with the unbidden rhythm of creation. Her loom whispered secrets of color, pattern, and texture, yet her vision remained unshaped, entangled in the ether of potential. Each day began the same, threads of possibility hanging in the balance. As dawn's light brushed the horizon, Elara stood at the precipice of creation's cusp, ready to transform whispers into woven tapestries. The village murmured with expectation, the market awaiting her artistry. Guided by inspiration and limitation, her hands found harmony in each weave, her spirit tethering ideas to fiber. Yet conflict emerged in the guise of demand and material scarcity, threatening the continuation of her craft. In defiance, Elara drew upon her inner light, steering the threads into a tapestry that narrated her tale, aligning her art with the world's needs. With each completion, she marveled at the tapestries standing apart, no longer an extension of herself but entities of infinite tales. Relinquishing control, Elara understood the beauty in transcendence, where creation touched upon the world—a testament to her journey from emergence to eternal influence.",
                 "lines_in_context": {
                     "6": {
                         "name": "Transcendence of Creation",
@@ -139,8 +139,8 @@
             },
             {
                 "title": "Whispers of the Northern Wind (Man vs. Nature)",
-                "theme": "Gabriel Garc\u00eda M\u00e1rquez",
-                "short_story": "Under the relentless gaze of the northern sky, where nature's forces play out their eternal dance, Finn felt a stirring within him like the first breath before a storm. The land, vast and wild, whispered promises of adventures untamed, yet his path lay unwritten, his potential unformed like the empty expanse before dawn. Embarking on a solitary journey, he began shaping his vision, carving a path through dense forests, his spirit a compass guiding him through swirling uncertainty. Yet with each step, nature met him with trials\u2014raging rivers and shadowed mountains that threatened to dissolve his dreams back into the wind. Undeterred, Finn learned to mold his hopes around the landscape, finding a rhythm in its chaos, and gradually his creations took form. As his dream peaked, imbued with the rawness of the land, Finn realized his journey went beyond personal conquest; it was an offering to the world, an imprint on the tapestry of life. He let go, allowing his creation to scatter like seeds, knowing its stories would sprout where he no longer tread. Yet the land watched, knowing each whisper born in its embrace was a tale woven into the winds forevermore.",
+                "theme": "Gabriel García Márquez",
+                "short_story": "Under the relentless gaze of the northern sky, where nature's forces play out their eternal dance, Finn felt a stirring within him like the first breath before a storm. The land, vast and wild, whispered promises of adventures untamed, yet his path lay unwritten, his potential unformed like the empty expanse before dawn. Embarking on a solitary journey, he began shaping his vision, carving a path through dense forests, his spirit a compass guiding him through swirling uncertainty. Yet with each step, nature met him with trials—raging rivers and shadowed mountains that threatened to dissolve his dreams back into the wind. Undeterred, Finn learned to mold his hopes around the landscape, finding a rhythm in its chaos, and gradually his creations took form. As his dream peaked, imbued with the rawness of the land, Finn realized his journey went beyond personal conquest; it was an offering to the world, an imprint on the tapestry of life. He let go, allowing his creation to scatter like seeds, knowing its stories would sprout where he no longer tread. Yet the land watched, knowing each whisper born in its embrace was a tale woven into the winds forevermore.",
                 "lines_in_context": {
                     "6": {
                         "name": "Transcendence of the Journey",
@@ -177,7 +177,7 @@
             {
                 "title": "The Wind's Whisper (Man vs. Self)",
                 "theme": "Haruki Murakami",
-                "short_story": "In a quiet village, a young man named Arin stood at the cusp of creation with a heart full of dreams, yet unformed and waiting for direction. The first stirrings of a vision pulled at him like the whispers of an unseen muse. He began to shape this raw potential, navigating the first hurdles of doubt and inexperience. With each step, he encountered the harsh winds of reality \u2013 external challenges that threatened to dismantle his fragile resolve. Yet, through persistence, Arin refined his intentions, carving a niche from chaos and learning to align his work with the world around him. Standing atop the culmination of his journey, he realized the peak of his potential, strong in his mastery but wary of the shadows of pride that lurked. In the end, letting go of his creation, he watched as it took on a life of its own, like a delicate chime resonating beyond the firmament of his own understanding, touching those he would never meet.",
+                "short_story": "In a quiet village, a young man named Arin stood at the cusp of creation with a heart full of dreams, yet unformed and waiting for direction. The first stirrings of a vision pulled at him like the whispers of an unseen muse. He began to shape this raw potential, navigating the first hurdles of doubt and inexperience. With each step, he encountered the harsh winds of reality – external challenges that threatened to dismantle his fragile resolve. Yet, through persistence, Arin refined his intentions, carving a niche from chaos and learning to align his work with the world around him. Standing atop the culmination of his journey, he realized the peak of his potential, strong in his mastery but wary of the shadows of pride that lurked. In the end, letting go of his creation, he watched as it took on a life of its own, like a delicate chime resonating beyond the firmament of his own understanding, touching those he would never meet.",
                 "lines_in_context": {
                     "6": {
                         "name": "Transcendence Beyond Self",
@@ -259,14 +259,16 @@
         "Platonic": "Behold the harmonious dance of luminous clarity, as it unfolds through the gentle, yet all-encompassing force of an unseen presence.",
         "Taoist": "When light dances with the unseen, there lies the harmony of clarity revealed and depth concealed.",
         "Tholonic": "Behold the luminous clarity that emerges from the gentle and all-encompassing touch of influence.",
-        "Thermodynamics": "The resultant state of radiant clarity finds its manifestation through a gentle and all-pervasive distribution of thermal equilibrium."
+        "Thermodynamics": "The resultant state of radiant clarity finds its manifestation through a gentle and all-pervasive distribution of thermal equilibrium.",
+        "general": "Radiant clarity emerges through gentle influence, revealing hidden depths.",
+        "explanation": "The lower trigram 'The Clinging' symbolizes brightness and clarity, representing illumination and awareness. The upper trigram 'The Gentle' signifies subtlety and penetration, embodying the quiet force that influences and permeates. Together, they create a dynamic where clarity is achieved not through force but through gentle persuasion, uncovering what lies beneath the surface."
     },
     "line_type": [
-        "\u268a",
-        "\u268a",
-        "\u268b",
-        "\u268a",
-        "\u268b",
-        "\u268a"
+        "───",
+        "───",
+        "─ ─",
+        "───",
+        "─ ─",
+        "───"
     ]
 }

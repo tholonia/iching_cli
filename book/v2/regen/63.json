@@ -1,6 +1,6 @@
 {
     "id": 63,
-    "hexagram_code": "\u4dfe",
+    "hexagram_code": "䷾",
     "name": "Sustainable Order",
     "description": "Balance achieved through constant small adjustments. Like a gyroscope maintaining stability through continuous micro-corrections.",
     "king_wen": {
@@ -13,22 +13,22 @@
         "above": {
             "Trigram Number": 6,
             "Binary Decimal": 2,
-            "Symbol": "\u2635",
-            "Chinese Symbol": "\u574e",
-            "Phonetic": "K\u01cen",
+            "Symbol": "☵",
+            "Chinese Symbol": "坎",
+            "Phonetic": "Kǎn",
             "English Translation": "Water",
-            "English Symbol": "\u6c34",
+            "English Symbol": "水",
             "Meaning": "The Abysmal",
             "Quality": "Deep and Mysterious"
         },
         "below": {
             "Trigram Number": 7,
             "Binary Decimal": 5,
-            "Symbol": "\u2632",
-            "Chinese Symbol": "\u79bb",
-            "Phonetic": "L\u00ed",
+            "Symbol": "☲",
+            "Chinese Symbol": "离",
+            "Phonetic": "Lí",
             "English Translation": "Fire",
-            "English Symbol": "\u706b",
+            "English Symbol": "火",
             "Meaning": "The Clinging",
             "Quality": "Bright and Radiant"
         }
@@ -51,7 +51,7 @@
             "position": 5,
             "name": "Steadfast Radiance",
             "meaning": "Representing a mature stage of sustainable order, this line radiates strength and reliability. It calls upon the leadership quality of remaining true to one's path while uplifting others.",
-            "changing": "An inner softness and receptivity are transformed into vibrant, illuminating energy\u2014shifting the underlying character into a mode of active, visible leadership."
+            "changing": "An inner softness and receptivity are transformed into vibrant, illuminating energy—shifting the underlying character into a mode of active, visible leadership."
         },
         {
             "position": 4,
@@ -93,7 +93,7 @@
         "order8parent": "COMPLETION & RENEWAL; Return to Source"
     },
     "image": {
-        "description": "The choice of a gyroscope, realism, graphite, and Leonardo da Vinci embodies the hexagram's theme of \"SUSTAINABLE ORDER,\" reflecting completion and renewal. A gyroscope symbolizes stability and the cyclical nature of existence, resonating with the Tholonic Model\u2019s emphasis on balance and continuous interaction within a holarchic structure. Realism captures this concept with precision, integrating the aesthetic with the material world. Graphite, a fundamental medium, aligns with the idea of returning to the source, representative of the primal point from which awareness and intention arise. Leonardo da Vinci, a master of both art and science, embodies the integration of awareness and intention, making him an ideal artist for illustrating these principles. The composition's award-winning, highly symbolic nature mirrors the Tholonic Model's depth, where art becomes a manifestation of the complex interconnections that sustain reality.",
+        "description": "The choice of a gyroscope, realism, graphite, and Leonardo da Vinci embodies the hexagram's theme of \"SUSTAINABLE ORDER,\" reflecting completion and renewal. A gyroscope symbolizes stability and the cyclical nature of existence, resonating with the Tholonic Model’s emphasis on balance and continuous interaction within a holarchic structure. Realism captures this concept with precision, integrating the aesthetic with the material world. Graphite, a fundamental medium, aligns with the idea of returning to the source, representative of the primal point from which awareness and intention arise. Leonardo da Vinci, a master of both art and science, embodies the integration of awareness and intention, making him an ideal artist for illustrating these principles. The composition's award-winning, highly symbolic nature mirrors the Tholonic Model's depth, where art becomes a manifestation of the complex interconnections that sustain reality.",
         "file": "63.png"
     },
     "energy_cycle": "ascending",
@@ -103,7 +103,7 @@
             {
                 "title": "The Sculptor's Epiphany (Man vs. Man)",
                 "theme": "Ray Bradbury",
-                "short_story": "In a remote village, a young sculptor named Elara found herself staring at a block of raw marble, sensing the potential within but unsure where to begin. Her heart swelled with ideas yet lacked the focus to give them form. As she chipped away the first fragments, murmurs rose from the townsfolk who questioned her unconventional techniques. Undeterred, she began to carve the outlines of a form, though it remained rough and unrefined. Over time, criticism turned to fascination as the shape took on the contours of her vision, guided by her unyielding commitment. Yet, the village elder warned her of ambition's trap\u2014perfecting an art so unique could isolate her from the world she strove to inspire. Undaunted, Elara continued, each chisel stroke designing a masterpiece that reflected not just her soul but the essence of the human condition. With the final detail completed, Elara stepped back, releasing ownership of her creation. The townsfolk watched in awe, realizing the sculpture belonged to them all. Elara knew then that her journey wasn't about dominion, but the transcendence of communal beauty through individual vision, a monument to creativity enduring beyond its maker.",
+                "short_story": "In a remote village, a young sculptor named Elara found herself staring at a block of raw marble, sensing the potential within but unsure where to begin. Her heart swelled with ideas yet lacked the focus to give them form. As she chipped away the first fragments, murmurs rose from the townsfolk who questioned her unconventional techniques. Undeterred, she began to carve the outlines of a form, though it remained rough and unrefined. Over time, criticism turned to fascination as the shape took on the contours of her vision, guided by her unyielding commitment. Yet, the village elder warned her of ambition's trap—perfecting an art so unique could isolate her from the world she strove to inspire. Undaunted, Elara continued, each chisel stroke designing a masterpiece that reflected not just her soul but the essence of the human condition. With the final detail completed, Elara stepped back, releasing ownership of her creation. The townsfolk watched in awe, realizing the sculpture belonged to them all. Elara knew then that her journey wasn't about dominion, but the transcendence of communal beauty through individual vision, a monument to creativity enduring beyond its maker.",
                 "lines_in_context": {
                     "6": {
                         "name": "Release of Creation",
@@ -259,14 +259,16 @@
         "Platonic": "Behold the symphony where profound enigma weaves itself with the splendor of illuminating light.",
         "Taoist": "Clarity and enlightenment blossom from the deep well of mysterious obscurity.",
         "Tholonic": "In the shadowed caverns of mystery, the radiant light of clarity finds its genesis.",
-        "Thermodynamics": "Order and enlightenment emerge naturally from the depths of entropy and mystery."
+        "Thermodynamics": "Order and enlightenment emerge naturally from the depths of entropy and mystery.",
+        "general": "Illumination arises from the depths of mystery.",
+        "explanation": "The lower trigram 'The Clinging' symbolizes clarity and brightness, while the upper trigram 'The Abysmal' represents depth and mystery. Together, they illustrate how light and understanding can emerge from complex and obscure origins, forming a balanced and sustainable order."
     },
     "line_type": [
-        "\u268b",
-        "\u268a",
-        "\u268b",
-        "\u268a",
-        "\u268b",
-        "\u268a"
+        "─ ─",
+        "───",
+        "─ ─",
+        "───",
+        "─ ─",
+        "───"
     ]
 }

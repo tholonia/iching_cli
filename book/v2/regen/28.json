@@ -1,6 +1,6 @@
 {
     "id": 28,
-    "hexagram_code": "\u4ddb",
+    "hexagram_code": "䷛",
     "name": "Critical Mass",
     "description": "The point where pressure creates transformation. Like a dam about to overflow, this hexagram represents the moment when accumulated tension leads to breakthrough and necessary change. It describes the dynamics of systems approaching their limits and the wisdom needed to navigate such transitions.",
     "king_wen": {
@@ -13,22 +13,22 @@
         "above": {
             "Trigram Number": 8,
             "Binary Decimal": 4,
-            "Symbol": "\u2631",
-            "Chinese Symbol": "\u5151",
-            "Phonetic": "Du\u00ec",
+            "Symbol": "☱",
+            "Chinese Symbol": "兑",
+            "Phonetic": "Duì",
             "English Translation": "Lake/Marsh",
-            "English Symbol": "\u6cfd",
+            "English Symbol": "泽",
             "Meaning": "The Joyous",
             "Quality": "Joyful and Harmonious"
         },
         "below": {
             "Trigram Number": 5,
             "Binary Decimal": 6,
-            "Symbol": "\u2634",
-            "Chinese Symbol": "\u5dfd",
-            "Phonetic": "X\u00f9n",
+            "Symbol": "☴",
+            "Chinese Symbol": "巽",
+            "Phonetic": "Xùn",
             "English Translation": "Wind/Wood",
-            "English Symbol": "\u98ce/\u6728",
+            "English Symbol": "风/木",
             "Meaning": "The Gentle",
             "Quality": "Gentle and Penetrating"
         }
@@ -93,7 +93,7 @@
         "order8parent": "CHALLENGES; Testing & Strengthening"
     },
     "image": {
-        "description": "The \"CRITICAL MASS\" hexagram, embodying themes of challenge and the handling of excess, finds a fitting representation in the surrealistic lithograph featuring a dam by Georgia O'Keeffe. The dam symbolizes the negotiation and limitation forces within the Tholonic Model, illustrating how awareness channels and handles vast energies and emotions akin to water. Surrealism enhances this depiction, distorting reality to capture the complex, often overwhelming experiences of testing and strengthening. Lithography's intricacy and ability to convey subtle nuances mirror the Tholonic interaction among elements, as each line and shadow speaks to the emergent properties of awareness under pressure. Georgia O'Keeffe, renowned for symbolic expression, serves as an ideal artist to convey these dynamics, her work embodying the harmonious integration\u2014contribution\u2014of natural forms and human resilience. Her award-winning approach amplifies the symbolic meaning, underlining the creative power behind conceptual balance and transformation.",
+        "description": "The \"CRITICAL MASS\" hexagram, embodying themes of challenge and the handling of excess, finds a fitting representation in the surrealistic lithograph featuring a dam by Georgia O'Keeffe. The dam symbolizes the negotiation and limitation forces within the Tholonic Model, illustrating how awareness channels and handles vast energies and emotions akin to water. Surrealism enhances this depiction, distorting reality to capture the complex, often overwhelming experiences of testing and strengthening. Lithography's intricacy and ability to convey subtle nuances mirror the Tholonic interaction among elements, as each line and shadow speaks to the emergent properties of awareness under pressure. Georgia O'Keeffe, renowned for symbolic expression, serves as an ideal artist to convey these dynamics, her work embodying the harmonious integration—contribution—of natural forms and human resilience. Her award-winning approach amplifies the symbolic meaning, underlining the creative power behind conceptual balance and transformation.",
         "file": "28.png"
     },
     "energy_cycle": "ascending",
@@ -177,7 +177,7 @@
             {
                 "title": "The Alchemist's Awakening (Man vs. Self)",
                 "theme": "Haruki Murakami",
-                "short_story": "In the quiet solitude of her dimly lit workshop, Amara felt the pulse of an idea unfurling within her mind. She was surrounded by the tools of alchemy, books stacked like towers and flasks lined up with precision, yet her greatest creation was still formless, existing only as a concept in the recesses of her thoughts. This raw potential hummed like a live wire, compelling her towards action. Restrained by uncertainty, Amara questioned her readiness to shape the idea into reality. As dawn broke, she began organizing her materials, weaving knowledge and intuition into the framework of her experiment. Her heart raced as she encountered resistance\u2014elements refusing to combine as expected, barriers pushing back against her intentions. Yet, she pressed on, infusing each step with meticulous care. Over the days, Amara's vision began to manifest, a tangible entity taking form before her eyes. With each success, her confidence grew, and she danced on the precipice of discovery. Finally, her creation stood complete, a triumph of mastery and realization. Looking upon it, she understood that it no longer belonged to her alone, but to the world, transcending its creator with a life and impact of its own.",
+                "short_story": "In the quiet solitude of her dimly lit workshop, Amara felt the pulse of an idea unfurling within her mind. She was surrounded by the tools of alchemy, books stacked like towers and flasks lined up with precision, yet her greatest creation was still formless, existing only as a concept in the recesses of her thoughts. This raw potential hummed like a live wire, compelling her towards action. Restrained by uncertainty, Amara questioned her readiness to shape the idea into reality. As dawn broke, she began organizing her materials, weaving knowledge and intuition into the framework of her experiment. Her heart raced as she encountered resistance—elements refusing to combine as expected, barriers pushing back against her intentions. Yet, she pressed on, infusing each step with meticulous care. Over the days, Amara's vision began to manifest, a tangible entity taking form before her eyes. With each success, her confidence grew, and she danced on the precipice of discovery. Finally, her creation stood complete, a triumph of mastery and realization. Looking upon it, she understood that it no longer belonged to her alone, but to the world, transcending its creator with a life and impact of its own.",
                 "lines_in_context": {
                     "6": {
                         "name": "Transcendence",
@@ -260,14 +260,16 @@
         "Platonic": "The ethereal influence, like the gentle breath of a muse, manifests itself in the radiant symphony of harmonious unity.",
         "Taoist": "The subtle touch of the gentle wind unfurls like the laughter of the harmonious river.",
         "Tholonic": "The gentle unfolding of subtlety and profound influence is unveiled through the joyful dance of harmonious expression.",
-        "Thermodynamics": "The emergence of subtle energies orchestrates a symphony of equilibrium and delight within the thermodynamic process."
+        "Thermodynamics": "The emergence of subtle energies orchestrates a symphony of equilibrium and delight within the thermodynamic process.",
+        "general": "A gentle influence unfolds joyfully, creating a harmonious balance.",
+        "explanation": "The lower trigram, 'The Gentle,' signifies a subtle and penetrating force, while the upper trigram, 'The Joyous,' embodies happiness and harmony. Together, they describe a process where gentle influence leads to joyful harmony, creating a balanced and transformative union."
     },
     "line_type": [
-        "\u268b",
-        "\u268a",
-        "\u268a",
-        "\u268a",
-        "\u268a",
-        "\u268b"
+        "─ ─",
+        "───",
+        "───",
+        "───",
+        "───",
+        "─ ─"
     ]
 }

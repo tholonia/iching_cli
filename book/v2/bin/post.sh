@@ -137,11 +137,11 @@ rm -f /tmp/html.pdf
 
 #^ PROCESS: TOC.html > TOC.pdf
 #! make sure the HTML output was generated with teh 'nopages' CSS to avoid page numbers
-process_document "TOC" "iching_nopage.css"
+process_document "TOC" "iching_nopage.css" # make PDF from HTML
 cp ${D}/../includes/TOC.pdf /tmp/TOC.pdf
-pdftk /tmp/TOC.pdf cat 3-end output  ${D}/../includes/TOC.pdf #/tmp//TOC-cut.pdf
-insert 2 blank pages
-pdftk ${BLANK} /tmp/TOC-cut.pdf cat output ${D}/../includes/TOC.pdf
+pdftk /tmp/TOC.pdf cat 3-end output  /tmp//TOC-cut.pdf
+# insert 2 blank pages
+pdftk ${BLANK} /tmp/TOC-cut.pdf cat output ${D}/../includes/FINAL_TOC.pdf
 
 #^ PROCESS: COPYRIGHT_PAGE_v1.html > COPYRIGHT_PAGE_v1.pdf
 #! make sure the HTML output was generated with teh 'nopages' CSS to avoid page numbers
@@ -173,15 +173,33 @@ pdftk ${BLANK} /tmp/iching-cut.pdf cat output ${D}/../includes/iching.pdf
 #~-----------------------------------------------------------------------------------
 echo -e "\033[33mMerging...\033[0m"
 
+
+
+
+# TODO
+# - make PNG of chart and insert into PDF page
+# build FINAL
+# insert new photo page after Forward
+#merge
+
 # add copyright and cover to PDF
+
 pdftk \
     ${D}/../includes/COVER_PAGE_8.5x11.pdf \
     ${D}/../includes/COPYRIGHT_PAGE_v1.pdf \
     ${D}/../includes/BOOK_INTRO.pdf \
-    ${D}/../includes/q8_iching.pdf \
-    ${D}/../includes/TOC.pdf \
+    ${D}/../includes/q8_iching_png.pdf \
+    ${D}/../includes/FINAL_TOC.pdf \
     ${D}/../includes/iching.pdf \
     cat output ${D}/../includes/FINAL_iching.pdf
+
+# pdftk \
+#     ${D}/../includes/COVER_PAGE_8.5x11.pdf \
+#     ${D}/../includes/COPYRIGHT_PAGE_v1.pdf \
+#     ${D}/../includes/BOOK_INTRO.pdf \
+#     ${D}/../includes/FINAL_TOC.pdf \
+#     ${D}/../includes/iching.pdf \
+#     cat output ${D}/../includes/FINAL_iching.pdf
 
 okular ${D}/../includes/FINAL_iching.pdf
 

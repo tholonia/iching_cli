@@ -1,6 +1,6 @@
 {
     "id": 52,
-    "hexagram_code": "\u4df3",
+    "hexagram_code": "䷳",
     "name": "Stillness",
     "description": "The power of conscious non-action and inner quietude. Like a mountain's unshakeable presence or a deep lake's surface at dawn, this represents the strength found in stillness and the clarity that emerges from peaceful observation.",
     "king_wen": {
@@ -13,22 +13,22 @@
         "above": {
             "Trigram Number": 3,
             "Binary Decimal": 3,
-            "Symbol": "\u2636",
-            "Chinese Symbol": "\u826e",
-            "Phonetic": "G\u00e8n",
+            "Symbol": "☶",
+            "Chinese Symbol": "艮",
+            "Phonetic": "Gèn",
             "English Translation": "Mountain",
-            "English Symbol": "\u5c71",
+            "English Symbol": "山",
             "Meaning": "The Still",
             "Quality": "Still and Enduring"
         },
         "below": {
             "Trigram Number": 3,
             "Binary Decimal": 3,
-            "Symbol": "\u2636",
-            "Chinese Symbol": "\u826e",
-            "Phonetic": "G\u00e8n",
+            "Symbol": "☶",
+            "Chinese Symbol": "艮",
+            "Phonetic": "Gèn",
             "English Translation": "Mountain",
-            "English Symbol": "\u5c71",
+            "English Symbol": "山",
             "Meaning": "The Still",
             "Quality": "Still and Enduring"
         }
@@ -93,7 +93,7 @@
         "order8parent": "FINAL INTEGRATION; Higher Order Emergence"
     },
     "image": {
-        "description": "In the context of the Tholonic Model, Ansel Adams' minimalist photography of a mountain symbolizes the theme of STILLNESS and FINAL INTEGRATION. The mountain epitomizes stabilization and enduring presence, embodying a higher order emergence where awareness coalesces into form. Minimalism mirrors the elegance and simplicity of the tholonic structure, emphasizing essential elements and the interplay of light and shadow as aspects of awareness interacting with itself. Photography, as a medium, captures the immediacy of reality, linking the primal point of awareness to the manifestation of tholonic energy in a tangible form. Adams, renowned for his symbolic and award-winning work, uses his lens to express universal love and balance, reflecting the holistic integration of elements\u2014a testament to the emergent properties inherent in both nature and artistic expression.",
+        "description": "In the context of the Tholonic Model, Ansel Adams' minimalist photography of a mountain symbolizes the theme of STILLNESS and FINAL INTEGRATION. The mountain epitomizes stabilization and enduring presence, embodying a higher order emergence where awareness coalesces into form. Minimalism mirrors the elegance and simplicity of the tholonic structure, emphasizing essential elements and the interplay of light and shadow as aspects of awareness interacting with itself. Photography, as a medium, captures the immediacy of reality, linking the primal point of awareness to the manifestation of tholonic energy in a tangible form. Adams, renowned for his symbolic and award-winning work, uses his lens to express universal love and balance, reflecting the holistic integration of elements—a testament to the emergent properties inherent in both nature and artistic expression.",
         "file": "52.png"
     },
     "energy_cycle": "descending",
@@ -139,8 +139,8 @@
             },
             {
                 "title": "The Silence of the Mountain (Man vs. Nature)",
-                "theme": "Gabriel Garc\u00eda M\u00e1rquez",
-                "short_story": "In a valley where time held its breath, Marisol embarked on a solitary quest to find the ancient cave that legends whispered to hold the very origins of life. As dawn broke, she felt the awakening of possibility stir within her\u2014an unfathomable potential that begged to be realized. Yet, with each step closer, the path became harder to see, nature itself challenging her resolve. At first, she fought back, trying to impose her will, but the harder she struggled, the more elusive her goal seemed. On the fourth day, a gentle realization took hold; she needed to attune herself to the rhythm of the valley, to sink into its silence and become one with the limestone and shadow. As she surrendered to the quiet, her perspective shifted; the veil of her ambition lifted. Marisol found herself not a seeker of truth, but a vessel through which the cave could make itself known. With this surrender came mastery, and upon reaching the cave, she understood that it was not a destination, but a beginning. The echoes within promised a new genesis, a story waiting to begin anew, guided by her touch and the whispers of the earth.",
+                "theme": "Gabriel García Márquez",
+                "short_story": "In a valley where time held its breath, Marisol embarked on a solitary quest to find the ancient cave that legends whispered to hold the very origins of life. As dawn broke, she felt the awakening of possibility stir within her—an unfathomable potential that begged to be realized. Yet, with each step closer, the path became harder to see, nature itself challenging her resolve. At first, she fought back, trying to impose her will, but the harder she struggled, the more elusive her goal seemed. On the fourth day, a gentle realization took hold; she needed to attune herself to the rhythm of the valley, to sink into its silence and become one with the limestone and shadow. As she surrendered to the quiet, her perspective shifted; the veil of her ambition lifted. Marisol found herself not a seeker of truth, but a vessel through which the cave could make itself known. With this surrender came mastery, and upon reaching the cave, she understood that it was not a destination, but a beginning. The echoes within promised a new genesis, a story waiting to begin anew, guided by her touch and the whispers of the earth.",
                 "lines_in_context": {
                     "6": {
                         "name": "Transcendence",
@@ -149,7 +149,7 @@
                     },
                     "5": {
                         "name": "Mastery",
-                        "meaning": "She reaches the peak of insight, resonating with a deeper understanding of her role in the valley\u2019s history.",
+                        "meaning": "She reaches the peak of insight, resonating with a deeper understanding of her role in the valley’s history.",
                         "changing": "Arrogance could cloud her judgment, leading her to missteps that unravel her achievements."
                     },
                     "4": {
@@ -259,14 +259,16 @@
         "Platonic": "The very essence of constancy and perseverance is manifested through the harmonious duality of unwavering serenity and resolute endurance.",
         "Taoist": "The fruit of unshakable harmony springs forth from the eternal spirit of steadfast stillness.",
         "Tholonic": "In the fusion of unyielding constancy, steadfast endurance finds its form, each fortifying the other in harmonious accord.",
-        "Thermodynamics": "The emergence of equilibrium is encapsulated in a system at steady state, where the entropy's constancy reinforces itself in the harmonious balance of perpetual stasis."
+        "Thermodynamics": "The emergence of equilibrium is encapsulated in a system at steady state, where the entropy's constancy reinforces itself in the harmonious balance of perpetual stasis.",
+        "general": "In unwavering calmness, enduring stability arises, reflecting the eternal balance of existence.",
+        "explanation": "The lower trigram of 'The Still' embodies a foundation of calm and persistence, while the upper trigram of 'The Still' mirrors this with its own enduring tranquility. Together, they form a unified state of stillness, where each part supports and reinforces the other, creating a harmonious and stable balance that echoes the timeless equilibrium found in nature and the universe."
     },
     "line_type": [
-        "\u268a",
-        "\u268b",
-        "\u268b",
-        "\u268a",
-        "\u268b",
-        "\u268b"
+        "───",
+        "─ ─",
+        "─ ─",
+        "───",
+        "─ ─",
+        "─ ─"
     ]
 }

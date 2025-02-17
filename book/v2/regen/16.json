@@ -1,6 +1,6 @@
 {
     "id": 16,
-    "hexagram_code": "\u4dcf",
+    "hexagram_code": "䷏",
     "name": "Enthusiasm",
     "description": "The powerful energy that arises when inspiration meets receptivity. Like thunder rising from the earth, this represents the natural surge of creative force when preparation meets opportunity.",
     "king_wen": {
@@ -13,22 +13,22 @@
         "above": {
             "Trigram Number": 4,
             "Binary Decimal": 1,
-            "Symbol": "\u2633",
-            "Chinese Symbol": "\u9707",
-            "Phonetic": "Zh\u00e8n",
+            "Symbol": "☳",
+            "Chinese Symbol": "震",
+            "Phonetic": "Zhèn",
             "English Translation": "Thunder",
-            "English Symbol": "\u96f7",
+            "English Symbol": "雷",
             "Meaning": "The Arousing",
             "Quality": "Dynamic and Exciting"
         },
         "below": {
             "Trigram Number": 2,
             "Binary Decimal": 0,
-            "Symbol": "\u2637",
-            "Chinese Symbol": "\u5764",
-            "Phonetic": "K\u016bn",
+            "Symbol": "☷",
+            "Chinese Symbol": "坤",
+            "Phonetic": "Kūn",
             "English Translation": "Earth",
-            "English Symbol": "\u5730",
+            "English Symbol": "地",
             "Meaning": "The Receptive",
             "Quality": "Receptive and Nurturing"
         }
@@ -56,7 +56,7 @@
         {
             "position": 4,
             "name": "Illuminating Guidance",
-            "meaning": "This line shifts focus from individual passion to a broader, communal vision. It encourages harnessing one\u2019s enthusiasm to inspire and guide others.",
+            "meaning": "This line shifts focus from individual passion to a broader, communal vision. It encourages harnessing one’s enthusiasm to inspire and guide others.",
             "changing": "The receptive quality of inner reflection (yin) is transformed into assertive leadership (yang), turning personal insight into collective motivation."
         },
         {
@@ -140,7 +140,7 @@
             {
                 "title": "Whispers of the Storm (Man vs. Nature)",
                 "theme": "Ray Bradbury",
-                "short_story": "In a village perched on the edge of a tempestuous sea, young Elena felt the winds speaking to her through the creaking timbers of her house. Raw and unshaped, her visions rose like fierce waves, battering at the shores of her mind. But instinct whispered, 'Wait.' Her emergence was one of intuition whispering to her in the dark\u2014a spark that needed fanning. As she began crafting sails to harness the untamed forces, her neighbors scoffed, forming the first waves of resistance to her formation. Yet, the sails filled, lifting her spirit. Conflict came as the storm surged, threatening to shatter her creations. Neighbors warned her of the folly, but determination buoyed Elena on. From destruction\u2019s cusp, her sails unfolded, capturing the violent winds in a dance, manifesting dreams upon wild currents. At last, when she reached her zenith, her village saw her mastery; she stood at the pinnacle, a conductor of tempests. Letting the winds breathe life into the sails, Elena watched her work transcend her, ceasing to be hers alone. The storm\u2019s wrath was now a shared song, its power folding back into the sea as wisdom settled into the hearts of the villagers.",
+                "short_story": "In a village perched on the edge of a tempestuous sea, young Elena felt the winds speaking to her through the creaking timbers of her house. Raw and unshaped, her visions rose like fierce waves, battering at the shores of her mind. But instinct whispered, 'Wait.' Her emergence was one of intuition whispering to her in the dark—a spark that needed fanning. As she began crafting sails to harness the untamed forces, her neighbors scoffed, forming the first waves of resistance to her formation. Yet, the sails filled, lifting her spirit. Conflict came as the storm surged, threatening to shatter her creations. Neighbors warned her of the folly, but determination buoyed Elena on. From destruction’s cusp, her sails unfolded, capturing the violent winds in a dance, manifesting dreams upon wild currents. At last, when she reached her zenith, her village saw her mastery; she stood at the pinnacle, a conductor of tempests. Letting the winds breathe life into the sails, Elena watched her work transcend her, ceasing to be hers alone. The storm’s wrath was now a shared song, its power folding back into the sea as wisdom settled into the hearts of the villagers.",
                 "lines_in_context": {
                     "6": {
                         "name": "Transcendence",
@@ -176,28 +176,28 @@
             },
             {
                 "title": "The Spark Within (Man vs. Self)",
-                "theme": "Gabriel Garc\u00eda M\u00e1rquez",
-                "short_story": "In the remote village of San Gabriel, young artist Luc\u00eda felt an inner fire. It began as an elusive spark, a whisper of potential that refused to be silenced. She sensed colors and forms no one else could see, tucked behind the world's ordinary veil. As her visions grew, Luc\u00eda began to shape them into paintings. But with every brush stroke, doubt shouted louder, reminding her of the world's harsh skepticism. Friends and family saw only canvases of chaos and warned her to abandon these feverish pursuits. Determined, Luc\u00eda fought on, yet struggled against the weight of her dreams. Once, when an unexpected storm threatened her work, she found refuge in the belief that her passion would guide her. As the storm passed, a radiant clarity emerged. Her art became a symphony of hues, echoing the vibrant festivals of her youth and attracting the village's attention. Onlookers gathered, eager to glimpse the world through Luc\u00eda's eyes. Her creations danced with vitality, inviting others to feel the very pulse of life she had captured. In surrendering her vision to the world, Luc\u00eda transcended, her art no longer just hers but a shared legacy of wonder.",
+                "theme": "Gabriel García Márquez",
+                "short_story": "In the remote village of San Gabriel, young artist Lucía felt an inner fire. It began as an elusive spark, a whisper of potential that refused to be silenced. She sensed colors and forms no one else could see, tucked behind the world's ordinary veil. As her visions grew, Lucía began to shape them into paintings. But with every brush stroke, doubt shouted louder, reminding her of the world's harsh skepticism. Friends and family saw only canvases of chaos and warned her to abandon these feverish pursuits. Determined, Lucía fought on, yet struggled against the weight of her dreams. Once, when an unexpected storm threatened her work, she found refuge in the belief that her passion would guide her. As the storm passed, a radiant clarity emerged. Her art became a symphony of hues, echoing the vibrant festivals of her youth and attracting the village's attention. Onlookers gathered, eager to glimpse the world through Lucía's eyes. Her creations danced with vitality, inviting others to feel the very pulse of life she had captured. In surrendering her vision to the world, Lucía transcended, her art no longer just hers but a shared legacy of wonder.",
                 "lines_in_context": {
                     "6": {
                         "name": "Transcendence",
-                        "meaning": "Luc\u00eda reaches a point where her creations are embraced by the community, existing beyond her original vision.",
-                        "changing": "If yang changes to yin, Luc\u00eda may cling to her creation, stifling its potential to influence others."
+                        "meaning": "Lucía reaches a point where her creations are embraced by the community, existing beyond her original vision.",
+                        "changing": "If yang changes to yin, Lucía may cling to her creation, stifling its potential to influence others."
                     },
                     "5": {
                         "name": "Mastery",
-                        "meaning": "Luc\u00eda exhibits mastery in her art, blending colors and emotions flawlessly.",
-                        "changing": "If yang changes to yin, Luc\u00eda risks losing touch with her original intent, leading to artistic stagnation."
+                        "meaning": "Lucía exhibits mastery in her art, blending colors and emotions flawlessly.",
+                        "changing": "If yang changes to yin, Lucía risks losing touch with her original intent, leading to artistic stagnation."
                     },
                     "4": {
                         "name": "Manifestation",
                         "meaning": "Her art gains recognition, reflecting newfound harmony between her vision and the external world.",
-                        "changing": "If yin changes to yang, Luc\u00eda might push her vision too forcefully, upsetting the delicate balance achieved."
+                        "changing": "If yin changes to yang, Lucía might push her vision too forcefully, upsetting the delicate balance achieved."
                     },
                     "3": {
                         "name": "Conflict",
-                        "meaning": "Luc\u00eda faces resistance from those who cannot see the value of her interpretations.",
-                        "changing": "If yang changes to yin, Luc\u00eda might abandon her artistic endeavors, succumb to doubt, and halt creation."
+                        "meaning": "Lucía faces resistance from those who cannot see the value of her interpretations.",
+                        "changing": "If yang changes to yin, Lucía might abandon her artistic endeavors, succumb to doubt, and halt creation."
                     },
                     "2": {
                         "name": "Formation",
@@ -206,7 +206,7 @@
                     },
                     "1": {
                         "name": "Emergence",
-                        "meaning": "Luc\u00eda's initial spark of creativity energizes her to unleash her artistic potential.",
+                        "meaning": "Lucía's initial spark of creativity energizes her to unleash her artistic potential.",
                         "changing": "If yang changes to yin, hesitation overtakes her, delaying her journey into creative exploration."
                     }
                 }
@@ -259,14 +259,16 @@
         "Platonic": "When nurturing receptivity meets dynamic excitement, it unfolds as a vivid dance of harmonious vitality, illuminating the very essence of life, as if the forms themselves were brought into a perfect unity.",
         "Taoist": "When gentle receptivity dances with spirited excitement, harmony emerges, guiding resting potential into lively action.",
         "Tholonic": "In the Tholonic wisdom, the graceful embrace of nurturing openness with the fervent pulse of dynamic enthusiasm weaves a radiant tapestry of transformative vigor.",
-        "Thermodynamics": "The fusion of nurturing receptivity with kinetic excitement engenders a dynamic entropy, catalyzing an energetic flux that propels the creative evolution and metamorphosis."
+        "Thermodynamics": "The fusion of nurturing receptivity with kinetic excitement engenders a dynamic entropy, catalyzing an energetic flux that propels the creative evolution and metamorphosis.",
+        "general": "The blend of nurturing calm with lively energy creates a vibrant harmony that sparks transformation.",
+        "explanation": "The lower trigram, 'The Receptive,' symbolizes a nurturing and open state, while the upper trigram, 'The Arousing,' represents dynamic and exciting energy. When these two forces interact, the calm acceptance of potential meets the stimulating drive for action, resulting in a harmonious balance that fuels growth and change."
     },
     "line_type": [
-        "\u268b",
-        "\u268b",
-        "\u268a",
-        "\u268b",
-        "\u268b",
-        "\u268b"
+        "─ ─",
+        "─ ─",
+        "───",
+        "─ ─",
+        "─ ─",
+        "─ ─"
     ]
 }

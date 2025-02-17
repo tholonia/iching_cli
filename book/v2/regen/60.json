@@ -1,6 +1,6 @@
 {
     "id": 60,
-    "hexagram_code": "\u4dfb",
+    "hexagram_code": "䷻",
     "name": "Boundaries",
     "description": "The establishment and maintenance of appropriate limits. Like a river contained by its banks or a society guided by ethical principles, this represents the power of conscious limitation to create meaningful structure and sustainable progress.",
     "king_wen": {
@@ -13,20 +13,20 @@
         "above": {
             "Trigram Number": 6,
             "Binary Decimal": 2,
-            "Symbol": "\u2635",
-            "Chinese Symbol": "\u574e",
-            "Phonetic": "K\u01cen",
+            "Symbol": "☵",
+            "Chinese Symbol": "坎",
+            "Phonetic": "Kǎn",
             "English Translation": "Water",
-            "English Symbol": "\u6c34",
+            "English Symbol": "水",
             "Meaning": "The Abysmal",
             "Quality": "Deep and Mysterious"
         },
         "below": {
             "Trigram Number": 8,
             "Binary Decimal": 4,
-            "Symbol": "\u2631",
-            "Chinese Symbol": "\u5151",
-            "Phonetic": "Du\u00ec",
+            "Symbol": "☱",
+            "Chinese Symbol": "兑",
+            "Phonetic": "Duì",
             "English Translation": "Lake/Marsh",
             "English Symbol": "Joyful and Harmonious",
             "Meaning": "The Joyous",
@@ -55,7 +55,7 @@
         },
         {
             "position": 4,
-            "name": "The Guardian\u2019s Stand",
+            "name": "The Guardian’s Stand",
             "meaning": "This line cautions against overzealous defense; an overly strict boundary can lead to isolation. It encourages moderated enforcement to maintain genuine connection.",
             "changing": "A transformation from defensive withdrawal into balanced assertiveness, where firmness does not exclude compassion."
         },
@@ -140,7 +140,7 @@
             {
                 "title": "Overcoming the Tempest (Man vs. Nature)",
                 "theme": "Gabriel Garcia Marquez",
-                "short_story": "High above the sea, where the sky kissed the earth with roaring clouds, a young fisherman named Mateo stood with his feet planted on wavering boards. In his heart simmered untapped potential\u2014raw and restless\u2014a yearning tide that swirled in the ocean's depths beneath him. Unformed dreams whispered to him in the wind, urging his hands to cast the longest net, entrapping riches beyond his imagination. Yet, Mateo hesitated, tethered by fear of unknown waters and unseen storms. The sea called louder, and with a throbbing pulse, he started to shape his vision, his hands weaving a grand tapestry against the vast blue. He ventured farther than ever before, where tides fought back, their tumultuous dance threatening to consume him. Defiantly, he crafted his vessel to glide with grace, finding the elusive rhythm of the waves. As dawn broke through ominous clouds, the sea surrendered its treasures, laying them gently at Mateo\u2019s feet. He stood triumphant, the net brimming with fortune, yet the sea sang an ancient song that told him the bounty was never truly his. In his release lay his freedom; clenching too tight, he would lose it all to the endless depths.",
+                "short_story": "High above the sea, where the sky kissed the earth with roaring clouds, a young fisherman named Mateo stood with his feet planted on wavering boards. In his heart simmered untapped potential—raw and restless—a yearning tide that swirled in the ocean's depths beneath him. Unformed dreams whispered to him in the wind, urging his hands to cast the longest net, entrapping riches beyond his imagination. Yet, Mateo hesitated, tethered by fear of unknown waters and unseen storms. The sea called louder, and with a throbbing pulse, he started to shape his vision, his hands weaving a grand tapestry against the vast blue. He ventured farther than ever before, where tides fought back, their tumultuous dance threatening to consume him. Defiantly, he crafted his vessel to glide with grace, finding the elusive rhythm of the waves. As dawn broke through ominous clouds, the sea surrendered its treasures, laying them gently at Mateo’s feet. He stood triumphant, the net brimming with fortune, yet the sea sang an ancient song that told him the bounty was never truly his. In his release lay his freedom; clenching too tight, he would lose it all to the endless depths.",
                 "lines_in_context": {
                     "6": {
                         "name": "Transcendence",
@@ -155,7 +155,7 @@
                     "4": {
                         "name": "Manifestation",
                         "meaning": "Mateo refines his craft, finding harmony with the ocean, gaining momentum as his vision aligns with reality.",
-                        "changing": "If yin changes to yang, it signals Mateo\u2019s potential overreach, risking collapse through unchecked ambition."
+                        "changing": "If yin changes to yang, it signals Mateo’s potential overreach, risking collapse through unchecked ambition."
                     },
                     "3": {
                         "name": "Conflict",
@@ -177,7 +177,7 @@
             {
                 "title": "The Alchemist's Journey (Man vs. Self)",
                 "theme": "Paulo Coelho",
-                "short_story": "Elias, a devoted alchemist, stood on the edge of a vast desert where the horizon shimmered with the promise of hidden secrets. Within him stirred a potent force\u2014a boundless potential waiting to manifest. Yet, as Elias surveyed the endless sands, he felt the weight of uncertainty. He knew the power he held was raw and directionless. As he journeyed into the desert, he began to form the first barriers to shape his path, encountering the initial obstacles that would forge his destiny. These challenges brought clarity, defining not only his course but also the essence of his quest. Alongside this realization came formidable opposition\u2014a whirlpool of doubt and external pressures threatening to unravel his resolve. Yet, with determination, Elias moved forward, refining his intentions and aligning his dreams with the realities of the world around him. His vision gained momentum, propelling him toward mastery. At the peak of his journey, he took command of his craft, his influence radiating beyond his own understanding. But as Elias's work reached completion, he recognized that true power lay not in holding on but in letting go, allowing his creation to touch lives far beyond his reach.",
+                "short_story": "Elias, a devoted alchemist, stood on the edge of a vast desert where the horizon shimmered with the promise of hidden secrets. Within him stirred a potent force—a boundless potential waiting to manifest. Yet, as Elias surveyed the endless sands, he felt the weight of uncertainty. He knew the power he held was raw and directionless. As he journeyed into the desert, he began to form the first barriers to shape his path, encountering the initial obstacles that would forge his destiny. These challenges brought clarity, defining not only his course but also the essence of his quest. Alongside this realization came formidable opposition—a whirlpool of doubt and external pressures threatening to unravel his resolve. Yet, with determination, Elias moved forward, refining his intentions and aligning his dreams with the realities of the world around him. His vision gained momentum, propelling him toward mastery. At the peak of his journey, he took command of his craft, his influence radiating beyond his own understanding. But as Elias's work reached completion, he recognized that true power lay not in holding on but in letting go, allowing his creation to touch lives far beyond his reach.",
                 "lines_in_context": {
                     "6": {
                         "name": "Transcendence",
@@ -258,14 +258,16 @@
         "Platonic": "From the profound depths of the Mysterious, the dance of Joyful and Harmonious essences unfolds, as they weave a tapestry of subtle metamorphosis and profound depth.",
         "Taoist": "In the dance of life's mystery, joyous energies flow, crafting a balance profound and ever-changing.",
         "Tholonic": "When Joyful and Harmonious energies rise from the profound abyss of the Deep and Mysterious, they manifest their radiant splendor.",
-        "Thermodynamics": "The exchange between Joyful and Harmonious energies propagates radiant illumination through the vast and enigmatic entropy of the Deep and Mysterious."
+        "Thermodynamics": "The exchange between Joyful and Harmonious energies propagates radiant illumination through the vast and enigmatic entropy of the Deep and Mysterious.",
+        "general": "The interplay of Joyful and Harmonious energies with the Deep and Mysterious creates a dynamic balance of vibrant transformation.",
+        "explanation": "The Joyous represents lightness and happiness, while The Abysmal signifies depth and mystery. Together, they form a dynamic balance where joy interacts with profound depth, creating a continuous cycle of transformation and harmony. This interaction reflects the natural flow of life, where light and dark, surface and depth, combine to produce a balanced and evolving existence."
     },
     "line_type": [
-        "\u268b",
-        "\u268a",
-        "\u268b",
-        "\u268b",
-        "\u268a",
-        "\u268a"
+        "─ ─",
+        "───",
+        "─ ─",
+        "─ ─",
+        "───",
+        "───"
     ]
 }

@@ -1,6 +1,6 @@
 {
     "id": 38,
-    "hexagram_code": "\u4de5",
+    "hexagram_code": "䷥",
     "name": "Diverging Perspectives",
     "description": "Represents opposition, contrast, and the creative tension that arises from differing viewpoints or approaches. Like light separating into a spectrum through a prism, divergence reveals hidden dimensions and possibilities.",
     "king_wen": {
@@ -13,22 +13,22 @@
         "above": {
             "Trigram Number": 7,
             "Binary Decimal": 5,
-            "Symbol": "\u2632",
-            "Chinese Symbol": "\u79bb",
-            "Phonetic": "L\u00ed",
+            "Symbol": "☲",
+            "Chinese Symbol": "离",
+            "Phonetic": "Lí",
             "English Translation": "Fire",
-            "English Symbol": "\u706b",
+            "English Symbol": "火",
             "Meaning": "Bright and Radiant",
             "Quality": "Strong and Creative"
         },
         "below": {
             "Trigram Number": 8,
             "Binary Decimal": 4,
-            "Symbol": "\u2631",
-            "Chinese Symbol": "\u5151",
-            "Phonetic": "Du\u00ec",
+            "Symbol": "☱",
+            "Chinese Symbol": "兑",
+            "Phonetic": "Duì",
             "English Translation": "Lake/Marsh",
-            "English Symbol": "\u6cfd",
+            "English Symbol": "泽",
             "Meaning": "The Joyous",
             "Quality": "Joyful and Harmonious"
         }
@@ -93,7 +93,7 @@
         "order8parent": "TRANSFORMATION; Active Change"
     },
     "image": {
-        "description": "The choice of a prism as the object in this hexagram embodies the concept of \"diverging perspectives,\" symbolizing transformation through the refraction of light into a spectrum of colors\u2014a metaphor for active change and creative tension. Surrealism, with its dreamlike and symbolic nature, aligns with the Tholonic idea of awareness manifesting in complex, layered realities, offering a new way to perceive the mundane as profound. Salvador Dal\u00ed, renowned for his ability to evoke unconscious thoughts and transform them into vibrant imagery, resonates with the Tholonic Model\u2019s emphasis on universal love and creativity as guiding forces in awareness. The medium of fresco, traditionally associated with grand, enduring expressions, mirrors the timeless and holistic nature of tholonic consciousness, integrating awareness, intention, and universal principles into a cohesive, symbolic masterpiece.",
+        "description": "The choice of a prism as the object in this hexagram embodies the concept of \"diverging perspectives,\" symbolizing transformation through the refraction of light into a spectrum of colors—a metaphor for active change and creative tension. Surrealism, with its dreamlike and symbolic nature, aligns with the Tholonic idea of awareness manifesting in complex, layered realities, offering a new way to perceive the mundane as profound. Salvador Dalí, renowned for his ability to evoke unconscious thoughts and transform them into vibrant imagery, resonates with the Tholonic Model’s emphasis on universal love and creativity as guiding forces in awareness. The medium of fresco, traditionally associated with grand, enduring expressions, mirrors the timeless and holistic nature of tholonic consciousness, integrating awareness, intention, and universal principles into a cohesive, symbolic masterpiece.",
         "file": "38.png"
     },
     "energy_cycle": "descending",
@@ -140,7 +140,7 @@
             {
                 "title": "The Dance of the Elements (Man vs. Nature)",
                 "theme": "Isabel Allende",
-                "short_story": "In the lush valley of Arco\u00edris, nature\u2019s bounty lay dormant under a gray shroud, awaiting the spark of creation. Elena, a gifted weaver, felt an untamed force within her fingertips, as though she alone could stir the colorful threads of the earth back into motion. As she walked among the willow trees, touching their leaves, the golden sunlight bestowed whispers of creation, compelling her to weave a tapestry of life. Caught between the pulsing energy of the sun and the calming breath of the shadows, Elena began her work, shaping her inspiration into threads of vibrant hope. Yet the storms rose, powerful and unyielding, challenging her crafted vision with torrents of rain that threatened to wash away her delicate progress. Undeterred, Elena harnessed the fury, her skill weaving the storm's power into her creation. As dawn broke, her tapestry unfurled, casting hues that rivaled the heavens, bringing warmth to every living thing beneath it. The struggle had carved wisdom within her, her work no longer just a creation, but a protection that cloaked the valley, returning its lost harmony. Elena's masterpiece was no longer hers alone, but a living essence that breathed life anew.",
+                "short_story": "In the lush valley of Arcoíris, nature’s bounty lay dormant under a gray shroud, awaiting the spark of creation. Elena, a gifted weaver, felt an untamed force within her fingertips, as though she alone could stir the colorful threads of the earth back into motion. As she walked among the willow trees, touching their leaves, the golden sunlight bestowed whispers of creation, compelling her to weave a tapestry of life. Caught between the pulsing energy of the sun and the calming breath of the shadows, Elena began her work, shaping her inspiration into threads of vibrant hope. Yet the storms rose, powerful and unyielding, challenging her crafted vision with torrents of rain that threatened to wash away her delicate progress. Undeterred, Elena harnessed the fury, her skill weaving the storm's power into her creation. As dawn broke, her tapestry unfurled, casting hues that rivaled the heavens, bringing warmth to every living thing beneath it. The struggle had carved wisdom within her, her work no longer just a creation, but a protection that cloaked the valley, returning its lost harmony. Elena's masterpiece was no longer hers alone, but a living essence that breathed life anew.",
                 "lines_in_context": {
                     "6": {
                         "name": "Harmony Embraced",
@@ -154,7 +154,7 @@
                     },
                     "4": {
                         "name": "Fusion of Forces",
-                        "meaning": "Elena entwines the storm\u2019s energy with her own, expanding her creation\u2019s influence across the valley.",
+                        "meaning": "Elena entwines the storm’s energy with her own, expanding her creation’s influence across the valley.",
                         "changing": "If yin changes to yang, ambition may overextend her reach, risking the tapestry's unity and coherence."
                     },
                     "3": {
@@ -169,15 +169,15 @@
                     },
                     "1": {
                         "name": "Eternal Awakening",
-                        "meaning": "Elena feels the dawn of creativity surveying the valley\u2019s potential for beauty and transformation.",
+                        "meaning": "Elena feels the dawn of creativity surveying the valley’s potential for beauty and transformation.",
                         "changing": "If yang changes to yin, hesitation delays her initial flourish, stifling the spark of inspiration."
                     }
                 }
             },
             {
                 "title": "The Alchemist's Dilemma (Man vs. Self)",
-                "theme": "Gabriel Garc\u00eda M\u00e1rquez",
-                "short_story": "In the secluded village of Macondo, an ambitious alchemist named Salvador felt brimming vibrancy within, like a prism capturing light. Each day, his dreams swirled with fantastical equations and wondrous transformations. Yet, a relentless longing lingered\u2014a desire to create something extraordinary. At dawn, Salvador embarked on his magnum opus. But the path was far from straight. His laboratory resonated with symphonic chaos, beakers tipping over like teetering dominos, as he teetered on the brink of uncertainty. As equations intertwined with reality, opposition emerged from Macondo's elders, cautioning against breaking ancient codes. Salvador was undeterred, his resolve intensifying amidst rising discord. Taking a bold step, he harnessed his calculated dreams into an elixir of sunlight and shadow. At this pinnacle, his spirit commanded the complex alchemy. Clouds dispersed, revealing a creation cloaked in gold - fleeting, mesmerizing, a feast for eternity. With the final realization, Salvador released the essence of his dream into the river of time. His elixir weaved into Macondo's tapestry, unwritten but forever felt, a sacred bridge between possibility and reality.",
+                "theme": "Gabriel García Márquez",
+                "short_story": "In the secluded village of Macondo, an ambitious alchemist named Salvador felt brimming vibrancy within, like a prism capturing light. Each day, his dreams swirled with fantastical equations and wondrous transformations. Yet, a relentless longing lingered—a desire to create something extraordinary. At dawn, Salvador embarked on his magnum opus. But the path was far from straight. His laboratory resonated with symphonic chaos, beakers tipping over like teetering dominos, as he teetered on the brink of uncertainty. As equations intertwined with reality, opposition emerged from Macondo's elders, cautioning against breaking ancient codes. Salvador was undeterred, his resolve intensifying amidst rising discord. Taking a bold step, he harnessed his calculated dreams into an elixir of sunlight and shadow. At this pinnacle, his spirit commanded the complex alchemy. Clouds dispersed, revealing a creation cloaked in gold - fleeting, mesmerizing, a feast for eternity. With the final realization, Salvador released the essence of his dream into the river of time. His elixir weaved into Macondo's tapestry, unwritten but forever felt, a sacred bridge between possibility and reality.",
                 "lines_in_context": {
                     "6": {
                         "name": "Release and Integration",
@@ -259,14 +259,16 @@
         "Platonic": "The radiant soul, imbued with creativity and vigor, comes forth in harmony when joy and balance entwine in sublime unity.",
         "Taoist": "In the dance of joyful harmony and vibrant strength, collaborative creativity springs forth like a river flowing from the source.",
         "Tholonic": "In the realm of Tholonic wisdom, it is said: Joy in its purest form manifests through the synergy of vibrant strength and the brilliance of creative power.",
-        "Thermodynamics": "The convergence of joyful harmony with robust creativity manifests as a dynamic interaction of radiant energy and exuberant entropy."
+        "Thermodynamics": "The convergence of joyful harmony with robust creativity manifests as a dynamic interaction of radiant energy and exuberant entropy.",
+        "general": "The dance of vibrant creativity and joyful harmony weaves a tapestry of radiant unity.",
+        "explanation": "The lower trigram 'The Joyous' embodies joy and harmony, which fosters a receptive environment. The upper trigram 'Bright and Radiant' symbolizes strength and creativity, bringing dynamic energy. Together, they create a synergy where joyful harmony supports and enhances creative strength, resulting in a unified and radiant expression."
     },
     "line_type": [
-        "\u268a",
-        "\u268b",
-        "\u268a",
-        "\u268b",
-        "\u268a",
-        "\u268a"
+        "───",
+        "─ ─",
+        "───",
+        "─ ─",
+        "───",
+        "───"
     ]
 }

@@ -1,6 +1,6 @@
 {
     "id": 15,
-    "hexagram_code": "\u4dce",
+    "hexagram_code": "䷎",
     "name": "Equilibrium",
     "description": "The state of dynamic balance achieved through conscious moderation. Like a mountain resting naturally on earth, this represents stability achieved through alignment with fundamental principles.",
     "king_wen": {
@@ -13,22 +13,22 @@
         "above": {
             "Trigram Number": 2,
             "Binary Decimal": 0,
-            "Symbol": "\u2637",
-            "Chinese Symbol": "\u5764",
-            "Phonetic": "K\u016bn",
+            "Symbol": "☷",
+            "Chinese Symbol": "坤",
+            "Phonetic": "Kūn",
             "English Translation": "Earth",
-            "English Symbol": "\u5730",
+            "English Symbol": "地",
             "Meaning": "The Receptive",
             "Quality": "Receptive and Nurturing"
         },
         "below": {
             "Trigram Number": 3,
             "Binary Decimal": 3,
-            "Symbol": "\u2636",
-            "Chinese Symbol": "\u826e",
-            "Phonetic": "G\u00e8n",
+            "Symbol": "☶",
+            "Chinese Symbol": "艮",
+            "Phonetic": "Gèn",
             "English Translation": "Mountain",
-            "English Symbol": "\u5c71",
+            "English Symbol": "山",
             "Meaning": "The Still",
             "Quality": "Still and Enduring"
         }
@@ -102,7 +102,7 @@
         "entries": [
             {
                 "title": "The Artisan of Balance (Man vs. Man)",
-                "theme": "Gabriel Garc\u00eda M\u00e1rquez",
+                "theme": "Gabriel García Márquez",
                 "short_story": "In the heart of a bustling village, an artisan named Lila was renowned for creating intricate stained glass that captured the essence of the changing seasons. Her work was inspired by the primal forces of nature, and she had a unique ability to balance vibrancy and harmony in her designs.\n\nOne winter, a mysterious patron requested a piece that embodied eternal spring. Lila, stirring with new ideas, began the creative process with a vision that played in her mind like a vivid melody. But the patron's demanding nature soon challenged her inspiration, as they questioned every stroke and color she chose. Lila hesitated, her once-clear vision clouded by doubt and frustration.\n\nRefusing to abandon her art, Lila refined her patterns, seeking balance between the patron's desires and her creative instincts. As she labored, she realized the power within her craft, mastering the delicate interplay of light and shadow like never before.\n\nLila completed the masterpiece, transcending her original design into a creation that breathed warmth and life into the darkest corners of winter. As the village gathered to see her work unveiled, it was clear that Lila had not merely fulfilled a commission but reshaped the very essence of creative struggle into lasting beauty.",
                 "lines_in_context": {
                     "6": {
@@ -177,7 +177,7 @@
             {
                 "title": "The Solitary Sculptor (Man vs. Self)",
                 "theme": "Herman Melville",
-                "short_story": "In the dusky shadows of his workshop, Thomas sat surrounded by uncarved marble slabs, raw potential begging to be shaped. Despite the tantalizing allure of these stones, his mind clouded with creative indecision. Here, in this parched desert of ideas, he grappled with the first tremors of inspiration.\n\nWeeks passed in this purgatory of thought, until one evening, as the moon splashed silver light across his studio, Thomas found his vision taking shape. He plunged deep into the tumult, wrestling form from block, the physical resistance mirroring his inner turmoil.\n\nYet, in merging stone with spirit, Thomas met criticism\u2014a patron's deviating vision clouded his sense of purpose. Each strike of his chisel was, in itself, a counter-strike against doubt. However, perseverance bred clarity, and his work began to resonate with a balance of intention and freedom.\n\nUpon conclusion, the sculpture stood as a testament not just to his mastery, but as an entity unto itself\u2014complete, it transcended origin and purpose under the sun's embrace. This creation, now beyond his ownership, mirrored the pure equilibrium of nature, reaching into the world with a grace not fully his own.",
+                "short_story": "In the dusky shadows of his workshop, Thomas sat surrounded by uncarved marble slabs, raw potential begging to be shaped. Despite the tantalizing allure of these stones, his mind clouded with creative indecision. Here, in this parched desert of ideas, he grappled with the first tremors of inspiration.\n\nWeeks passed in this purgatory of thought, until one evening, as the moon splashed silver light across his studio, Thomas found his vision taking shape. He plunged deep into the tumult, wrestling form from block, the physical resistance mirroring his inner turmoil.\n\nYet, in merging stone with spirit, Thomas met criticism—a patron's deviating vision clouded his sense of purpose. Each strike of his chisel was, in itself, a counter-strike against doubt. However, perseverance bred clarity, and his work began to resonate with a balance of intention and freedom.\n\nUpon conclusion, the sculpture stood as a testament not just to his mastery, but as an entity unto itself—complete, it transcended origin and purpose under the sun's embrace. This creation, now beyond his ownership, mirrored the pure equilibrium of nature, reaching into the world with a grace not fully his own.",
                 "lines_in_context": {
                     "6": {
                         "name": "Transcendence",
@@ -259,14 +259,16 @@
         "Platonic": "When the constancy of serene tranquility meets the embrace of flourishing growth, there arises a harmony of profound depth.",
         "Taoist": "The enduring nature emerges when one embraces receptivity and nurtures with gentle support.",
         "Tholonic": "In the gentle dance of creation, enduring stillness weaves itself into the nurturing embrace of boundless receptivity.",
-        "Thermodynamics": "The emergence of equilibrium is realized through the absorption of external energies and the encouragement of systemic development."
+        "Thermodynamics": "The emergence of equilibrium is realized through the absorption of external energies and the encouragement of systemic development.",
+        "general": "Harmony arises when enduring stillness meets nurturing receptivity, fostering growth and balance.",
+        "explanation": "The Still, representing stability and persistence, combines with The Receptive, symbolizing openness and care, to create a state of balance. The enduring nature of The Still provides a foundation, while The Receptive encourages growth through support and adaptation. Together, they harmonize energies, leading to equilibrium where both stability and nurturing coexist, reflecting a natural synergy that promotes development and tranquility."
     },
     "line_type": [
-        "\u268b",
-        "\u268b",
-        "\u268b",
-        "\u268a",
-        "\u268b",
-        "\u268b"
+        "─ ─",
+        "─ ─",
+        "─ ─",
+        "───",
+        "─ ─",
+        "─ ─"
     ]
 }

@@ -1,6 +1,6 @@
 {
     "id": 27,
-    "hexagram_code": "\u4dda",
+    "hexagram_code": "䷚",
     "name": "Regenerative Nourishment",
     "description": "The cultivation and provision of sustainable nourishment, both physical and spiritual. Like a mountain's nourishing springs feeding the earth below, this hexagram represents the careful stewardship of resources to sustain and regenerate systems.",
     "king_wen": {
@@ -13,22 +13,22 @@
         "above": {
             "Trigram Number": 3,
             "Binary Decimal": 3,
-            "Symbol": "\u2636",
-            "Chinese Symbol": "\u826e",
-            "Phonetic": "G\u00e8n",
+            "Symbol": "☶",
+            "Chinese Symbol": "艮",
+            "Phonetic": "Gèn",
             "English Translation": "Mountain",
-            "English Symbol": "\u5c71",
+            "English Symbol": "山",
             "Meaning": "The Still",
             "Quality": "Still and Enduring"
         },
         "below": {
             "Trigram Number": 4,
             "Binary Decimal": 1,
-            "Symbol": "\u2633",
-            "Chinese Symbol": "\u9707",
-            "Phonetic": "Zh\u00e8n",
+            "Symbol": "☳",
+            "Chinese Symbol": "震",
+            "Phonetic": "Zhèn",
             "English Translation": "Thunder",
-            "English Symbol": "\u96f7",
+            "English Symbol": "雷",
             "Meaning": "The Arousing",
             "Quality": "Dynamic and Exciting"
         }
@@ -93,7 +93,7 @@
         "order8parent": "CHALLENGES; Testing & Strengthening"
     },
     "image": {
-        "description": "The choice of a garden as the object to represent the hexagram \"Regenerative Nourishment\" symbolizes the nurturing and management of resources, embodying the challenges and strengths derived from cultivating growth. Impressionism captures the dynamic interplay of light and color, reflecting the nuanced, ever-changing dynamics in managing a living system. Employing mosaic as the medium highlights the intricacy and interconnectedness of tholons within the garden's ecosystem, each piece contributing to a harmonious whole\u2014analogous to how awareness and intention shape reality. Georgia O\u2019Keeffe\u2019s artistic influence, known for her vibrant depictions of natural forms, underscores the award-winning, symbolic depth present in the piece. This synthesis aligns with tholonic principles, illustrating how interconnected awareness manifests into cohesive, thriving entities through balance, definition, and integration.",
+        "description": "The choice of a garden as the object to represent the hexagram \"Regenerative Nourishment\" symbolizes the nurturing and management of resources, embodying the challenges and strengths derived from cultivating growth. Impressionism captures the dynamic interplay of light and color, reflecting the nuanced, ever-changing dynamics in managing a living system. Employing mosaic as the medium highlights the intricacy and interconnectedness of tholons within the garden's ecosystem, each piece contributing to a harmonious whole—analogous to how awareness and intention shape reality. Georgia O’Keeffe’s artistic influence, known for her vibrant depictions of natural forms, underscores the award-winning, symbolic depth present in the piece. This synthesis aligns with tholonic principles, illustrating how interconnected awareness manifests into cohesive, thriving entities through balance, definition, and integration.",
         "file": "27.png"
     },
     "energy_cycle": "descending",
@@ -103,11 +103,11 @@
             {
                 "title": "The Sculptor's Dream (Man vs. Man)",
                 "theme": "Ray Bradbury",
-                "short_story": "In a city where creativity was rationed, Elias dreamt of sculpting with his heart instead of his hands. Possessing an untamed vision shaped from whispers of intuition rather than the city's cold logic, he defied the regulations that dictated artistic expression. In his small, cluttered studio, a block of marble stood before him\u2014a resolve to release the image trapped within. He hammered away, each strike a rebellion against the dour pragmatism that governed life. As his vision began to take form, the weight of bureaucracy loomed over him, threatening to crush his fragile creation. Yet, Elias refined his craft, his chisel dancing to the rhythm of a dreamer's heart, inching past the walls imposed by the city. Though obstacles arose, his resolve remained unbroken. Slowly, the statue emerged\u2014more than just art, it became a beacon of what was possible beyond confines. Alas, as the city awakened to Elias's sublime creation, he found himself letting go, his masterpiece no longer his to protect but a gift bestowed upon the world, whispering change into every soul it touched, reshaping their view of what could be.",
+                "short_story": "In a city where creativity was rationed, Elias dreamt of sculpting with his heart instead of his hands. Possessing an untamed vision shaped from whispers of intuition rather than the city's cold logic, he defied the regulations that dictated artistic expression. In his small, cluttered studio, a block of marble stood before him—a resolve to release the image trapped within. He hammered away, each strike a rebellion against the dour pragmatism that governed life. As his vision began to take form, the weight of bureaucracy loomed over him, threatening to crush his fragile creation. Yet, Elias refined his craft, his chisel dancing to the rhythm of a dreamer's heart, inching past the walls imposed by the city. Though obstacles arose, his resolve remained unbroken. Slowly, the statue emerged—more than just art, it became a beacon of what was possible beyond confines. Alas, as the city awakened to Elias's sublime creation, he found himself letting go, his masterpiece no longer his to protect but a gift bestowed upon the world, whispering change into every soul it touched, reshaping their view of what could be.",
                 "lines_in_context": {
                     "6": {
                         "name": "Transcendence",
-                        "meaning": "Elias's creation is complete and no longer his\u2014 it has become a symbol beyond him, capable of inspiring others.",
+                        "meaning": "Elias's creation is complete and no longer his— it has become a symbol beyond him, capable of inspiring others.",
                         "changing": "If Elias clings to this creation, fearing its impact, the sculpture risks being hidden, losing its potential to inspire change."
                     },
                     "5": {
@@ -177,7 +177,7 @@
             {
                 "title": "The Painter's Inner Symphony (Man vs. Self)",
                 "theme": "Haruki Murakami",
-                "short_story": "Yuki awoke one morning with a vibrant longing to paint, a vivid image swirling in the depths of her consciousness like a dream she could barely grasp. It called to her, elusive yet irresistible. Driven by an unnamed force, she set out to fill her canvas with life. But the image remained an enigma, a shapeless potential that confounded her strokes and blurred her hues. Frustration simmered as she danced with her brushes, unsure and clumsy, wrestling with the amorphous vision. Doubt cast a shadow over her efforts as each attempt fell short under a barrage of critics\u2014her own voice chief among them. Yet amidst the chaos, she persevered, a quiet current of resolve nudging her forward. Her instincts began to whisper louder, guiding her hand and melding imagination with reality. Colors cascaded across the canvas with intention, each stroke a small triumph over uncertainty. Finally, when the last stroke dried under the quiet afternoon light, Yuki stepped back to witness a creation no longer bound to her, a symphony of stillness and movement transformed into art. In letting go, she realized the image had always existed beyond her, emerging only when she dared to see it fully.",
+                "short_story": "Yuki awoke one morning with a vibrant longing to paint, a vivid image swirling in the depths of her consciousness like a dream she could barely grasp. It called to her, elusive yet irresistible. Driven by an unnamed force, she set out to fill her canvas with life. But the image remained an enigma, a shapeless potential that confounded her strokes and blurred her hues. Frustration simmered as she danced with her brushes, unsure and clumsy, wrestling with the amorphous vision. Doubt cast a shadow over her efforts as each attempt fell short under a barrage of critics—her own voice chief among them. Yet amidst the chaos, she persevered, a quiet current of resolve nudging her forward. Her instincts began to whisper louder, guiding her hand and melding imagination with reality. Colors cascaded across the canvas with intention, each stroke a small triumph over uncertainty. Finally, when the last stroke dried under the quiet afternoon light, Yuki stepped back to witness a creation no longer bound to her, a symphony of stillness and movement transformed into art. In letting go, she realized the image had always existed beyond her, emerging only when she dared to see it fully.",
                 "lines_in_context": {
                     "6": {
                         "name": "Transcendence",
@@ -258,14 +258,16 @@
         "Platonic": "In the realm of forms, the vivid dance of dynamic forces finds its harmony in the serene constancy of enduring stability.",
         "Taoist": "The vibrant dance of energy finds its essence in the embrace of unwavering stillness.",
         "Tholonic": "In the stillness of unyielding resolve, the vibrant surge of dynamic exhilaration finds its form.",
-        "Thermodynamics": "The kinetic fervor of excitement transfers its manifestation through the steady and unyielding equilibrium of inertia."
+        "Thermodynamics": "The kinetic fervor of excitement transfers its manifestation through the steady and unyielding equilibrium of inertia.",
+        "general": "Dynamic energy finds balance in enduring stillness.",
+        "explanation": "The lower trigram 'The Arousing' symbolizes dynamic and exciting energy, representing movement and change. The upper trigram 'The Still' embodies stillness and endurance, signifying stability and constancy. Together, they illustrate how active energy can be harmonized and sustained through the grounding force of stillness, creating a balanced state where motion and rest coexist."
     },
     "line_type": [
-        "\u268a",
-        "\u268b",
-        "\u268b",
-        "\u268b",
-        "\u268b",
-        "\u268a"
+        "───",
+        "─ ─",
+        "─ ─",
+        "─ ─",
+        "─ ─",
+        "───"
     ]
 }

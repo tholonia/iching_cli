@@ -1,6 +1,6 @@
 {
     "id": 23,
-    "hexagram_code": "\u4dd6",
+    "hexagram_code": "䷖",
     "name": "Dissolution",
     "description": "Dissolution or deterioration represents the natural process of decay and dissolution that precedes renewal. Like a mountain eroding or a house falling into disrepair, all structures eventually break down. This deterioration is not a catastrophe but a natural phase that clears the way for new growth.",
     "king_wen": {
@@ -13,22 +13,22 @@
         "above": {
             "Trigram Number": 3,
             "Binary Decimal": 3,
-            "Symbol": "\u2636",
-            "Chinese Symbol": "\u826e",
-            "Phonetic": "G\u00e8n",
+            "Symbol": "☶",
+            "Chinese Symbol": "艮",
+            "Phonetic": "Gèn",
             "English Translation": "Mountain",
-            "English Symbol": "\u5c71",
+            "English Symbol": "山",
             "Meaning": "The Still",
             "Quality": "Still and Enduring"
         },
         "below": {
             "Trigram Number": 2,
             "Binary Decimal": 0,
-            "Symbol": "\u2637",
-            "Chinese Symbol": "\u5764",
-            "Phonetic": "K\u016bn",
+            "Symbol": "☷",
+            "Chinese Symbol": "坤",
+            "Phonetic": "Kūn",
             "English Translation": "Earth",
-            "English Symbol": "\u5730",
+            "English Symbol": "地",
             "Meaning": "The Receptive",
             "Quality": "Receptive and Nurturing"
         }
@@ -93,7 +93,7 @@
         "order8parent": "INNER GROWTH; Internal Development"
     },
     "image": {
-        "description": "The chosen object\u2014a decaying mountain or eroding house\u2014symbolizes the dissolution of rigid structures, aligning with the theme of inner growth and necessary release. Expressionism, as a style, conveys raw emotion and internal struggle, highlighting the transformation inherent in personal development. Charcoal, with its capacity to capture shadows and depth, mirrors the nuanced complexity of self-awareness and the fading barriers within. The selection of Vincent van Gogh as the artist underscores the intensity and passion of this internal journey, reflecting his ability to portray profound emotion and psychological insight. Together, these elements echo the Tholonic principles of negotiation and balance, illustrating how dismantling old forms leads to new, emergent awareness within the holarchic structure of existence.",
+        "description": "The chosen object—a decaying mountain or eroding house—symbolizes the dissolution of rigid structures, aligning with the theme of inner growth and necessary release. Expressionism, as a style, conveys raw emotion and internal struggle, highlighting the transformation inherent in personal development. Charcoal, with its capacity to capture shadows and depth, mirrors the nuanced complexity of self-awareness and the fading barriers within. The selection of Vincent van Gogh as the artist underscores the intensity and passion of this internal journey, reflecting his ability to portray profound emotion and psychological insight. Together, these elements echo the Tholonic principles of negotiation and balance, illustrating how dismantling old forms leads to new, emergent awareness within the holarchic structure of existence.",
         "file": "23.png"
     },
     "energy_cycle": "descending",
@@ -103,7 +103,7 @@
             {
                 "title": "The Sculptor's Descent (Man vs. Man)",
                 "theme": "Fyodor Dostoevsky",
-                "short_story": "In a forgotten town awash with rain and shadow, Dmitri the Sculptor faced the harsh whispers of critics and the haunting gaze of unfinished marble. His hands, once steady in shaping the grandeur of emperors and heroes, trembled under the weight of doubt. His latest creation\u2014a reflection of human agony\u2014lay nearly complete, yet something in its eyes refused him. As patrons withdrew, Dmitri saw his career compromising between truth and survival. His inner struggle mirrored an external battleground, and he stumbled through the cold streets in search of guidance. Storm clouds mirrored the tempests within the sculptor's mind. Crossing the threshold into his studio, Dmitri fell into feverish work, driving chisels with desperate precision until dawn broke through cracked windows. Friends feared for his sanity, watching the sculptor shape his torment into form. At last, the sculpture emerged, not as an idol of beauty but as an echo of suffering and redemption intertwined. Dmitri, gazing upon it, knew he had poured his soul into stone. He released his masterpiece to the world, understanding that it would lead its own existence beyond his hands, bearing his scars and triumphs alike.",
+                "short_story": "In a forgotten town awash with rain and shadow, Dmitri the Sculptor faced the harsh whispers of critics and the haunting gaze of unfinished marble. His hands, once steady in shaping the grandeur of emperors and heroes, trembled under the weight of doubt. His latest creation—a reflection of human agony—lay nearly complete, yet something in its eyes refused him. As patrons withdrew, Dmitri saw his career compromising between truth and survival. His inner struggle mirrored an external battleground, and he stumbled through the cold streets in search of guidance. Storm clouds mirrored the tempests within the sculptor's mind. Crossing the threshold into his studio, Dmitri fell into feverish work, driving chisels with desperate precision until dawn broke through cracked windows. Friends feared for his sanity, watching the sculptor shape his torment into form. At last, the sculpture emerged, not as an idol of beauty but as an echo of suffering and redemption intertwined. Dmitri, gazing upon it, knew he had poured his soul into stone. He released his masterpiece to the world, understanding that it would lead its own existence beyond his hands, bearing his scars and triumphs alike.",
                 "lines_in_context": {
                     "6": {
                         "name": "Transcendence and Release",
@@ -140,7 +140,7 @@
             {
                 "title": "The Unyielding Tide (Man vs. Nature)",
                 "theme": "Gabriel Garcia Marquez",
-                "short_story": "In the tranquil village of San Andres, nestled between luxuriant mountains and the ravenous sea, young fisherman Mateo discovered a buried pearl of unparalleled brilliance. Its discovery flickered in his dreams like a distant star, promising unimaginable wealth and liberation from the village's humble life. Guided by this raw, unshaped promise, his days and nights became consumed by thoughts of its potential, a beacon of change amidst the ceaseless waves. But as he began to wield the pearl's allure, the village's ancient spirits stirred uneasily. To claim its worth, Mateo confronted the village elders, their wisdom sharp against his yearning. Tradition clashed with ambition as they warned of the sea's watchful eye and its envy of treasures wrested from its depths. Undeterred, he sought to defy their warnings, the pearl's promise blazing a path for him. Mateo's resolve grew, his talent honed like the edge of a knife, until the very tide seemed to whisper his name. Yet, with mastery came the weight of choice: the pearl's heart pulsed with each decision. Ultimately, as dawn broke over San Andres, Mateo released the pearl back to the sea, understanding its luminescent truth\u2014it was never his alone. And with that release, the sunsets brightened, infusing the village with newfound harmony and hope.",
+                "short_story": "In the tranquil village of San Andres, nestled between luxuriant mountains and the ravenous sea, young fisherman Mateo discovered a buried pearl of unparalleled brilliance. Its discovery flickered in his dreams like a distant star, promising unimaginable wealth and liberation from the village's humble life. Guided by this raw, unshaped promise, his days and nights became consumed by thoughts of its potential, a beacon of change amidst the ceaseless waves. But as he began to wield the pearl's allure, the village's ancient spirits stirred uneasily. To claim its worth, Mateo confronted the village elders, their wisdom sharp against his yearning. Tradition clashed with ambition as they warned of the sea's watchful eye and its envy of treasures wrested from its depths. Undeterred, he sought to defy their warnings, the pearl's promise blazing a path for him. Mateo's resolve grew, his talent honed like the edge of a knife, until the very tide seemed to whisper his name. Yet, with mastery came the weight of choice: the pearl's heart pulsed with each decision. Ultimately, as dawn broke over San Andres, Mateo released the pearl back to the sea, understanding its luminescent truth—it was never his alone. And with that release, the sunsets brightened, infusing the village with newfound harmony and hope.",
                 "lines_in_context": {
                     "6": {
                         "name": "Release to Infinity",
@@ -177,7 +177,7 @@
             {
                 "title": "The Alchemist's Dilemma (Man vs. Self)",
                 "theme": "Herman Melville",
-                "short_story": "In a bustling city concealed by fog and the relentless hum of its inhabitants, Alden the Alchemist sat by his cracked window, an unforgiving crucible before him. His heart, filled with raw potential, stirred with the possibility of transmuting lead into gold\u2014a feat unmastered since the ancients. Every sunrise spoke of unshaped dreams, yet each dusk returned with the weight of unfulfilled promise. As months dissolved into shadows, Alden began carving his path against insurmountable barriers. The world outside jeered at his tumultuous quarters, dismissing his experiments as folly. In quiet resolve, Alden shaped his bottle-strewn laboratory into a chamber of purpose. However, relentless doubt took form in ominous shadows that danced across the walls, challenging his very spirit. But Alden pressed on, refining his vision, aligning his work with the alchemic principles imbibed from ancient texts. His concoctions grew vibrant, spilling hues of emerald and deep crimson, as the city seemed to pause, holding its breath. At the peak of passion, Alden stood before his transmutation circle, poised between power and folly. He realized his creation had surpassed the constraints of his hands. Leaving the window ajar, a wind swept in, carrying his laboratory's essence to the world, intent on evolving beyond his grasp.",
+                "short_story": "In a bustling city concealed by fog and the relentless hum of its inhabitants, Alden the Alchemist sat by his cracked window, an unforgiving crucible before him. His heart, filled with raw potential, stirred with the possibility of transmuting lead into gold—a feat unmastered since the ancients. Every sunrise spoke of unshaped dreams, yet each dusk returned with the weight of unfulfilled promise. As months dissolved into shadows, Alden began carving his path against insurmountable barriers. The world outside jeered at his tumultuous quarters, dismissing his experiments as folly. In quiet resolve, Alden shaped his bottle-strewn laboratory into a chamber of purpose. However, relentless doubt took form in ominous shadows that danced across the walls, challenging his very spirit. But Alden pressed on, refining his vision, aligning his work with the alchemic principles imbibed from ancient texts. His concoctions grew vibrant, spilling hues of emerald and deep crimson, as the city seemed to pause, holding its breath. At the peak of passion, Alden stood before his transmutation circle, poised between power and folly. He realized his creation had surpassed the constraints of his hands. Leaving the window ajar, a wind swept in, carrying his laboratory's essence to the world, intent on evolving beyond his grasp.",
                 "lines_in_context": {
                     "6": {
                         "name": "Sacrifice of Authority",
@@ -258,14 +258,16 @@
         "Platonic": "The soul attains its deepest stability and resilience through the harmonious union of nurturing receptivity and steadfast endurance.",
         "Taoist": "In the dance of yielding care and steadfast calm, harmony emerges, nurturing strength through the currents of change.",
         "Tholonic": "In the Tholonic perspective, the dance of nurturing openness and unwavering strength weaves a deep alchemy, birthing resilience amidst the certainty of change.",
-        "Thermodynamics": "The convergence of entropic flexibility and enthalpic persistence generates a thermodynamic equilibrium that catalyzes the transformation of existing states, allowing the entropy of the former to pave the way for the emergence of the novel."
+        "Thermodynamics": "The convergence of entropic flexibility and enthalpic persistence generates a thermodynamic equilibrium that catalyzes the transformation of existing states, allowing the entropy of the former to pave the way for the emergence of the novel.",
+        "general": "The union of nurturing receptivity and steadfast endurance fosters resilience and transformation through change.",
+        "explanation": "The lower trigram, 'The Receptive,' embodies nurturing and adaptability, while the upper trigram, 'The Still,' represents stability and persistence. Together, they create a dynamic balance where adaptability meets stability, fostering resilience. This synthesis allows for transformation, as nurturing flexibility supports enduring strength, enabling growth and change."
     },
     "line_type": [
-        "\u268a",
-        "\u268b",
-        "\u268b",
-        "\u268b",
-        "\u268b",
-        "\u268b"
+        "───",
+        "─ ─",
+        "─ ─",
+        "─ ─",
+        "─ ─",
+        "─ ─"
     ]
 }

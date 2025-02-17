@@ -1,11 +1,11 @@
 {
     "id": 56,
-    "hexagram_code": "\u4df7",
+    "hexagram_code": "䷷",
     "name": "Transition",
     "description": "The process of temporary yet necessary wandering or travel. Like a bird on migration or an explorer in foreign lands, this represents the value of movement through unfamiliar territory as a path to growth and understanding.",
     "king_wen": {
         "sequence": 56,
-        "traditional_title": "\u5415/The Wanderer",
+        "traditional_title": "吕/The Wanderer",
         "common_title": ""
     },
     "binary_sequence": 44,
@@ -13,22 +13,22 @@
         "above": {
             "Trigram Number": 7,
             "Binary Decimal": 5,
-            "Symbol": "\u2632",
-            "Chinese Symbol": "\u79bb",
-            "Phonetic": "L\u00ed",
+            "Symbol": "☲",
+            "Chinese Symbol": "离",
+            "Phonetic": "Lí",
             "English Translation": "Fire",
-            "English Symbol": "\u706b",
+            "English Symbol": "火",
             "Meaning": "The Clinging",
             "Quality": "Bright and Radiant"
         },
         "below": {
             "Trigram Number": 3,
             "Binary Decimal": 3,
-            "Symbol": "\u2636",
-            "Chinese Symbol": "\u826e",
-            "Phonetic": "G\u00e8n",
+            "Symbol": "☶",
+            "Chinese Symbol": "艮",
+            "Phonetic": "Gèn",
             "English Translation": "Mountain",
-            "English Symbol": "\u5c71",
+            "English Symbol": "山",
             "Meaning": "The Still",
             "Quality": "Still and Enduring"
         }
@@ -103,7 +103,7 @@
             {
                 "title": "The Sculptor's Dilemma (Man vs. Man)",
                 "theme": "Ernest Hemingway",
-                "short_story": "In a small town sculptor's workshop, light filters through dusty windows, illuminating a block of marble\u2014an untouched mass, promising a masterpiece within. Antonio, the artist, stands before it, his mind brimming with visions yet plagued by uncertainty. Each chisel's strike echoes his fears of failure shadowing untapped potential (Emergence). Eager to shape the chaos, he begins without pause but quickly hits an unforeseen fracture within the stone, a crack threatening to splinter his burgeoning vision (Formation). Doubt grows as setbacks loom, a critical moment testing his resolve. The townspeakers murmur of his slipping reputation, fueling his internal conflict (Conflict). Rallying his determination, Antonio meticulously aligns his inspiration with the stone\u2019s hidden form; symmetry and grace begin manifesting through calculated strikes (Manifestation). As days pass, mastery overtakes him\u2014his touch commands the marble, shaping lifelike figures amid swirling robes (Mastery). Finally, the sculpture stands tall, transcending its creator's dreams, admired by all who visit. Yet Antonio hesitates to release it to the world, clinging to the creation he fears will define him, risking stagnation in reluctance to let it speak on its own (Transcendence).",
+                "short_story": "In a small town sculptor's workshop, light filters through dusty windows, illuminating a block of marble—an untouched mass, promising a masterpiece within. Antonio, the artist, stands before it, his mind brimming with visions yet plagued by uncertainty. Each chisel's strike echoes his fears of failure shadowing untapped potential (Emergence). Eager to shape the chaos, he begins without pause but quickly hits an unforeseen fracture within the stone, a crack threatening to splinter his burgeoning vision (Formation). Doubt grows as setbacks loom, a critical moment testing his resolve. The townspeakers murmur of his slipping reputation, fueling his internal conflict (Conflict). Rallying his determination, Antonio meticulously aligns his inspiration with the stone’s hidden form; symmetry and grace begin manifesting through calculated strikes (Manifestation). As days pass, mastery overtakes him—his touch commands the marble, shaping lifelike figures amid swirling robes (Mastery). Finally, the sculpture stands tall, transcending its creator's dreams, admired by all who visit. Yet Antonio hesitates to release it to the world, clinging to the creation he fears will define him, risking stagnation in reluctance to let it speak on its own (Transcendence).",
                 "lines_in_context": {
                     "6": {
                         "name": "Transcendence",
@@ -112,7 +112,7 @@
                     },
                     "5": {
                         "name": "Mastery",
-                        "meaning": "The artist commands his work with expertise, shaping it to reflect his vision at its peak\u2014heralding an artistic triumph.",
+                        "meaning": "The artist commands his work with expertise, shaping it to reflect his vision at its peak—heralding an artistic triumph.",
                         "changing": "Misjudgment in mastery could lead to arrogance, risking the flaw that undermines the sculpture's integrity."
                     },
                     "4": {
@@ -139,7 +139,7 @@
             },
             {
                 "title": "The Unseen Path (Man vs. Nature)",
-                "theme": "Gabriel Garc\u00eda M\u00e1rquez",
+                "theme": "Gabriel García Márquez",
                 "short_story": "In a village where the jungle encroaches upon the weary paths of tradition, a young woman named Rosa dreams not of marriage, but of the great expanse beyond the trees. She senses an untapped potential within her that yearns to break free. Yet, she hesitates at the dawn of her journey, fearing the unknown paths ahead. With a whispered prayer, Rosa steps into the jungle, letting her instincts guide her (Emergence). As vines snare her feet and thorns tear at her clothes, she begins to carve a path through the greenery, shaping her direction despite nature's attempts to hold her back (Formation). The deeper she travels, the more the jungle seems to resist, presenting obstacles and strange calls that echo through the night (Conflict). Undeterred, Rosa finds harmony with the jungle, aligning her steps with the rhythm of the world around her (Manifestation). As dusk turns to dawn, Rosa emerges at the edge of a vast, shimmering coast, her heart pounding with newfound mastery over her journey (Mastery). She stands at the shore, understanding that this is but the beginning, the ocean representing an expanse of possibilities beyond her control (Transcendence).",
                 "lines_in_context": {
                     "6": {
@@ -259,14 +259,16 @@
         "Platonic": "In the realm of the immutable, the unwavering constancy reveals itself in a luminous and vivacious essence.",
         "Taoist": "The unmoving mountain endures with quiet strength, out of which springs forth bright illumination, as clarity arises from the root of tranquility.",
         "Tholonic": "In the silent stillness and unwavering resolve of the Mountain, there emerges the radiant luminescence of Fire.",
-        "Thermodynamics": "The persistent equilibrium of the Mountain serves as the foundation upon which the radiance of Fire manifests."
+        "Thermodynamics": "The persistent equilibrium of the Mountain serves as the foundation upon which the radiance of Fire manifests.",
+        "general": "Enduring stability gives rise to illuminating clarity.",
+        "explanation": "The lower trigram, 'The Still,' symbolizes stability and endurance, akin to a mountain's steadfastness. This foundation supports the upper trigram, 'The Clinging,' which represents brightness and clarity, like a fire's illuminating nature. Together, they illustrate how enduring stability can lead to moments of clear insight and illumination."
     },
     "line_type": [
-        "\u268a",
-        "\u268b",
-        "\u268a",
-        "\u268a",
-        "\u268b",
-        "\u268b"
+        "───",
+        "─ ─",
+        "───",
+        "───",
+        "─ ─",
+        "─ ─"
     ]
 }

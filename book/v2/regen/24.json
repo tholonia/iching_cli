@@ -1,6 +1,6 @@
 {
     "id": 24,
-    "hexagram_code": "\u4dd7",
+    "hexagram_code": "䷗",
     "name": "Return",
     "description": "The point where energy begins its renewal cycle. Like dawn breaking after night, this represents the natural emergence of new potential.",
     "king_wen": {
@@ -13,22 +13,22 @@
         "above": {
             "Trigram Number": 2,
             "Binary Decimal": 0,
-            "Symbol": "\u2637",
-            "Chinese Symbol": "\u5764",
-            "Phonetic": "K\u016bn",
+            "Symbol": "☷",
+            "Chinese Symbol": "坤",
+            "Phonetic": "Kūn",
             "English Translation": "Earth",
-            "English Symbol": "\u5730",
+            "English Symbol": "地",
             "Meaning": "The Receptive",
             "Quality": "Receptive and Nurturing"
         },
         "below": {
             "Trigram Number": 4,
             "Binary Decimal": 1,
-            "Symbol": "\u2633",
-            "Chinese Symbol": "\u9707",
-            "Phonetic": "Zh\u00e8n",
+            "Symbol": "☳",
+            "Chinese Symbol": "震",
+            "Phonetic": "Zhèn",
             "English Translation": "Thunder",
-            "English Symbol": "\u96f7",
+            "English Symbol": "雷",
             "Meaning": "The Arousing",
             "Quality": "Dynamic and Exciting"
         }
@@ -103,7 +103,7 @@
             {
                 "title": "The Whispering Canvas (Man vs. Man)",
                 "theme": "Neil Gaiman",
-                "short_story": "In a quiet corner of an ancient city, where cobblestone streets whispered secrets only to those willing to listen, a young artist named Elara was drawn to a blank canvas. The canvas seemed to pulse with possibilities, urging her to begin a journey she had not yet envisioned. The first brushstrokes were uncertain but imbued with raw, unfiltered emotion\u2014a promise of creation.\n\nAs Elara continued, she faced resistance from within. Her mind warred with the chaotic symphony of ideas clamoring for resolution. Yet she pushed onward, weaving colors and feelings into a tapestry that began to find its shape.\n\nThe city's critics, faceless yet powerful, loomed over her work with skepticism and doubt. They were a formidable barrier, casting shadows over her fledgling masterpiece, yet invigorating her resolve.\n\nGradually, Elara's vision started to align with reality. The strokes on the canvas grew confident, each one a declaration of steadfastness that captured the very essence of her soul.\n\nHer creation reached a peak. The canvas no longer just reflected her dreams but transcended them, a bridge between the world she knew and the world she dared to imagine.\n\nIn the end, Elara learned to let go. Her canvas became part of the city's tapestry, whispering secrets that would inspire others to embrace their journeys of creation and transformation.",
+                "short_story": "In a quiet corner of an ancient city, where cobblestone streets whispered secrets only to those willing to listen, a young artist named Elara was drawn to a blank canvas. The canvas seemed to pulse with possibilities, urging her to begin a journey she had not yet envisioned. The first brushstrokes were uncertain but imbued with raw, unfiltered emotion—a promise of creation.\n\nAs Elara continued, she faced resistance from within. Her mind warred with the chaotic symphony of ideas clamoring for resolution. Yet she pushed onward, weaving colors and feelings into a tapestry that began to find its shape.\n\nThe city's critics, faceless yet powerful, loomed over her work with skepticism and doubt. They were a formidable barrier, casting shadows over her fledgling masterpiece, yet invigorating her resolve.\n\nGradually, Elara's vision started to align with reality. The strokes on the canvas grew confident, each one a declaration of steadfastness that captured the very essence of her soul.\n\nHer creation reached a peak. The canvas no longer just reflected her dreams but transcended them, a bridge between the world she knew and the world she dared to imagine.\n\nIn the end, Elara learned to let go. Her canvas became part of the city's tapestry, whispering secrets that would inspire others to embrace their journeys of creation and transformation.",
                 "lines_in_context": {
                     "6": {
                         "name": "Transcendence",
@@ -139,8 +139,8 @@
             },
             {
                 "title": "The Beckoning of the Untamed Forest (Man vs. Nature)",
-                "theme": "Gabriel Garc\u00eda M\u00e1rquez",
-                "short_story": "In a village nestled between soaring mountains and deep, untouched forests, a young woman named Alma felt an unexplainable pull towards the woods that loomed at the village's edge. These forests, both feared and revered by her people, were a mystery shrouded in legends.\n\nDriven by an irresistible force, Alma stepped into the woods one day, an action that sparked the first stirrings of creation within her. The trees whispered ancient secrets, and she felt raw, unshaped potential surge through her.\n\nAs she ventured deeper, sculpting her path among towering trees, she encountered unseen barriers\u2014twisted roots that snagged her feet, branches that blocked her way\u2014demanding focus as she carved a course forward.\n\nNature itself seemed to challenge Alma, unleashing gusts of wind and torrents of rain, threatening to halt her journey. Yet, with grit and determination, she pushed onward, slowly finding harmony with her surroundings.\n\nIn time, Alma mastered the forest's secrets, learning to traverse its winding paths with grace. Her connection with the land deepened, and she stood at the precipice of understanding.\n\nAs dawn broke over the treetops, Alma realized her journey had transformed her. The forest's mysteries were no longer hers to uncover alone; they belonged to the world, a tale yet to be told.",
+                "theme": "Gabriel García Márquez",
+                "short_story": "In a village nestled between soaring mountains and deep, untouched forests, a young woman named Alma felt an unexplainable pull towards the woods that loomed at the village's edge. These forests, both feared and revered by her people, were a mystery shrouded in legends.\n\nDriven by an irresistible force, Alma stepped into the woods one day, an action that sparked the first stirrings of creation within her. The trees whispered ancient secrets, and she felt raw, unshaped potential surge through her.\n\nAs she ventured deeper, sculpting her path among towering trees, she encountered unseen barriers—twisted roots that snagged her feet, branches that blocked her way—demanding focus as she carved a course forward.\n\nNature itself seemed to challenge Alma, unleashing gusts of wind and torrents of rain, threatening to halt her journey. Yet, with grit and determination, she pushed onward, slowly finding harmony with her surroundings.\n\nIn time, Alma mastered the forest's secrets, learning to traverse its winding paths with grace. Her connection with the land deepened, and she stood at the precipice of understanding.\n\nAs dawn broke over the treetops, Alma realized her journey had transformed her. The forest's mysteries were no longer hers to uncover alone; they belonged to the world, a tale yet to be told.",
                 "lines_in_context": {
                     "6": {
                         "name": "Transcendence",
@@ -260,14 +260,16 @@
         "Platonic": "In the sphere of receptivity and the embrace of nurturing care, doth the vivifying essence manifest and reveal itself.",
         "Taoist": "In the dance of yin and yang, the vibrant potential elegantly blossoms within the gentle arms of nurturing forces.",
         "Tholonic": "In the realm of Tholonic wisdom, one might express: \"The vivacious dance of dynamic energy unfurls its essence amidst a tapestry woven with receptiveness and tender sustenance.",
-        "Thermodynamics": "The manifestation of energy and enthusiasm arises in equilibrium through the harmonious interaction of receptivity and sustaining dynamics."
+        "Thermodynamics": "The manifestation of energy and enthusiasm arises in equilibrium through the harmonious interaction of receptivity and sustaining dynamics.",
+        "general": "Dynamic energy flourishes when embraced by nurturing receptivity.",
+        "explanation": "The lower trigram, 'The Arousing', symbolizes dynamic and exciting energy, which represents potential and enthusiasm. The upper trigram, 'The Receptive', signifies nurturing and supportive qualities, providing a fertile ground for growth. Together, they illustrate how vibrant energy is best expressed and realized when it is supported by a receptive and nurturing environment, allowing it to flourish and return to its full potential."
     },
     "line_type": [
-        "\u268b",
-        "\u268b",
-        "\u268b",
-        "\u268b",
-        "\u268b",
-        "\u268a"
+        "─ ─",
+        "─ ─",
+        "─ ─",
+        "─ ─",
+        "─ ─",
+        "───"
     ]
 }

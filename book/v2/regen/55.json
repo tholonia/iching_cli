@@ -1,6 +1,6 @@
 {
     "id": 55,
-    "hexagram_code": "\u4df6",
+    "hexagram_code": "䷶",
     "name": "Momentum",
     "description": "The state of maximum influence and energy. Like a wave at its peak or a project reaching critical mass, this represents the height of power and the need to manage abundant energy wisely.",
     "king_wen": {
@@ -13,22 +13,22 @@
         "above": {
             "Trigram Number": 4,
             "Binary Decimal": 1,
-            "Symbol": "\u2633",
-            "Chinese Symbol": "\u9707",
-            "Phonetic": "Zh\u00e8n",
+            "Symbol": "☳",
+            "Chinese Symbol": "震",
+            "Phonetic": "Zhèn",
             "English Translation": "Thunder",
-            "English Symbol": "\u96f7",
+            "English Symbol": "雷",
             "Meaning": "The Arousing",
             "Quality": "Dynamic and Exciting"
         },
         "below": {
             "Trigram Number": 7,
             "Binary Decimal": 5,
-            "Symbol": "\u2632",
-            "Chinese Symbol": "\u79bb",
-            "Phonetic": "L\u00ed",
+            "Symbol": "☲",
+            "Chinese Symbol": "离",
+            "Phonetic": "Lí",
             "English Translation": "Fire",
-            "English Symbol": "\u706b",
+            "English Symbol": "火",
             "Meaning": "The Clinging",
             "Quality": "Bright and Radiant"
         }
@@ -51,7 +51,7 @@
             "position": 5,
             "name": "Flourishing Momentum",
             "meaning": "This line signifies the peak of growth and success. Creative energy flourishes, and the movement becomes a positive force that inspires and empowers.",
-            "changing": "A harmonious integration where yin\u2019s openness seamlessly blends with the dynamic force of yang, propelling energy outward with vitality and balance."
+            "changing": "A harmonious integration where yin’s openness seamlessly blends with the dynamic force of yang, propelling energy outward with vitality and balance."
         },
         {
             "position": 4,
@@ -103,7 +103,7 @@
             {
                 "title": "The Final Symphony (Man vs. Man)",
                 "theme": "Ludwig van Beethoven",
-                "short_story": "In the dim glow of the rehearsal hall, Franz sat poised at the piano, a tempest of ideas swirling in his mind. Here lay the raw seed of his masterpiece\u2014a symphony that would challenge the boundaries of music itself. Yet, with each note engraved onto the staff, doubt lingered at his fingertips. As the piece found form, Franz faced critics who claimed his visions were too grand, yet he pressed on, each stave a defiant answer. Conflict brewed, his contemporaries unable to fathom the scope of his ambition. But through the dissonance emerged a harmony like no other, a melody that danced with his soul's cadence. As the orchestra swelled, Franz felt a symbiotic magic, his creation becoming an uncontrollable force. At the symphony\u2019s premiere, he stood at the pinnacle of his craft, conducting with a fervor that befuddled lesser men. Yet, as the final crescendo reverberated, Franz knew he must release this opus into the world, beyond his control, a legacy of sound that would ripple through time. His soul was silent, encapsulated in perfect tranquility even as the applause roared. And thus, his masterpiece transcended, a testament to the power of creation both boundless and free.",
+                "short_story": "In the dim glow of the rehearsal hall, Franz sat poised at the piano, a tempest of ideas swirling in his mind. Here lay the raw seed of his masterpiece—a symphony that would challenge the boundaries of music itself. Yet, with each note engraved onto the staff, doubt lingered at his fingertips. As the piece found form, Franz faced critics who claimed his visions were too grand, yet he pressed on, each stave a defiant answer. Conflict brewed, his contemporaries unable to fathom the scope of his ambition. But through the dissonance emerged a harmony like no other, a melody that danced with his soul's cadence. As the orchestra swelled, Franz felt a symbiotic magic, his creation becoming an uncontrollable force. At the symphony’s premiere, he stood at the pinnacle of his craft, conducting with a fervor that befuddled lesser men. Yet, as the final crescendo reverberated, Franz knew he must release this opus into the world, beyond his control, a legacy of sound that would ripple through time. His soul was silent, encapsulated in perfect tranquility even as the applause roared. And thus, his masterpiece transcended, a testament to the power of creation both boundless and free.",
                 "lines_in_context": {
                     "6": {
                         "name": "Transcendence",
@@ -132,14 +132,14 @@
                     },
                     "1": {
                         "name": "Emergence",
-                        "meaning": "The first stirrings of Franz\u2019s musical creation, filled with raw and unshaped potential.",
+                        "meaning": "The first stirrings of Franz’s musical creation, filled with raw and unshaped potential.",
                         "changing": "If yang changes to yin, it suggests hesitation or failure to act, delaying the awakening of his symphonic impulse."
                     }
                 }
             },
             {
                 "title": "The Storm Within (Man vs. Nature)",
-                "theme": "Gabriel Garc\u00eda M\u00e1rquez",
+                "theme": "Gabriel García Márquez",
                 "short_story": "In an isolated coastal village, young Mateo felt the pull of the ocean within him, an unexplainable surge of energy, like a primal storm stitched into his soul. With no compass to guide him, he wandered the shores, stuff of dreams swimming in his eyes. One sunrise, the elders gathered, whispering of impending change, as if sensing the murmur of the universe's pulse through him. Mateo crafted his first boat from driftwood and woven dreams, each plank a prayer against the sea's untamed might. But as he set sail, the ocean rose to meet him with vengeful waves, seeking to drown his budding hope. Undeterred, Mateo fought the tempest, finding his rhythm upon the tide. He learned to yield, aligning his desires with the ocean's breath, until his boat danced with the waves, a symphony of man and nature. Mastery claimed him, not in conquest, but in understanding, as he rode the crest of the waves with an unwavering heart. His journey was now a legend, echoing across generations, the storm within him unfurling a legacy, no longer his but belonging to all who heard its whispered tale on the wind.",
                 "lines_in_context": {
                     "6": {
@@ -177,7 +177,7 @@
             {
                 "title": "The Artist's Awakening (Man vs. Self)",
                 "theme": "Haruki Murakami",
-                "short_story": "In a small, dimly lit studio in the heart of Tokyo, Aiko sat surrounded by a clutter of paints and half-finished canvases. She felt an insistent pull within, like a river of colors waiting to rush forth, but there was no clear path for it to flow. Each new brushstroke seemed to lead to another dead end, a hesitancy that mirrored the unease within her spirit. Determined to find clarity, Aiko worked tirelessly, her art evolving from mere brushstrokes into vibrant depictions of an abstract world, slowly shaping that inner potential. But with each breakthrough came opposition\u2014critics who scoffed at her vivid interpretations, challenging her resolve. Undeterred, Aiko refined her vision, synchronizing her art with her daily life, allowing it to breathe and exist naturally. Eventually, she found herself at the zenith of her creativity, mastering her craft with both confidence and grace. Her final piece, a swirling cacophony of colors and forms, transcended her studio to become something greater\u2014a universal expression that spoke to the heart of humanity. Yet, as she stepped back from the canvas, she understood that holding onto this creation would stifle its intended freedom, and thus, with an artist's knowing heart, she let it go.",
+                "short_story": "In a small, dimly lit studio in the heart of Tokyo, Aiko sat surrounded by a clutter of paints and half-finished canvases. She felt an insistent pull within, like a river of colors waiting to rush forth, but there was no clear path for it to flow. Each new brushstroke seemed to lead to another dead end, a hesitancy that mirrored the unease within her spirit. Determined to find clarity, Aiko worked tirelessly, her art evolving from mere brushstrokes into vibrant depictions of an abstract world, slowly shaping that inner potential. But with each breakthrough came opposition—critics who scoffed at her vivid interpretations, challenging her resolve. Undeterred, Aiko refined her vision, synchronizing her art with her daily life, allowing it to breathe and exist naturally. Eventually, she found herself at the zenith of her creativity, mastering her craft with both confidence and grace. Her final piece, a swirling cacophony of colors and forms, transcended her studio to become something greater—a universal expression that spoke to the heart of humanity. Yet, as she stepped back from the canvas, she understood that holding onto this creation would stifle its intended freedom, and thus, with an artist's knowing heart, she let it go.",
                 "lines_in_context": {
                     "6": {
                         "name": "Release",
@@ -258,14 +258,16 @@
         "Platonic": "The apex of resplendent clarity manifesting through the vivifying energy of the soul.",
         "Taoist": "Radiant clarity emerges as the dance of harmonious energy.",
         "Tholonic": "In the grand tapestry of existence, radiant brilliance reveals its true essence through the dance of invigorating and electrifying forces.",
-        "Thermodynamics": "The convergence of radiant energy propels through a vortex of dynamic entropy."
+        "Thermodynamics": "The convergence of radiant energy propels through a vortex of dynamic entropy.",
+        "general": "The union of radiant clarity and dynamic energy creates a peak moment of vibrant expression.",
+        "explanation": "The lower trigram 'The Clinging' symbolizes brightness and clarity, while the upper trigram 'The Arousing' signifies dynamic and exciting energy. Together, they form a powerful combination where clarity and energy merge to produce a vivid and vibrant state, reflecting a peak moment of expression and momentum."
     },
     "line_type": [
-        "\u268b",
-        "\u268b",
-        "\u268a",
-        "\u268a",
-        "\u268b",
-        "\u268a"
+        "─ ─",
+        "─ ─",
+        "───",
+        "───",
+        "─ ─",
+        "───"
     ]
 }

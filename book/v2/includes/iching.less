@@ -1,8 +1,6 @@
+
 /*
 // Page Size Variables
-
-// @page-width: 7.44in;
-// @page-height: 9.68in;
 */
 @page-width: 8.5in;
 @page-height: 11in;
@@ -10,85 +8,29 @@
 @margin-outer: 0.5in;
 @margin-gutter: 1in;
 @margin-top: 0.5in;
-@margin-bottom: 0.5in;
+@margin-bottom: 0.2in; /* Reduced to prevent excessive white space */
 
 @base-font-family: 'LinLibertine';
 @base-font-size: 11pt;
 @base-line-height: 1.4;
 
 @text-color: #1f0909;
-@heading-color-1: #666;
-@heading-color-2: #555;
-@heading-color-3: #333;
-@heading-color-4: #333;
-@heading-color-5: #444;
-@heading-color-6: #555;
+@heading-colors: {
+    1: #666;
+    2: #555;
+    3: #333;
+    4: #333;
+    5: #444;
+    6: #555;
+}
 @border-color: #c5c5c5;
 
+/* Font Smoothing */
 .font-smoothing() {
     -webkit-font-smoothing: antialiased !important;
     -moz-osx-font-smoothing: grayscale !important;
     text-rendering: optimizeLegibility !important;
 }
-
-.avoid-breaks() {
-    page-break-inside: avoid !important;
-    break-inside: avoid !important;
-    /*
-    // creates too much whitespace
-    // page-break-after: avoid !important;
-    // break-after: avoid !important;
-    */
-}
-
-/* === Font Declarations === */
-.font-declarations() {
-    @font-face {
-        font-family: 'Times New Roman';
-        src: url('file:///usr/share/fonts/TTF/Times.TTF') format('truetype');
-        font-weight: normal;
-        font-style: normal;
-    }
-
-    @font-face {
-        font-family: 'Times New Roman';
-        src: url('file:///usr/share/fonts/TTF/Timesi.TTF') format('truetype');
-        font-weight: normal;
-        font-style: italic;
-    }
-
-    @font-face {
-        font-family: 'Times New Roman';
-        src: url('file:///usr/share/fonts/TTF/Timesbd.TTF') format('truetype');
-        font-weight: bold;
-        font-style: normal;
-    }
-
-    @font-face {
-        font-family: 'Times New Roman';
-        src: url('file:///usr/share/fonts/TTF/Timesbi.TTF') format('truetype');
-        font-weight: bold;
-        font-style: italic;
-    }
-
-    @font-face {
-        font-family: @base-font-family;
-        src: url('./iching/LinLibertine_R.ttf') format('truetype');
-        font-weight: normal;
-        font-style: normal;
-        // font-display: swap !important;
-    }
-
-    @font-face {
-        font-family: @base-font-family;
-        src: url('./iching/LinLibertine_RB.ttf') format('truetype');
-        font-weight: bold;
-        font-style: normal;
-        // font-display: swap !important;
-    }
-}
-
-.font-declarations();
 
 /* === Global Styles === */
 html {
@@ -110,13 +52,10 @@ body {
     padding: 0 !important;
     width: auto !important;
     height: auto !important;
-}
-
-body {
     counter-reset: page -1;
+    widows: 2;
+    orphans: 2;
 }
-
-
 
 @page {
     size: @page-width @page-height !important;
@@ -126,33 +65,6 @@ body {
     }
 }
 
-/*
-
-// @page :left {
-//     margin-top: @margin-top !important;
-//     margin-bottom: @margin-bottom !important;
-//     margin-right: @margin-gutter !important;
-//     margin-left: @margin-outer !important;
-//     // border: 1px solid red !important;
-
-//     @bottom-center {
-//         content: "Page " counter(page) " of " counter(pages);
-//     }
-
-// }
-
-// @page :right {
-//     margin-top: @margin-top !important;
-//     margin-bottom: @margin-bottom !important;
-//     margin-left: @margin-gutter !important;
-//     margin-right: @margin-outer !important;
-//     // border: 1px solid blue !important;
-
-//     @bottom-center {
-//         content: "Page " counter(page) " of " counter(pages);
-//     }
-// }
-*/
 @media print {
     body {
         width: auto !important;
@@ -171,19 +83,21 @@ body {
     }
 
     h1 {
-        page-break-before: right !important;
-        break-before: recto !important;
+        page-break-before: always !important;
+        break-before: always !important;
         margin-top: 0 !important;
         display: block !important;
     }
 
-    h1, h2, h3, h4, h5, write, img, ul {
-        .avoid-breaks();
+    p, div:not(.page-break), span, h1, h2, h3, h4, h5, write, img, ul, ol, li {
+        page-break-inside: auto !important; /* Allow natural breaking */
     }
+}
 
-    div {
-        .avoid-breaks();
-    }
+/* === Page Break Rules === */
+.page-break {
+    page-break-before: always !important;
+    break-before: always !important;
 }
 
 /* === Header Formatting === */
@@ -194,74 +108,76 @@ body {
     max-width: (@page-width - @margin-gutter - @margin-outer) !important;
 }
 
-h1 {
-    font-size: 2em !important;
-    color: @heading-color-1 !important;
+/* === Typography === */
+.heading-base() {
     text-align: center !important;
     font-weight: normal !important;
+    font-family: @base-font-family !important;
+    display: block !important;
+}
+
+h1 {
+    .heading-base();
+    font-size: 2em !important;
+    color: @heading-colors[1] !important;
     border-bottom: 1px solid @border-color !important;
     padding-bottom: 0.2em !important;
-    font-family: @base-font-family !important;
+    margin-top: 0 !important;
+    max-width: @page-width !important;
+    margin: 0 auto !important;
 }
 
 h2 {
-    color: @heading-color-2 !important;
+    .heading-base();
     font-size: 1.8em !important;
-    text-align: center !important;
-    font-weight: normal !important;
-    font-family: @base-font-family !important;
+    color: @heading-colors[2] !important;
     line-height: 1.2em !important;
     max-width: 88% !important;
     margin: 0 auto !important;
-    padding-top: 0px !important;
-    padding-bottom: 35px !important;
+    padding: 0 0 35px !important;
 }
 
 h3 {
-    color: @heading-color-3 !important;
+    .heading-base();
     font-size: 10pt !important;
-    text-align: center !important;
-    font-weight: normal !important;
+    color: @heading-colors[3] !important;
     line-height: 1em !important;
-    font-family: @base-font-family !important;
 }
 
 h4, #write h4 {
-    color: @heading-color-4 !important;
-    font-size: 1.0em !important;
+    /* .heading-base(); */
     font-weight: normal !important;
-    line-height: 1.2em !important;
     font-family: @base-font-family !important;
+    display: block !important;
+    font-size: 1.0em !important;
+    color: @heading-colors[4] !important;
+    line-height: 1.2em !important;
 }
 
 h5, #write h5 {
-    color: @heading-color-5 !important;
+    .heading-base();
     font-size: 1.2em !important;
-    text-align: center !important;
-    font-weight: normal !important;
-    font-family: @base-font-family !important;
+    color: @heading-colors[5] !important;
 }
 
 h6 {
+    .heading-base();
     font-size: 1.7em !important;
-    color: @heading-color-6 !important;
-    text-align: center !important;
-    font-weight: normal !important;
+    color: @heading-colors[6] !important;
     border-bottom: 1px solid @border-color !important;
     padding-bottom: 0.2em !important;
-    font-family: @base-font-family !important;
 }
 
 /* === List Formatting === */
-ol li,
-ul li {
+ol li, ul li {
     list-style-position: inside !important;
     list-style-type: none !important;
     font-family: @base-font-family !important;
-    color: @heading-color-3 !important;
+    color: @heading-colors[3] !important;
     font-size: 1.0em !important;
     font-weight: normal !important;
     line-height: 1.2em !important;
+    page-break-inside: auto !important;
 }
 
 /* === Image Handling === */
@@ -271,5 +187,45 @@ img {
     max-width: 100% !important;
     border: 1px solid #2a2929;
     border-radius: 17px;
-    // margin-bottom: 38px;
+    page-break-inside: auto !important;
+}
+
+pre {
+  display: inline;
+  font-family: monospace; /* Ensures monospaced font remains */
+  background: none; /* Remove default background */
+  border: none; /* Remove any border */
+  padding: 0; /* Remove padding */
+  margin: 0; /* Remove margin */
+  white-space: pre-wrap; /* Allows wrapping if needed */
+}
+
+/* === Preventing Large White Space Issues === */
+body {
+    line-height: 1.5;
+}
+
+p, div, span, blockquote {
+    page-break-inside: auto;
+}
+
+h1 {
+    page-break-before: right !important;
+    break-before: recto !important;
+}
+
+h2, h3, h4, h5, h6 {
+    page-break-before: auto;
+    page-break-after: auto;
+}
+
+/* Allow divs to break naturally, except for forced breaks */
+div:not(.page-break) {
+    page-break-inside: auto !important;
+    break-inside: auto !important;
+}
+
+/* Ensure lists and their items are not split across pages */
+ul, ol {
+    page-break-before: auto;
 }

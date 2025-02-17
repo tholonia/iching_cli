@@ -1,6 +1,6 @@
 {
     "id": 36,
-    "hexagram_code": "\u4de3",
+    "hexagram_code": "䷣",
     "name": "Obscured Light",
     "description": "Intelligence and clarity operating under constraints. Like the sun below the earth, this represents inner radiance maintaining its strength despite external darkness.",
     "king_wen": {
@@ -13,22 +13,22 @@
         "above": {
             "Trigram Number": 2,
             "Binary Decimal": 0,
-            "Symbol": "\u2637",
-            "Chinese Symbol": "\u5764",
-            "Phonetic": "K\u016bn",
+            "Symbol": "☷",
+            "Chinese Symbol": "坤",
+            "Phonetic": "Kūn",
             "English Translation": "Earth",
-            "English Symbol": "\u5730",
+            "English Symbol": "地",
             "Meaning": "The Receptive",
             "Quality": "Receptive and Nurturing"
         },
         "below": {
             "Trigram Number": 7,
             "Binary Decimal": 5,
-            "Symbol": "\u2632",
-            "Chinese Symbol": "\u79bb",
-            "Phonetic": "L\u00ed",
+            "Symbol": "☲",
+            "Chinese Symbol": "离",
+            "Phonetic": "Lí",
             "English Translation": "Fire",
-            "English Symbol": "\u706b",
+            "English Symbol": "火",
             "Meaning": "The Clinging",
             "Quality": "Bright and Radiant"
         }
@@ -93,7 +93,7 @@
         "order8parent": "TRANSFORMATION; Active Change"
     },
     "image": {
-        "description": "In this representation of the hexagram \"OBSCURED LIGHT,\" the camouflaged chameleon symbolizes hidden transformation, embodying the principle of negotiation as it balances between visibility and invisibility, mirroring the dynamic of change and adaptation inherent in awareness. Styled in surrealism, this portrayal transcends ordinary perception to reveal deeper layers of reality, akin to the Thologram's recursive exploration of existence. Georgia O'Keeffe, recognized for capturing the essence beyond the apparent, parallels the Tholonic model's emphasis on awareness as fundamental. The choice of gouache enhances the vivid yet nuanced textures, reflecting the interplay of contribution and limitation \u2014 highlighting the chameleon\u2019s integration into its environment while maintaining distinctiveness. This composition, as award-winning and highly symbolic, encapsulates the essence of active change, unmasking the subtleties of transformative processes within both the physical and abstract realms.",
+        "description": "In this representation of the hexagram \"OBSCURED LIGHT,\" the camouflaged chameleon symbolizes hidden transformation, embodying the principle of negotiation as it balances between visibility and invisibility, mirroring the dynamic of change and adaptation inherent in awareness. Styled in surrealism, this portrayal transcends ordinary perception to reveal deeper layers of reality, akin to the Thologram's recursive exploration of existence. Georgia O'Keeffe, recognized for capturing the essence beyond the apparent, parallels the Tholonic model's emphasis on awareness as fundamental. The choice of gouache enhances the vivid yet nuanced textures, reflecting the interplay of contribution and limitation — highlighting the chameleon’s integration into its environment while maintaining distinctiveness. This composition, as award-winning and highly symbolic, encapsulates the essence of active change, unmasking the subtleties of transformative processes within both the physical and abstract realms.",
         "file": "36.png"
     },
     "energy_cycle": "ascending",
@@ -102,7 +102,7 @@
         "entries": [
             {
                 "title": "The Sculptor's Obsession (Man vs. Man)",
-                "theme": "Gabriel Garc\u00eda M\u00e1rquez",
+                "theme": "Gabriel García Márquez",
                 "short_story": "In a secluded workshop at the edge of a bustling city, an eccentric sculptor named Aurelio toiled endlessly on his magnum opus: a stone gargoyle intended to capture raw beauty but chisel by chisel eluded his grasp. Driven by an inexplicable urge to shape his masterpiece, he sifted through dust and debris, tirelessly pressing his vision upon an unyielding block of granite. His enthusiasm faced a wall of resistance in the form of naysayers in the village, skeptics convinced that his artistic pursuit led nowhere. Yet, with each stroke upon stone, the rudimentary outline of a creature slowly emerged, often mocking him with its monstrous gaze. As the form took shape and attracted curious onlookers, Aurelio's fervor intensified. He fashioned wings with angles never seen, creating a juxtaposition of elegance and ferocity. Soon, Aurelio knew he had transcended beyond his personal ambition. Passersby paused, marveling at the figure that seemed to hover between worlds, as though ready to take flight constructed aptly, precisely beyond its creator's hand. His obsession borne into light transformed into a tale told long after the sculptor's hands lay still, forever echoed in the murmurs of the town's legend.",
                 "lines_in_context": {
                     "6": {
@@ -140,7 +140,7 @@
             {
                 "title": "The Phoenix and the Storm (Man vs. Nature)",
                 "theme": "Margaret Atwood",
-                "short_story": "Amidst a desolate landscape, a lone artist named Liora encounters a bleak, storm-ridden desert. Her heart, filled with the uncontainable urge to create, brims with a fervent intensity that rivals the lightning-streaked sky. Despite the incessant storms, she visualizes an ornate sculpture\u2014a phoenix rising majestically from the sands. Gathering fragments of colorful glass scattered by past winds, she begins to piece them together. At first, Liora wrestles with the storm's relentless gales, her hands steady but her resolve wavering as each new attempt seems futile. The storm appears an insurmountable adversary, tearing at her work, testing her perseverance. Bitter winds bite, but she learns to harness the storm's rhythm, weaving its energy into her art. As sun breaks through the torrential gloom, she stands her ground, adaptively aligning with both storm and sun, her sculpture shimmering with iridescence. Thus, the phoenix takes flight, transcending its origins, no longer her own but a beacon of resilience for all who witness it, whispering tales of determination in the face of nature's fury.",
+                "short_story": "Amidst a desolate landscape, a lone artist named Liora encounters a bleak, storm-ridden desert. Her heart, filled with the uncontainable urge to create, brims with a fervent intensity that rivals the lightning-streaked sky. Despite the incessant storms, she visualizes an ornate sculpture—a phoenix rising majestically from the sands. Gathering fragments of colorful glass scattered by past winds, she begins to piece them together. At first, Liora wrestles with the storm's relentless gales, her hands steady but her resolve wavering as each new attempt seems futile. The storm appears an insurmountable adversary, tearing at her work, testing her perseverance. Bitter winds bite, but she learns to harness the storm's rhythm, weaving its energy into her art. As sun breaks through the torrential gloom, she stands her ground, adaptively aligning with both storm and sun, her sculpture shimmering with iridescence. Thus, the phoenix takes flight, transcending its origins, no longer her own but a beacon of resilience for all who witness it, whispering tales of determination in the face of nature's fury.",
                 "lines_in_context": {
                     "6": {
                         "name": "Transcendence",
@@ -177,7 +177,7 @@
             {
                 "title": "The Silent Symphony (Man vs. Self)",
                 "theme": "Virginia Woolf",
-                "short_story": "Evelyn sat alone in the attic, surrounded by endless silence, the symphony of ideas whispering just beyond the edge of perception. Her heart resonated with an unformed melody, a raw rhythm of emotions straining for expression. Yet each time she reached for her violin, doubt clouded the notes, and her fingers hesitated over the strings. Resting the instrument in her lap, Evelyn breathed the crisp air of potentiality and let the inspiration form naturally around her.\n\nDetermined, she began to sketch the first draft of her composition, embracing the stumbling awkwardness as part of the process. The music unfolded hesitantly, every pause a battle against self-imposed barriers that hindered her flow. But gradually, her vision clarified, and notes danced like stars across the page, forming constellations of harmony.\n\nEvelyn confronted internal conflicts, the fear of inadequacy skirmishing with her growing confidence. However, with each resolved chord, a newfound strength illuminated her endeavor, illuminating her resolve. Her vision gained substance, echoing through the attic\u2019s stillness as she harmonized her creation with her heart's profound yearning.\n\nAs the weeks unfolded, Evelyn honed her mastery until the symphony exhaled, transcending her individual struggle. The music, now a living entity, flowed through her, evoking a vivid tapestry of resonant emotions cascading freely into the world.",
+                "short_story": "Evelyn sat alone in the attic, surrounded by endless silence, the symphony of ideas whispering just beyond the edge of perception. Her heart resonated with an unformed melody, a raw rhythm of emotions straining for expression. Yet each time she reached for her violin, doubt clouded the notes, and her fingers hesitated over the strings. Resting the instrument in her lap, Evelyn breathed the crisp air of potentiality and let the inspiration form naturally around her.\n\nDetermined, she began to sketch the first draft of her composition, embracing the stumbling awkwardness as part of the process. The music unfolded hesitantly, every pause a battle against self-imposed barriers that hindered her flow. But gradually, her vision clarified, and notes danced like stars across the page, forming constellations of harmony.\n\nEvelyn confronted internal conflicts, the fear of inadequacy skirmishing with her growing confidence. However, with each resolved chord, a newfound strength illuminated her endeavor, illuminating her resolve. Her vision gained substance, echoing through the attic’s stillness as she harmonized her creation with her heart's profound yearning.\n\nAs the weeks unfolded, Evelyn honed her mastery until the symphony exhaled, transcending her individual struggle. The music, now a living entity, flowed through her, evoking a vivid tapestry of resonant emotions cascading freely into the world.",
                 "lines_in_context": {
                     "6": {
                         "name": "Release",
@@ -259,14 +259,16 @@
         "Platonic": "Within the embrace of a nurturing soul, the brilliance and clarity of the inner light are unveiled and flourish.",
         "Taoist": "Radiant clarity emerges when the receptive and nurturing embrace the flow.",
         "Tholonic": "The luminous essence unfolds through its serene union with the earth's nurturing embrace.",
-        "Thermodynamics": "The entropic potential of inherent brilliance manifests itself through the gentle facilitation and thermal conduciveness of openness and receptivity."
+        "Thermodynamics": "The entropic potential of inherent brilliance manifests itself through the gentle facilitation and thermal conduciveness of openness and receptivity.",
+        "general": "True brilliance emerges when light is gently nurtured and embraced by openness.",
+        "explanation": "The Clinging represents brightness and radiance, signifying potential and clarity. The Receptive symbolizes openness and nurturing, providing a supportive environment. Together, they suggest that when illumination is met with a nurturing and open attitude, it can fully manifest its potential, much like a seed growing in fertile soil."
     },
     "line_type": [
-        "\u268b",
-        "\u268b",
-        "\u268b",
-        "\u268a",
-        "\u268b",
-        "\u268a"
+        "─ ─",
+        "─ ─",
+        "─ ─",
+        "───",
+        "─ ─",
+        "───"
     ]
 }

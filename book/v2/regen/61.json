@@ -1,6 +1,6 @@
 {
     "id": 61,
-    "hexagram_code": "\u4dfc",
+    "hexagram_code": "䷼",
     "name": "Insight",
     "description": "The power of deep understanding and inner truth. Like a flash of clarity that illuminates hidden connections or the realization that reveals underlying patterns, this represents the capacity to perceive essential nature.",
     "king_wen": {
@@ -13,22 +13,22 @@
         "above": {
             "Trigram Number": 5,
             "Binary Decimal": 6,
-            "Symbol": "\u2634",
-            "Chinese Symbol": "\u5dfd",
-            "Phonetic": "X\u00f9n",
+            "Symbol": "☴",
+            "Chinese Symbol": "巽",
+            "Phonetic": "Xùn",
             "English Translation": "Wind/Wood",
-            "English Symbol": "\u98ce/\u6728",
+            "English Symbol": "风/木",
             "Meaning": "The Gentle",
             "Quality": "Gentle and Penetrating"
         },
         "below": {
             "Trigram Number": 8,
             "Binary Decimal": 4,
-            "Symbol": "\u2631",
-            "Chinese Symbol": "\u5151",
-            "Phonetic": "Du\u00ec",
+            "Symbol": "☱",
+            "Chinese Symbol": "兑",
+            "Phonetic": "Duì",
             "English Translation": "Lake/Marsh",
-            "English Symbol": "\u6cfd",
+            "English Symbol": "泽",
             "Meaning": "The Joyous",
             "Quality": "Joyful and Harmonious"
         }
@@ -103,7 +103,7 @@
             {
                 "title": "Illuminating the Shadows (Man vs. Man)",
                 "theme": "Ray Bradbury",
-                "short_story": "In the neon-lit alleyways of the city, Jasper felt the stirrings of a vision. His future, raw and unshaped, lay as a medley of glowing pixels within his mind, urging creation. But doubt gnawed at him, whispering of hesitation in the face of this unformed potential. As he dove into the labyrinth of ideas, obstacles loomed\u2014thickets of complexity tangling his path. Jasper paused, teetering on the edge of action, knowing the fragility of ill-timed steps could rupture his nascent dream. Engulfed in the shadows of doubt, he encountered resistance from forces unknown, keen on subduing his creative drive. Defeated yet not vanquished, Jasper adapted, tweaking, refining, aligning internal passions with external constraints until his vision began to coalesce, gaining momentum. Mastery found him atop a luminous peak, his creation vibrant and breathing, yielding to his command. Yet in this climatic moment, arrogance whispered seductive tales of unyielding control, risking the delicate fabric of success. Confronted with transcendence, Jasper realized the greatest act of creation was release: to let his work breathe freely, affecting the world as a living entity beyond his grasp, an echo of his vision realized and set free.",
+                "short_story": "In the neon-lit alleyways of the city, Jasper felt the stirrings of a vision. His future, raw and unshaped, lay as a medley of glowing pixels within his mind, urging creation. But doubt gnawed at him, whispering of hesitation in the face of this unformed potential. As he dove into the labyrinth of ideas, obstacles loomed—thickets of complexity tangling his path. Jasper paused, teetering on the edge of action, knowing the fragility of ill-timed steps could rupture his nascent dream. Engulfed in the shadows of doubt, he encountered resistance from forces unknown, keen on subduing his creative drive. Defeated yet not vanquished, Jasper adapted, tweaking, refining, aligning internal passions with external constraints until his vision began to coalesce, gaining momentum. Mastery found him atop a luminous peak, his creation vibrant and breathing, yielding to his command. Yet in this climatic moment, arrogance whispered seductive tales of unyielding control, risking the delicate fabric of success. Confronted with transcendence, Jasper realized the greatest act of creation was release: to let his work breathe freely, affecting the world as a living entity beyond his grasp, an echo of his vision realized and set free.",
                 "lines_in_context": {
                     "6": {
                         "name": "Transcendence of Creation",
@@ -139,7 +139,7 @@
             },
             {
                 "title": "The Symphony of the Dawn (Man vs. Nature)",
-                "theme": "Gabriel Garc\u00eda M\u00e1rquez",
+                "theme": "Gabriel García Márquez",
                 "short_story": "In the heart of a dense, untamed forest, Aurora stood before the vibrant dawn, her mind teeming with dreams yet to be named. This morning was unlike others, for it whispered promises of untold possibilities. She moved lightly through the mist, her senses absorbing the symphony of awakening life as sunlight began to weave its golden threads through the canopy. But these visions were fragile, and doubt loomed like shadows in the woods, threatening to unravel her emerging creation. She navigated the thickets with care, aware that even the smallest misstep could shatter her fragile dream into chaos. As the day unfolded, nature itself seemed to conspire against her, throwing up barriers both physical and metaphoric. Yet, Aurora persisted, coaxing the elements into a delicate dance, aligning her heart's vision with the land's innate rhythms. Her perseverance bore fruit at last; a place of wild beauty unfolded before her eyes, beyond even her grandest dreams. She stood humbled by her creation, knowing its life extended beyond her control, growing and changing in its own tender way. Embracing this dance between fate and free will, Aurora released her creation to the world, where it thrived anew with its unique vitality.",
                 "lines_in_context": {
                     "6": {
@@ -177,7 +177,7 @@
             {
                 "title": "The Chronicle of Illusions (Man vs. Self)",
                 "theme": "Franz Kafka",
-                "short_story": "A shadow moved within Edgar as he stood at the boundary between obscurity and form. In his waking hours, patterns loomed in the recesses of his mind, untethered yet pregnant with possibility. He felt undirected impulses, whispering secrets he couldn't quite decipher. Gradually, Edgar took to sketching these nebulous visions, breathing life into their shapelessness, but his hand trembled, fighting the pressures to conform to sensibilities beyond his reach. With ambitions in turmoil, he faced landscapes of doubt and discouragement. Each brushstroke danced on the precipice of uncertainty. The world around him\u2014indifferent, vast, unyielding\u2014mocked his feeble attempts to extract significance. But Edgar possessed a stubborn gut feeling, strong as oak roots. Ignoring external jeers, he delved inward, finding solace in his expression. The sketches gathered depth, cutting through layers of ambiguity. Approaching completion, Edgar grasped the hubris in claiming mastery, realizing that in creating, he'd birthed something transcending comprehension. This paradox resonated within him as he marveled at the drawings, seeing them transform, influencing others, and slipping from his grasp. They had become their own narrative, conceiving endless stories, carved not by Edgar's hand but by the unspoken collective consciousness of all beholders.",
+                "short_story": "A shadow moved within Edgar as he stood at the boundary between obscurity and form. In his waking hours, patterns loomed in the recesses of his mind, untethered yet pregnant with possibility. He felt undirected impulses, whispering secrets he couldn't quite decipher. Gradually, Edgar took to sketching these nebulous visions, breathing life into their shapelessness, but his hand trembled, fighting the pressures to conform to sensibilities beyond his reach. With ambitions in turmoil, he faced landscapes of doubt and discouragement. Each brushstroke danced on the precipice of uncertainty. The world around him—indifferent, vast, unyielding—mocked his feeble attempts to extract significance. But Edgar possessed a stubborn gut feeling, strong as oak roots. Ignoring external jeers, he delved inward, finding solace in his expression. The sketches gathered depth, cutting through layers of ambiguity. Approaching completion, Edgar grasped the hubris in claiming mastery, realizing that in creating, he'd birthed something transcending comprehension. This paradox resonated within him as he marveled at the drawings, seeing them transform, influencing others, and slipping from his grasp. They had become their own narrative, conceiving endless stories, carved not by Edgar's hand but by the unspoken collective consciousness of all beholders.",
                 "lines_in_context": {
                     "6": {
                         "name": "Release and Continuation",
@@ -259,14 +259,16 @@
         "Platonic": "The union of harmonious delight reveals itself through the gentle yet deep influence of an embrace.",
         "Taoist": "From the quiet touch of understanding, the harmony of joy arises, crafting a balance that sings with the Tao.",
         "Tholonic": "In the realm of existence, Joyful Harmony emerges when Gentleness weaves its subtle threads, allowing Penetration to unveil the hidden resonance.",
-        "Thermodynamics": "The emanation of Equilibrium arises through the delicate application of Gradual Energy Transfer."
+        "Thermodynamics": "The emanation of Equilibrium arises through the delicate application of Gradual Energy Transfer.",
+        "general": "Gentle joy creates a deep harmony that penetrates the soul and balances existence.",
+        "explanation": "The lower trigram 'The Joyous' embodies joy and harmony, which resonates softly. The upper trigram 'The Gentle' signifies gentle penetration, akin to a breeze that influences deeply. Together, they create a balance where joy gently permeates, aligning with the soul's whispers and the universe's equilibrium. This synthesis reflects how subtle joy can deeply influence and harmonize with the essence of being, similar to energy that transfers gradually to maintain balance."
     },
     "line_type": [
-        "\u268a",
-        "\u268a",
-        "\u268b",
-        "\u268b",
-        "\u268a",
-        "\u268a"
+        "───",
+        "───",
+        "─ ─",
+        "─ ─",
+        "───",
+        "───"
     ]
 }

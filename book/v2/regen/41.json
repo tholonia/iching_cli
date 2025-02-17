@@ -1,6 +1,6 @@
 {
     "id": 41,
-    "hexagram_code": "\u4de8",
+    "hexagram_code": "䷨",
     "name": "Intentional Reduction",
     "description": "Represents the conscious process of simplification and prioritization. Like pruning a tree to promote healthy growth, it emphasizes strategic decrease for future gain.",
     "king_wen": {
@@ -13,22 +13,22 @@
         "above": {
             "Trigram Number": 3,
             "Binary Decimal": 3,
-            "Symbol": "\u2636",
-            "Chinese Symbol": "\u826e",
-            "Phonetic": "G\u00e8n",
+            "Symbol": "☶",
+            "Chinese Symbol": "艮",
+            "Phonetic": "Gèn",
             "English Translation": "Mountain",
-            "English Symbol": "\u5c71",
+            "English Symbol": "山",
             "Meaning": "The Still",
             "Quality": "Still and Enduring"
         },
         "below": {
             "Trigram Number": 8,
             "Binary Decimal": 4,
-            "Symbol": "\u2631",
-            "Chinese Symbol": "\u5151",
-            "Phonetic": "Du\u00ec",
+            "Symbol": "☱",
+            "Chinese Symbol": "兑",
+            "Phonetic": "Duì",
             "English Translation": "Lake/Marsh",
-            "English Symbol": "\u6cfd",
+            "English Symbol": "泽",
             "Meaning": "The Joyous",
             "Quality": "Joyful and Harmonious"
         }
@@ -93,7 +93,7 @@
         "order8parent": "RESOLUTION; Moving Toward Completion"
     },
     "image": {
-        "description": "A carefully pruned bonsai tree symbolizes \"Intentional Reduction\" and the theme of resolution, embodying the Tholonic concept of awareness manifesting through balance and limitation. The act of pruning reflects the consciousness of defining boundaries and structuring potential, aligning with the Thologram's negotiation force. The minimalist style mirrors the essence of contribution by integrating essential elements into a cohesive form where complexity emerges from simplicity. Ink, as the chosen medium, contributes to this metaphor of reduction and refinement \u2014 each stroke intentional and mindful, resonating with the ideals of universal love guiding optimal creation. Katsushika Hokusai, known for his masterful understanding of nature\u2019s cycles, reinforces the cyclic, recursive nature of awareness in the Tholonic Model, achieving symbolic depth and elegance in an award-winning portrayal.",
+        "description": "A carefully pruned bonsai tree symbolizes \"Intentional Reduction\" and the theme of resolution, embodying the Tholonic concept of awareness manifesting through balance and limitation. The act of pruning reflects the consciousness of defining boundaries and structuring potential, aligning with the Thologram's negotiation force. The minimalist style mirrors the essence of contribution by integrating essential elements into a cohesive form where complexity emerges from simplicity. Ink, as the chosen medium, contributes to this metaphor of reduction and refinement — each stroke intentional and mindful, resonating with the ideals of universal love guiding optimal creation. Katsushika Hokusai, known for his masterful understanding of nature’s cycles, reinforces the cyclic, recursive nature of awareness in the Tholonic Model, achieving symbolic depth and elegance in an award-winning portrayal.",
         "file": "41.png"
     },
     "energy_cycle": "descending",
@@ -102,8 +102,8 @@
         "entries": [
             {
                 "title": "The Sculptor's Challenge (Man vs. Man)",
-                "theme": "Gabriel Garc\u00eda M\u00e1rquez",
-                "short_story": "In the echoing halls of the artist's guild, a young sculptor named Elio ascended the podium, clay in hand, with a vision too grand to be confined. He felt the wild, untamed pulse of creation surging within him but lacked the guidance to shape it. As his fingers met the pliable earth, the endless potential swirled aimlessly, threatening to consume his purpose. Madelena, a seasoned artist, watched patiently as Elio stumbled upon his first barriers\u2014the hopeless weight of ambition and form. 'Let the clay guide you,' she advised, revealing the art of paring back, the delicate dance of intention and surrender. Yet, Elio pushed onwards, meeting stiff resistance from doubters, who scoffed at the chaos hardening in his hands. Undeterred, he honed his vision, aligning his sculptural symphony with the world outside, gradually gaining momentum. With Madelena's wisdom echoing in his mind, Elio embraced mastery not through conquest but unity, discovering the pinnacle of his craft in partnership with the clay. As his creation stood complete and transcendent, Elio marveled at how his spirit had merged with art. Shadows, once threatening, faded. Yet, the urge to clench tight to this glory whispered\u2014a reminder that transcendence required the courage to let go and trust the world with his masterpiece.",
+                "theme": "Gabriel García Márquez",
+                "short_story": "In the echoing halls of the artist's guild, a young sculptor named Elio ascended the podium, clay in hand, with a vision too grand to be confined. He felt the wild, untamed pulse of creation surging within him but lacked the guidance to shape it. As his fingers met the pliable earth, the endless potential swirled aimlessly, threatening to consume his purpose. Madelena, a seasoned artist, watched patiently as Elio stumbled upon his first barriers—the hopeless weight of ambition and form. 'Let the clay guide you,' she advised, revealing the art of paring back, the delicate dance of intention and surrender. Yet, Elio pushed onwards, meeting stiff resistance from doubters, who scoffed at the chaos hardening in his hands. Undeterred, he honed his vision, aligning his sculptural symphony with the world outside, gradually gaining momentum. With Madelena's wisdom echoing in his mind, Elio embraced mastery not through conquest but unity, discovering the pinnacle of his craft in partnership with the clay. As his creation stood complete and transcendent, Elio marveled at how his spirit had merged with art. Shadows, once threatening, faded. Yet, the urge to clench tight to this glory whispered—a reminder that transcendence required the courage to let go and trust the world with his masterpiece.",
                 "lines_in_context": {
                     "6": {
                         "name": "Transcendence of Creation",
@@ -140,7 +140,7 @@
             {
                 "title": "The Unyielding Seed (Man vs. Nature)",
                 "theme": "Ray Bradbury",
-                "short_story": "In an isolated village wrapped in the silence of dense forests, a young farmer named Ethan held the last seed of a forgotten crop, the vibrant shade of green reminiscent of tales told by the old ones. The earth was scorched dry, and the air whistled with an emptiness that threatened the breath of every living thing. Ethan felt an irresistible twinge of creation within his heart. This seed held the promise of life, yet his fear of its demise left him rooted in hesitation, balanced on the edge of despair and hope. Despite villagers' doubts and the overwhelming barrenness that swallowed the landscape, Ethan chose the heart of the forest, uniting the seed's potential with nature's embrace. As a resilience unknown even to Ethan fueled him, the first delicate sprouts broke through the earth's weary crust. Days folded into nights, and the sprouts groaned together in a verdant chorus, feeding on his unyielding faith. Yet, when he stood ready to harvest, nature demanded she alone claim the harvest's bounty. Ethan breathed deep, opening his palm to the winds\u2014a gesture of release, heralding a renewal that extended beyond himself, offering balance to a ravaged world, as a vibrant crescent of green unfurled in every direction.",
+                "short_story": "In an isolated village wrapped in the silence of dense forests, a young farmer named Ethan held the last seed of a forgotten crop, the vibrant shade of green reminiscent of tales told by the old ones. The earth was scorched dry, and the air whistled with an emptiness that threatened the breath of every living thing. Ethan felt an irresistible twinge of creation within his heart. This seed held the promise of life, yet his fear of its demise left him rooted in hesitation, balanced on the edge of despair and hope. Despite villagers' doubts and the overwhelming barrenness that swallowed the landscape, Ethan chose the heart of the forest, uniting the seed's potential with nature's embrace. As a resilience unknown even to Ethan fueled him, the first delicate sprouts broke through the earth's weary crust. Days folded into nights, and the sprouts groaned together in a verdant chorus, feeding on his unyielding faith. Yet, when he stood ready to harvest, nature demanded she alone claim the harvest's bounty. Ethan breathed deep, opening his palm to the winds—a gesture of release, heralding a renewal that extended beyond himself, offering balance to a ravaged world, as a vibrant crescent of green unfurled in every direction.",
                 "lines_in_context": {
                     "6": {
                         "name": "Release and Renewal",
@@ -258,14 +258,16 @@
         "Platonic": "In the unwavering embrace of Enduring Stillness, the true form of Joyful Harmony is revealed.",
         "Taoist": "The fruit of Joyful Harmony blossoms from the unwavering essence of Stillness.",
         "Tholonic": "In the serene tapestry of existence, Joyful Harmony emerges, woven through the enduring threads of Stillness and Fortitude.",
-        "Thermodynamics": "The dynamic oscillations of exuberant energy are grounded in the persistent equilibrium of enduring entropy."
+        "Thermodynamics": "The dynamic oscillations of exuberant energy are grounded in the persistent equilibrium of enduring entropy.",
+        "general": "Joyful Harmony finds its true form through the enduring essence of Stillness.",
+        "explanation": "The lower trigram 'The Joyous' symbolizes an energetic and harmonious spirit, while the upper trigram 'The Still' represents calm and enduring stability. Together, they suggest that true joy and harmony are realized and sustained through a foundation of steadfast stillness, where energy is balanced and grounded, allowing for genuine fulfillment and peace."
     },
     "line_type": [
-        "\u268a",
-        "\u268b",
-        "\u268b",
-        "\u268b",
-        "\u268a",
-        "\u268a"
+        "───",
+        "─ ─",
+        "─ ─",
+        "─ ─",
+        "───",
+        "───"
     ]
 }

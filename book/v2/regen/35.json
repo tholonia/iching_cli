@@ -1,6 +1,6 @@
 {
     "id": 35,
-    "hexagram_code": "\u4de2",
+    "hexagram_code": "䷢",
     "name": "Accelerated Progress",
     "description": "The rapid advancement of awareness and understanding through structured growth. Like the sun rising over the earth, this represents the swift emergence of clarity and enlightened action through ordered progression.",
     "king_wen": {
@@ -13,22 +13,22 @@
         "above": {
             "Trigram Number": 7,
             "Binary Decimal": 5,
-            "Symbol": "\u2632",
-            "Chinese Symbol": "\u79bb",
-            "Phonetic": "L\u00ed",
+            "Symbol": "☲",
+            "Chinese Symbol": "离",
+            "Phonetic": "Lí",
             "English Translation": "Fire",
-            "English Symbol": "\u706b",
+            "English Symbol": "火",
             "Meaning": "The Clinging",
             "Quality": "Bright and Radiant"
         },
         "below": {
             "Trigram Number": 2,
             "Binary Decimal": 0,
-            "Symbol": "\u2637",
-            "Chinese Symbol": "\u5764",
-            "Phonetic": "K\u016bn",
+            "Symbol": "☷",
+            "Chinese Symbol": "坤",
+            "Phonetic": "Kūn",
             "English Translation": "Earth",
-            "English Symbol": "\u5730",
+            "English Symbol": "地",
             "Meaning": "The Receptive",
             "Quality": "Receptive and Nurturing"
         }
@@ -93,7 +93,7 @@
         "order8parent": "TRANSFORMATION; Active Change"
     },
     "image": {
-        "description": "The cheetah embodies the essence of \"Accelerated Progress,\" symbolizing speed and forward momentum, key to transformation and active change. Futurism captures this dynamic essence, emphasizing movement and the energy of the new age, aligning with the theme of transformation. Digital painting as a medium allows for the vivid, fluid expression of this energy, bridging traditional art with modern technology to illustrate rapid progression. Although Andy Warhol is not the actual artist, his association with bold, transformative art parallels the concept of breaking boundaries and redefining perspectives. In a tholonic sense, the image is a tholon\u2014a complex interplay of awareness, negotiation, and integration\u2014depicting the balance and emergence of new realities from the primal point of intention and awareness.",
+        "description": "The cheetah embodies the essence of \"Accelerated Progress,\" symbolizing speed and forward momentum, key to transformation and active change. Futurism captures this dynamic essence, emphasizing movement and the energy of the new age, aligning with the theme of transformation. Digital painting as a medium allows for the vivid, fluid expression of this energy, bridging traditional art with modern technology to illustrate rapid progression. Although Andy Warhol is not the actual artist, his association with bold, transformative art parallels the concept of breaking boundaries and redefining perspectives. In a tholonic sense, the image is a tholon—a complex interplay of awareness, negotiation, and integration—depicting the balance and emergence of new realities from the primal point of intention and awareness.",
         "file": "35.png"
     },
     "energy_cycle": "descending",
@@ -103,7 +103,7 @@
             {
                 "title": "The Fire Within (Man vs. Man)",
                 "theme": "Ray Bradbury",
-                "short_story": "Young Alex Moran was a burgeoning architect whose ideas were as wild and unrestrained as the dreams that twinkled in his eyes. He stood before his sketchpad filled with raw, unshaped visions, yearning to leave an indelible mark upon the world. It was a creation brewing within him, a building inspired by the natural alignment of stars. The problem was, the firm\u2019s lead architect, Mr. Griffith, saw Alex\u2019s dreams as nothing but impractical fantasies. 'Too ambitious, too costly,' he barked, dismissing Alex\u2019s designs with a harsh glare. Yet Alex pressed on, each rejection only stoking the flames of determination within him. As he chipped away at his project, frustration boiled over into conflict; he challenged Mr. Griffith on the firm\u2019s directive, battling for a sliver of creative freedom. In a fevered pitch of manifestation, Alex refined his concept and aligned it with the firm\u2019s rigid standards. His creation began to assemble itself in reality, gaining momentum and acknowledgment. Mastering his craft, he took command of his project, confident in its brilliance and assured of his path. And when his vision finally transcended into the world\u2014a luminescent skyscraper that seemed to scrape the very fabric of the night\u2014Alex knew his journey had transformed not only him but the skyline forever.",
+                "short_story": "Young Alex Moran was a burgeoning architect whose ideas were as wild and unrestrained as the dreams that twinkled in his eyes. He stood before his sketchpad filled with raw, unshaped visions, yearning to leave an indelible mark upon the world. It was a creation brewing within him, a building inspired by the natural alignment of stars. The problem was, the firm’s lead architect, Mr. Griffith, saw Alex’s dreams as nothing but impractical fantasies. 'Too ambitious, too costly,' he barked, dismissing Alex’s designs with a harsh glare. Yet Alex pressed on, each rejection only stoking the flames of determination within him. As he chipped away at his project, frustration boiled over into conflict; he challenged Mr. Griffith on the firm’s directive, battling for a sliver of creative freedom. In a fevered pitch of manifestation, Alex refined his concept and aligned it with the firm’s rigid standards. His creation began to assemble itself in reality, gaining momentum and acknowledgment. Mastering his craft, he took command of his project, confident in its brilliance and assured of his path. And when his vision finally transcended into the world—a luminescent skyscraper that seemed to scrape the very fabric of the night—Alex knew his journey had transformed not only him but the skyline forever.",
                 "lines_in_context": {
                     "6": {
                         "name": "Transcendence through Creation",
@@ -140,7 +140,7 @@
             {
                 "title": "The Whispering Forest (Man vs. Nature)",
                 "theme": "J.K. Rowling",
-                "short_story": "In the heart of an untouched forest, young Elara felt the stirrings of magic that had lain dormant for centuries. She stood on a mossy knoll, the raw potential of ancient spells tingling in the air around her, yet she knew not the way or the words to call them forth. Her first attempts were mere whispers against the roaring silence of the trees. Undeterred, Elara began to shape her thoughts, following the guidance of rustling leaves and distant bird calls. Yet, as she delved deeper, a force of shadowed resistance, the Guardian of the Woods, rose to meet her, its intentions entangled with preserving the balance of the forest. Despite the Guardian\u2019s warnings, Elara pressed on, aligning her burgeoning power with the forest's own rhythm, her chants gaining strength and clarity. At last, standing at the peak of her newfound mastery, she wove together a spell that coursed through the forest like a vibrant thread. Her creation transcended her, breathing life into the ancient woods and renewing its hidden magic. But in her heart, Elara knew that to hold this magic too closely could unravel the very tapestry she had woven.",
+                "short_story": "In the heart of an untouched forest, young Elara felt the stirrings of magic that had lain dormant for centuries. She stood on a mossy knoll, the raw potential of ancient spells tingling in the air around her, yet she knew not the way or the words to call them forth. Her first attempts were mere whispers against the roaring silence of the trees. Undeterred, Elara began to shape her thoughts, following the guidance of rustling leaves and distant bird calls. Yet, as she delved deeper, a force of shadowed resistance, the Guardian of the Woods, rose to meet her, its intentions entangled with preserving the balance of the forest. Despite the Guardian’s warnings, Elara pressed on, aligning her burgeoning power with the forest's own rhythm, her chants gaining strength and clarity. At last, standing at the peak of her newfound mastery, she wove together a spell that coursed through the forest like a vibrant thread. Her creation transcended her, breathing life into the ancient woods and renewing its hidden magic. But in her heart, Elara knew that to hold this magic too closely could unravel the very tapestry she had woven.",
                 "lines_in_context": {
                     "6": {
                         "name": "Transcendence of Creation",
@@ -165,7 +165,7 @@
                     "2": {
                         "name": "Formation of Intention",
                         "meaning": "Elara begins to find her path, shaping her raw potential into a defined course of action amidst barriers.",
-                        "changing": "If yin changes to yang, rash actions could cause instability or misalignment with the forest\u2019s balance."
+                        "changing": "If yin changes to yang, rash actions could cause instability or misalignment with the forest’s balance."
                     },
                     "1": {
                         "name": "Emergence of Potential",
@@ -176,7 +176,7 @@
             },
             {
                 "title": "The Symphony of Becoming (Man vs. Self)",
-                "theme": "Gabriel Garc\u00eda M\u00e1rquez",
+                "theme": "Gabriel García Márquez",
                 "short_story": "In a quaint town afloat on a tapestry of dreams, young Luciana felt the stirrings of an ancient melody within her soul. It was the prelude to a symphony yet unvoiced, a creation of raw, unshaped emotion. At the onset, her fingers danced across phantom notes, yearning for form (Line 1). Hesitation whispered doubts; yet, determination kindled her resolve. As passion ignited, she began to shape the melody, crafting harmonies amidst the cacophony of uncertainty (Line 2). Yet, as her piece grew, so did doubt, challenging her vision and threatening to unravel the composition (Line 3). Undeterred, she refined her opus, aligning each note with the world's silent rhythms, letting the harmony bloom (Line 4). When the final chord resounded, Luciana was no longer the creator but the vessel, the summit of her pursuit realized in a crescendo of transcendence (Line 6). The melody rippled beyond her, an ethereal force indelibly transforming the souls it touched. Luciana released her symphony into the ether, allowing it to dwell where it chose, proving the point where creation transcends into a force of nature, beyond mastery (Line 5).",
                 "lines_in_context": {
                     "6": {
@@ -254,18 +254,20 @@
         }
     },
     "trigram_phrase": {
-        "Jungian": "The Earth, in its nurturing embrace, elevates and intensifies the radiance of the Fire, revealing its full potential through a harmonious balance of support and illumination. \u2013 Carl Jung",
+        "Jungian": "The Earth, in its nurturing embrace, elevates and intensifies the radiance of the Fire, revealing its full potential through a harmonious balance of support and illumination. – Carl Jung",
         "Platonic": "The concordant fruition of the Receptive and Nurturing essence emerges as a vibrant and radiant luminosity.",
         "Taoist": "The Earth nurtures with gentle grace, while Fire shines with radiant brilliance. Together, they weave a dance of becoming and light, each amplifying the other's essence in the endless flow of the Tao.",
         "Tholonic": "When the gentle reception of nurture entwines with the luminous spark of brilliance, there emerges a symphony of vibrant transformation, a reflection of harmony in motion.",
-        "Thermodynamics": "The nurturing entropy of Earth engenders the enthalpy of Fire, resulting in a thermodynamic equilibrium of radiant energy and organic proliferation."
+        "Thermodynamics": "The nurturing entropy of Earth engenders the enthalpy of Fire, resulting in a thermodynamic equilibrium of radiant energy and organic proliferation.",
+        "general": "The nurturing Earth supports the radiant Fire, creating a harmonious balance of growth and illumination.",
+        "explanation": "The lower trigram, The Receptive, symbolizes Earth's nurturing and supportive qualities, while the upper trigram, The Clinging, represents Fire's bright and illuminating nature. Together, they form a dynamic interplay where Earth's support enhances Fire's brilliance, resulting in a balanced and accelerated progress of growth and illumination."
     },
     "line_type": [
-        "\u268a",
-        "\u268b",
-        "\u268a",
-        "\u268b",
-        "\u268b",
-        "\u268b"
+        "───",
+        "─ ─",
+        "───",
+        "─ ─",
+        "─ ─",
+        "─ ─"
     ]
 }

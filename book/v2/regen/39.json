@@ -1,6 +1,6 @@
 {
     "id": 39,
-    "hexagram_code": "\u4de6",
+    "hexagram_code": "䷦",
     "name": "Strategic Resistance",
     "description": "Represents encountering obstacles and developing strategic approaches to overcome them. Like water finding its path around a mountain, success comes through adaptability and intelligent navigation of challenges.",
     "king_wen": {
@@ -13,22 +13,22 @@
         "above": {
             "Trigram Number": 6,
             "Binary Decimal": 2,
-            "Symbol": "\u2635",
-            "Chinese Symbol": "\u574e",
-            "Phonetic": "K\u01cen",
+            "Symbol": "☵",
+            "Chinese Symbol": "坎",
+            "Phonetic": "Kǎn",
             "English Translation": "Water",
-            "English Symbol": "\u6c34",
+            "English Symbol": "水",
             "Meaning": "Deep and Mysterious",
             "Quality": "Yin"
         },
         "below": {
             "Trigram Number": 3,
             "Binary Decimal": 3,
-            "Symbol": "\u2636",
-            "Chinese Symbol": "\u826e",
-            "Phonetic": "G\u00e8n",
+            "Symbol": "☶",
+            "Chinese Symbol": "艮",
+            "Phonetic": "Gèn",
             "English Translation": "Mountain",
-            "English Symbol": "\u5c71",
+            "English Symbol": "山",
             "Meaning": "The Still",
             "Quality": "Still and Enduring"
         }
@@ -93,7 +93,7 @@
         "order8parent": "TRANSFORMATION; Active Change"
     },
     "image": {
-        "description": "The choice of a mountain stream in realistic watercolor by Ansel Adams as a representation of the theme \"Strategic Resistance\" captures the essence of transformation through versatile boundaries. The stream, symbolizing persistent change and adaptability, mirrors the idea of transformative barriers\u2014navigating obstacles while remaining fluid, illustrating a negotiation between resistance and flow. Watercolor, with its fluidity and unpredictability, enhances this symbolism, reflecting the dynamic balance of awareness and intention within the Tholonic Model. The realistic style grounds the abstract concept in perceivable reality, while Ansel Adams\u2019 masterful depiction imbues the scene with heightened symbolism and award-winning quality. This engaging interplay of natural beauty and technical prowess symbolizes the continuous, transformative process of overcoming resistance.",
+        "description": "The choice of a mountain stream in realistic watercolor by Ansel Adams as a representation of the theme \"Strategic Resistance\" captures the essence of transformation through versatile boundaries. The stream, symbolizing persistent change and adaptability, mirrors the idea of transformative barriers—navigating obstacles while remaining fluid, illustrating a negotiation between resistance and flow. Watercolor, with its fluidity and unpredictability, enhances this symbolism, reflecting the dynamic balance of awareness and intention within the Tholonic Model. The realistic style grounds the abstract concept in perceivable reality, while Ansel Adams’ masterful depiction imbues the scene with heightened symbolism and award-winning quality. This engaging interplay of natural beauty and technical prowess symbolizes the continuous, transformative process of overcoming resistance.",
         "file": "39.png"
     },
     "energy_cycle": "ascending",
@@ -102,17 +102,17 @@
         "entries": [
             {
                 "title": "The Sculptor's Odyssey (Man vs. Man)",
-                "theme": "Gabriel Garc\u00eda M\u00e1rquez",
+                "theme": "Gabriel García Márquez",
                 "short_story": "In a quaint village where magic whispered behind every door, there lived a sculptor named Aurelio. With hands that seemed chiseled by gods, he was filled with an unquenchable thirst to sculpt a masterpiece that captured the soul of life itself. Days went by, and the rough blocks of marble whispered their secrets to him, yet Aurelio hesitated, fearing the true form eluded him.\n\nOne day, inspired by the flickering flame of an ancient candle, he began shaping his creation. The stone resisted, cracks appearing with each strike, and yet, he persisted. The marble cried under his force, but his vision began to find form.\n\nAs the sun rose higher in the sky, rumors of his work reached the ears of a skeptical patron, threatening to halt his endeavor if it faltered. With his spirit burdened, Aurelio refined his methods, harmonizing with the marble's resistance, gaining clarity in his purpose.\n\nSoon, his skill elevated him to the pinnacle of creative mastery. The statue, alive with motion and grace, seemed to breathe with every glance.\n\nYet, as the world gazed in awe, Aurelio realized the creation no longer belonged to him but the universe. In relinquishing control, his own journey of realization was fulfilled, illustrating that true creation transcends its maker.",
                 "lines_in_context": {
                     "6": {
                         "name": "Transcendence",
-                        "meaning": "Aurelio\u2019s creation transcends his personal vision, becoming a universal masterpiece that exists beyond him. It signifies the release of control and the integration of the art into the world's narrative.",
+                        "meaning": "Aurelio’s creation transcends his personal vision, becoming a universal masterpiece that exists beyond him. It signifies the release of control and the integration of the art into the world's narrative.",
                         "changing": "If yang changes to yin, Aurelio might cling to his creation, hindering its ability to influence and resonate on a broader scale."
                     },
                     "5": {
                         "name": "Mastery",
-                        "meaning": "Aurelio attains mastery as he balances the marble\u2019s nature with his vision, reaching the peak of creative potential and recognition.",
+                        "meaning": "Aurelio attains mastery as he balances the marble’s nature with his vision, reaching the peak of creative potential and recognition.",
                         "changing": "If yang changes to yin, arrogance or misjudgment might cloud his achievement, risking the loss of harmony between artist and art."
                     },
                     "4": {
@@ -140,7 +140,7 @@
             {
                 "title": "The Storm's Whisper (Man vs. Nature)",
                 "theme": "Hermann Hesse",
-                "short_story": "The storm had always been a distant rumble in Ander's life, a vast, untamed force dancing on the horizon, taunting his quiet village. Filled with a raw, unshaped potential, Ander felt the call to tame it, not through force, but through understanding. As he stood on the cliff's edge, the winds whispered secrets no man had heard. He began his journey, letting the storm guide him, forming his path amidst the wild elements. Yet, as he ventured deeper, resistance grew\u2014the gales became fierce, the heavens dark, each moment threatening his dream. Amidst the chaos, Ander found clarity. He aligned his will with the tempest, harnessing its might to carve life into the harsh earth, giving the village a newfound strength against nature. Rising above, he learned not to conquer the storm but to weave with its stormy soul, to create harmony out of sheer chaos. And as his understanding grew, the village thrived, the storm no longer an enemy, but a force of life that stretched beyond his own vision, lighting up the heavens. Ander's creation was complete, transcending his own will, a masterpiece of unity between man and nature.",
+                "short_story": "The storm had always been a distant rumble in Ander's life, a vast, untamed force dancing on the horizon, taunting his quiet village. Filled with a raw, unshaped potential, Ander felt the call to tame it, not through force, but through understanding. As he stood on the cliff's edge, the winds whispered secrets no man had heard. He began his journey, letting the storm guide him, forming his path amidst the wild elements. Yet, as he ventured deeper, resistance grew—the gales became fierce, the heavens dark, each moment threatening his dream. Amidst the chaos, Ander found clarity. He aligned his will with the tempest, harnessing its might to carve life into the harsh earth, giving the village a newfound strength against nature. Rising above, he learned not to conquer the storm but to weave with its stormy soul, to create harmony out of sheer chaos. And as his understanding grew, the village thrived, the storm no longer an enemy, but a force of life that stretched beyond his own vision, lighting up the heavens. Ander's creation was complete, transcending his own will, a masterpiece of unity between man and nature.",
                 "lines_in_context": {
                     "6": {
                         "name": "Unity Beyond Self",
@@ -194,7 +194,7 @@
             {
                 "title": "The Alchemist's Journey (Man vs. Self)",
                 "theme": "Paulo Coelho",
-                "short_story": "In a secluded village, young Rafael dreamt of concocting a potion that could capture sunlight and bottle it. His ambition was a whisper against the familiar hum of life. Inspired by the glint of a distant horizon, he embarked on his alchemical quest, yet what appeared as simple trials were intricate webs of elemental turbulence. As each attempt crumbled to ash, his spirit waned, punctuated by self-doubt. One night, amidst flickering candles and shadowed corners, realization sparked. Rafael began to harmonize his intent with the materials at hand, coaxing rather than commanding nature\u2019s forces. Slowly, his failures transmuted into progress. The village doubted, yet he persisted, refining his approach until one lucid morning, a warm vial gleamed, cradling the very essence of light. With this success, Rafael understood that triumph lay not in possession but in creating that which could uplift. His potion became the village\u2019s beacon, illuminating futures, mysteries that extended beyond his own life. As he shared his luminary gift, Rafael transcended his quest, embodying the cycle of creation and release, where the creator becomes part of the greater tapestry of life.",
+                "short_story": "In a secluded village, young Rafael dreamt of concocting a potion that could capture sunlight and bottle it. His ambition was a whisper against the familiar hum of life. Inspired by the glint of a distant horizon, he embarked on his alchemical quest, yet what appeared as simple trials were intricate webs of elemental turbulence. As each attempt crumbled to ash, his spirit waned, punctuated by self-doubt. One night, amidst flickering candles and shadowed corners, realization sparked. Rafael began to harmonize his intent with the materials at hand, coaxing rather than commanding nature’s forces. Slowly, his failures transmuted into progress. The village doubted, yet he persisted, refining his approach until one lucid morning, a warm vial gleamed, cradling the very essence of light. With this success, Rafael understood that triumph lay not in possession but in creating that which could uplift. His potion became the village’s beacon, illuminating futures, mysteries that extended beyond his own life. As he shared his luminary gift, Rafael transcended his quest, embodying the cycle of creation and release, where the creator becomes part of the greater tapestry of life.",
                 "lines_in_context": {
                     "6": {
                         "name": "Transcending Light",
@@ -275,14 +275,16 @@
         "Platonic": "The revelation of enduring serenity emerges through the fundamental nature of the receptive Yin.",
         "Taoist": "Through the gentle embrace of Yin, steadfast persistence unfurls.",
         "Tholonic": "Through the gentle embrace of Yin, the true pinnacle of unwavering endurance reveals itself.",
-        "Thermodynamics": "The achievement of equilibrium is attained through the entropic embrace of Yin's receptive nature."
+        "Thermodynamics": "The achievement of equilibrium is attained through the entropic embrace of Yin's receptive nature.",
+        "general": "Through the gentle embrace of Yin, serene endurance emerges.",
+        "explanation": "The lower trigram, 'The Still,' embodies stability and persistence, while the upper trigram, 'Deep and Mysterious,' symbolizes the receptive and nurturing qualities of Yin. Together, they illustrate how embracing Yin's gentle nature fosters a calm and enduring strength, aligning with the idea of achieving balance and resilience through receptivity and patience."
     },
     "line_type": [
-        "\u268b",
-        "\u268a",
-        "\u268b",
-        "\u268a",
-        "\u268b",
-        "\u268b"
+        "─ ─",
+        "───",
+        "─ ─",
+        "───",
+        "─ ─",
+        "─ ─"
     ]
 }

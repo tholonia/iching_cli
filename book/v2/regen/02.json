@@ -1,6 +1,6 @@
 {
     "id": 2,
-    "hexagram_code": "\u4dc1",
+    "hexagram_code": "䷁",
     "name": "Receptivity",
     "description": "The power of open acceptance and responsive capacity. Like fertile earth receiving seeds, this represents the creative potential of yielding awareness.",
     "king_wen": {
@@ -13,22 +13,22 @@
         "above": {
             "Trigram Number": 2,
             "Binary Decimal": 0,
-            "Symbol": "\u2637",
-            "Chinese Symbol": "\u5764",
-            "Phonetic": "K\u016bn",
+            "Symbol": "☷",
+            "Chinese Symbol": "坤",
+            "Phonetic": "Kūn",
             "English Translation": "Earth",
-            "English Symbol": "\u5730",
+            "English Symbol": "地",
             "Meaning": "The Receptive",
             "Quality": "Receptive and Nurturing"
         },
         "below": {
             "Trigram Number": 2,
             "Binary Decimal": 0,
-            "Symbol": "\u2637",
-            "Chinese Symbol": "\u5764",
-            "Phonetic": "K\u016bn",
+            "Symbol": "☷",
+            "Chinese Symbol": "坤",
+            "Phonetic": "Kūn",
             "English Translation": "Earth",
-            "English Symbol": "\u5730",
+            "English Symbol": "地",
             "Meaning": "The Receptive",
             "Quality": "Receptive and Nurturing"
         }
@@ -139,7 +139,7 @@
             },
             {
                 "title": "The Sculptor and the Mountain (Man vs. Nature)",
-                "theme": "Gabriel Garc\u00eda M\u00e1rquez",
+                "theme": "Gabriel García Márquez",
                 "short_story": "In a forgotten village nestled between enigmatic mountains, the sculptor Florentino discovered an immense rock. It loomed like an uncharted world, pregnant with possibility, yet silent and immovable. Each morning, he awoke with the vision of a statue hidden within, urging him to uncover its form. Despite the work's enormity, Florentino's chisel remained hesitant, unsure of where to begin amidst the stone's expanse.\n\nAt last, under the relentless sun, he raised his chisel with a newfound resolve, framing the outlines of an image in his mind. The rock began to yield, carving a path through the resistance with rhythmic blows. His hands bled with effort, yet the stone resisted, casting doubts like shadows upon his ambition.\n\nUndeterred, Florentino poured his soul into each stroke, transforming the rock's stubbornness into an ally. The villagers watched in awe as fragments of stone gave way to his tenacity, revealing the contours of a magnificent figure within.\n\nSoon, his creation stood resplendent, touched by the moonglow that bathed it in ethereal majesty. Florentino stepped back, feeling a breath of relief as the statue now possessed a life of its own, a testament to his ceaseless journey between potential and mastery.",
                 "lines_in_context": {
                     "6": {
@@ -177,7 +177,7 @@
             {
                 "title": "The Unwritten Symphony (Man vs. Self)",
                 "theme": "Virginia Woolf",
-                "short_story": "Evelyn sat at her piano, fingers hovering over keys that promised a symphony yet to be born. Her mind swirled with melodies, unformed like the morning mist. The silence around her was both a cradle and a shackle, offering a space where potential brewed. Yet, with each attempt, the notes fell flat, interrupted by doubts that danced like shadows across her thoughts. \n\nLine by line, Evelyn began to sculpt the symphony. Her notes started to take shape amidst barriers of uncertainty. As she clarified her vision, the melody grew bolder, aligning itself with the pulse of her desire. But conflict rippled through her resolve; voices of cynicism questioned her endeavor, challenging every chord she planted, every harmony she nurtured. \n\nWith perseverance and growing confidence, she wrested the music from chaos, each note cementing her vision into reality. The symphony began to reflect her heart's clarity, her fingers moving with newfound mastery. As the final chord resonated, it transcended her ownership, becoming a narrative on its own\u2014a gift to the listener, in the air, free of its creator, to touch and transform the world.",
+                "short_story": "Evelyn sat at her piano, fingers hovering over keys that promised a symphony yet to be born. Her mind swirled with melodies, unformed like the morning mist. The silence around her was both a cradle and a shackle, offering a space where potential brewed. Yet, with each attempt, the notes fell flat, interrupted by doubts that danced like shadows across her thoughts. \n\nLine by line, Evelyn began to sculpt the symphony. Her notes started to take shape amidst barriers of uncertainty. As she clarified her vision, the melody grew bolder, aligning itself with the pulse of her desire. But conflict rippled through her resolve; voices of cynicism questioned her endeavor, challenging every chord she planted, every harmony she nurtured. \n\nWith perseverance and growing confidence, she wrested the music from chaos, each note cementing her vision into reality. The symphony began to reflect her heart's clarity, her fingers moving with newfound mastery. As the final chord resonated, it transcended her ownership, becoming a narrative on its own—a gift to the listener, in the air, free of its creator, to touch and transform the world.",
                 "lines_in_context": {
                     "6": {
                         "name": "Transcendence",
@@ -197,7 +197,7 @@
                     "3": {
                         "name": "Conflict",
                         "meaning": "Evelyn faces doubt and external skepticism threatening to derail her process.",
-                        "changing": "If Yang changes to Yin, it marks a retreat, stalling the music\u2019s evolution."
+                        "changing": "If Yang changes to Yin, it marks a retreat, stalling the music’s evolution."
                     },
                     "2": {
                         "name": "Formation",
@@ -261,14 +261,16 @@
         "Platonic": "When the soul becomes attuned to the nurturing essence, it gives birth to profound receptivity, and thus a continuous cycle of openness and mutual support is woven, as if the fabrics of existence dance in harmonious resonance.",
         "Taoist": "The blossoming of nurturing essence emerges in the ceaseless dance of mutual support and boundless openness.",
         "Tholonic": "The fruit of Unblemished Receptivity and Enduring Might emerges from its intrinsic nature, weaving an eternal tapestry of nurturing embrace and harmonious acceptance.",
-        "Thermodynamics": "The emergence of profound openness and unwavering support manifests through the equilibrium of complete acceptance and nurturing energy."
+        "Thermodynamics": "The emergence of profound openness and unwavering support manifests through the equilibrium of complete acceptance and nurturing energy.",
+        "general": "The nurturing essence of openness and support weaves an eternal cycle of harmonious acceptance.",
+        "explanation": "The Receptive's lower trigram embodies nurturing and openness, while its upper trigram mirrors the same qualities. Together, they create a harmonious cycle where each part supports and accepts the other, forming a continuous flow of energy and sustenance."
     },
     "line_type": [
-        "\u268b",
-        "\u268b",
-        "\u268b",
-        "\u268b",
-        "\u268b",
-        "\u268b"
+        "─ ─",
+        "─ ─",
+        "─ ─",
+        "─ ─",
+        "─ ─",
+        "─ ─"
     ]
 }

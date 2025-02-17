@@ -1,6 +1,6 @@
 {
     "id": 64,
-    "hexagram_code": "\u4dff",
+    "hexagram_code": "䷿",
     "name": "Final Integration",
     "description": "The completion of a cycle that creates foundation for new beginnings. Like a system reaching mature equilibrium or knowledge crystallizing into wisdom, this represents the moment when complexity resolves into enlightened simplicity.",
     "king_wen": {
@@ -13,22 +13,22 @@
         "above": {
             "Trigram Number": 7,
             "Binary Decimal": 5,
-            "Symbol": "\u2632",
-            "Chinese Symbol": "\u79bb",
-            "Phonetic": "L\u00ed",
+            "Symbol": "☲",
+            "Chinese Symbol": "离",
+            "Phonetic": "Lí",
             "English Translation": "Fire",
-            "English Symbol": "\u706b",
+            "English Symbol": "火",
             "Meaning": "Bright and Radiant",
             "Quality": "Strong and Creative"
         },
         "below": {
             "Trigram Number": 6,
             "Binary Decimal": 2,
-            "Symbol": "\u2635",
-            "Chinese Symbol": "\u574e",
-            "Phonetic": "K\u01cen",
+            "Symbol": "☵",
+            "Chinese Symbol": "坎",
+            "Phonetic": "Kǎn",
             "English Translation": "Water",
-            "English Symbol": "\u6c34",
+            "English Symbol": "水",
             "Meaning": "The Abysmal",
             "Quality": "Deep and Mysterious"
         }
@@ -93,7 +93,7 @@
         "order8parent": "COMPLETION & RENEWAL; Return to Source"
     },
     "image": {
-        "description": "In the depiction of \"FINAL INTEGRATION,\" the lighthouse symbolizes guidance and the cyclical nature of completion and renewal, aligning with the theme of returning to the source. The choice of digital realism allows for precise and vivid detail, highlighting the intricacies of the journey towards wholeness. The swirling, almost elemental background evokes the tholonic concept of awareness manifesting through complexity and integration. Using a style reminiscent of Jackson Pollock's dynamic symbolism, the artwork embodies the interconnectedness and emergence of new forms. The digital medium enhances these elements, allowing the viewer to see the intricate dance of negotiation, limitation, and contribution\u2014the three fundamental forces\u2014interplaying within the Thologram. Thus, the piece becomes a metaphor for the holistic convergence of awareness, merging various forms into a cohesive unity.",
+        "description": "In the depiction of \"FINAL INTEGRATION,\" the lighthouse symbolizes guidance and the cyclical nature of completion and renewal, aligning with the theme of returning to the source. The choice of digital realism allows for precise and vivid detail, highlighting the intricacies of the journey towards wholeness. The swirling, almost elemental background evokes the tholonic concept of awareness manifesting through complexity and integration. Using a style reminiscent of Jackson Pollock's dynamic symbolism, the artwork embodies the interconnectedness and emergence of new forms. The digital medium enhances these elements, allowing the viewer to see the intricate dance of negotiation, limitation, and contribution—the three fundamental forces—interplaying within the Thologram. Thus, the piece becomes a metaphor for the holistic convergence of awareness, merging various forms into a cohesive unity.",
         "file": "64.png"
     },
     "energy_cycle": "descending",
@@ -140,36 +140,36 @@
             {
                 "title": "The Symphony of the Storm (Man vs. Nature)",
                 "theme": "Gabriel Garcia Marquez",
-                "short_story": "In a forgotten corner of the world, where the land meets a restless sea, there lived an ancient composer named Ram\u00f3n. His life was a series of incomplete compositions, each infused with the raw energy of his homeland's tumultuous weather. One day, while promenading along the jagged cliffs, Ram\u00f3n heard the haunting tune composed by the howling wind and crashing waves. It was an invitation, a call to shape this tempest into artistic prophecy. Driven by instinct, he transcribed the storm\u2019s rage into notes, his ambition swelling like the sea. As daytime surrendered to twilight, Ram\u00f3n faced the fury of a tempest that threatened to obliterate his work, the intensity of nature unyielding in its opposition. Yet he persevered, intuiting the storm\u2019s rhythms, weaving them into an intricate symphony that echoed the harmony he envisioned. With each note, he aligned his soul with the tempest\u2019s heart, transforming chaos into melody. The music crescendoed, resonating with the universe's pulse, until it transcended the composer himself, a masterpiece not just heard but felt\u2014a testament to humanity's eternal dance with nature.",
+                "short_story": "In a forgotten corner of the world, where the land meets a restless sea, there lived an ancient composer named Ramón. His life was a series of incomplete compositions, each infused with the raw energy of his homeland's tumultuous weather. One day, while promenading along the jagged cliffs, Ramón heard the haunting tune composed by the howling wind and crashing waves. It was an invitation, a call to shape this tempest into artistic prophecy. Driven by instinct, he transcribed the storm’s rage into notes, his ambition swelling like the sea. As daytime surrendered to twilight, Ramón faced the fury of a tempest that threatened to obliterate his work, the intensity of nature unyielding in its opposition. Yet he persevered, intuiting the storm’s rhythms, weaving them into an intricate symphony that echoed the harmony he envisioned. With each note, he aligned his soul with the tempest’s heart, transforming chaos into melody. The music crescendoed, resonating with the universe's pulse, until it transcended the composer himself, a masterpiece not just heard but felt—a testament to humanity's eternal dance with nature.",
                 "lines_in_context": {
                     "6": {
                         "name": "Echo of Creation",
-                        "meaning": "Ram\u00f3n's symphony becomes larger than his original vision, a unifying force that harmonizes the chaos of nature with the tranquility of art.",
-                        "changing": "If Ram\u00f3n holds onto personal ownership of the music, it stagnates, failing to resonate with the wider world."
+                        "meaning": "Ramón's symphony becomes larger than his original vision, a unifying force that harmonizes the chaos of nature with the tranquility of art.",
+                        "changing": "If Ramón holds onto personal ownership of the music, it stagnates, failing to resonate with the wider world."
                     },
                     "5": {
                         "name": "Peak of Creation",
-                        "meaning": "Ram\u00f3n reaches the height of his craft, masterfully directing the storm\u2019s energies with precision.",
+                        "meaning": "Ramón reaches the height of his craft, masterfully directing the storm’s energies with precision.",
                         "changing": "Arrogance leads him to misinterpret the storm's signals, risking the collapse of his symphony."
                     },
                     "4": {
                         "name": "Harmonization",
-                        "meaning": "Ram\u00f3n finds balance between his ambition and the capricious forces of nature, aligning his art with his surroundings.",
+                        "meaning": "Ramón finds balance between his ambition and the capricious forces of nature, aligning his art with his surroundings.",
                         "changing": "If his ambition overextends, the harmony shatters, leaving chaos in its place."
                     },
                     "3": {
                         "name": "Struggle with Tempest",
-                        "meaning": "Ram\u00f3n battles the tempest's intensity, its force threatening to drown his creative voice in cacophony.",
+                        "meaning": "Ramón battles the tempest's intensity, its force threatening to drown his creative voice in cacophony.",
                         "changing": "A retreat signals his submission, leading to incomplete harmony."
                     },
                     "2": {
                         "name": "Shaping the Gale",
-                        "meaning": "Ram\u00f3n channels the storm\u2019s energy, molding it into the beginning of his symphonic vision.",
+                        "meaning": "Ramón channels the storm’s energy, molding it into the beginning of his symphonic vision.",
                         "changing": "Premature action leads to instability, risking dissonance in his creation."
                     },
                     "1": {
                         "name": "Awakening of Potential",
-                        "meaning": "Ram\u00f3n feels the first inklings of inspiration from nature's raw force, a chaotic yet powerful potential.",
+                        "meaning": "Ramón feels the first inklings of inspiration from nature's raw force, a chaotic yet powerful potential.",
                         "changing": "If hesitation prevails, the symphonic potential dissipates, leaving only silence."
                     }
                 }
@@ -177,7 +177,7 @@
             {
                 "title": "The Alchemist's Horizon (Man vs. Self)",
                 "theme": "Paulo Coelho",
-                "short_story": "In the hidden, dim-lit lab of a seasoned alchemist, Livia stood at the threshold of a new discovery. Her desire to transform base metals into gold had filled her mind with raw, untamed potential. Yet, a whisper of doubt lingered\u2014could she accomplish what many deemed impossible? Embracing these thoughts, she began to sketch her vision, each line defining her challenge. As she delved deeper, obstacles arose, threatening her dream. Doubt and fear clashed with her ambition, testing her resolve. But Livia refused to retreat, harnessing her spirit to align her work with her heart's calling. Her vision took form, gaining vigor and clarity. Finally, the concoction bubbled to life, radiating transformation and purity. At that moment, she stood in awe, knowing her creation was both a personal triumph and a gift transcending her being, changing all who encountered it. Letting go, she understood her legacy was no longer hers alone\u2014it belonged to the world.",
+                "short_story": "In the hidden, dim-lit lab of a seasoned alchemist, Livia stood at the threshold of a new discovery. Her desire to transform base metals into gold had filled her mind with raw, untamed potential. Yet, a whisper of doubt lingered—could she accomplish what many deemed impossible? Embracing these thoughts, she began to sketch her vision, each line defining her challenge. As she delved deeper, obstacles arose, threatening her dream. Doubt and fear clashed with her ambition, testing her resolve. But Livia refused to retreat, harnessing her spirit to align her work with her heart's calling. Her vision took form, gaining vigor and clarity. Finally, the concoction bubbled to life, radiating transformation and purity. At that moment, she stood in awe, knowing her creation was both a personal triumph and a gift transcending her being, changing all who encountered it. Letting go, she understood her legacy was no longer hers alone—it belonged to the world.",
                 "lines_in_context": {
                     "6": {
                         "name": "Transcending Creation",
@@ -258,14 +258,16 @@
         "Platonic": "In the depths of the chasm, where darkness veils truth, the vibrant flame of creative power reveals, forging a harmonious enlightenment.",
         "Taoist": "In the dance of the Way, the deep mystery unfurls in the embrace of vivid creativity.",
         "Tholonic": "In the realm where the Abysmal's enigma unfolds, Radiance breathes life upon it, weaving a tapestry of creativity and profundity through a dance eternal.",
-        "Thermodynamics": "In the complex exchange between the entropic depths and the radiant emergence of innovation, profound mysteries are dynamically revealed through the potent energy of creative expression."
+        "Thermodynamics": "In the complex exchange between the entropic depths and the radiant emergence of innovation, profound mysteries are dynamically revealed through the potent energy of creative expression.",
+        "general": "When deep mysteries meet vibrant creativity, a harmonious enlightenment emerges.",
+        "explanation": "The lower trigram, The Abysmal, symbolizes profound depths and mystery, while the upper trigram, Bright and Radiant, represents strength and creativity. Together, they depict a journey where hidden truths are illuminated through innovative expression, leading to a balanced and enlightened understanding."
     },
     "line_type": [
-        "\u268a",
-        "\u268b",
-        "\u268a",
-        "\u268b",
-        "\u268a",
-        "\u268b"
+        "───",
+        "─ ─",
+        "───",
+        "─ ─",
+        "───",
+        "─ ─"
     ]
 }

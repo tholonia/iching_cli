@@ -1,6 +1,6 @@
 {
     "id": 54,
-    "hexagram_code": "\u4df5",
+    "hexagram_code": "䷵",
     "name": "Cultivation",
     "description": "The process of intentional development and refinement. Like a skilled artisan perfecting their craft or a mentor guiding a student, this represents the careful nurturing of potential through sustained attention and appropriate guidance.",
     "king_wen": {
@@ -13,22 +13,22 @@
         "above": {
             "Trigram Number": 4,
             "Binary Decimal": 1,
-            "Symbol": "\u2633",
-            "Chinese Symbol": "\u9707",
-            "Phonetic": "Zh\u00e8n",
+            "Symbol": "☳",
+            "Chinese Symbol": "震",
+            "Phonetic": "Zhèn",
             "English Translation": "Thunder",
-            "English Symbol": "\u96f7",
+            "English Symbol": "雷",
             "Meaning": "The Arousing",
             "Quality": "Dynamic and Exciting"
         },
         "below": {
             "Trigram Number": 8,
             "Binary Decimal": 4,
-            "Symbol": "\u2631",
-            "Chinese Symbol": "\u5151",
-            "Phonetic": "Du\u00ec",
+            "Symbol": "☱",
+            "Chinese Symbol": "兑",
+            "Phonetic": "Duì",
             "English Translation": "Lake/Marsh",
-            "English Symbol": "\u6cfd",
+            "English Symbol": "泽",
             "Meaning": "The Joyous",
             "Quality": "Joyful and Harmonious"
         }
@@ -45,7 +45,7 @@
             "position": 6,
             "name": "Harvest of Wisdom",
             "meaning": "The culmination of cultivation, where the journey of inner growth leads to profound understanding and enlightened fruition.",
-            "changing": "The mature yin, having absorbed life\u2019s lessons, transforms into a transcendent yang energy that prepares the ground for new cycles of creation."
+            "changing": "The mature yin, having absorbed life’s lessons, transforms into a transcendent yang energy that prepares the ground for new cycles of creation."
         },
         {
             "position": 5,
@@ -102,7 +102,7 @@
         "entries": [
             {
                 "title": "The Artisan's Dilemma (Man vs. Man)",
-                "theme": "Gabriel Garc\u00eda M\u00e1rquez",
+                "theme": "Gabriel García Márquez",
                 "short_story": "In a vibrant Latin American village, a gifted artisan named Miguel found his calling in crafting exquisite pottery. He was inspired by the vibrant colors and shapes he saw in dreams and nature. The early days were filled with the excitement of creation, a sense of endless possibilities. But soon, he realized that his raw potential needed shaping and discipline. As Miguel began to hone his skills, he encountered the expectations of his clients, who demanded pieces that matched their taste rather than his artistic vision. This external pressure challenged his resolve. Determined, Miguel worked through the night, refining his craft and aligning his creative force with the demands around him, often doubting if he should conform or stay true to his ideals. The village elders, recognizing his mastery, commissioned a grand mural for the village square, blending tradition with his unique style. This was his moment of mastery as both creator and community figure. Yet, as the mural stood completed, Miguel realized it belonged to the people now, each viewer bringing their interpretation, a work transcending its maker. Letting go, he understood his creation's true legacy lay in its continued influence, beyond his reach.",
                 "lines_in_context": {
                     "6": {
@@ -177,7 +177,7 @@
             {
                 "title": "Eclipse of Potential (Man vs. Self)",
                 "theme": "Ray Bradbury",
-                "short_story": "Jasper Lockhart was a recluse, known in the village for his peculiar habit of collecting broken artifacts from the nearby riverbank. In each shard, he saw unfinished tales waiting to be told. Fueled by an irrepressible urge, he envisioned a sculpture that would encapsulate the fleeting beauty of human dreams. He began by assembling pieces in his cramped attic, overwhelmed by the countless narratives jostling for space in his mind. At first, clarity was elusive; each fragment seemed to echo a different voice, creating discord in his vision. As Jasper shaped the pieces with steady hands, he grappled with moments of doubt and resistance from deep within\u2014a voice questioning the worth of his pursuit. Yet, as days slid by, the sculpture began to emerge, resonating with a harmony he had only ever glimpsed in his dreams. When the work was finally complete, it stood not as a reflection of Jasper himself, but as a testament to possibilities unclaimed, inspiring those who dared to behold its silhouette. He realized then that the essence of his creation belonged to the world, a legacy freeing its maker.",
+                "short_story": "Jasper Lockhart was a recluse, known in the village for his peculiar habit of collecting broken artifacts from the nearby riverbank. In each shard, he saw unfinished tales waiting to be told. Fueled by an irrepressible urge, he envisioned a sculpture that would encapsulate the fleeting beauty of human dreams. He began by assembling pieces in his cramped attic, overwhelmed by the countless narratives jostling for space in his mind. At first, clarity was elusive; each fragment seemed to echo a different voice, creating discord in his vision. As Jasper shaped the pieces with steady hands, he grappled with moments of doubt and resistance from deep within—a voice questioning the worth of his pursuit. Yet, as days slid by, the sculpture began to emerge, resonating with a harmony he had only ever glimpsed in his dreams. When the work was finally complete, it stood not as a reflection of Jasper himself, but as a testament to possibilities unclaimed, inspiring those who dared to behold its silhouette. He realized then that the essence of his creation belonged to the world, a legacy freeing its maker.",
                 "lines_in_context": {
                     "6": {
                         "name": "Liberated Legacy",
@@ -258,14 +258,16 @@
         "Platonic": "In the vivid ballet of exuberance, a serene concord is enlivened, engendering a union wherein joyous tranquility is interwoven with the vitality of motion.",
         "Taoist": "In the stillness of the lake, joy arises with the thunder's call, where serenity and vitality intertwine, dancing as one.",
         "Tholonic": "When Joyful Harmony entwines with Dynamic Excitement, an invigorating synergy is born.",
-        "Thermodynamics": "The symphony of joyous equilibrium unfolds through the dynamic interplay of kinetic energy and exhilarating entropy."
+        "Thermodynamics": "The symphony of joyous equilibrium unfolds through the dynamic interplay of kinetic energy and exhilarating entropy.",
+        "general": "The dance of joy and excitement creates a vibrant harmony.",
+        "explanation": "The lower trigram, 'The Joyous,' symbolizes a state of happiness and peace, while the upper trigram, 'The Arousing,' brings energy and movement. Together, they form a dynamic relationship where the calmness of joy is invigorated by the thrill of excitement, resulting in a harmonious and lively interaction."
     },
     "line_type": [
-        "\u268b",
-        "\u268b",
-        "\u268a",
-        "\u268b",
-        "\u268a",
-        "\u268a"
+        "─ ─",
+        "─ ─",
+        "───",
+        "─ ─",
+        "───",
+        "───"
     ]
 }

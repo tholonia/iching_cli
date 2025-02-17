@@ -1,6 +1,6 @@
 {
     "id": 12,
-    "hexagram_code": "\u4dcb",
+    "hexagram_code": "䷋",
     "name": "Stagnation",
     "description": "The state of blockage that arises when expansion meets resistance. Like heaven's energy blocked by earth, this represents the temporary cessation of flow that precedes necessary transformation.",
     "king_wen": {
@@ -13,22 +13,22 @@
         "above": {
             "Trigram Number": 1,
             "Binary Decimal": 7,
-            "Symbol": "\u2630",
-            "Chinese Symbol": "\u4e7e",
-            "Phonetic": "Qi\u00e1n",
+            "Symbol": "☰",
+            "Chinese Symbol": "乾",
+            "Phonetic": "Qián",
             "English Translation": "Heaven",
-            "English Symbol": "\u5929",
+            "English Symbol": "天",
             "Meaning": "The Creative",
             "Quality": "Strong and Creative"
         },
         "below": {
             "Trigram Number": 2,
             "Binary Decimal": 0,
-            "Symbol": "\u2637",
-            "Chinese Symbol": "\u5764",
-            "Phonetic": "K\u016bn",
+            "Symbol": "☷",
+            "Chinese Symbol": "坤",
+            "Phonetic": "Kūn",
             "English Translation": "Earth",
-            "English Symbol": "\u5730",
+            "English Symbol": "地",
             "Meaning": "The Receptive",
             "Quality": "Receptive and Nurturing"
         }
@@ -103,7 +103,7 @@
             {
                 "title": "The Artisan's Dilemma (Man vs. Man)",
                 "theme": "Herman Melville",
-                "short_story": "In the bustling wharf of a 19th-century port town, Elias, a gifted yet obscure craftsman, dreamed of creating a wooden sloop that could defy the ocean's fury. Though haunted by visions of maritime glory and led by an inner fire, he found his hands hesitating on the freshly cut timbers (Emergence). The townsfolk, pragmatic and skeptical, deemed such ambition folly, whispering that no local craftsman could finish such an endeavor.\n\nUndeterred, Elias set about shaping the keel and ribs, his mind aflame with blueprints and promise (Formation). But challenges arose\u2014a storm shredded the first sails sewn, and funds dwindled, embodying the grating sting of reality against his dreams (Conflict). Plunging into despair, Elias longed for the established path he had forsaken.\n\nDriven by renewed determination, he recalibrated his plans, drawing strength from the elemental nature of wood and wind (Manifestation). Slowly, the sloop took form beneath his hands, balanced between the wisdom of the old and his undying convictions. As he stood upon the nearly completed deck, Elias marveled at his creation (Mastery), aware yet vigilant of the burgeoning pride that claimed his heart.\n\nSending the sloop to sea, he released his vision to the world, relinquishing control over what it would become (Transcendence). Yet, unyielding within, his spirit whispered of new voyages to come.",
+                "short_story": "In the bustling wharf of a 19th-century port town, Elias, a gifted yet obscure craftsman, dreamed of creating a wooden sloop that could defy the ocean's fury. Though haunted by visions of maritime glory and led by an inner fire, he found his hands hesitating on the freshly cut timbers (Emergence). The townsfolk, pragmatic and skeptical, deemed such ambition folly, whispering that no local craftsman could finish such an endeavor.\n\nUndeterred, Elias set about shaping the keel and ribs, his mind aflame with blueprints and promise (Formation). But challenges arose—a storm shredded the first sails sewn, and funds dwindled, embodying the grating sting of reality against his dreams (Conflict). Plunging into despair, Elias longed for the established path he had forsaken.\n\nDriven by renewed determination, he recalibrated his plans, drawing strength from the elemental nature of wood and wind (Manifestation). Slowly, the sloop took form beneath his hands, balanced between the wisdom of the old and his undying convictions. As he stood upon the nearly completed deck, Elias marveled at his creation (Mastery), aware yet vigilant of the burgeoning pride that claimed his heart.\n\nSending the sloop to sea, he released his vision to the world, relinquishing control over what it would become (Transcendence). Yet, unyielding within, his spirit whispered of new voyages to come.",
                 "lines_in_context": {
                     "6": {
                         "name": "Transcendence",
@@ -140,7 +140,7 @@
             {
                 "title": "The Mountain and the Lark (Man vs. Nature)",
                 "theme": "Gabriel Garcia Marquez",
-                "short_story": "Once upon the grandeur of the Andes, a solitary peak stood untouched by any sound but the soft whisper of the wind and the rare cry of a lonesome lark that drifted from the vales below. The mountain breathed dreams of song, yearning for a melodious essence ingrained within its stony heart but dormant like a chrysalis amid the silence (Emergence). As time unfurled, that yearning took shape, spurring the lark to venture, weaving tunes among the high cliffs, shaping the vista with the thread of echoes it sang (Formation).\n\nAt dusk, a tempest descended, hurling pebbles of discord against the clouds, a symphony of chaos rendering the lark's song mute (Conflict). Undeterred, the lark persisted, weaving its voice through the storm's roar, refining its melody to harmonize with the thunder, each note honed and clear (Manifestation).\n\nAt dawn, the tempest lay vanquished by its own fury, and the lark's song soared, the mountain in totality resonating with the light (Mastery). Thus, the mountain and its lark became one, their melody everlasting, a testament to endurance\u2014that creation, once born, belongs not to its originator but the world itself (Transcendence).",
+                "short_story": "Once upon the grandeur of the Andes, a solitary peak stood untouched by any sound but the soft whisper of the wind and the rare cry of a lonesome lark that drifted from the vales below. The mountain breathed dreams of song, yearning for a melodious essence ingrained within its stony heart but dormant like a chrysalis amid the silence (Emergence). As time unfurled, that yearning took shape, spurring the lark to venture, weaving tunes among the high cliffs, shaping the vista with the thread of echoes it sang (Formation).\n\nAt dusk, a tempest descended, hurling pebbles of discord against the clouds, a symphony of chaos rendering the lark's song mute (Conflict). Undeterred, the lark persisted, weaving its voice through the storm's roar, refining its melody to harmonize with the thunder, each note honed and clear (Manifestation).\n\nAt dawn, the tempest lay vanquished by its own fury, and the lark's song soared, the mountain in totality resonating with the light (Mastery). Thus, the mountain and its lark became one, their melody everlasting, a testament to endurance—that creation, once born, belongs not to its originator but the world itself (Transcendence).",
                 "lines_in_context": {
                     "6": {
                         "name": "Transcendence",
@@ -177,7 +177,7 @@
             {
                 "title": "The Visionary's Dilemma (Man vs. Self)",
                 "theme": "Virginia Woolf",
-                "short_story": "In the heart of a silent attic, Eleanor sat surrounded by blank canvases, her mind a tempest of unformed visions hovering just beyond reach. The room was dim, save for a shard of light revealing the dust's slow dance in the air. Here, in this sanctum, the echoes of her father's voice, urging practicality over passion, clashed with her deep yearning to paint, to capture light itself (Emergence). She unfurled the first canvas, the white expanse daunting in its purity. Yet, within her heart, there was resolve, an internal whisper that urged her to begin, sketching lines that felt both alien and familiar (Formation). Obstacles swiftly mounted. The paint, mocking her intentions, subtle wars akin to the struggle between necessity and desire (Conflict). Days turned to restless nights as Eleanor wrestled with her art's direction, a candle flickering in the twilight of doubt (Manifestation). But then, unlike any dawn before, clarity pierced her, guiding each brush stroke with a grace forged from struggle. The canvas came alive, a dance of color and shadow that spoke of dreams and mysteries (Mastery). And finally, with trembling hands, she stepped back\u2014her creation no longer hers but a vibrant testament to her journey, its existence now a narrative shared with the world (Transcendence).",
+                "short_story": "In the heart of a silent attic, Eleanor sat surrounded by blank canvases, her mind a tempest of unformed visions hovering just beyond reach. The room was dim, save for a shard of light revealing the dust's slow dance in the air. Here, in this sanctum, the echoes of her father's voice, urging practicality over passion, clashed with her deep yearning to paint, to capture light itself (Emergence). She unfurled the first canvas, the white expanse daunting in its purity. Yet, within her heart, there was resolve, an internal whisper that urged her to begin, sketching lines that felt both alien and familiar (Formation). Obstacles swiftly mounted. The paint, mocking her intentions, subtle wars akin to the struggle between necessity and desire (Conflict). Days turned to restless nights as Eleanor wrestled with her art's direction, a candle flickering in the twilight of doubt (Manifestation). But then, unlike any dawn before, clarity pierced her, guiding each brush stroke with a grace forged from struggle. The canvas came alive, a dance of color and shadow that spoke of dreams and mysteries (Mastery). And finally, with trembling hands, she stepped back—her creation no longer hers but a vibrant testament to her journey, its existence now a narrative shared with the world (Transcendence).",
                 "lines_in_context": {
                     "6": {
                         "name": "Transcendence",
@@ -259,14 +259,16 @@
         "Platonic": "The fruits of nurturing receptivity are revealed through the dynamic essence of potent creativity, akin to the soul's ascent from shadows to the light of pure forms.",
         "Taoist": "The gentle embrace of receptivity births the vibrant dance of creative strength.",
         "Tholonic": "In the dance of existence, the gentle embrace of nurturing reveals its form through the steadfast power of creative vigor.",
-        "Thermodynamics": "The emergence of nurturing receptivity manifests through the assertive energy of creative strength."
+        "Thermodynamics": "The emergence of nurturing receptivity manifests through the assertive energy of creative strength.",
+        "general": "The nurturing ground of receptivity allows the rise of creative energy.",
+        "explanation": "In 'The Receptive,' the lower trigram symbolizes a nurturing foundation, which supports and enables the upper trigram, 'The Creative,' to express its strong and dynamic energy. This interaction illustrates how a stable and open base can foster the emergence of powerful creative forces, reflecting a harmonious balance between passive support and active creation."
     },
     "line_type": [
-        "\u268a",
-        "\u268a",
-        "\u268a",
-        "\u268b",
-        "\u268b",
-        "\u268b"
+        "───",
+        "───",
+        "───",
+        "─ ─",
+        "─ ─",
+        "─ ─"
     ]
 }

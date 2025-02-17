@@ -1,6 +1,6 @@
 {
     "id": 19,
-    "hexagram_code": "\u4dd2",
+    "hexagram_code": "䷒",
     "name": "Emergence",
     "description": "The period when potential transforms into manifestation. Like dawn approaching, this represents the threshold where new possibilities begin to take tangible form through receptive conditions.",
     "king_wen": {
@@ -13,22 +13,22 @@
         "above": {
             "Trigram Number": 2,
             "Binary Decimal": 0,
-            "Symbol": "\u2637",
-            "Chinese Symbol": "\u5764",
-            "Phonetic": "K\u016bn",
+            "Symbol": "☷",
+            "Chinese Symbol": "坤",
+            "Phonetic": "Kūn",
             "English Translation": "Earth",
-            "English Symbol": "\u5730",
+            "English Symbol": "地",
             "Meaning": "The Receptive",
             "Quality": "Receptive and Nurturing"
         },
         "below": {
             "Trigram Number": 8,
             "Binary Decimal": 4,
-            "Symbol": "\u2631",
-            "Chinese Symbol": "\u5151",
-            "Phonetic": "Du\u00ec",
+            "Symbol": "☱",
+            "Chinese Symbol": "兑",
+            "Phonetic": "Duì",
             "English Translation": "Lake/Marsh",
-            "English Symbol": "\u6cfd",
+            "English Symbol": "泽",
             "Meaning": "The Joyous",
             "Quality": "Joyful and Harmonious"
         }
@@ -93,7 +93,7 @@
         "order8parent": "INNER GROWTH; Internal Development"
     },
     "image": {
-        "description": "The image of dawn light touching the earth embodies Hexagram 19, \"Emergence,\" symbolizing the gradual unveiling of wisdom and inner clarity. The interplay of soft hues and delicate lines reflects the generative and subtle nature of emergence, aligning with the tholonic concept of negotiation, where growth arises through harmony and balance. The use of watercolor and ink wash captures the ethereal transition from darkness to light, emphasizing the quiet, transformative process of wisdom coming into focus. Sessh\u016b T\u014dy\u014d\u2019s mastery in blending simplicity with profound depth brings life to this portrayal, making it a deeply symbolic representation of emergence as the journey toward insight and understanding.",
+        "description": "The image of dawn light touching the earth embodies Hexagram 19, \"Emergence,\" symbolizing the gradual unveiling of wisdom and inner clarity. The interplay of soft hues and delicate lines reflects the generative and subtle nature of emergence, aligning with the tholonic concept of negotiation, where growth arises through harmony and balance. The use of watercolor and ink wash captures the ethereal transition from darkness to light, emphasizing the quiet, transformative process of wisdom coming into focus. Sesshū Tōyō’s mastery in blending simplicity with profound depth brings life to this portrayal, making it a deeply symbolic representation of emergence as the journey toward insight and understanding.",
         "file": "19.png"
     },
     "energy_cycle": "ascending",
@@ -102,7 +102,7 @@
         "entries": [
             {
                 "title": "The Sculptor's Resolve (Man vs. Man)",
-                "theme": "Gabriel Garc\u00eda M\u00e1rquez",
+                "theme": "Gabriel García Márquez",
                 "short_story": "In a remote village by the sea, Enrique, an ambitious young sculptor, discovered a block of granite washed ashore. He saw potential in its raw, unshaped form, much like his unchecked dreams. Hesitant but eager, he began chiseling away, aligning his vision with the stone's natural grain. The village elders, skeptics with years of tradition, deemed his ambitions too lofty and offered nothing but cautionary tales.\n\nEnrique faced resistance from the weather-beaten stone, embodying his struggle against their doubts. Yet, with each chip, the stone revealed hidden contours, echoing the ocean's whispers of support. As he sculpted, his hands danced in rhythm with the tide, each wave a testament to his resolve.\n\nHis creation took shape, a majestic figure emerging from its depths, encapsulating both the madness of the sea and the tranquility of the shore. As he stood before his masterpiece, Enrique realized it no longer belonged to him. It lived within the village, challenging old beliefs.\n\nYet, in this triumph, Enrique paused, aware of the whispering winds. Would he let the stone stand alone or continue to shape it, tempting fate's balance? He chose the wind, walking away as his legacy became the village's newfound faith.",
                 "lines_in_context": {
                     "6": {
@@ -177,7 +177,7 @@
             {
                 "title": "The Song within the Stone (Man vs. Self)",
                 "theme": "Hermann Hesse",
-                "short_story": "In the heart of a forgotten temple, nestled in the embrace of an ancient forest, a young monk named Liang discovered a block of pristine marble. Entranced by its silent potential, he sensed a melody locked within its veined depths. Liang was filled with raw, unshaped inspiration, yet direction seemed elusive, as if the path to realization was shrouded in mist.\n\nWith boundless patience, Liang began to shape the stone, each chiselled stroke an exploration of its possibilities. Yet, he soon met with resistance\u2014not from the stone, which sang with clarity\u2014but from within himself, as doubt and hesitation threatened to still his hand.\n\nA breakthrough emerged as Liang aligned his soul with the stone's silent song. The work flowed with newfound energy, his resolve like a stream carving through the earth.\n\nAt the peak of his creation, Liang realized the sculpture was not his alone\u2014it was a collective manifestation of the stone's years, the forest's whispers, and his own intuitive dance. Relinquishing final control, he stepped back, allowing the creation to exist as its own, a testament to the harmony between potential and realization.\n\nLiang understood that the true masterpiece lay not in the stone, but in embracing the journey toward self-discovery.",
+                "short_story": "In the heart of a forgotten temple, nestled in the embrace of an ancient forest, a young monk named Liang discovered a block of pristine marble. Entranced by its silent potential, he sensed a melody locked within its veined depths. Liang was filled with raw, unshaped inspiration, yet direction seemed elusive, as if the path to realization was shrouded in mist.\n\nWith boundless patience, Liang began to shape the stone, each chiselled stroke an exploration of its possibilities. Yet, he soon met with resistance—not from the stone, which sang with clarity—but from within himself, as doubt and hesitation threatened to still his hand.\n\nA breakthrough emerged as Liang aligned his soul with the stone's silent song. The work flowed with newfound energy, his resolve like a stream carving through the earth.\n\nAt the peak of his creation, Liang realized the sculpture was not his alone—it was a collective manifestation of the stone's years, the forest's whispers, and his own intuitive dance. Relinquishing final control, he stepped back, allowing the creation to exist as its own, a testament to the harmony between potential and realization.\n\nLiang understood that the true masterpiece lay not in the stone, but in embracing the journey toward self-discovery.",
                 "lines_in_context": {
                     "6": {
                         "name": "Liberation of Creation",
@@ -260,14 +260,16 @@
         "Platonic": "In the realm of the soul, the flourishing of Joyful Expansion is nurtured and sustained by the benevolent embrace of Receptive Support and the gentle stewardship of Nurturing Care.",
         "Taoist": "Joy and Harmony blossom when one embraces the gentle flow of Receptivity and the nurturing spirit of Nature.",
         "Tholonic": "In the tender cradle of the Receptive Embrace, the synthesis of Joyful Expansion unfolds, ushering forth harmony and the flourishing of spirit.",
-        "Thermodynamics": "The emergence of Joyful and Harmonious energy is a consequence of the system's interaction with Receptive and Nurturing forces, fostering equilibrium and spontaneous order."
+        "Thermodynamics": "The emergence of Joyful and Harmonious energy is a consequence of the system's interaction with Receptive and Nurturing forces, fostering equilibrium and spontaneous order.",
+        "general": "Joy and harmony naturally arise when nurtured by receptive and caring forces.",
+        "explanation": "The lower trigram, 'The Joyous,' symbolizes the emergence of joy and harmony, while the upper trigram, 'The Receptive,' embodies nurturing and supportive qualities. Together, they illustrate how joy and harmony can thrive when supported by a receptive and caring environment, creating a balanced and harmonious state."
     },
     "line_type": [
-        "\u268b",
-        "\u268b",
-        "\u268b",
-        "\u268b",
-        "\u268a",
-        "\u268a"
+        "─ ─",
+        "─ ─",
+        "─ ─",
+        "─ ─",
+        "───",
+        "───"
     ]
 }

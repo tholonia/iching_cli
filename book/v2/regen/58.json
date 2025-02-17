@@ -1,6 +1,6 @@
 {
     "id": 58,
-    "hexagram_code": "\u4df9",
+    "hexagram_code": "䷹",
     "name": "Resonance",
     "description": "The joyful exchange of energy and ideas between compatible elements. Like harmonious music or synchronized oscillators, this represents the natural alignment of complementary forces and the pleasure of mutual enhancement.",
     "king_wen": {
@@ -13,22 +13,22 @@
         "above": {
             "Trigram Number": 8,
             "Binary Decimal": 4,
-            "Symbol": "\u2631",
-            "Chinese Symbol": "\u5151",
-            "Phonetic": "Du\u00ec",
+            "Symbol": "☱",
+            "Chinese Symbol": "兑",
+            "Phonetic": "Duì",
             "English Translation": "Lake/Marsh",
-            "English Symbol": "\u6cfd",
+            "English Symbol": "泽",
             "Meaning": "The Joyous",
             "Quality": "Joyful and Harmonious"
         },
         "below": {
             "Trigram Number": 8,
             "Binary Decimal": 4,
-            "Symbol": "\u2631",
-            "Chinese Symbol": "\u5151",
-            "Phonetic": "Du\u00ec",
+            "Symbol": "☱",
+            "Chinese Symbol": "兑",
+            "Phonetic": "Duì",
             "English Translation": "Lake/Marsh",
-            "English Symbol": "\u6cfd",
+            "English Symbol": "泽",
             "Meaning": "The Joyous",
             "Quality": "Joyful and Harmonious"
         }
@@ -259,14 +259,16 @@
         "Platonic": "The confluence of Joy and Harmony, through their twofold expressions, magnifies mutual delight and augments the wealth of shared enrichment.",
         "Taoist": "In the dance of Joy and Harmony, when we hold both with gentle hands, the shared delight deepens, and harmony blooms.",
         "Tholonic": "When Joyful and Harmonious energies dance in mutual resonance, they birth a magnified synergy of collective delight and profound harmony.",
-        "Thermodynamics": "The confluence of Joyful and Harmonious energies, through their mutual expression, elevates the entropy of a shared symphony, resonating with profound order and delight."
+        "Thermodynamics": "The confluence of Joyful and Harmonious energies, through their mutual expression, elevates the entropy of a shared symphony, resonating with profound order and delight.",
+        "general": "When Joy and Harmony unite, their shared resonance amplifies delight and enriches the collective spirit.",
+        "explanation": "The trigrams of 'The Joyous' both embody Joyful and Harmonious qualities, creating a powerful synergy. This duality enhances the resonance between them, fostering a deeper shared delight and enriching the collective spirit. The mutual expression of these energies amplifies their impact, much like a harmonious melody that grows richer and more profound when played together, illustrating how their union elevates the experience of joy and harmony."
     },
     "line_type": [
-        "\u268b",
-        "\u268a",
-        "\u268a",
-        "\u268b",
-        "\u268a",
-        "\u268a"
+        "─ ─",
+        "───",
+        "───",
+        "─ ─",
+        "───",
+        "───"
     ]
 }

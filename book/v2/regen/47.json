@@ -1,6 +1,6 @@
 {
     "id": 47,
-    "hexagram_code": "\u4dee",
+    "hexagram_code": "䷮",
     "name": "Depletion",
     "description": "A time of diminishing resources and challenging circumstances that demands resilience and strategic conservation. Like a lake during drought or batteries running low, this represents the need to manage scarcity while maintaining essential functions.",
     "king_wen": {
@@ -13,22 +13,22 @@
         "above": {
             "Trigram Number": 8,
             "Binary Decimal": 4,
-            "Symbol": "\u2631",
-            "Chinese Symbol": "\u5151",
-            "Phonetic": "Du\u00ec",
+            "Symbol": "☱",
+            "Chinese Symbol": "兑",
+            "Phonetic": "Duì",
             "English Translation": "Lake/Marsh",
-            "English Symbol": "\u6cfd",
+            "English Symbol": "泽",
             "Meaning": "The Joyous",
             "Quality": "Joyful and Harmonious"
         },
         "below": {
             "Trigram Number": 6,
             "Binary Decimal": 2,
-            "Symbol": "\u2635",
-            "Chinese Symbol": "\u574e",
-            "Phonetic": "K\u01cen",
+            "Symbol": "☵",
+            "Chinese Symbol": "坎",
+            "Phonetic": "Kǎn",
             "English Translation": "Water",
-            "English Symbol": "\u6c34",
+            "English Symbol": "水",
             "Meaning": "The Abysmal",
             "Quality": "Deep and Mysterious"
         }
@@ -103,7 +103,7 @@
             {
                 "title": "The Final Canvas (Man vs. Man)",
                 "theme": "Virginia Woolf",
-                "short_story": "Amidst the chaos of an art studio filled with unfinished canvases, Clara stood, a custodian of raw potential begging to be shaped. Her brushes lay idle, unblemished by color, as she wrestled with the daunting task of creation. The initial impulse was there, a spark buried beneath layers of doubt. Yet for Clara, doubt transformed into resolve, and she picked up her brush, daring the canvas to reflect the depth within her soul. As she painted, lines and colors began to take form, each stroke a testament to the beauty of her vision. But soon, whispers of doubt threatened to douse her burgeoning flame, reminding her of the critics lurking in every shadow. The canvas taunted her, a battlefield between inspiration and hesitation. Just as despair loomed, a vision crystallized\u2014she must paint for herself, not the world. With renewed vigor, her art blossomed, capturing an essence that transcended form. Mastery was found not in the acceptance of others but in the unrestrained fusion of freedom and realization. Finally, as dawn broke, Clara's creation stood complete\u2014not hers alone but a testament to the eternal dance of inspiration, capturing the world in its timeless gaze.",
+                "short_story": "Amidst the chaos of an art studio filled with unfinished canvases, Clara stood, a custodian of raw potential begging to be shaped. Her brushes lay idle, unblemished by color, as she wrestled with the daunting task of creation. The initial impulse was there, a spark buried beneath layers of doubt. Yet for Clara, doubt transformed into resolve, and she picked up her brush, daring the canvas to reflect the depth within her soul. As she painted, lines and colors began to take form, each stroke a testament to the beauty of her vision. But soon, whispers of doubt threatened to douse her burgeoning flame, reminding her of the critics lurking in every shadow. The canvas taunted her, a battlefield between inspiration and hesitation. Just as despair loomed, a vision crystallized—she must paint for herself, not the world. With renewed vigor, her art blossomed, capturing an essence that transcended form. Mastery was found not in the acceptance of others but in the unrestrained fusion of freedom and realization. Finally, as dawn broke, Clara's creation stood complete—not hers alone but a testament to the eternal dance of inspiration, capturing the world in its timeless gaze.",
                 "lines_in_context": {
                     "6": {
                         "name": "Transcendence",
@@ -139,8 +139,8 @@
             },
             {
                 "title": "The Struggle Against the Tide (Man vs. Nature)",
-                "theme": "Gabriel Garc\u00eda M\u00e1rquez",
-                "short_story": "In a remote village, Santiago, a determined young fisherman, stood before the vast sea with an aging boat and dwindling supplies. The ocean\u2014the final frontier, and his formidable adversary\u2014beckoned him with its mysterious whispers of treasures hidden beneath its waves. The village elders spoke of a mythical catch that could end Santiago\u2019s struggles, yet doubt cloaked their eyes, casting shadows over his hopes. He set out at dawn, the horizon a bright sliver against the ocean's relentless, murmuring expanse. The journey unfolded with deceptive tranquility, the sea\u2019s surface mirroring the clouds' gentle drift. But as Santiago cast his nets, a great storm loomed, a dark crescendo of nature\u2019s might. The winds howled, waves crashed, threatening to engulf his fragile vessel. Fear gripped him, yet deep within, a primal force ignited\u2014a covenant with the sea. He persevered, channeling every flicker of strength. In the storm's wake, Santiago glimpsed a shimmer\u2014a silver-scaled bounty entangled in his nets. Triumph and exhaustion intertwined as he realized that the true catch was not just the fish but the understanding that nature\u2019s trials were part of a cycle. With resilience, he had grasped a fragment of divine order from chaos, returning home with not just bounty, but a profound connection to the world's endless rhythm.",
+                "theme": "Gabriel García Márquez",
+                "short_story": "In a remote village, Santiago, a determined young fisherman, stood before the vast sea with an aging boat and dwindling supplies. The ocean—the final frontier, and his formidable adversary—beckoned him with its mysterious whispers of treasures hidden beneath its waves. The village elders spoke of a mythical catch that could end Santiago’s struggles, yet doubt cloaked their eyes, casting shadows over his hopes. He set out at dawn, the horizon a bright sliver against the ocean's relentless, murmuring expanse. The journey unfolded with deceptive tranquility, the sea’s surface mirroring the clouds' gentle drift. But as Santiago cast his nets, a great storm loomed, a dark crescendo of nature’s might. The winds howled, waves crashed, threatening to engulf his fragile vessel. Fear gripped him, yet deep within, a primal force ignited—a covenant with the sea. He persevered, channeling every flicker of strength. In the storm's wake, Santiago glimpsed a shimmer—a silver-scaled bounty entangled in his nets. Triumph and exhaustion intertwined as he realized that the true catch was not just the fish but the understanding that nature’s trials were part of a cycle. With resilience, he had grasped a fragment of divine order from chaos, returning home with not just bounty, but a profound connection to the world's endless rhythm.",
                 "lines_in_context": {
                     "6": {
                         "name": "Transcendence",
@@ -258,14 +258,16 @@
         "Platonic": "The emergence of true profundity is discovered in the harmonious balance of joy and order.",
         "Taoist": "In the dance of vibrant balance, the essence of deep mystery reveals itself.",
         "Tholonic": "In the dance between profound depth and radiant harmony, hidden insights unfold, whispered through a joyous and unified expression.",
-        "Thermodynamics": "The revelation of deep enigma emerges as a thermodynamic waltz in a state of joyful equilibrium."
+        "Thermodynamics": "The revelation of deep enigma emerges as a thermodynamic waltz in a state of joyful equilibrium.",
+        "general": "In the dance of joy and mystery, profound insights emerge through harmonious balance.",
+        "explanation": "The Abysmal, symbolizing depth and mystery, combines with The Joyous, representing joy and harmony, to create a state where deep understanding arises. This union reflects a balance between the unknown and the uplifting, allowing hidden truths to surface through a harmonious interplay of contrasting energies, much like a dance that reveals insights in the equilibrium of its movements."
     },
     "line_type": [
-        "\u268b",
-        "\u268a",
-        "\u268a",
-        "\u268b",
-        "\u268a",
-        "\u268b"
+        "─ ─",
+        "───",
+        "───",
+        "─ ─",
+        "───",
+        "─ ─"
     ]
 }

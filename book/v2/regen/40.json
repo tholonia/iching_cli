@@ -1,6 +1,6 @@
 {
     "id": 40,
-    "hexagram_code": "\u4de7",
+    "hexagram_code": "䷧",
     "name": "Liberation From Burden",
     "description": "Represents release from difficulty and the restoration of free movement. Like a thunderstorm clearing stagnant air, it marks the moment when obstacles dissolve.",
     "king_wen": {
@@ -13,22 +13,22 @@
         "above": {
             "Trigram Number": 4,
             "Binary Decimal": 1,
-            "Symbol": "\u2633",
-            "Chinese Symbol": "\u9707",
-            "Phonetic": "Zh\u00e8n",
+            "Symbol": "☳",
+            "Chinese Symbol": "震",
+            "Phonetic": "Zhèn",
             "English Translation": "Thunder",
-            "English Symbol": "\u96f7",
+            "English Symbol": "雷",
             "Meaning": "The Arousing",
             "Quality": "Dynamic and Exciting"
         },
         "below": {
             "Trigram Number": 6,
             "Binary Decimal": 2,
-            "Symbol": "\u2635",
-            "Chinese Symbol": "\u574e",
-            "Phonetic": "K\u01cen",
+            "Symbol": "☵",
+            "Chinese Symbol": "坎",
+            "Phonetic": "Kǎn",
             "English Translation": "Water",
-            "English Symbol": "\u6c34",
+            "English Symbol": "水",
             "Meaning": "The Abysmal",
             "Quality": "Deep and Mysterious"
         }
@@ -51,7 +51,7 @@
             "position": 5,
             "name": "Liberated Ascension",
             "meaning": "At the peak of liberation, burdens are decisively cast off. The individual steps into a realm of lightness with wisdom gained from previous trials.",
-            "changing": "Here, yin\u2019s latent qualities fully blossom into assertive yang strength, symbolizing the triumphant release and the embrace of newfound freedom."
+            "changing": "Here, yin’s latent qualities fully blossom into assertive yang strength, symbolizing the triumphant release and the embrace of newfound freedom."
         },
         {
             "position": 4,
@@ -139,7 +139,7 @@
             },
             {
                 "title": "The Storm Painter (Man vs. Nature)",
-                "theme": "Gabriel Garc\u00eda M\u00e1rquez",
+                "theme": "Gabriel García Márquez",
                 "short_story": "In the ancient town of San Mariposa, an artist named Eladio stood at the edge of the sea, canvas in hand, ready to capture the tempestuous beauty of an approaching storm. The air was charged with anticipation, and Eladio felt an untamed energy within him, a raw potential that had yet to find its form. As the storm crept closer, he began to paint, his brush strokes wild and uncertain as he grappled with nature's chaos.\n\nSlowly, his vision began to take shape. The canvas, once a blur of colors, now told the story of the sea's fury and the sky's torment. However, as Eladio's masterpiece neared completion, the ferocity of the storm threatened to sweep him away, challenging his resolve and focus. He stood firm, drawing strength from his surroundings and finding harmony in the chaos.\n\nWith every surge of wind and rain, his creation gained momentum, reflecting the powerful synergy of earth and sky. His paintbrush danced with newfound confidence, and Eladio took command over his work, fully embracing the storm's energy. As dawn broke, the storm subsided, and the painting seemed to pulse with life, transcending its creator's intention. Eladio gazed upon it, realizing it no longer belonged to him alone but spoke for the soul of San Mariposa, capturing both the wild beauty of nature and the indomitable spirit of humanity.",
                 "lines_in_context": {
                     "6": {
@@ -258,14 +258,16 @@
         "Platonic": "The revelation of the profound arises when stirred by an invigorating and transformative essence.",
         "Taoist": "In the dance of unseen depths, the vital currents of transformation reveal themselves.",
         "Tholonic": "In the enigmatic abyss of profundity, an invigorating and metamorphic dynamism is born.",
-        "Thermodynamics": "The intricate complexities of depth emerge vividly under the invigorating and exhilarating influence of dynamic thermodynamic processes."
+        "Thermodynamics": "The intricate complexities of depth emerge vividly under the invigorating and exhilarating influence of dynamic thermodynamic processes.",
+        "general": "In the mysterious depths, dynamic energy ignites profound transformation.",
+        "explanation": "The lower trigram, 'The Abysmal,' symbolizes deep and mysterious aspects, while the upper trigram, 'The Arousing,' represents dynamic and exciting forces. Together, they suggest that when the hidden depths are stirred by dynamic energy, a process of profound transformation occurs, aligning with the synthesis of the philosophical perspectives provided."
     },
     "line_type": [
-        "\u268b",
-        "\u268b",
-        "\u268a",
-        "\u268b",
-        "\u268a",
-        "\u268b"
+        "─ ─",
+        "─ ─",
+        "───",
+        "─ ─",
+        "───",
+        "─ ─"
     ]
 }

@@ -1,6 +1,6 @@
 {
     "id": 4,
-    "hexagram_code": "\u4dc3",
+    "hexagram_code": "䷃",
     "name": "Guidance",
     "description": "The process of learning through experience and mentorship. Like spring rain nurturing seedlings, this represents the power of supportive development and patient instruction.",
     "king_wen": {
@@ -13,22 +13,22 @@
         "above": {
             "Trigram Number": 3,
             "Binary Decimal": 3,
-            "Symbol": "\u2636",
-            "Chinese Symbol": "\u826e",
-            "Phonetic": "G\u00e8n",
+            "Symbol": "☶",
+            "Chinese Symbol": "艮",
+            "Phonetic": "Gèn",
             "English Translation": "Mountain",
-            "English Symbol": "\u5c71",
+            "English Symbol": "山",
             "Meaning": "The Still",
             "Quality": "Still and Enduring"
         },
         "below": {
             "Trigram Number": 6,
             "Binary Decimal": 2,
-            "Symbol": "\u2635",
-            "Chinese Symbol": "\u574e",
-            "Phonetic": "K\u01cen",
+            "Symbol": "☵",
+            "Chinese Symbol": "坎",
+            "Phonetic": "Kǎn",
             "English Translation": "Water",
-            "English Symbol": "\u6c34",
+            "English Symbol": "水",
             "Meaning": "The Abysmal",
             "Quality": "Deep and Mysterious"
         }
@@ -93,7 +93,7 @@
         "order8parent": "PRIMAL DEFINITION; Creation of Basic Forms"
     },
     "image": {
-        "description": "The image of a single pawn amidst a grand, intricate scene captures the essence of Hexagram 4, \"Guidance,\" as raw potential seeking form. The pawn symbolizes the unformed energy awaiting structure, a focal point for directed growth and learning. The pen and ink style, with its precise lines and layered detail, reflects the tholonic concept of limitation, where potential is defined and shaped by the boundaries of form and discipline. The medium of ink emphasizes permanence and clarity, embodying the transformational process of raw energy solidifying into purpose. Albrecht D\u00fcrer, a master of intricate and symbolic compositions, conveys the journey of guidance through detailed storytelling, making this image a profound depiction of unrefined potential shaped by wisdom and structure.",
+        "description": "The image of a single pawn amidst a grand, intricate scene captures the essence of Hexagram 4, \"Guidance,\" as raw potential seeking form. The pawn symbolizes the unformed energy awaiting structure, a focal point for directed growth and learning. The pen and ink style, with its precise lines and layered detail, reflects the tholonic concept of limitation, where potential is defined and shaped by the boundaries of form and discipline. The medium of ink emphasizes permanence and clarity, embodying the transformational process of raw energy solidifying into purpose. Albrecht Dürer, a master of intricate and symbolic compositions, conveys the journey of guidance through detailed storytelling, making this image a profound depiction of unrefined potential shaped by wisdom and structure.",
         "file": "04.png"
     },
     "energy_cycle": "descending",
@@ -102,45 +102,45 @@
         "entries": [
             {
                 "title": "The Architect's Dream (Man vs. Man)",
-                "theme": "Gabriel Garc\u00eda M\u00e1rquez",
-                "short_story": "In the bustling heart of the city, Mart\u00edn, a young architect, stood before a blank canvas of untapped landscapes. His hands tingled with the urge to transform his visions into grand structures that reached for the heavens. Yet, the cacophony around him nudged him back to reality, exposing his lack of direction in the symphony of architectural possibilities. Realizing this, he harnessed his raw energy, sculpting ideas into blueprints that whispered of great promise. As governments imposed regulations and elders scoffed at his youth, Mart\u00edn's resolve was tested by these constraints that shadowed his dreams. Undeterred, he innovate beyond limitations, aligning his designs with the cityscape's rhythm, gaining allies among those who appreciated his daring vision. With time and perseverance, he erected a towering testament to creativity, a beacon for those who aspired to reach beyond the limits of the mundane. Yet, as the sun cast its golden farewell on his masterpiece, Mart\u00edn knew he must release his creation into the world, allowing it to evolve and inspire beyond his reign. His hands, once again, tingled with the promise of new beginnings, as he let go, witnessing his dream transcend his presence.",
+                "theme": "Gabriel García Márquez",
+                "short_story": "In the bustling heart of the city, Martín, a young architect, stood before a blank canvas of untapped landscapes. His hands tingled with the urge to transform his visions into grand structures that reached for the heavens. Yet, the cacophony around him nudged him back to reality, exposing his lack of direction in the symphony of architectural possibilities. Realizing this, he harnessed his raw energy, sculpting ideas into blueprints that whispered of great promise. As governments imposed regulations and elders scoffed at his youth, Martín's resolve was tested by these constraints that shadowed his dreams. Undeterred, he innovate beyond limitations, aligning his designs with the cityscape's rhythm, gaining allies among those who appreciated his daring vision. With time and perseverance, he erected a towering testament to creativity, a beacon for those who aspired to reach beyond the limits of the mundane. Yet, as the sun cast its golden farewell on his masterpiece, Martín knew he must release his creation into the world, allowing it to evolve and inspire beyond his reign. His hands, once again, tingled with the promise of new beginnings, as he let go, witnessing his dream transcend his presence.",
                 "lines_in_context": {
                     "6": {
                         "name": "Transcendence",
-                        "meaning": "Mart\u00edn's creation stands tall, impacting the world beyond personal influence, marking the completion of his journey.",
-                        "changing": "If Mart\u00edn clings to control, it stifles the evolution of his creation, preventing it from reaching its full potential."
+                        "meaning": "Martín's creation stands tall, impacting the world beyond personal influence, marking the completion of his journey.",
+                        "changing": "If Martín clings to control, it stifles the evolution of his creation, preventing it from reaching its full potential."
                     },
                     "5": {
                         "name": "Mastery",
-                        "meaning": "Mart\u00edn attains mastery over his craft, commanding respect and admiration with his monumental design.",
-                        "changing": "Should Mart\u00edn become arrogant or misjudge his influence, his success may falter, undermining his achievements."
+                        "meaning": "Martín attains mastery over his craft, commanding respect and admiration with his monumental design.",
+                        "changing": "Should Martín become arrogant or misjudge his influence, his success may falter, undermining his achievements."
                     },
                     "4": {
                         "name": "Manifestation",
-                        "meaning": "Mart\u00edn's vision aligns with reality, gaining momentum and the support needed for realization.",
-                        "changing": "Overreaching ambition leads to unsustainable growth, jeopardizing the stability of Mart\u00edn's work."
+                        "meaning": "Martín's vision aligns with reality, gaining momentum and the support needed for realization.",
+                        "changing": "Overreaching ambition leads to unsustainable growth, jeopardizing the stability of Martín's work."
                     },
                     "3": {
                         "name": "Conflict",
-                        "meaning": "Mart\u00edn faces opposition and challenges from external forces, testing his resolve and determination.",
+                        "meaning": "Martín faces opposition and challenges from external forces, testing his resolve and determination.",
                         "changing": "Retreat or exhaustion before reaching full potential results in unfinished dreams, thwarting progress."
                     },
                     "2": {
                         "name": "Formation",
-                        "meaning": "Mart\u00edn begins shaping his future, defining his path amidst early obstacles and establishing a foundation.",
+                        "meaning": "Martín begins shaping his future, defining his path amidst early obstacles and establishing a foundation.",
                         "changing": "Premature action brings instability, misaligning with the natural flow of his creative journey."
                     },
                     "1": {
                         "name": "Emergence",
-                        "meaning": "Filled with raw potential, Mart\u00edn embarks on his creative journey, driven by untamed energy.",
-                        "changing": "Hesitation or inaction delays the fruition of Mart\u00edn's creative impulse, stalling his initial efforts."
+                        "meaning": "Filled with raw potential, Martín embarks on his creative journey, driven by untamed energy.",
+                        "changing": "Hesitation or inaction delays the fruition of Martín's creative impulse, stalling his initial efforts."
                     }
                 }
             },
             {
                 "title": "The Whisper of the Wind (Man vs. Nature)",
                 "theme": "Haruki Murakami",
-                "short_story": "In a solitary village nestled between towering mountains and a vast sea, Jun, possessed with boundless creative ambition, yearned to capture the elusive dance of the wind in his art. When the first breeze rustled through the cherry blossoms, he felt the emergence of an idea \u2014 a delicate yet potent spark. But just as he tried to grasp this inspiration, the wind shifted, leaving him to wrestle with its elusive nature. Undeterred, Jun began weaving the whispers into patterns on a canvas with strokes of pure potential, facing the initial barriers of doubt. These formative struggles mirrored the wind\u2019s swift changes, as unpredictable as the path of a butterfly. When ominous clouds rolled over the mountains, Jun encountered his greatest conflict; external forces threatened to shroud his creation, challenging the resolve within him. Yet, refining his vision amidst the storm\u2019s fury, he aligned with the elements, letting his spirit breathe momentum into his work. In the heart of the tempest, he reached mastery, capturing the wind\u2019s essence with a grace that resonated beyond the canvas. However, true transcendence lay in releasing his creation into the world, allowing it to inspire others as it once inspired him. As he stepped back, the wind carried his spirit, whispering stories of transformation and release.",
+                "short_story": "In a solitary village nestled between towering mountains and a vast sea, Jun, possessed with boundless creative ambition, yearned to capture the elusive dance of the wind in his art. When the first breeze rustled through the cherry blossoms, he felt the emergence of an idea — a delicate yet potent spark. But just as he tried to grasp this inspiration, the wind shifted, leaving him to wrestle with its elusive nature. Undeterred, Jun began weaving the whispers into patterns on a canvas with strokes of pure potential, facing the initial barriers of doubt. These formative struggles mirrored the wind’s swift changes, as unpredictable as the path of a butterfly. When ominous clouds rolled over the mountains, Jun encountered his greatest conflict; external forces threatened to shroud his creation, challenging the resolve within him. Yet, refining his vision amidst the storm’s fury, he aligned with the elements, letting his spirit breathe momentum into his work. In the heart of the tempest, he reached mastery, capturing the wind’s essence with a grace that resonated beyond the canvas. However, true transcendence lay in releasing his creation into the world, allowing it to inspire others as it once inspired him. As he stepped back, the wind carried his spirit, whispering stories of transformation and release.",
                 "lines_in_context": {
                     "6": {
                         "name": "Release",
@@ -149,7 +149,7 @@
                     },
                     "5": {
                         "name": "Artistic Mastery",
-                        "meaning": "Jun captures the wind\u2019s essence, reaching the peak of his creative potential.",
+                        "meaning": "Jun captures the wind’s essence, reaching the peak of his creative potential.",
                         "changing": "Arrogance or misjudgment risks undermining the harmony he achieved."
                     },
                     "4": {
@@ -216,7 +216,7 @@
     "history": {
         "title": "Feynman's Revolutionary Teaching Method",
         "subtitle": "\"Guidance\" in History",
-        "short_story": "In 1961, physicist Richard Feynman transformed undergraduate physics education at Caltech through an unconventional teaching approach. Rather than following traditional textbooks, he developed what became known as \"The Feynman Lectures on Physics,\" starting with fundamental questions about how nature behaves.\n\nInstead of presenting physics as a set of formulas to memorize, Feynman guided students through the process of discovery. He used simple, vivid examples \u2013 explaining quantum mechanics through double-slit experiments, or angular momentum through spinning plates. Complex concepts emerged naturally from basic principles and observation.\n\nMost revolutionary was his insistence that students learn through questioning rather than acceptance. When a student asked why magnets repel, Feynman famously spent an entire lecture exploring why \"why\" questions are deep and complex, teaching not just physics but how to think about physics.\n\nThe lectures proved so influential that they were published and continue to guide physics education today, demonstrating how effective teaching requires not just knowledge but the ability to lead students through their own discovery process.",
+        "short_story": "In 1961, physicist Richard Feynman transformed undergraduate physics education at Caltech through an unconventional teaching approach. Rather than following traditional textbooks, he developed what became known as \"The Feynman Lectures on Physics,\" starting with fundamental questions about how nature behaves.\n\nInstead of presenting physics as a set of formulas to memorize, Feynman guided students through the process of discovery. He used simple, vivid examples – explaining quantum mechanics through double-slit experiments, or angular momentum through spinning plates. Complex concepts emerged naturally from basic principles and observation.\n\nMost revolutionary was his insistence that students learn through questioning rather than acceptance. When a student asked why magnets repel, Feynman famously spent an entire lecture exploring why \"why\" questions are deep and complex, teaching not just physics but how to think about physics.\n\nThe lectures proved so influential that they were published and continue to guide physics education today, demonstrating how effective teaching requires not just knowledge but the ability to lead students through their own discovery process.",
         "source": [
             "\"Surely You're Joking, Mr. Feynman!\" by Richard Feynman (1985)",
             "\"Feynman's Tips on Physics\" by Richard Feynman, Michael Gottlieb,",
@@ -260,14 +260,16 @@
         "Platonic": "In the serene abyss of mystery, there arises the unyielding essence of enduring stability and perpetual presence.",
         "Taoist": "In the depths of mystery lies the tranquil strength, an enduring presence that flows and remains unyielding.",
         "Tholonic": "In the realm where enduring steadfastness resides, the dance of profound mystery unfurls its enigmatic grace.",
-        "Thermodynamics": "The profound enigma undergoes a transformation, settling into a state of thermal equilibrium."
+        "Thermodynamics": "The profound enigma undergoes a transformation, settling into a state of thermal equilibrium.",
+        "general": "From the depths of mystery, a calm and lasting strength emerges and remains steady.",
+        "explanation": "The lower trigram 'The Abysmal' symbolizes deep mystery and hidden potential, while the upper trigram 'The Still' signifies stability and endurance. Together, they represent a process where profound, mysterious origins lead to the emergence of a calm and enduring strength, reflecting guidance that arises from deep understanding and steadfastness."
     },
     "line_type": [
-        "\u268a",
-        "\u268b",
-        "\u268b",
-        "\u268b",
-        "\u268a",
-        "\u268b"
+        "───",
+        "─ ─",
+        "─ ─",
+        "─ ─",
+        "───",
+        "─ ─"
     ]
 }

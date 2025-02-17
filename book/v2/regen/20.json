@@ -1,6 +1,6 @@
 {
     "id": 20,
-    "hexagram_code": "\u4dd3",
+    "hexagram_code": "䷓",
     "name": "Contemplation",
     "description": "The quiet observation that leads to deep understanding. Like wind moving over the earth, this represents the power of patient perception to reveal hidden truths and patterns.",
     "king_wen": {
@@ -13,22 +13,22 @@
         "above": {
             "Trigram Number": 5,
             "Binary Decimal": 6,
-            "Symbol": "\u2634",
-            "Chinese Symbol": "\u5dfd",
-            "Phonetic": "X\u00f9n",
+            "Symbol": "☴",
+            "Chinese Symbol": "巽",
+            "Phonetic": "Xùn",
             "English Translation": "Wind/Wood",
-            "English Symbol": "\u98ce/\u6728",
+            "English Symbol": "风/木",
             "Meaning": "The Gentle",
             "Quality": "Gentle and Penetrating"
         },
         "below": {
             "Trigram Number": 2,
             "Binary Decimal": 0,
-            "Symbol": "\u2637",
-            "Chinese Symbol": "\u5764",
-            "Phonetic": "K\u016bn",
+            "Symbol": "☷",
+            "Chinese Symbol": "坤",
+            "Phonetic": "Kūn",
             "English Translation": "Earth",
-            "English Symbol": "\u5730",
+            "English Symbol": "地",
             "Meaning": "The Receptive",
             "Quality": "Receptive and Nurturing"
         }
@@ -44,7 +44,7 @@
         {
             "position": 6,
             "name": "Boundless Vision",
-            "meaning": "The final line signifies the ultimate state of reflective mastery. It encapsulates a comprehensive overview, where one\u2019s perception expands to encompass both the seen and the unseen realms.",
+            "meaning": "The final line signifies the ultimate state of reflective mastery. It encapsulates a comprehensive overview, where one’s perception expands to encompass both the seen and the unseen realms.",
             "changing": "The journey culminates as the remaining yin dimishes into a full, transformative yang force, representing the complete integration of insight into potent, visionary action."
         },
         {
@@ -62,7 +62,7 @@
         {
             "position": 3,
             "name": "Depth of Perception",
-            "meaning": "Here, contemplation deepens and subtle nuances become apparent. It is a stage where inner complexities and hidden details demand careful interpretation, urging a balanced look into one\u2019s inner world.",
+            "meaning": "Here, contemplation deepens and subtle nuances become apparent. It is a stage where inner complexities and hidden details demand careful interpretation, urging a balanced look into one’s inner world.",
             "changing": "The reflective yin qualities are encouraged to transition into a more assertive yang, empowering the individual to confront and articulate inner revelations."
         },
         {
@@ -103,7 +103,7 @@
             {
                 "title": "The Architect's Vision (Man vs. Man)",
                 "theme": "Ray Bradbury",
-                "short_story": "In the fledgling city of Dorillia, known for its towering glass structures and endless innovation, an architect named Callum found himself staring at a blank canvas\u2014a plot waiting to become his masterpiece. Filled with creative potential, Callum envisioned a building that defied convention, yet lacked the clarity of form. The city's officials demanded swift action, pushing Callum to begin shaping his blueprint before it was ready. As the foundation took shape, bureaucratic obstacles and vested interests arose, challenging every aspect of his dream. Yet, inspired by the essence of the city itself, Callum refined his design, aligning his vision with the needs of its people. With every passing day, the structure grew, an embodiment of Callum's mastery over his art. As the tower reached its zenith, it transformed into an icon that transcended its creator, casting its influence across Dorillia. But success tempted Callum to hold tight to his creation, hesitating to release it into the city's life, risking stagnation. It was only when he let go, allowing the building to breathe its life, that his vision truly became a part of the city, catalyzing new growth and renewal.",
+                "short_story": "In the fledgling city of Dorillia, known for its towering glass structures and endless innovation, an architect named Callum found himself staring at a blank canvas—a plot waiting to become his masterpiece. Filled with creative potential, Callum envisioned a building that defied convention, yet lacked the clarity of form. The city's officials demanded swift action, pushing Callum to begin shaping his blueprint before it was ready. As the foundation took shape, bureaucratic obstacles and vested interests arose, challenging every aspect of his dream. Yet, inspired by the essence of the city itself, Callum refined his design, aligning his vision with the needs of its people. With every passing day, the structure grew, an embodiment of Callum's mastery over his art. As the tower reached its zenith, it transformed into an icon that transcended its creator, casting its influence across Dorillia. But success tempted Callum to hold tight to his creation, hesitating to release it into the city's life, risking stagnation. It was only when he let go, allowing the building to breathe its life, that his vision truly became a part of the city, catalyzing new growth and renewal.",
                 "lines_in_context": {
                     "6": {
                         "name": "Transcendence",
@@ -176,8 +176,8 @@
             },
             {
                 "title": "The Sculptor's Dream (Man vs. Self)",
-                "theme": "Gabriel Garc\u00eda M\u00e1rquez",
-                "short_story": "In a small coastal town, a sculptor named Isabella often found herself lost in the realm of her own imagination. Her hands tingled with the raw potential of unformed clay waiting to be born into her creations. The whispering sea winds filled her with visions that danced like shadows in the corners of her mind\u2014yet she hesitated, fearing the imperfection inherent in manifestation. One morning, as the tide pulled strange treasures onto the shore, Isabella took the first piece of driftwood, resolving to sculpt. With each stroke, she encountered resistance\u2014knots threatening to break her resolve, splinters challenging her patience. Her vision faltered amid the tangles. But the persistence bore fruit as the driftwood slowly took form, resonating with the echoes of the sea's stories. Her neighbors gathered, awestruck by the spirit emerging under her touch. It was there, among curious eyes and approving nods, that Isabella found mastery, her creation no longer hers alone. The sculpture stood vulnerably in the center of the town, a monument to what could be when courage triumphs over doubt, enduring beyond Isabella's hands to breathe new life into the town square.",
+                "theme": "Gabriel García Márquez",
+                "short_story": "In a small coastal town, a sculptor named Isabella often found herself lost in the realm of her own imagination. Her hands tingled with the raw potential of unformed clay waiting to be born into her creations. The whispering sea winds filled her with visions that danced like shadows in the corners of her mind—yet she hesitated, fearing the imperfection inherent in manifestation. One morning, as the tide pulled strange treasures onto the shore, Isabella took the first piece of driftwood, resolving to sculpt. With each stroke, she encountered resistance—knots threatening to break her resolve, splinters challenging her patience. Her vision faltered amid the tangles. But the persistence bore fruit as the driftwood slowly took form, resonating with the echoes of the sea's stories. Her neighbors gathered, awestruck by the spirit emerging under her touch. It was there, among curious eyes and approving nods, that Isabella found mastery, her creation no longer hers alone. The sculpture stood vulnerably in the center of the town, a monument to what could be when courage triumphs over doubt, enduring beyond Isabella's hands to breathe new life into the town square.",
                 "lines_in_context": {
                     "6": {
                         "name": "Completion",
@@ -259,14 +259,16 @@
         "Platonic": "In the harmonious dance where the receptive soul nurtures and yields to the gentle penetration of ideas, there arises a fertile ground for profound insight and true understanding.",
         "Taoist": "When the soft embrace of receptivity meets the gentle touch of insight, profound understanding arises.",
         "Tholonic": "The flowering of Gentle and Penetrating wisdom arises from the bedrock of Receptive and Nurturing forces.",
-        "Thermodynamics": "The genesis of insight, cultivated by the entropic symbiosis of receptive and nurturing energies, manifests through the conductive pathways of gentle and penetrating cognitive processes."
+        "Thermodynamics": "The genesis of insight, cultivated by the entropic symbiosis of receptive and nurturing energies, manifests through the conductive pathways of gentle and penetrating cognitive processes.",
+        "general": "Profound understanding emerges when nurturing receptivity harmonizes with gentle insight.",
+        "explanation": "The lower trigram, 'The Receptive,' symbolizes a nurturing and open state, creating a fertile ground for growth. The upper trigram, 'The Gentle,' represents penetrating insight that gently influences and guides. Together, they form a dynamic interplay where the receptive nature allows for deep insights to take root and flourish, leading to profound understanding."
     },
     "line_type": [
-        "\u268a",
-        "\u268a",
-        "\u268b",
-        "\u268b",
-        "\u268b",
-        "\u268b"
+        "───",
+        "───",
+        "─ ─",
+        "─ ─",
+        "─ ─",
+        "─ ─"
     ]
 }

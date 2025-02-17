@@ -1,6 +1,6 @@
 {
     "id": 42,
-    "hexagram_code": "\u4de9",
+    "hexagram_code": "䷩",
     "name": "Mindful Expansion",
     "description": "Represents beneficial increase through conscious growth. Like a well-planned garden, it emphasizes sustainable development that benefits all involved.",
     "king_wen": {
@@ -13,22 +13,22 @@
         "above": {
             "Trigram Number": 5,
             "Binary Decimal": 6,
-            "Symbol": "\u2634",
-            "Chinese Symbol": "\u5dfd",
-            "Phonetic": "X\u00f9n",
+            "Symbol": "☴",
+            "Chinese Symbol": "巽",
+            "Phonetic": "Xùn",
             "English Translation": "Wind/Wood",
-            "English Symbol": "\u98ce/\u6728",
+            "English Symbol": "风/木",
             "Meaning": "The Gentle",
             "Quality": "Gentle and Penetrating"
         },
         "below": {
             "Trigram Number": 4,
             "Binary Decimal": 1,
-            "Symbol": "\u2633",
-            "Chinese Symbol": "\u96f7",
-            "Phonetic": "Zh\u00e8n",
+            "Symbol": "☳",
+            "Chinese Symbol": "雷",
+            "Phonetic": "Zhèn",
             "English Translation": "Thunder",
-            "English Symbol": "\u9707",
+            "English Symbol": "震",
             "Meaning": "Dynamic and Exciting",
             "Quality": "The Arousing"
         }
@@ -44,7 +44,7 @@
         {
             "position": 6,
             "name": "Transcendent Realization",
-            "meaning": "The final line embodies the ultimate synthesis of mindful expansion\u2014a union of inner calm and vibrant expression that speaks to the attainment of a higher state of being.",
+            "meaning": "The final line embodies the ultimate synthesis of mindful expansion—a union of inner calm and vibrant expression that speaks to the attainment of a higher state of being.",
             "changing": "Culminate the transformation by allowing the deep, receptive energy of yin to fully manifest as the proactive, illuminating force of yang."
         },
         {
@@ -93,7 +93,7 @@
         "order8parent": "RESOLUTION; Moving Toward Completion"
     },
     "image": {
-        "description": "The choice of a garden as the object in \"Mindful Expansion\" represents the natural progression toward completion and beneficial growth, embodying the awareness and intention fundamental to the Tholonic Model. Impressionism captures the dynamic, evolving nature of this growth, using soft, fluid brushstrokes to mirror the interconnectedness and emergent patterns within a Thologram. Using collage as a medium emphasizes the integration and negotiation\u2014key Tholonic forces\u2014as various elements come together to form a cohesive whole. Georgia O'Keeffe, known for her symbolic and evocative works, aptly represents the hexagram\u2019s essence through her focus on nature's forms, enhancing the symbolic resonance of the piece. The award-winning quality of the artwork reflects its successful embodiment of these tholonic principles, harmoniously integrating awareness, intention, and universal love into a unified vision of expansion.",
+        "description": "The choice of a garden as the object in \"Mindful Expansion\" represents the natural progression toward completion and beneficial growth, embodying the awareness and intention fundamental to the Tholonic Model. Impressionism captures the dynamic, evolving nature of this growth, using soft, fluid brushstrokes to mirror the interconnectedness and emergent patterns within a Thologram. Using collage as a medium emphasizes the integration and negotiation—key Tholonic forces—as various elements come together to form a cohesive whole. Georgia O'Keeffe, known for her symbolic and evocative works, aptly represents the hexagram’s essence through her focus on nature's forms, enhancing the symbolic resonance of the piece. The award-winning quality of the artwork reflects its successful embodiment of these tholonic principles, harmoniously integrating awareness, intention, and universal love into a unified vision of expansion.",
         "file": "42.png"
     },
     "energy_cycle": "descending",
@@ -103,7 +103,7 @@
             {
                 "title": "The Artisan's Flame (Man vs. Man)",
                 "theme": "Ray Bradbury",
-                "short_story": "In a world where creation was monitored for conformity, Ewan, a young artisan, felt a fire within him to forge something unique. The oppressive council deemed any deviation dangerous, yet Ewan sensed a raw force inside that begged to be realized. With trembling hands, he sketched designs far beyond his training, each line a rebellion against the drab grayness of sanctioned art. As Ewan began to shape his creation, he faced whispers from the shadows, a mix of awe and skepticism. Undaunted, he poured life into clay, the piece emerging as an unprecedented form of beauty, resonating with warmth and vitality. News of his work spread surreptitiously, drawing both praise and silent threats of retaliation from the council. With each completed section, Ewan gained mastery over his craft, and his allies, formerly silent, now stood beside him, protecting his daring vision. Once finished, Ewan\u2019s masterpiece existed beyond the tyranny, an amalgamation of his spirit and the world. However, the council, fearing its power, wished to possess it. As Ewan detached himself, relinquishing control, his creation inspired many, its influence transcending the boundaries of its origin.",
+                "short_story": "In a world where creation was monitored for conformity, Ewan, a young artisan, felt a fire within him to forge something unique. The oppressive council deemed any deviation dangerous, yet Ewan sensed a raw force inside that begged to be realized. With trembling hands, he sketched designs far beyond his training, each line a rebellion against the drab grayness of sanctioned art. As Ewan began to shape his creation, he faced whispers from the shadows, a mix of awe and skepticism. Undaunted, he poured life into clay, the piece emerging as an unprecedented form of beauty, resonating with warmth and vitality. News of his work spread surreptitiously, drawing both praise and silent threats of retaliation from the council. With each completed section, Ewan gained mastery over his craft, and his allies, formerly silent, now stood beside him, protecting his daring vision. Once finished, Ewan’s masterpiece existed beyond the tyranny, an amalgamation of his spirit and the world. However, the council, fearing its power, wished to possess it. As Ewan detached himself, relinquishing control, his creation inspired many, its influence transcending the boundaries of its origin.",
                 "lines_in_context": {
                     "6": {
                         "name": "Release to Legacy",
@@ -244,7 +244,7 @@
             },
             "2": {
                 "name": "Alignment and Development",
-                "meaning": "The process progressed with alignment and development, where the foundational vision was supported, structured, and aligned to create a viable system. Ali\u2019s innovative approach encouraged community participation and property maintenance. Tenants were empowered to earn ownership through involvement, nurturing the formation of a new housing paradigm.",
+                "meaning": "The process progressed with alignment and development, where the foundational vision was supported, structured, and aligned to create a viable system. Ali’s innovative approach encouraged community participation and property maintenance. Tenants were empowered to earn ownership through involvement, nurturing the formation of a new housing paradigm.",
                 "changing": "If a changing line emerges, it may signify a premature shift in strategy or a struggle to maintain the integrity of the participatory model, potentially leading to instability or adaptation challenges."
             },
             "1": {
@@ -259,14 +259,16 @@
         "Platonic": "The genesis of motion, akin to an emanation from the realm of forms, unveils itself through the gentle persuasion and persistent infiltration of steady advancement.",
         "Taoist": "The energy of The Arousing guides the soft strength of perseverance, enabling growth to blossom through the delicate touch of quiet influence.",
         "Tholonic": "In the realm of Tholonic wisdom, the vibrant essence of The Arousing is unveiled through the delicate yet unwavering sway of the Gentle and Penetrating.",
-        "Thermodynamics": "The dynamic expansion of energetic flux manifests through the nuanced and all-encompassing influence of diffusive permeation."
+        "Thermodynamics": "The dynamic expansion of energetic flux manifests through the nuanced and all-encompassing influence of diffusive permeation.",
+        "general": "The subtle force of gentle persistence drives the vibrant energy of dynamic growth.",
+        "explanation": "The lower trigram, Dynamic and Exciting, represents the active energy of growth and change, while the upper trigram, The Gentle, embodies the steady influence of soft perseverance. Together, they create a harmonious balance where gentle persistence nurtures and directs the vibrant energy, allowing for mindful expansion and transformation. This synergy reflects how subtle, consistent efforts can lead to significant and dynamic advancements in personal and collective development."
     },
     "line_type": [
-        "\u268a",
-        "\u268a",
-        "\u268b",
-        "\u268b",
-        "\u268b",
-        "\u268a"
+        "───",
+        "───",
+        "─ ─",
+        "─ ─",
+        "─ ─",
+        "───"
     ]
 }

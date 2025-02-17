@@ -1,6 +1,6 @@
 {
     "id": 6,
-    "hexagram_code": "\u4dc5",
+    "hexagram_code": "䷅",
     "name": "Conflict",
     "description": "The tension between opposing forces seeking resolution. Like storm clouds gathering before rain, this represents necessary conflict that leads to clarity.",
     "king_wen": {
@@ -13,22 +13,22 @@
         "above": {
             "Trigram Number": 1,
             "Binary Decimal": 7,
-            "Symbol": "\u2630",
-            "Chinese Symbol": "\u4e7e",
-            "Phonetic": "Qi\u00e1n",
+            "Symbol": "☰",
+            "Chinese Symbol": "乾",
+            "Phonetic": "Qián",
             "English Translation": "Heaven",
-            "English Symbol": "\u5929",
+            "English Symbol": "天",
             "Meaning": "The Creative",
             "Quality": "Strong and Creative"
         },
         "below": {
             "Trigram Number": 6,
             "Binary Decimal": 2,
-            "Symbol": "\u2635",
-            "Chinese Symbol": "\u574e",
-            "Phonetic": "K\u01cen",
+            "Symbol": "☵",
+            "Chinese Symbol": "坎",
+            "Phonetic": "Kǎn",
             "English Translation": "Water",
-            "English Symbol": "\u6c34",
+            "English Symbol": "水",
             "Meaning": "The Abysmal",
             "Quality": "Deep and Mysterious"
         }
@@ -93,7 +93,7 @@
         "order8parent": "PRIMAL DEFINITION; Creation of Basic Forms"
     },
     "image": {
-        "description": "The storm clouds in the image vividly embody Hexagram 6, \"Conflict,\" through their dramatic interplay of light and shadow, symbolizing the creative tension inherent in opposing forces. The storm clouds represent the buildup of energy and the dynamic clash that drives transformation, aligning with the tholonic concept of negotiation, where tension births new forms. The dramatic, symbolic style emphasizes the raw, primal power of conflict, while atmospheric photography captures the ethereal, ever-changing nature of these forces. Ursula K. Le Guin\u2019s imaginative vision is reflected in the image\u2019s layered depth and elemental grandeur, illustrating conflict as a catalyst for growth and the emergence of new patterns, making this portrayal profoundly symbolic and evocative.The storm clouds in the image vividly embody Hexagram 6, \"Conflict,\" through their dramatic interplay of light and shadow, symbolizing the creative tension inherent in opposing forces. The storm clouds represent the buildup of energy and the dynamic clash that drives transformation, aligning with the tholonic concept of negotiation, where tension births new forms. The dramatic, symbolic style emphasizes the raw, primal power of conflict, while atmospheric photography captures the ethereal, ever-changing nature of these forces. Ursula K. Le Guin\u2019s imaginative vision is reflected in the image\u2019s layered depth and elemental grandeur, illustrating conflict as a catalyst for growth and the emergence of new patterns, making this portrayal profoundly symbolic and evocative.",
+        "description": "The storm clouds in the image vividly embody Hexagram 6, \"Conflict,\" through their dramatic interplay of light and shadow, symbolizing the creative tension inherent in opposing forces. The storm clouds represent the buildup of energy and the dynamic clash that drives transformation, aligning with the tholonic concept of negotiation, where tension births new forms. The dramatic, symbolic style emphasizes the raw, primal power of conflict, while atmospheric photography captures the ethereal, ever-changing nature of these forces. Ursula K. Le Guin’s imaginative vision is reflected in the image’s layered depth and elemental grandeur, illustrating conflict as a catalyst for growth and the emergence of new patterns, making this portrayal profoundly symbolic and evocative.The storm clouds in the image vividly embody Hexagram 6, \"Conflict,\" through their dramatic interplay of light and shadow, symbolizing the creative tension inherent in opposing forces. The storm clouds represent the buildup of energy and the dynamic clash that drives transformation, aligning with the tholonic concept of negotiation, where tension births new forms. The dramatic, symbolic style emphasizes the raw, primal power of conflict, while atmospheric photography captures the ethereal, ever-changing nature of these forces. Ursula K. Le Guin’s imaginative vision is reflected in the image’s layered depth and elemental grandeur, illustrating conflict as a catalyst for growth and the emergence of new patterns, making this portrayal profoundly symbolic and evocative.",
         "file": "06.png"
     },
     "energy_cycle": "descending",
@@ -102,7 +102,7 @@
         "entries": [
             {
                 "title": "The Sculptor's Dilemma (Man vs. Man)",
-                "theme": "Gabriel Garc\u00eda M\u00e1rquez",
+                "theme": "Gabriel García Márquez",
                 "short_story": "In a South American village steeped in myth and murmurs, a sculptor named Joaquin dreams of a statue that will rival the town's ancient legends. His mind swells with creative visions, yet he hesitates, grappling with the cacophony of doubts about whether his creation will achieve immortality. As the sun casts long shadows over the cobbled square, he decides to begin. His chisel dances on the marble block, bringing forth curves and lines that slowly coalesce into the form of a magnificent winged figure. Neighbors pass by, their skepticism palpable, whispering tales of the cursed artists who came before him. But Joaquin presses on, fueled by whispers of a muse he alone can hear. Progress is slow as the statue takes form, evolving under his relentless hands. But tension simmers in the air, and not everyone wishes him success. One stormy night, a rival sculptor, embittered by his own failures, sabotages Joaquin's workshop. The once-promising project teeters on the brink of ruin. Undaunted, Joaquin marshals his resilience and the community's goodwill, confronting adversity with renewed vigor. His statue finally unveiled, Joaquin's creation stands, its wings unfurling to the heavens. Now complete, it transcends its origins, a symbol of realized dreams, unshackled from the earthly bonds of its creator's hands.",
                 "lines_in_context": {
                     "6": {
@@ -122,8 +122,8 @@
                     },
                     "3": {
                         "name": "Conflict",
-                        "meaning": "External challenges emerge from both the natural elements and saboteurs, threatening Joaquin\u2019s progress.",
-                        "changing": "Retreating under pressure would signal exhaustion and the end of Joaquin\u2019s creative endeavors before fulfillment."
+                        "meaning": "External challenges emerge from both the natural elements and saboteurs, threatening Joaquin’s progress.",
+                        "changing": "Retreating under pressure would signal exhaustion and the end of Joaquin’s creative endeavors before fulfillment."
                     },
                     "2": {
                         "name": "Formation",
@@ -133,7 +133,7 @@
                     "1": {
                         "name": "Emergence",
                         "meaning": "Joaquin's raw creative force stirs uneasily within him, a vision unformed and yearning for realization.",
-                        "changing": "Hesitation and inability to act delay the emergence of Joaquin\u2019s creative impulse, leaving it to wither in the shadows of doubt."
+                        "changing": "Hesitation and inability to act delay the emergence of Joaquin’s creative impulse, leaving it to wither in the shadows of doubt."
                     }
                 }
             },
@@ -154,7 +154,7 @@
                     },
                     "4": {
                         "name": "Manifestation",
-                        "meaning": "Aligning her spirit with the external forces, Aria gains momentum, weaving the storm\u2019s energy into harmony.",
+                        "meaning": "Aligning her spirit with the external forces, Aria gains momentum, weaving the storm’s energy into harmony.",
                         "changing": "Ambition beyond her control could jeopardize the stability she has achieved, risking overreach and collapse."
                     },
                     "3": {
@@ -164,7 +164,7 @@
                     },
                     "2": {
                         "name": "Formation",
-                        "meaning": "Aria shapes her path, encountering barriers that define and refine her purpose amidst nature\u2019s chaos.",
+                        "meaning": "Aria shapes her path, encountering barriers that define and refine her purpose amidst nature’s chaos.",
                         "changing": "Rushing forward without alignment risks instability and misalignment, leading to a premature falter."
                     },
                     "1": {
@@ -177,7 +177,7 @@
             {
                 "title": "The Alchemist's Journey (Man vs. Self)",
                 "theme": "Haruki Murakami",
-                "short_story": "In a quiet town nestled between misty mountains, a solitary alchemist named Kaito dreamt of transforming lead into gold, a feat untouched by human hands. His workshop brimmed with curious apparati, capturing the essence of his untamed ambitions. Yet, the elusiveness of the Philosopher\u2019s Stone plagued him with doubt. Those first stirrings, raw and potent, struggled to find their form. As Kaito began to shape his dream, he faced the ridicule of skeptic townsfolk, their laughter ringing like a cacophony in his ears. Undeterred, Kaito refined his theories under moonlit nights, laying the groundwork for discovery. His path twisted through the shadows of conflict, each failed experiment a reminder of the gulf between vision and reality. But still, he persevered, his vision gradually aligning with his hands\u2019 skill. As the seasons shifted, Kaito reached the zenith of mastery, the weight of realization heavy as gold in his palm. Yet, he understood that true transcendence lay beyond possession. With a deep breath, Kaito scattered golden dust into the wind. In that moment, the town awoke to a world where dreams and reality converged, with potential flickering like stars across an eternal sky.",
+                "short_story": "In a quiet town nestled between misty mountains, a solitary alchemist named Kaito dreamt of transforming lead into gold, a feat untouched by human hands. His workshop brimmed with curious apparati, capturing the essence of his untamed ambitions. Yet, the elusiveness of the Philosopher’s Stone plagued him with doubt. Those first stirrings, raw and potent, struggled to find their form. As Kaito began to shape his dream, he faced the ridicule of skeptic townsfolk, their laughter ringing like a cacophony in his ears. Undeterred, Kaito refined his theories under moonlit nights, laying the groundwork for discovery. His path twisted through the shadows of conflict, each failed experiment a reminder of the gulf between vision and reality. But still, he persevered, his vision gradually aligning with his hands’ skill. As the seasons shifted, Kaito reached the zenith of mastery, the weight of realization heavy as gold in his palm. Yet, he understood that true transcendence lay beyond possession. With a deep breath, Kaito scattered golden dust into the wind. In that moment, the town awoke to a world where dreams and reality converged, with potential flickering like stars across an eternal sky.",
                 "lines_in_context": {
                     "6": {
                         "name": "Transcendence",
@@ -259,14 +259,16 @@
         "Platonic": "The dance betwixt the profound enigma and the dynamic spark of creation.",
         "Taoist": "When the deep mystery meets the determined spirit, creativity flows like a river, ever-changing and full of life.",
         "Tholonic": "In the Tholonic realm, the convergence of enigmatic depths and ceaseless creation emerges as a cosmic ballet of profound currents entwining with infinite innovation.",
-        "Thermodynamics": "The convergence of the profound and the enigmatic manifests as an exergonic force characterized by potent and dynamic innovation."
+        "Thermodynamics": "The convergence of the profound and the enigmatic manifests as an exergonic force characterized by potent and dynamic innovation.",
+        "general": "The mysterious depths meet the creative force, unleashing a flow of dynamic innovation.",
+        "explanation": "The lower trigram, 'The Abysmal,' symbolizes deep, mysterious waters, representing the unconscious and profound potential. The upper trigram, 'The Creative,' signifies strength and the active force of creation. When these two trigrams interact, they embody the meeting of hidden depths with creative energy, resulting in a powerful and continuous stream of innovation and transformation, much like a river flowing with life and change."
     },
     "line_type": [
-        "\u268a",
-        "\u268a",
-        "\u268a",
-        "\u268b",
-        "\u268a",
-        "\u268b"
+        "───",
+        "───",
+        "───",
+        "─ ─",
+        "───",
+        "─ ─"
     ]
 }

@@ -1,11 +1,11 @@
 {
     "id": 5,
-    "hexagram_code": "\u4dc4",
+    "hexagram_code": "䷄",
     "name": "Patience",
     "description": "The state of mindful waiting and preparation. Like clouds gathering before rain, this represents the power of patient readiness and timely response.",
     "king_wen": {
         "sequence": 5,
-        "traditional_title": "Hs\u00fc",
+        "traditional_title": "Hsü",
         "common_title": "Waiting"
     },
     "binary_sequence": 23,
@@ -13,22 +13,22 @@
         "above": {
             "Trigram Number": 6,
             "Binary Decimal": 2,
-            "Symbol": "\u2635",
-            "Chinese Symbol": "\u574e",
-            "Phonetic": "K\u01cen",
+            "Symbol": "☵",
+            "Chinese Symbol": "坎",
+            "Phonetic": "Kǎn",
             "English Translation": "Water",
-            "English Symbol": "\u6c34",
+            "English Symbol": "水",
             "Meaning": "The Abysmal",
             "Quality": "Deep and Mysterious"
         },
         "below": {
             "Trigram Number": 1,
             "Binary Decimal": 7,
-            "Symbol": "\u2630",
-            "Chinese Symbol": "\u4e7e",
-            "Phonetic": "Qi\u00e1n",
+            "Symbol": "☰",
+            "Chinese Symbol": "乾",
+            "Phonetic": "Qián",
             "English Translation": "Heaven",
-            "English Symbol": "\u5929",
+            "English Symbol": "天",
             "Meaning": "The Creative",
             "Quality": "Strong and Creative"
         }
@@ -63,7 +63,7 @@
             "position": 3,
             "name": "Resilient Path",
             "meaning": "This line warns against hasty moves but encourages perseverance. Challenges are met with steadfast resilience, urging one to learn through trial without losing balance.",
-            "changing": "A dynamic shift occurs as quiet endurance evolves into a cultivated force\u2014a tempered drive that readies the spirit for transformation."
+            "changing": "A dynamic shift occurs as quiet endurance evolves into a cultivated force—a tempered drive that readies the spirit for transformation."
         },
         {
             "position": 2,
@@ -93,7 +93,7 @@
         "order8parent": "PRIMAL DEFINITION; Creation of Basic Forms"
     },
     "image": {
-        "description": "The pack of wolves in the image embodies Hexagram 5, \"Patience,\" symbolizing patient development and the collective readiness required for growth. The wolves\u2019 poised stance reflects strategic waiting and alignment with natural rhythms, mirroring the tholonic concept of negotiation, where potential energy is channeled effectively through harmony and preparation. The impressionistic style, with its expressive brushstrokes, captures the dynamic tension of anticipation, evoking the subtle energy of readiness. Watercolor, with its fluidity and translucence, illustrates the interplay of patience and flow, emphasizing the balance between waiting and eventual action. J. M. W. Turner\u2019s expertise in depicting natural forces and atmospheric depth amplifies the wolves\u2019 connection to their environment, making this image a profound representation of Hexagram 5\u2019s essence.",
+        "description": "The pack of wolves in the image embodies Hexagram 5, \"Patience,\" symbolizing patient development and the collective readiness required for growth. The wolves’ poised stance reflects strategic waiting and alignment with natural rhythms, mirroring the tholonic concept of negotiation, where potential energy is channeled effectively through harmony and preparation. The impressionistic style, with its expressive brushstrokes, captures the dynamic tension of anticipation, evoking the subtle energy of readiness. Watercolor, with its fluidity and translucence, illustrates the interplay of patience and flow, emphasizing the balance between waiting and eventual action. J. M. W. Turner’s expertise in depicting natural forces and atmospheric depth amplifies the wolves’ connection to their environment, making this image a profound representation of Hexagram 5’s essence.",
         "file": "05.png"
     },
     "energy_cycle": "ascending",
@@ -103,7 +103,7 @@
             {
                 "title": "The Sculptor's Dilemma (Man vs. Man)",
                 "theme": "Gabriel Garcia Marquez",
-                "short_story": "In a forgotten village, where time seemed to pause in languid breaths, lived Damian\u2014the village sculptor. His raw talent lay buried under the inertia of dreams deferred. Each morning, the marble whispered its untouched stories, and Damian stared, hands idle, heart heavy with the weight of unshaped creation. The villagers, with their woven lives steeped in routine, barely noticed this dormant genius.\n\nShaped by quiet resolve, Damian began chiseling away, each strike a beat against the inertia, carving out possibility from stubborn stone. Yet, an unease shadowed him. For in shaping his vision, he encountered the marble's resilience, chiseling not just its form but encountering its resistance as his own.\n\nA tempest of doubt swirled, for the statue did not emerge as he\u2019d hoped. Its eyes were unbalanced, a distortion reflecting Damian\u2019s inner turmoil. But persevering, he embraced the imperfections, smoothing edges with deliberate hands, until the marble seemed to breathe with a life transcending its initial form.\n\nWith mastery achieved, Damian saw his reflection fading from the perfected marble, a creation no longer his but belonging to the world\u2014a gift of form, born of his struggle, yet standing independent of creator.",
+                "short_story": "In a forgotten village, where time seemed to pause in languid breaths, lived Damian—the village sculptor. His raw talent lay buried under the inertia of dreams deferred. Each morning, the marble whispered its untouched stories, and Damian stared, hands idle, heart heavy with the weight of unshaped creation. The villagers, with their woven lives steeped in routine, barely noticed this dormant genius.\n\nShaped by quiet resolve, Damian began chiseling away, each strike a beat against the inertia, carving out possibility from stubborn stone. Yet, an unease shadowed him. For in shaping his vision, he encountered the marble's resilience, chiseling not just its form but encountering its resistance as his own.\n\nA tempest of doubt swirled, for the statue did not emerge as he’d hoped. Its eyes were unbalanced, a distortion reflecting Damian’s inner turmoil. But persevering, he embraced the imperfections, smoothing edges with deliberate hands, until the marble seemed to breathe with a life transcending its initial form.\n\nWith mastery achieved, Damian saw his reflection fading from the perfected marble, a creation no longer his but belonging to the world—a gift of form, born of his struggle, yet standing independent of creator.",
                 "lines_in_context": {
                     "6": {
                         "name": "Transcendence",
@@ -154,7 +154,7 @@
                     },
                     "4": {
                         "name": "Emerging Symphony",
-                        "meaning": "Her growing connection with the ocean\u2019s rhythm inspires Yuki\u2019s music, aligning internal vision with external reality.",
+                        "meaning": "Her growing connection with the ocean’s rhythm inspires Yuki’s music, aligning internal vision with external reality.",
                         "changing": "Yuki's ambition leads to a discordant melody, pushing beyond sustainable creativity."
                     },
                     "3": {
@@ -170,14 +170,14 @@
                     "1": {
                         "name": "Whispers of Potential",
                         "meaning": "At dawn, Yuki feels the initial stirrings of a composition, the sea's potential resonating within her.",
-                        "changing": "Doubt inhibits Yuki\u2019s creative process, leaving her melody unrealized."
+                        "changing": "Doubt inhibits Yuki’s creative process, leaving her melody unrealized."
                     }
                 }
             },
             {
                 "title": "The Dream Weaver (Man vs. Self)",
                 "theme": "Franz Kafka",
-                "short_story": "In a town shrouded in twilight, Elias, a tailor, felt an insatiable urge to create a garment unrivaled by anything seen before. Each thread carried his dreams, but visions alone lacked substance. As his nimble fingers coaxed the fabric, whispers of doubt crept in, unraveling his certainty. Stitch by stitch, he endeavored to define his vision. A parade of misaligned patterns mocked him, but as each seam aligned, the garment gradually took shape. Elias faced ridicule and skepticism, projections of his inner turmoil, threatening to unravel his journey. Yet, resilience stitched his resolve. Persistence unveiled beauty; the garment encapsulated dreams and defied doubters. Elias marveled as his hands commanded the fabric, mastering his creation with newfound authority. But as it caught the world\u2019s eye, he hesitated, fearing to lose what he had nurtured so lovingly. The garment transcended Elias, its essence carried far beyond. What began as a solitary pursuit wove into the fabric of collective imagination, left to dance through time without its maker.",
+                "short_story": "In a town shrouded in twilight, Elias, a tailor, felt an insatiable urge to create a garment unrivaled by anything seen before. Each thread carried his dreams, but visions alone lacked substance. As his nimble fingers coaxed the fabric, whispers of doubt crept in, unraveling his certainty. Stitch by stitch, he endeavored to define his vision. A parade of misaligned patterns mocked him, but as each seam aligned, the garment gradually took shape. Elias faced ridicule and skepticism, projections of his inner turmoil, threatening to unravel his journey. Yet, resilience stitched his resolve. Persistence unveiled beauty; the garment encapsulated dreams and defied doubters. Elias marveled as his hands commanded the fabric, mastering his creation with newfound authority. But as it caught the world’s eye, he hesitated, fearing to lose what he had nurtured so lovingly. The garment transcended Elias, its essence carried far beyond. What began as a solitary pursuit wove into the fabric of collective imagination, left to dance through time without its maker.",
                 "lines_in_context": {
                     "6": {
                         "name": "Release of Creation",
@@ -259,14 +259,16 @@
         "Platonic": "When the vigorous artistry of creativity entwines with the profound enigma of mystery, there emerges a harmonious dance of visionary fortitude and unfathomable depth.",
         "Taoist": "When vibrant creativity flows through the deep well of the Tao, it gives rise to a mysterious and transformative expression.",
         "Tholonic": "In the dance of veiled mysteries, potent creativity finds its path, weaving an enigmatic tapestry where strength and depth silently converse.",
-        "Thermodynamics": "The dynamic interplay becomes akin to creative entropy navigating the profound currents of thermodynamic uncertainty."
+        "Thermodynamics": "The dynamic interplay becomes akin to creative entropy navigating the profound currents of thermodynamic uncertainty.",
+        "general": "When strong creativity meets deep mystery, a transformative dance of hidden potential unfolds.",
+        "explanation": "The lower trigram, 'The Creative,' symbolizes strength and innovation, while the upper trigram, 'The Abysmal,' signifies depth and mystery. Together, they create a dynamic interplay where creative energy explores profound depths, revealing hidden possibilities and fostering transformation through their interaction."
     },
     "line_type": [
-        "\u268b",
-        "\u268a",
-        "\u268b",
-        "\u268a",
-        "\u268a",
-        "\u268a"
+        "─ ─",
+        "───",
+        "─ ─",
+        "───",
+        "───",
+        "───"
     ]
 }

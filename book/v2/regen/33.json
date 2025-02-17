@@ -1,6 +1,6 @@
 {
     "id": 33,
-    "hexagram_code": "\u4de0",
+    "hexagram_code": "䷠",
     "name": "Strategic Retreat",
     "description": "A conscious withdrawal from activity to gather strength and clarity. Like a lake resting atop a mountain, this represents the wisdom of knowing when to step back and regroup before moving forward again.",
     "king_wen": {
@@ -13,22 +13,22 @@
         "above": {
             "Trigram Number": 1,
             "Binary Decimal": 7,
-            "Symbol": "\u2630",
-            "Chinese Symbol": "\u4e7e",
-            "Phonetic": "Qi\u00e1n",
+            "Symbol": "☰",
+            "Chinese Symbol": "乾",
+            "Phonetic": "Qián",
             "English Translation": "Heaven",
-            "English Symbol": "\u5929",
+            "English Symbol": "天",
             "Meaning": "The Creative",
             "Quality": "Strong and Creative"
         },
         "below": {
             "Trigram Number": 3,
             "Binary Decimal": 3,
-            "Symbol": "\u2636",
-            "Chinese Symbol": "\u826e",
-            "Phonetic": "G\u00e8n",
+            "Symbol": "☶",
+            "Chinese Symbol": "艮",
+            "Phonetic": "Gèn",
             "English Translation": "Mountain",
-            "English Symbol": "\u5c71",
+            "English Symbol": "山",
             "Meaning": "The Still",
             "Quality": "Still and Enduring"
         }
@@ -56,7 +56,7 @@
         {
             "position": 4,
             "name": "Thoughtful Restraint",
-            "meaning": "Retreat here is marked by deliberate restraint, balancing the need for safety with the awareness of continual change. This line calls for wisdom in pacing one\u2019s withdrawal.",
+            "meaning": "Retreat here is marked by deliberate restraint, balancing the need for safety with the awareness of continual change. This line calls for wisdom in pacing one’s withdrawal.",
             "changing": "A quiet internal shift occurs as dormant energy becomes ready to assert itself, signaling that careful waiting will eventually lead to decisive, proactive action."
         },
         {
@@ -103,7 +103,7 @@
             {
                 "title": "The Sculptor's Vision (Man vs. Man)",
                 "theme": "Ray Bradbury",
-                "short_story": "In a city alive with innovation and incessant chatter, lived Adrian, a sculptor whose head brimmed with untamed visions. His hands, covered in dust and calluses, held the potential to craft wonders yet unseen. But within him, direction faltered, and fear of failure smothered his creative impulse. Determined, Adrian started the journey to mold his chaotic dreams into form. Wielding his chisel, he faced the initial barriers of doubt that sought to blur his vision. Armed with resolve, he chipped away at the marble, defining both his creation and his path. Yet, resistance came with a heavy hand\u2014external forces sneered at his endeavor, their words sharper than any tool, threatening to shatter his resolve. Pushing past the noise, Adrian refined his vision, aligning it with the reality outside his mind. As his creation gained momentum, ambition whispered temptations of excess, but restraint held fast. In this crucible, mastery was forged; Adrian stood at the summit of his craft, wielding the power of creation. But in that moment, he realized that what he had made was greater than him, a separate entity destined to touch the world. With a heavy heart and steady hands, he let it go, transcending beyond the need to control, setting beauty free as he reimagined what it meant to create.",
+                "short_story": "In a city alive with innovation and incessant chatter, lived Adrian, a sculptor whose head brimmed with untamed visions. His hands, covered in dust and calluses, held the potential to craft wonders yet unseen. But within him, direction faltered, and fear of failure smothered his creative impulse. Determined, Adrian started the journey to mold his chaotic dreams into form. Wielding his chisel, he faced the initial barriers of doubt that sought to blur his vision. Armed with resolve, he chipped away at the marble, defining both his creation and his path. Yet, resistance came with a heavy hand—external forces sneered at his endeavor, their words sharper than any tool, threatening to shatter his resolve. Pushing past the noise, Adrian refined his vision, aligning it with the reality outside his mind. As his creation gained momentum, ambition whispered temptations of excess, but restraint held fast. In this crucible, mastery was forged; Adrian stood at the summit of his craft, wielding the power of creation. But in that moment, he realized that what he had made was greater than him, a separate entity destined to touch the world. With a heavy heart and steady hands, he let it go, transcending beyond the need to control, setting beauty free as he reimagined what it meant to create.",
                 "lines_in_context": {
                     "6": {
                         "name": "Transcendence of Creation",
@@ -139,8 +139,8 @@
             },
             {
                 "title": "The Whispering Pines (Man vs. Nature)",
-                "theme": "Gabriel Garc\u00eda M\u00e1rquez",
-                "short_story": "In the heart of a remote valley, where the pines whispered secrets to those who dared to listen, lived young Ely, a dream-carver. Her hands longed to sculpt, but her mind was a tempest of unshaped desires. One morning, the forest sang a new hymn, awakening a spark within her, urging her to channel her restless energy into creation. Armed with her father's old knives, Ely began chiseling a block of stone, discovering shapes hidden within. As her vision grew clearer, she faced skeptical villagers who warned her of exhausting her spirit in the task. But Ely persisted, guided by the forest's melody, which harmonized with her carving rhythm. Her creation took form, an echo of her innermost self\u2014a majestic rendition of a mythical bird. With every strike, she refined her work until it soared beyond her intent, capturing the valley's essence. As Ely finished, a deep peace settled over her; she realized the bird belonged to the world now. In freeing it, she found her own liberation, understanding her connection to the whispering pines and the endless cycle of creation.",
+                "theme": "Gabriel García Márquez",
+                "short_story": "In the heart of a remote valley, where the pines whispered secrets to those who dared to listen, lived young Ely, a dream-carver. Her hands longed to sculpt, but her mind was a tempest of unshaped desires. One morning, the forest sang a new hymn, awakening a spark within her, urging her to channel her restless energy into creation. Armed with her father's old knives, Ely began chiseling a block of stone, discovering shapes hidden within. As her vision grew clearer, she faced skeptical villagers who warned her of exhausting her spirit in the task. But Ely persisted, guided by the forest's melody, which harmonized with her carving rhythm. Her creation took form, an echo of her innermost self—a majestic rendition of a mythical bird. With every strike, she refined her work until it soared beyond her intent, capturing the valley's essence. As Ely finished, a deep peace settled over her; she realized the bird belonged to the world now. In freeing it, she found her own liberation, understanding her connection to the whispering pines and the endless cycle of creation.",
                 "lines_in_context": {
                     "6": {
                         "name": "Liberation of Creation",
@@ -177,7 +177,7 @@
             {
                 "title": "The Silent Echo of Creation (Man vs. Self)",
                 "theme": "Haruki Murakami",
-                "short_story": "In the bustling rhythms of Tokyo, a young artist named Kaito discovered a hidden reservoir of untapped potential within him. His mind danced with visions of vibrant colors and surreal landscapes, yet each stroke on the canvas felt elusive and undefined. As days turned to nights, hesitation shadowed his once vivid dreams. Attempting to shape his burgeoning inspiration, Kaito confronted his inner fears, sculpting his visions while grappling with self-doubt. Early failures laid bare the boundaries he needed to navigate. Just as the clouds of uncertainty began to clear, external forces\u2014critics, deadlines, and societal expectations\u2014loomed large, threatening to unravel the threads of his creation. He faced these challenges head-on, chipping away with resolve until his vision started to align with reality. With time, he reached mastery over his art, his brush interacting fluidly with the canvas. Yet, at the zenith of his journey, he realized the artwork had a life of its own. No longer his alone, it belonged to the world around him. In releasing control, an unexpected peace enveloped him, his soul whispering through each brushstroke, resonating with the silent echo of creation he had long sought to capture.",
+                "short_story": "In the bustling rhythms of Tokyo, a young artist named Kaito discovered a hidden reservoir of untapped potential within him. His mind danced with visions of vibrant colors and surreal landscapes, yet each stroke on the canvas felt elusive and undefined. As days turned to nights, hesitation shadowed his once vivid dreams. Attempting to shape his burgeoning inspiration, Kaito confronted his inner fears, sculpting his visions while grappling with self-doubt. Early failures laid bare the boundaries he needed to navigate. Just as the clouds of uncertainty began to clear, external forces—critics, deadlines, and societal expectations—loomed large, threatening to unravel the threads of his creation. He faced these challenges head-on, chipping away with resolve until his vision started to align with reality. With time, he reached mastery over his art, his brush interacting fluidly with the canvas. Yet, at the zenith of his journey, he realized the artwork had a life of its own. No longer his alone, it belonged to the world around him. In releasing control, an unexpected peace enveloped him, his soul whispering through each brushstroke, resonating with the silent echo of creation he had long sought to capture.",
                 "lines_in_context": {
                     "6": {
                         "name": "Release and Acceptance",
@@ -258,14 +258,16 @@
         "Platonic": "Verily, the manifestation of steadfast serenity is attained through the potency of transformative innovation.",
         "Taoist": "The harmony of enduring stillness gives birth to the dance of spontaneous creation.",
         "Tholonic": "In the realm of Tholonic wisdom: The zenith of unwavering calm emerges through the dance of vibrant and creative expression.",
-        "Thermodynamics": "The equilibrium of unwavering constancy emerges through the dynamic flow of energy and creative transformations."
+        "Thermodynamics": "The equilibrium of unwavering constancy emerges through the dynamic flow of energy and creative transformations.",
+        "general": "Enduring calmness leads to vibrant creativity.",
+        "explanation": "The lower trigram 'The Still' symbolizes a foundation of calm and persistence, while the upper trigram 'The Creative' signifies dynamic and innovative energy. Together, they suggest that maintaining a steady and enduring base allows for the emergence of strong and creative expression, where tranquility supports and fosters innovation."
     },
     "line_type": [
-        "\u268a",
-        "\u268a",
-        "\u268a",
-        "\u268a",
-        "\u268b",
-        "\u268b"
+        "───",
+        "───",
+        "───",
+        "───",
+        "─ ─",
+        "─ ─"
     ]
 }

@@ -1,6 +1,6 @@
 {
     "id": 25,
-    "hexagram_code": "\u4dd5",
+    "hexagram_code": "䷕",
     "name": "Spontaneity",
     "description": "The state of natural, uncontrived action. Like lightning in clear sky, this represents pure, instinctive response unfiltered by calculation.",
     "king_wen": {
@@ -13,22 +13,22 @@
         "above": {
             "Trigram Number": 3,
             "Binary Decimal": 3,
-            "Symbol": "\u2636",
-            "Chinese Symbol": "\u826e",
-            "Phonetic": "G\u00e8n",
+            "Symbol": "☶",
+            "Chinese Symbol": "艮",
+            "Phonetic": "Gèn",
             "English Translation": "Mountain",
-            "English Symbol": "\u5c71",
+            "English Symbol": "山",
             "Meaning": "The Still",
             "Quality": "Still and Enduring"
         },
         "below": {
             "Trigram Number": 7,
             "Binary Decimal": 5,
-            "Symbol": "\u2632",
-            "Chinese Symbol": "\u79bb",
-            "Phonetic": "L\u00ed",
+            "Symbol": "☲",
+            "Chinese Symbol": "离",
+            "Phonetic": "Lí",
             "English Translation": "Fire",
-            "English Symbol": "\u706b",
+            "English Symbol": "火",
             "Meaning": "The Clinging",
             "Quality": "Bright and Radiant"
         }
@@ -132,7 +132,7 @@
                     },
                     "1": {
                         "name": "Raw Creative Emergence",
-                        "meaning": "Mariana\u2019s initial inspiration abounds with potential yet lacks clear direction.",
+                        "meaning": "Mariana’s initial inspiration abounds with potential yet lacks clear direction.",
                         "changing": "Hesitation or failure to act delays her creative impulse, dimming initial fervor."
                     }
                 }
@@ -220,7 +220,7 @@
         "source": [
             "\"Alexander Fleming: The Man",
             "the Myth\" by Gwyn Macfarlane (1984)",
-            "\"The Life of Alexander Fleming\" by Andr\u00e9 Maurois (1959)"
+            "\"The Life of Alexander Fleming\" by André Maurois (1959)"
         ],
         "lines_in_history": {
             "6": {
@@ -260,14 +260,16 @@
         "Platonic": "The expression of radiant clarity harmoniously anchored in the deep stillness of eternal tranquility.",
         "Taoist": "When the light of brilliance merges with the quiet strength of endurance, harmony blossoms as vibrant stillness.",
         "Tholonic": "Amidst the eternal dance of radiance and fortitude emerges the tapestry of luminous brilliance.",
-        "Thermodynamics": "The emergence of radiant equilibrium is founded upon the tenacity of sustained constancy."
+        "Thermodynamics": "The emergence of radiant equilibrium is founded upon the tenacity of sustained constancy.",
+        "general": "The harmony of bright clarity and steadfast stillness creates spontaneous balance.",
+        "explanation": "The lower trigram 'The Clinging' embodies brightness and clarity, symbolizing illumination and insight. The upper trigram 'The Still' represents steadfastness and endurance, providing a foundation of calm and stability. Together, they form a dynamic balance where the light of understanding is grounded in enduring tranquility, allowing for natural and instinctive actions to arise effortlessly. This synthesis of light and stillness fosters a state of spontaneous equilibrium, where clarity and constancy coexist harmoniously."
     },
     "line_type": [
-        "\u268a",
-        "\u268a",
-        "\u268a",
-        "\u268b",
-        "\u268b",
-        "\u268a"
+        "───",
+        "───",
+        "───",
+        "─ ─",
+        "─ ─",
+        "───"
     ]
 }

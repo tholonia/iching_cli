@@ -1,6 +1,6 @@
 {
     "id": 44,
-    "hexagram_code": "\u4deb",
+    "hexagram_code": "䷫",
     "name": "Anticipation",
     "description": "The state of heightened awareness that precedes significant change. Like a coiled spring or a gathering storm, it represents the pregnant moment before action where potential energy has reached its peak and transformation becomes inevitable.",
     "king_wen": {
@@ -13,20 +13,20 @@
         "above": {
             "Trigram Number": 1,
             "Binary Decimal": 7,
-            "Symbol": "\u2630",
-            "Chinese Symbol": "\u4e7e",
-            "Phonetic": "Qi\u00e1n",
+            "Symbol": "☰",
+            "Chinese Symbol": "乾",
+            "Phonetic": "Qián",
             "English Translation": "Heaven",
-            "English Symbol": "\u5929",
+            "English Symbol": "天",
             "Meaning": "The Creative",
             "Quality": "Strong and Creative"
         },
         "below": {
             "Trigram Number": 5,
             "Binary Decimal": 6,
-            "Symbol": "\u2634",
-            "Chinese Symbol": "\u5dfd",
-            "Phonetic": "X\u00f9n",
+            "Symbol": "☴",
+            "Chinese Symbol": "巽",
+            "Phonetic": "Xùn",
             "English Translation": "Wind/Wood",
             "English Symbol": "The Gentle",
             "Meaning": "Gentle and Penetrating",
@@ -93,7 +93,7 @@
         "order8parent": "RESOLUTION; Moving Toward Completion"
     },
     "image": {
-        "description": "The object, style, medium, and artist collectively embody the hexagram's theme of \"Anticipation\" and the journey toward completion. The coiled spring symbolizes potential energy and tension, reflecting the concept of negotiation and balance within the Thologram\u2014poised for resolution as it moves toward a meeting point. Surrealism, with its dreamlike, symbolic nature, captures the abstract essence of awareness as it intertwines intentions and realities. Ink, a fluid yet controlled medium, mirrors the intricate interplay of limitation and contribution, as it defines yet integrates elements within a composition. Qi Baishi, known for his vivid, symbolic work, channels these tholonic concepts through a deeply intuitive and universal lens, making the artwork not only visually striking but spiritually resonant, aligning with the holistic perspective of the Tholonic Model that emphasizes awareness as a fundamental creative force.",
+        "description": "The object, style, medium, and artist collectively embody the hexagram's theme of \"Anticipation\" and the journey toward completion. The coiled spring symbolizes potential energy and tension, reflecting the concept of negotiation and balance within the Thologram—poised for resolution as it moves toward a meeting point. Surrealism, with its dreamlike, symbolic nature, captures the abstract essence of awareness as it intertwines intentions and realities. Ink, a fluid yet controlled medium, mirrors the intricate interplay of limitation and contribution, as it defines yet integrates elements within a composition. Qi Baishi, known for his vivid, symbolic work, channels these tholonic concepts through a deeply intuitive and universal lens, making the artwork not only visually striking but spiritually resonant, aligning with the holistic perspective of the Tholonic Model that emphasizes awareness as a fundamental creative force.",
         "file": "44.png"
     },
     "energy_cycle": "descending",
@@ -103,7 +103,7 @@
             {
                 "title": "The Sculptor's Dilemma (Man vs. Man)",
                 "theme": "Franz Kafka",
-                "short_story": "In a sprawling city shrouded by perpetual mist, a reclusive sculptor lived in seclusion, his attic workshop teeming with unformed stone. Within those walls lay his vision\u2014an elusive masterpiece trapped within the unyielding marble. Each dawn ushered in hope, and by dusk, frustration reigned, as his chisel struck stone but never perfection. His mind, a tempest of potential, was a captive here. One morning, as thin shafts of light pierced the skylight, a presence interrupted his solitude\u2014a rival, powerful and cunning, with eyes that gleamed like obsidian. The sculptor's work, heretofore untouched by others, now faced scrutiny. Initial irritation turned to fierce competition, propelling the artist to shape his visions with renewed urgency. The rival's words sowed doubt; still, the sculptor persisted, weeks morphing into an exhausting campaign of creation. As the sculptor reached the zenith of his prowess, he felt an unnerving pressure\u2014an invisible force clawing at his control. The chisel in his hand seemed not merely a tool but a weapon of liberation. Finally, as the stone took its final form, the realization dawned\u2014a masterwork birthed not solely from his hands but also from struggle. A creation now autonomous, beyond its maker, heralded a transformation unforeseen.",
+                "short_story": "In a sprawling city shrouded by perpetual mist, a reclusive sculptor lived in seclusion, his attic workshop teeming with unformed stone. Within those walls lay his vision—an elusive masterpiece trapped within the unyielding marble. Each dawn ushered in hope, and by dusk, frustration reigned, as his chisel struck stone but never perfection. His mind, a tempest of potential, was a captive here. One morning, as thin shafts of light pierced the skylight, a presence interrupted his solitude—a rival, powerful and cunning, with eyes that gleamed like obsidian. The sculptor's work, heretofore untouched by others, now faced scrutiny. Initial irritation turned to fierce competition, propelling the artist to shape his visions with renewed urgency. The rival's words sowed doubt; still, the sculptor persisted, weeks morphing into an exhausting campaign of creation. As the sculptor reached the zenith of his prowess, he felt an unnerving pressure—an invisible force clawing at his control. The chisel in his hand seemed not merely a tool but a weapon of liberation. Finally, as the stone took its final form, the realization dawned—a masterwork birthed not solely from his hands but also from struggle. A creation now autonomous, beyond its maker, heralded a transformation unforeseen.",
                 "lines_in_context": {
                     "6": {
                         "name": "Transcendence and Liberation",
@@ -139,8 +139,8 @@
             },
             {
                 "title": "The Call of the Wild Unseen (Man vs. Nature)",
-                "theme": "Gabriel Garc\u00eda M\u00e1rquez",
-                "short_story": "In the heart of the Amazon, where the forest breathed with a life of its own, there was a protagonist\u2014a young botanist filled with dreams as vast as the canopy above. His heart beat in tune with the jungle's rhythm, yet, his vision lay unformed, a flower yet to bloom. It was the first stirrings of a grand creation, a discovery of a rare plant that held the promise to change lives. But as he ventured deeper into the verdant labyrinth, he found himself ensnared by the forest's challenges, a wild orchestra of storms and shadows threatening to extinguish his flame. He pressed on, carving his path through obstacles that both defined and constrained him. With each step, his resolve strengthened, pushing him towards his goal with an unyielding force. As he neared his destination, he felt the culmination of his efforts coalesce into a potent manifestation. The jungle yielded its secrets, and he found what he sought\u2014yet in this moment of triumph, the creation transcended himself, becoming a legacy woven into the living tapestry of the Amazon, forever touching the world beyond his singular journey",
+                "theme": "Gabriel García Márquez",
+                "short_story": "In the heart of the Amazon, where the forest breathed with a life of its own, there was a protagonist—a young botanist filled with dreams as vast as the canopy above. His heart beat in tune with the jungle's rhythm, yet, his vision lay unformed, a flower yet to bloom. It was the first stirrings of a grand creation, a discovery of a rare plant that held the promise to change lives. But as he ventured deeper into the verdant labyrinth, he found himself ensnared by the forest's challenges, a wild orchestra of storms and shadows threatening to extinguish his flame. He pressed on, carving his path through obstacles that both defined and constrained him. With each step, his resolve strengthened, pushing him towards his goal with an unyielding force. As he neared his destination, he felt the culmination of his efforts coalesce into a potent manifestation. The jungle yielded its secrets, and he found what he sought—yet in this moment of triumph, the creation transcended himself, becoming a legacy woven into the living tapestry of the Amazon, forever touching the world beyond his singular journey",
                 "lines_in_context": {
                     "6": {
                         "name": "Legacy and Fulfillment",
@@ -177,7 +177,7 @@
             {
                 "title": "The Canvas of Echoes (Man vs. Self)",
                 "theme": "Virginia Woolf",
-                "short_story": "In a quiet room overlooking a vast, tumultuous sea, Elara sat before her blank canvas. The first light of dawn crept across its surface, whispering of possibilities yet unformed. Within her, a storm of potential brewed, yet her hand wavered. She was at the edge of a great awakening, though its form remained elusive. Taking a deep breath, she let the tension flow through her fingers, giving birth to lines and colors that danced with life. With each stroke, a narrative of struggle and triumph began to unfold\u2014a tale of the sea, her eternal muse. Yet, the sea itself seemed to challenge her creation, with stormy winds battering the windows, echoing the tumult within. Elara pressed on, letting the raw energy of the storm refine her work. In this frenzy of creation, she found a rhythm, a resolve that carried her vision into reality. As she conquered the tempest of her own making, the canvas came alive with rich hues and powerful forms. With the final brushstroke, she sat back, seeing not just the sea, but an echo of her inner journey\u2014a masterpiece beyond herself, set adrift upon the world.",
+                "short_story": "In a quiet room overlooking a vast, tumultuous sea, Elara sat before her blank canvas. The first light of dawn crept across its surface, whispering of possibilities yet unformed. Within her, a storm of potential brewed, yet her hand wavered. She was at the edge of a great awakening, though its form remained elusive. Taking a deep breath, she let the tension flow through her fingers, giving birth to lines and colors that danced with life. With each stroke, a narrative of struggle and triumph began to unfold—a tale of the sea, her eternal muse. Yet, the sea itself seemed to challenge her creation, with stormy winds battering the windows, echoing the tumult within. Elara pressed on, letting the raw energy of the storm refine her work. In this frenzy of creation, she found a rhythm, a resolve that carried her vision into reality. As she conquered the tempest of her own making, the canvas came alive with rich hues and powerful forms. With the final brushstroke, she sat back, seeing not just the sea, but an echo of her inner journey—a masterpiece beyond herself, set adrift upon the world.",
                 "lines_in_context": {
                     "6": {
                         "name": "Transcendence of the Creation",
@@ -259,14 +259,16 @@
         "Platonic": "Behold the synthesis of gentle persuasion and potent creativity, as they weave together in harmonious unity, giving rise to a balanced and dynamic manifestation of truth.",
         "Taoist": "In the dance of the universe, the soft whispers weave with the strong currents; therein lies the gentle art of guiding strength with innovation's grace.",
         "Tholonic": "In the Tholonic realm, where the gentle confluence of influence melds with the vigorous and the imaginative, a symphony of harmony emerges; therein, subtlety becomes the steward, magnifying the mighty resonance of action.",
-        "Thermodynamics": "The interplay of forces dictates that the influence of a gentle system emerges through the enthalpy and entropy of a stronger system, crafting a state of equilibrium where subtle gradients enhance the overall exergy within the thermodynamic interaction."
+        "Thermodynamics": "The interplay of forces dictates that the influence of a gentle system emerges through the enthalpy and entropy of a stronger system, crafting a state of equilibrium where subtle gradients enhance the overall exergy within the thermodynamic interaction.",
+        "general": "The gentle influence harmonizes with creative strength to form a balanced and dynamic unity.",
+        "explanation": "The lower trigram, Gentle and Penetrating, symbolizes subtle influence and adaptability, while the upper trigram, The Creative, represents strength and innovation. Together, they illustrate how soft, persistent influence can guide and enhance powerful creative forces, resulting in a harmonious and dynamic balance. This synergy reflects a state where gentle persuasion and robust creativity coexist, leading to a unified and effective outcome."
     },
     "line_type": [
-        "\u268a",
-        "\u268a",
-        "\u268a",
-        "\u268a",
-        "\u268a",
-        "\u268b"
+        "───",
+        "───",
+        "───",
+        "───",
+        "───",
+        "─ ─"
     ]
 }

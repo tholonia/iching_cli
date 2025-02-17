@@ -1,11 +1,11 @@
 {
     "id": 10,
-    "hexagram_code": "\u4dc9",
+    "hexagram_code": "䷉",
     "name": "Potential",
     "description": "The dynamic state of unrealized power. Like a tiger observing its surroundings before acting, this represents latent energy awaiting the right moment for expression.",
     "king_wen": {
         "sequence": 10,
-        "traditional_title": "L\u00fc",
+        "traditional_title": "Lü",
         "common_title": "Treading"
     },
     "binary_sequence": 59,
@@ -13,22 +13,22 @@
         "above": {
             "Trigram Number": 1,
             "Binary Decimal": 7,
-            "Symbol": "\u2630",
-            "Chinese Symbol": "\u4e7e",
-            "Phonetic": "Qi\u00e1n",
+            "Symbol": "☰",
+            "Chinese Symbol": "乾",
+            "Phonetic": "Qián",
             "English Translation": "Heaven",
-            "English Symbol": "\u5929",
+            "English Symbol": "天",
             "Meaning": "The Creative",
             "Quality": "Strong and Creative"
         },
         "below": {
             "Trigram Number": 8,
             "Binary Decimal": 4,
-            "Symbol": "\u2631",
-            "Chinese Symbol": "\u5151",
-            "Phonetic": "Du\u00ec",
+            "Symbol": "☱",
+            "Chinese Symbol": "兑",
+            "Phonetic": "Duì",
             "English Translation": "Lake/Marsh",
-            "English Symbol": "\u6cfd",
+            "English Symbol": "泽",
             "Meaning": "The Joyous",
             "Quality": "Joyful and Harmonious"
         }
@@ -102,8 +102,8 @@
         "entries": [
             {
                 "title": "The Sculptor's Vision (Man vs. Man)",
-                "theme": "Gabriel Garc\u00eda M\u00e1rquez",
-                "short_story": "In the land of verdant peaks and swirling mists, a sculptor named Elian lived with visions unspoken. His hands itched to carve the mountain that loomed over his village, to bring forth the face he saw in dreams. When he confided in the village elder, she only cautioned about the mountain's sacred nature.\n\nUnperturbed, Elian began, his chisel tapping against stone. His work progressed until whispers reached the ears of the villagers, inciting fear and envy. They demanded he halt his desecration.\n\nElian retreated to gather his thoughts, but determination spurred him on. He saw the potential for beauty that others could not, and as his craft coalesced, the mountain's form revealed itself.\n\nHis creation not only depicted a face but drew essence from the mountain\u2019s spirit. Tranquility enveloped the valley, and the villagers, seeing its beauty, relented.\n\nAt the summit of his journey, Elian's masterpiece stood complete; no longer his alone, it became part of the land, transcending its origin.\n\nHe released his claim over it, knowing his vision achieved something greater than personal triumph. It changed all who beheld it, having transcended the boundary separating creator and creation.",
+                "theme": "Gabriel García Márquez",
+                "short_story": "In the land of verdant peaks and swirling mists, a sculptor named Elian lived with visions unspoken. His hands itched to carve the mountain that loomed over his village, to bring forth the face he saw in dreams. When he confided in the village elder, she only cautioned about the mountain's sacred nature.\n\nUnperturbed, Elian began, his chisel tapping against stone. His work progressed until whispers reached the ears of the villagers, inciting fear and envy. They demanded he halt his desecration.\n\nElian retreated to gather his thoughts, but determination spurred him on. He saw the potential for beauty that others could not, and as his craft coalesced, the mountain's form revealed itself.\n\nHis creation not only depicted a face but drew essence from the mountain’s spirit. Tranquility enveloped the valley, and the villagers, seeing its beauty, relented.\n\nAt the summit of his journey, Elian's masterpiece stood complete; no longer his alone, it became part of the land, transcending its origin.\n\nHe released his claim over it, knowing his vision achieved something greater than personal triumph. It changed all who beheld it, having transcended the boundary separating creator and creation.",
                 "lines_in_context": {
                     "6": {
                         "name": "Release and Transcendence",
@@ -177,7 +177,7 @@
             {
                 "title": "The Sculptor of Dreams (Man vs. Self)",
                 "theme": "Haruki Murakami",
-                "short_story": "In a quiet town, Aiko, a reclusive sculptor, felt the stirring of an inexplicable urge. This raw potential, like a voice whispering in the wind, beckoned her to create. She locked herself in her dimly lit studio, surrounded by unblemished clay. Her hands trembled as they hovered over the material, unsure of what form the silent whispers would take. As weeks passed, Aiko began shaping her dreams into tangible forms, coaxing the clay into life under the weight of her visions. With each touch, she fought the entropic forces that sought to dissolve her fragile creations back into chaos. The tangible manifestation of her innermost thoughts unfolded slowly, and Aiko cherished the quiet power within her growing sculptures. In the rhythm of her work, she found harmony, alignment with the universe's subtle flow, until at last, she gazed upon her completed masterpiece. Yet, even as she stepped back to appreciate its fullness, she realized that creation had transcended her solitary existence\u2014a beacon of imagination that would inspire far beyond the confines of her studio. She relinquished personal ownership, acknowledging that true beauty lies in what we release, not possess.",
+                "short_story": "In a quiet town, Aiko, a reclusive sculptor, felt the stirring of an inexplicable urge. This raw potential, like a voice whispering in the wind, beckoned her to create. She locked herself in her dimly lit studio, surrounded by unblemished clay. Her hands trembled as they hovered over the material, unsure of what form the silent whispers would take. As weeks passed, Aiko began shaping her dreams into tangible forms, coaxing the clay into life under the weight of her visions. With each touch, she fought the entropic forces that sought to dissolve her fragile creations back into chaos. The tangible manifestation of her innermost thoughts unfolded slowly, and Aiko cherished the quiet power within her growing sculptures. In the rhythm of her work, she found harmony, alignment with the universe's subtle flow, until at last, she gazed upon her completed masterpiece. Yet, even as she stepped back to appreciate its fullness, she realized that creation had transcended her solitary existence—a beacon of imagination that would inspire far beyond the confines of her studio. She relinquished personal ownership, acknowledging that true beauty lies in what we release, not possess.",
                 "lines_in_context": {
                     "6": {
                         "name": "Release and Transcendence",
@@ -259,14 +259,16 @@
         "Platonic": "The manifestation of harmonious joy is orchestrated and uplifted by the creative essence of strength.",
         "Taoist": "Joyful Harmony emerges and ascends on the stream of Creative Strength's flowing power.",
         "Tholonic": "The bloom of harmonious joy manifests through the vibrant and imaginative essence of potency.",
-        "Thermodynamics": "The manifestation of harmonious joy emerges as entropy is reduced within the dynamic interplay of potent creative energy."
+        "Thermodynamics": "The manifestation of harmonious joy emerges as entropy is reduced within the dynamic interplay of potent creative energy.",
+        "general": "Joyful harmony is guided and uplifted by the strength of creative energy.",
+        "explanation": "The lower trigram, 'The Joyous,' symbolizes joy and harmony, while the upper trigram, 'The Creative,' represents strength and creativity. Together, they suggest that a state of joyful harmony is achieved when it is supported and elevated by a strong, creative force, aligning with the synthesis of Jungian, Platonic, Taoist, Tholonic, and thermodynamic perspectives."
     },
     "line_type": [
-        "\u268a",
-        "\u268a",
-        "\u268a",
-        "\u268b",
-        "\u268a",
-        "\u268a"
+        "───",
+        "───",
+        "───",
+        "─ ─",
+        "───",
+        "───"
     ]
 }
