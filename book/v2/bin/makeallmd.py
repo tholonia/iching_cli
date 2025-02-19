@@ -243,12 +243,12 @@ def format_core_section(core, sfnum):
 #### **No Moving Lines**: {core['transformations']['no_moving_lines']}
 #### **All Moving Lines**: {core['transformations']['all_moving_lines']}
 
-###### Tholonic Analysis
-#### **Negotiation**: {core['tholonic_analysis']['negotiation']}
+#### ***Tholonic Analysis***
+**Negotiation**: {core['tholonic_analysis']['negotiation']}. **Limitation**: {core['tholonic_analysis']['limitation']}. **Contribution**: {core['tholonic_analysis']['contribution']}
 
-#### **Limitation**: {core['tholonic_analysis']['limitation']}
+#### ***The 32 Paths***
+#### The *{core['pairpath']['kstate']}* path of *{core['pairpath']['title']}* hold "{core['pairpath']['ascending_hex_name']}" ({core['pairpath']['ascending_hex_num']}) and *{core['pairpath']['descending_hex_name']}* ({core['pairpath']['descending_hex_num']}).  {core['pairpath']['description']}
 
-#### **Contribution**: {core['tholonic_analysis']['contribution']}
 """
     return ostr
 

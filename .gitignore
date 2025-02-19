@@ -39,4 +39,8 @@ book/v2/_v2/
 book/v2/_v3/
 *.org
 *copy*
+book/v2/bin/fix_quotes.py
+book/v2/bin/makeallmd.py.ORG
+*.psd
+*.BAK
 

@@ -175,13 +175,6 @@ echo -e "\033[33mMerging...\033[0m"
 
 
 
-
-# TODO
-# - make PNG of chart and insert into PDF page
-# build FINAL
-# insert new photo page after Forward
-#merge
-
 # add copyright and cover to PDF
 
 pdftk \
