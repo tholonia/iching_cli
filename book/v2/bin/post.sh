@@ -173,15 +173,19 @@ pdftk ${BLANK} /tmp/iching-cut.pdf cat output ${D}/../includes/iching.pdf
 #~-----------------------------------------------------------------------------------
 echo -e "\033[33mMerging...\033[0m"
 
-
+#COVER=${D}/../includes/COVER_PAGE_8.5x11.pdf
+#COVER=${D}/../includes/COVER_v1.pdf
+COVER=${D}/../includes/COVER_v2.pdf
 
 # add copyright and cover to PDF
+# - q8_iching_png.pdf and bin/q8_iching_png.pdf are premade from PNG/PSD files
 
 pdftk \
-    ${D}/../includes/COVER_PAGE_8.5x11.pdf \
+    ${COVER} \
     ${D}/../includes/COPYRIGHT_PAGE_v1.pdf \
     ${D}/../includes/BOOK_INTRO.pdf \
     ${D}/../includes/q8_iching_png.pdf \
+    ${D}/../includes/binhex4col_png.pdf \
     ${D}/../includes/FINAL_TOC.pdf \
     ${D}/../includes/iching.pdf \
     cat output ${D}/../includes/FINAL_iching.pdf

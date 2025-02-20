@@ -1,0 +1,7 @@
+colorama
+fitz
+jsonschema
+openai
+PyMuPDF
+pyyaml
+typer

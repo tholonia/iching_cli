@@ -1,1 +1,0 @@
-Curated collection of images

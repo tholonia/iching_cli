@@ -1,3 +1,8 @@
+### There a two projects in this repo:
+
+- iching_cli (command line I Ching)
+- I Ching - the book (AI enhanced reinterpretation of the I Ching )
+
 # I Ching (CLI)
 
 This is a command-line version of the I Ching that uses the original yarrow stick method as the algorithm for determining each line. By default, it uses the python random library but using the "-r" option on the command line makes a call to random.org to get a true random numbers, which, in my experience, makes a significant difference.
@@ -33,48 +38,16 @@ Porting from JavaScript to python imposed quite a number of design decisions tha
 #### Ask a question using true random data from [RANDOM.ORG](random.org) (slow)
 
 ```bash
-# obfuscated... ./throw.py --question "Should I?" --true_random
 ./throw.py --question "Should I?"
 ```
 > Questions can be as long as necessary.  The first 16 character of the question are used to create a filename of the output, for example "Q_should_I.txt".  In my experience true random numbers are far more effective that pseudo-random numbers, but are slightly slower, and requires an Internet connection.  By default, pseudo-random numbers are used.
-
-
-## ```update.py``` examples
-
-```bash
-./update.py --bin 0 --comment
-```
-> Commens can be added to a hexagram by selecting the bunary valus of the hexagram (`--bin 0`) and setting the the comment prefix value to some text.  An example os setting comments is:
-```bash
-./update.py -b 33 --comment '#1 "cause" of the pair b33:b35 (c27:b41) "CORNERS OF THE MOUTH (PROVIDING NOURISHMENT)" ⮕ "DECREASE"'
-./update.py -b 33 --comment '#2 "effect" of the pair b33:b35 (c27:b41) "CORNERS OF THE MOUTH (PROVIDING NOURISHMENT)" ⮕ "DECREASE"'
-```
-> In this example, we create two comment, one for the first hexagram and one for the second.  The binary sequence values are preceeded by 'b' and the classical sequence values are preceeded by 's'.  If only one hexagram was prodcued with no moving lines, the comment command would be...
-```bash
-./update.py -b 0 --comment 'Non-moving hexagram of b0 (c2) "The Receptive"'
-```
-
-> The text is perpended to the content of the file `latest_comment.txt`, which needs to be filled out before running this command.  If teh contents of `latest_comment.txt` is `As I had just won lotto, I interpreted this as message to be careful on how I spent my new-found fotrune", then the comment saved for the hexagrams respectively woudl be:
-
-```
-#1 "cause" of the pair b33:b35 (c27:b41) "CORNERS OF THE MOUTH (PROVIDING NOURISHMENT) :: As I had just won lotto, I interpreted this as message to be careful on how I spent my new-found fortune
-```
-> saved as a comment to hexagram b33
-```
-#2 "effect" of the pair b33:b35 (c27:b41) "CORNERS OF THE MOUTH (PROVIDING NOURISHMENT)" ⮕ "DECREASE" :: As I had just won lotto, I interpreted this as message to be careful on how I spent my new-found fortune
-```
-> saved as a comment to hexagram b35
-```
-Non-moving hexagram of b0 (c2) "The Receptive" :: As I had just won lotto, I interpreted this as message to be careful on how I spent my new-found fortune
-```
-> saved as a comment to hexagram b0
 
 #### Make dump backups of all databases (`hexagrams.db` and `trigrams.db`)
 
 ```bash
 ./update.py --dump
 ```
-> this saves a dated SQL dump oif each database, for example:
+> this saves a dated SQL dump of each database, for example:
 ```bash
 hexagrams_08_12_2024.sql
 trigrams_08_12_2024.sql
@@ -90,6 +63,8 @@ trigrams_08_12_2024.sql
 # Example output
 
 ---
+
+### Note: This output uses only the traditional interpretations, not the far better and updated interpretations in the book project, described below.
 
 # Question: test mode
 
@@ -199,8 +174,6 @@ trigrams_08_12_2024.sql
 
 ---
 
-
-
 # Install
 
 This was written in Python 3.10.14, but it should run on any 3.x version.
@@ -223,6 +196,44 @@ python ./throw.py <args>
 python ./update.py <args>
 ```
 [Download Python for Windows](https://www.python.org/downloads/windows/) (includes pip)
+
+# I Ching - The Book
+
+Located in the sub folder of `book/v2`
+
+see: `book/v2/requirements.txt`
+
+Applications required (for Linux)
+
+- **pdftk** *PDF tools
+- **code** (I use  Cursor AI, https://www.cursor.com/ )
+- **okular** *PDF Viewer*
+- **prince-books** *Publisher*
+- **node-less** *CSS preprocessing*
+- **code** (--classic)  *visual code, or better Cursor AI https://www.cursor.com/)*
+- **typora** *markdown editor*
+
+### The Publishing Process
+
+To publish the book
+
+ ```sh
+conda activate cbot # enviroment with the requitements.txt installed
+cd /home/jw/src/iching_cli/book/v2/bin
+export OPENAI_API_KEY=sk-proj-GocJ9l8HATWvK2ZEj4w...
+export D=/home/jw/store/src/iching_cli/book/v2/bin
+
+./prep.py  # prepare the MD file and launch typora
+# export to HTML within Typora
+./post.py # create final PDF
+ ```
+
+Assumptions:
+
+The JSON files are either hard coded to be read from `../regen` folder, or should only be read from that folder.  The final versions  of JSON files are stored in the last `../ok<n>` folder where `n` is simply an incremented number. 
+
+Docs exist in `book/v2/docs`
+
 
 
 # About
