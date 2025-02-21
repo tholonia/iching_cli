@@ -43,4 +43,6 @@ book/v2/bin/fix_quotes.py
 book/v2/bin/makeallmd.py.ORG
 *.psd
 *.BAK
-
+book/v2/bin/grids/
+book/v2/ok6/
+book/v2/ok7/

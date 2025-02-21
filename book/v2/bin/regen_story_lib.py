@@ -59,6 +59,12 @@ Last Updated: 2024-03-21
 =============================================================================
 """
 
+import json
+import os
+import sys
+from colorama import Fore, Style
+
+
 max_words=200
 
 story_type = [
@@ -66,7 +72,6 @@ story_type = [
     "Man vs. Nature",
     "Man vs. Self"
 ]
-
 
 
 stories_schema = {
@@ -231,56 +236,170 @@ stories_schema = {
         "entries"
       ]
     }
-
-prompt_reply_structure = {
-        "entries": [
-            {
-                "title": "Generated title of the story.",
-                "theme": "The name ONLY of the author whose style this story was written in.",
-                "short_story": f"A {max_words} word story that captures the essence of the story's main conflict, themes, and resolution. IMPORTANT: No mention of the I Ching or the hexagrams can be made in the story.",
-                "lines_in_context": {
-                    "6": {
-                        "name": "The central concept of line six in the story.",
-                        "meaning": "An explanation of the significance of line six within the context of the story.",
-                        "changing": "A description of what occurs when the value of line six changes, indicating a shift in meaning or interpretation."
-                    },
-                    "5": {
-                        "name": "The central concept of line five in the story.",
-                        "meaning": "An explanation of the significance of line five within the context of the story.",
-                        "changing": "A description of what occurs when the value of line five changes, indicating a shift in meaning or interpretation."
-                    },
-                    "4": {
-                        "name": "The central concept of line four in the story.",
-                        "meaning": "An explanation of the significance of line four within the context of the story.",
-                        "changing": "A description of what occurs when the value of line four changes, indicating a shift in meaning or interpretation."
-                    },
-                    "3": {
-                        "name": "The central concept of line three in the story.",
-                        "meaning": "An explanation of the significance of line three within the context of the story.",
-                        "changing": "A description of what occurs when the value of line three changes, indicating a shift in meaning or interpretation."
-                    },
-                    "2": {
-                        "name": "The central concept of line two in the story.",
-                        "meaning": "An explanation of the significance of line two within the context of the story.",
-                        "changing": "A description of what occurs when the value of line two changes, indicating a shift in meaning or interpretation."
-                    },
-                    "1": {
-                        "name": "The central concept of line one in the story.",
-                        "meaning": "An explanation of the significance of line one within the context of the story.",
-                        "changing": "A description of what occurs when the value of line one changes, indicating a shift in meaning or interpretation."
-                    }
+history_schema = {
+      "type": "object",
+      "properties": {
+        "title": {
+          "type": "string"
+        },
+        "subtitle": {
+          "type": "string"
+        },
+        "summary": {
+          "type": "string"
+        },
+        "source": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "lines_in_history": {
+          "type": "object",
+          "properties": {
+            "6": {
+              "type": "object",
+              "properties": {
+                "name": {
+                  "type": "string"
+                },
+                "meaning": {
+                  "type": "string"
+                },
+                "changing": {
+                  "type": "string"
                 }
+              },
+              "required": [
+                "name",
+                "meaning",
+                "changing"
+              ]
+            },
+            "5": {
+              "type": "object",
+              "properties": {
+                "name": {
+                  "type": "string"
+                },
+                "meaning": {
+                  "type": "string"
+                },
+                "changing": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "name",
+                "meaning",
+                "changing"
+              ]
+            },
+            "4": {
+              "type": "object",
+              "properties": {
+                "name": {
+                  "type": "string"
+                },
+                "meaning": {
+                  "type": "string"
+                },
+                "changing": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "name",
+                "meaning",
+                "changing"
+              ]
+            },
+            "3": {
+              "type": "object",
+              "properties": {
+                "name": {
+                  "type": "string"
+                },
+                "meaning": {
+                  "type": "string"
+                },
+                "changing": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "name",
+                "meaning",
+                "changing"
+              ]
+            },
+            "2": {
+              "type": "object",
+              "properties": {
+                "name": {
+                  "type": "string"
+                },
+                "meaning": {
+                  "type": "string"
+                },
+                "changing": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "name",
+                "meaning",
+                "changing"
+              ]
+            },
+            "1": {
+              "type": "object",
+              "properties": {
+                "name": {
+                  "type": "string"
+                },
+                "meaning": {
+                  "type": "string"
+                },
+                "changing": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "name",
+                "meaning",
+                "changing"
+              ]
             }
-        ]
+          },
+          "required": [
+            "6",
+            "5",
+            "4",
+            "3",
+            "2",
+            "1"
+          ]
+        }
+      },
+      "required": [
+        "title",
+        "subtitle",
+        "short_story",
+        "source",
+        "lines_in_history"
+      ]
     }
 
-
-
-def make_prompt(hexagram_number, story_idx):
-
+def make_history_prompt(hexagram_number):
     iching_primer_path = "../includes/iching_primer.md"
     tholonic_primer_path = "../includes/tholonic_primer.md"
     local_hexagram_path = f"../regen/{hexagram_number}.json"
+
+    opposite_line_type = {
+        "yang": "yin",
+        "yin": "yang"
+    }
 
     with open(iching_primer_path, "r", encoding="utf-8") as f:
         iching_primer_content = f.read()
@@ -289,13 +408,52 @@ def make_prompt(hexagram_number, story_idx):
         tholonic_primer_content = f.read()
 
     with open(local_hexagram_path, "r", encoding="utf-8") as f:
-        hexagram_content = f.read()
+        hexagram_content = json.load(f)
 
+    # Define the expected JSON response structure
+    prompt_reply_structure = {
+
+        "title": "Title of historical story",
+        "subtitle": f"\"{hexagram_content['name']}\" in History",
+        "short_story": f"Describe historical event in approx. {max_words} words",
+        "source": [ "list sources 1", "list sources 2","etc..." ],
+        "lines_in_history": {
+            "6": {
+                "name": "Line 6 name",
+                "meaning": "Line 6 meaning",
+                "changing": f"Describe both challenges (disruptions, imbalances, or lessons that arise from the change) and potential benefits (new insights, opportunities, or higher-order growth made possible by the transformation) resulting from line 6  {hexagram_content['line_type'][0]} changing to {opposite_line_type[hexagram_content['line_type'][0]]} in the context of Transcendence and this story.  DO NOT describe the effects {opposite_line_type[hexagram_content['line_type'][0]]} changing to {hexagram_content['line_type'][0]}  because that is impossible given that line 6 is {hexagram_content['line_type'][0]}.",
+            },
+            "5": {
+                "name": "Line 5 ",
+                "meaning": "Line 5 meaning",
+                "changing": f"Describe both challenges (disruptions, imbalances, or lessons that arise from the change) and potential benefits (new insights, opportunities, or higher-order growth made possible by the transformation) resulting from line 5  {hexagram_content['line_type'][1]} changing to {opposite_line_type[hexagram_content['line_type'][1]]} in the context of Mastery and this story.  DO NOT describe the effects {opposite_line_type[hexagram_content['line_type'][1]]} changing to {hexagram_content['line_type'][1]}  because that is impossible given that line 5 is {hexagram_content['line_type'][1]}.",
+            },
+            "4": {
+                "name": "Line 4 ",
+                "meaning": "Line 4 meaning",
+                "changing": f"Describe both challenges (disruptions, imbalances, or lessons that arise from the change) and potential benefits (new insights, opportunities, or higher-order growth made possible by the transformation) resulting from line 4  {hexagram_content['line_type'][2]} changing to {opposite_line_type[hexagram_content['line_type'][2]]} in the context of Manifestation and this story.  DO NOT describe the effects {opposite_line_type[hexagram_content['line_type'][2]]} changing to {hexagram_content['line_type'][2]}  because that is impossible given that line 4 is {hexagram_content['line_type'][2]}.",
+            },
+            "3": {
+                "name": "Line 3 ",
+                "meaning": "Line 3 meaning",
+                "changing": f"Describe both challenges (disruptions, imbalances, or lessons that arise from the change) and potential benefits (new insights, opportunities, or higher-order growth made possible by the transformation) resulting from line 3  {hexagram_content['line_type'][3]} changing to {opposite_line_type[hexagram_content['line_type'][3]]} in the context of Conflict and this story.  DO NOT describe the effects {opposite_line_type[hexagram_content['line_type'][3]]} changing to {hexagram_content['line_type'][3]}  because that is impossible given that line 3 is {hexagram_content['line_type'][3]}.",
+            },
+            "2": {
+                "name": "Line 2 ",
+                "meaning": "Line 2 meaning",
+                "changing": f"Describe both challenges (disruptions, imbalances, or lessons that arise from the change) and potential benefits (new insights, opportunities, or higher-order growth made possible by the transformation) resulting from line 2  {hexagram_content['line_type'][4]} changing to {opposite_line_type[hexagram_content['line_type'][4]]} in the context of Formation and this story.  DO NOT describe the effects {opposite_line_type[hexagram_content['line_type'][4]]} changing to {hexagram_content['line_type'][4]}  because that is impossible given that line 2 is {hexagram_content['line_type'][4]}.",
+            },
+            "1": {
+                "name": "Line 1",
+                "meaning": "Line 1 meaning",
+                "changing": f"Describe both challenges (disruptions, imbalances, or lessons that arise from the change) and potential benefits (new insights, opportunities, or higher-order growth made possible by the transformation) resulting from line 1  {hexagram_content['line_type'][5]} changing to {opposite_line_type[hexagram_content['line_type'][5]]} in the context of Emergence and this story.  DO NOT describe the effects {opposite_line_type[hexagram_content['line_type'][5]]} changing to {hexagram_content['line_type'][5]}  because that is impossible given that line 1 is {hexagram_content['line_type'][5]}.",
+            }
+        }
+    }
 
 
 
     prompt = f"""
-
 # Prepare the prompt for the OpenAI API
 
 Tholonic Primer:
@@ -305,9 +463,175 @@ I Ching Primer:
 {iching_primer_content}
 
 Hexagram {hexagram_number}:
-{hexagram_content}
+{json.dumps(hexagram_content, indent=2)}
+
+Using the context provided above, identify a historical event that is relevant to hexagram {hexagram_number} from the I Ching.  Then generate a short story of approximately {max_words} words that represents the essence and significance of the historical event. The story should be engaging and immersive, demonstrating the themes of raw creative force, unrestrained potential, and the process of realization.
+
+For the given I Ching hexagram, provide a comprehensive interpretation of each of its six lines. In your analysis, consider the line's position within the hexagram, its natural Yin (⚋) or Yang (⚊) state, and its relationship with adjacent lines. Discuss how deviations from the natural Yin-Yang sequence influence the line's meaning, and explain the interplay between the inner (lines 1-3) and outer (lines 4-6) trigrams. Highlight how these interactions reflect the principles of negotiation (balance), limitation (definition), and contribution (integration)."
+
+Explanation:
+
+Line Position and Natural State: Each line in a hexagram has a designated position (1 through 6) and an associated natural state—either Yin (⚋) or Yang (⚊). Understanding this helps in interpreting the line's role and influence within the hexagram.
+
+Adjacent Line Relationships: Lines influence and are influenced by their neighboring lines. Analyzing these relationships provides insight into the dynamics and potential tensions within the hexagram.
+
+Deviations from Natural Sequence: A line that deviates from its expected Yin or Yang state can indicate imbalance or transformation, affecting the overall interpretation.
+
+Inner and Outer Trigrams: The lower trigram (lines 1-3) represents internal conditions, while the upper trigram (lines 4-6) reflects external manifestations. Exploring their interplay offers a deeper understanding of the hexagram's message.
+
+Principles of Negotiation, Limitation, and Contribution: These principles relate to balance, definition, and integration within the hexagram. Incorporating them into the analysis provides a holistic view of the forces at play.
+
+### Story Structure:
+- The event should have a clear message that embodies the six stages of creation, conflict, manifestation, mastery, conflict, and transcendence.
+- The **title** should capture the essence of the story in a compelling way.
+- The story should be written in the style of historians, such as Joan Evans, Dorothy Mills, C.W Ceram, Bernard Cornwell, and Alison Weir, using a strong and recognizable literary voice.  IMPORTANT: Ensure that the story sounds different from the other stories
+- The **short_story** should be approximatly {max_words} words and that captures the essence of the story's main conflict, themes, and resolution.
+
+### Hexagram Structure in Story Progression:
+The story should be divided into six stages corresponding to the six lines of hexagram {hexagram_number}. For each line:
+- The current line type is specified in hexagram_content['line_type']
+- Only describe what happens when the CURRENT line changes to its OPPOSITE
+- For a yang line (─), describe only yang→yin changes
+- For a yin line (--), describe only yin→yang changes
+
+1. **Line 1 name should reflect the essential quality of Emergence as it appears in this story"**
+   - Meaning: a description of how this quality of Emergence is instantiated."
+   - Changing: Decribe both challenges (disruptions, imbalances, or lessons that arise from the change) and potential benefits (new insights, opportunities, or higher-order growth made possible by the transformation) resulting from line 1  {hexagram_content['line_type'][5]} changing to {opposite_line_type[hexagram_content['line_type'][5]]} in the context of Emergence and this story.  DO NOT describe the effects {opposite_line_type[hexagram_content['line_type'][5]]} changing to {hexagram_content['line_type'][5]}  because that is impossible given that line 1 is {hexagram_content['line_type'][5]}. "
+
+2. **Line 2 name should reflect the essential quality of Formation as it appears in this story"**
+   - Meaning: a description of how this quality of Formation is instantiated."
+   - Changing: Decribe both challenges (disruptions, imbalances, or lessons that arise from the change) and potential benefits (new insights, opportunities, or higher-order growth made possible by the transformation) resulting from line 2  {hexagram_content['line_type'][4]} changing to {opposite_line_type[hexagram_content['line_type'][4]]} in the context of Formation and this story.  DO NOT describe the effects {opposite_line_type[hexagram_content['line_type'][4]]} changing to {hexagram_content['line_type'][4]}  because that is impossible given that line 2 is {hexagram_content['line_type'][4]}. "
+
+3. **Line 3 name should reflect the essential quality of Conflict as it appears in this story"**
+   - Meaning: a description of how this quality of Conflict is instantiated."
+   - Changing: Decribe both challenges (disruptions, imbalances, or lessons that arise from the change) and potential benefits (new insights, opportunities, or higher-order growth made possible by the transformation) resulting from line 3  {hexagram_content['line_type'][3]} changing to {opposite_line_type[hexagram_content['line_type'][3]]} in the context of Conflict and this story.  DO NOT describe the effects {opposite_line_type[hexagram_content['line_type'][3]]} changing to {hexagram_content['line_type'][3]}  because that is impossible given that line 3 is {hexagram_content['line_type'][3]}. "
+
+4. **Line 4 name should reflect the essential quality of Manifestation as it appears in this story"**
+   - Meaning: a description of how this quality of Manifestation is instantiated."
+   - Changing: Decribe both challenges (disruptions, imbalances, or lessons that arise from the change) and potential benefits (new insights, opportunities, or higher-order growth made possible by the transformation) resulting from line 4  {hexagram_content['line_type'][2]} changing to {opposite_line_type[hexagram_content['line_type'][2]]} in the context of Manifestation and this story.  DO NOT describe the effects {opposite_line_type[hexagram_content['line_type'][2]]} changing to {hexagram_content['line_type'][2]}  because that is impossible given that line 4 is {hexagram_content['line_type'][2]}. "
+
+5. **Line 5 name should reflect the essential quality of Mastery as it appears in this story"**
+   - Meaning: a description of how this quality of Mastery is instantiated."
+   - Changing: Decribe both challenges (disruptions, imbalances, or lessons that arise from the change) and potential benefits (new insights, opportunities, or higher-order growth made possible by the transformation) resulting from line 5  {hexagram_content['line_type'][1]} changing to {opposite_line_type[hexagram_content['line_type'][1]]} in the context of Mastery and this story.  DO NOT describe the effects {opposite_line_type[hexagram_content['line_type'][1]]} changing to {hexagram_content['line_type'][1]}  because that is impossible given that line 5 is {hexagram_content['line_type'][1]}. "
+
+6. **Line 6 name should reflect the essential quality of Transcendence as it appears in this story"**
+   - Meaning: a description of how this quality of Transcendence is instantiated."
+   - Changing: Decribe both challenges (disruptions, imbalances, or lessons that arise from the change) and potential benefits (new insights, opportunities, or higher-order growth made possible by the transformation) resulting from line 6  {hexagram_content['line_type'][0]} changing to {opposite_line_type[hexagram_content['line_type'][0]]} in the context of Transcendence and this story.  DO NOT describe the effects {opposite_line_type[hexagram_content['line_type'][0]]} changing to {hexagram_content['line_type'][0]}  because that is impossible given that line 6 is {hexagram_content['line_type'][0]}. "
+
+IMPORTANT: For each line's "Moving Line" description:
+- If the current line is yang (─), only describe what happens when it changes to yin (--)
+- If the current line is yin (--), only describe what happens when it changes to yang (─)
+- Never describe a yin→yang change for a yang line
+- Never describe a yang→yin change for a yin line
+
+### Output Format:
+The response should be structured as a JSON object following this template:
+
+```json
+{json.dumps(prompt_reply_structure, indent=2)}
+```
+"""
+
+    # print(Fore.GREEN + prompt + Style.RESET_ALL)
+    return prompt
+
+def make_stories_prompt(hexagram_number, story_idx):
+    iching_primer_path = "../includes/iching_primer.md"
+    tholonic_primer_path = "../includes/tholonic_primer.md"
+    local_hexagram_path = f"../regen/{hexagram_number}.json"
+
+    opposite_line_type = {
+        "yang": "yin",
+        "yin": "yang"
+    }
+
+    with open(iching_primer_path, "r", encoding="utf-8") as f:
+        iching_primer_content = f.read()
+
+    with open(tholonic_primer_path, "r", encoding="utf-8") as f:
+        tholonic_primer_content = f.read()
+
+    with open(local_hexagram_path, "r", encoding="utf-8") as f:
+        hexagram_content = json.load(f)
+
+    # Define the expected JSON response structure
+    prompt_reply_structure = {
+        "title": "Story Title",
+        "entries": [{
+            "title": "Story Title",
+            "theme": "Author's Style",
+            "short_story": "The story text...",
+            "lines_in_context": {
+                "6": {
+                    "name": f"Line 6 Name ",
+                    "meaning": "Line 6 Meaning",
+                    "changing": f"Describe both challenges (disruptions, imbalances, or lessons that arise from the change) and potential benefits (new insights, opportunities, or higher-order growth made possible by the transformation) resulting from line 6  {hexagram_content['line_type'][0]} changing to {opposite_line_type[hexagram_content['line_type'][0]]} in the context of Transcendence and this story.  DO NOT describe the effects {opposite_line_type[hexagram_content['line_type'][0]]} changing to {hexagram_content['line_type'][0]}  because that is impossible given that line 6 is {hexagram_content['line_type'][0]}.",
+                },
+                "5": {
+                    "name": f"Line 5 Name ",
+                    "meaning": "Line 5 Meaning",
+                    "changing": f"Describe both challenges (disruptions, imbalances, or lessons that arise from the change) and potential benefits (new insights, opportunities, or higher-order growth made possible by the transformation) resulting from line 5  {hexagram_content['line_type'][1]} changing to {opposite_line_type[hexagram_content['line_type'][1]]} in the context of Mastery and this story.  DO NOT describe the effects {opposite_line_type[hexagram_content['line_type'][1]]} changing to {hexagram_content['line_type'][1]}  because that is impossible given that line 5 is {hexagram_content['line_type'][1]}.",
+                },
+                "4": {
+                    "name": f"Line 4 Name ",
+                    "meaning": "Line 4 Meaning",
+                    "changing": f"Describe both challenges (disruptions, imbalances, or lessons that arise from the change) and potential benefits (new insights, opportunities, or higher-order growth made possible by the transformation) resulting from line 4  {hexagram_content['line_type'][2]} changing to {opposite_line_type[hexagram_content['line_type'][2]]} in the context of Manifestation and this story.  DO NOT describe the effects {opposite_line_type[hexagram_content['line_type'][2]]} changing to {hexagram_content['line_type'][2]}  because that is impossible given that line 4 is {hexagram_content['line_type'][2]}.",
+                },
+                "3": {
+                    "name": f"Line 3 Name ",
+                    "meaning": "Line 3 Meaning",
+                    "changing": f"Describe both challenges (disruptions, imbalances, or lessons that arise from the change) and potential benefits (new insights, opportunities, or higher-order growth made possible by the transformation) resulting from line 3  {hexagram_content['line_type'][3]} changing to {opposite_line_type[hexagram_content['line_type'][3]]} in the context of Conflict and this story.  DO NOT describe the effects {opposite_line_type[hexagram_content['line_type'][3]]} changing to {hexagram_content['line_type'][3]}  because that is impossible given that line 3 is {hexagram_content['line_type'][3]}.",
+                },
+                "2": {
+                    "name": f"Line 2 Name ",
+                    "meaning": "Line 2 Meaning",
+                    "changing": f"Describe both challenges (disruptions, imbalances, or lessons that arise from the change) and potential benefits (new insights, opportunities, or higher-order growth made possible by the transformation) resulting from line 2  {hexagram_content['line_type'][4]} changing to {opposite_line_type[hexagram_content['line_type'][4]]} in the context of Formation and this story.  DO NOT describe the effects {opposite_line_type[hexagram_content['line_type'][4]]} changing to {hexagram_content['line_type'][4]}  because that is impossible given that line 2 is {hexagram_content['line_type'][4]}.",
+                },
+                "1": {
+                    "name": f"Line 1 Name ",
+                    "meaning": "Line 1 Meaning",
+                    "changing": f"Describe both challenges (disruptions, imbalances, or lessons that arise from the change) and potential benefits (new insights, opportunities, or higher-order growth made possible by the transformation) resulting from line 1  {hexagram_content['line_type'][5]} changing to {opposite_line_type[hexagram_content['line_type'][5]]} in the context of Emergence and this story.  DO NOT describe the effects {opposite_line_type[hexagram_content['line_type'][5]]} changing to {hexagram_content['line_type'][5]}  because that is impossible given that line 1 is {hexagram_content['line_type'][5]}.",
+                }
+            }
+        }]
+    }
+
+    prompt = f"""
+# Prepare the prompt for the OpenAI API
+
+Tholonic Primer:
+{tholonic_primer_content}
+
+I Ching Primer:
+{iching_primer_content}
+
+Hexagram {hexagram_number}:
+{json.dumps(hexagram_content, indent=2)}
 
 Using the context provided above, generate a short story of approximately {max_words} words that represents the essence and significance of hexagram {hexagram_number} from the I Ching. The story should be engaging and immersive, demonstrating the themes of raw creative force, unrestrained potential, and the process of realization.
+
+For the given I Ching hexagram, provide a comprehensive interpretation of each of its six lines. In your analysis, consider the line's position within the hexagram, its natural Yin (⚋) or Yang (⚊) state, and its relationship with adjacent lines. Discuss how deviations from the natural Yin-Yang sequence influence the line's meaning, and explain the interplay between the inner (lines 1-3) and outer (lines 4-6) trigrams. Highlight how these interactions reflect the principles of negotiation (balance), limitation (definition), and contribution (integration)."
+
+Explanation:
+
+Line Position and Natural State: Each line in a hexagram has a designated position (1 through 6) and an associated natural state—either Yin (⚋) or Yang (⚊). Understanding this helps in interpreting the line's role and influence within the hexagram.
+
+Adjacent Line Relationships: Lines influence and are influenced by their neighboring lines. Analyzing these relationships provides insight into the dynamics and potential tensions within the hexagram.
+
+Deviations from Natural Sequence: A line that deviates from its expected Yin or Yang state can indicate imbalance or transformation, affecting the overall interpretation.
+
+Inner and Outer Trigrams: The lower trigram (lines 1-3) represents internal conditions, while the upper trigram (lines 4-6) reflects external manifestations. Exploring their interplay offers a deeper understanding of the hexagram's message.
+
+Principles of Negotiation, Limitation, and Contribution: These principles relate to balance, definition, and integration within the hexagram. Incorporating them into the analysis provides a holistic view of the forces at play.
+
+Consider the following:
+Excessive Yang Energy:
+- Positive Effects: May include increased energy and motivation.
+- Negative Effects: Can lead to symptoms such as anxiety, irritability, anger, inflammation, headaches, insomnia, and muscle tension.
+
+Excessive Yin Energy:
+- Positive Effects: May include calmness and introspection.
+- Negative Effects: Can result in lethargy, excessive tiredness, low sexual libido, coldness in the body (especially feet and hands), and a sense of hopelessness.
 
 ### Story Structure:
 - The story should have a clear **{story_type[story_idx]}** conflict that embodies the struggle of creative force seeking realization against opposing forces.
@@ -316,36 +640,49 @@ Using the context provided above, generate a short story of approximately {max_w
 - The **short_story** should be a ~500 word version of the story that captures the essence of the story's main conflict, themes, and resolution.
 
 ### Hexagram Structure in Story Progression:
-The story should be divided into six stages corresponding to the six lines of hexagram {hexagram_number}, with each stage representing a fundamental phase of creative development:
+The story should be divided into six stages corresponding to the six lines of hexagram {hexagram_number}. For each line:
+- The current line type is specified in hexagram_content['line_type']
+- Only describe what happens when the CURRENT line changes to its OPPOSITE
+- For a yang line (─), describe only yang→yin changes
+- For a yin line (--), describe only yin→yang changes
 
-1. **Line 1 - "Emergence"**
-   - Meaning: The first stirrings of creation. The protagonist is filled with raw, unshaped potential but lacks direction.
-   - Changing Interpretation: If yang changes to yin, it suggests hesitation or failure to act, delaying the creative impulse.
+1. **Line 1 - "the essential quality of Emergence as it appears in this story"**
+   - Meaning: a description of how this quality of Emergence is instantiated."
+   - Changing: Decribe both challenges (disruptions, imbalances, or lessons that arise from the change) and potential benefits (new insights, opportunities, or higher-order growth made possible by the transformation) resulting from line 1  {hexagram_content['line_type'][5]} changing to {opposite_line_type[hexagram_content['line_type'][5]]} in the context of Emergence and this story.  DO NOT describe the effects {opposite_line_type[hexagram_content['line_type'][5]]} changing to {hexagram_content['line_type'][5]}  because that is impossible given that line 1 is {hexagram_content['line_type'][5]}. "
 
-2. **Line 2 - "Formation"**
-   - Meaning: The protagonist begins shaping their potential, encountering the first barriers and defining their creative path.
-   - Changing Interpretation: If yin changes to yang, it signifies premature action, leading to instability or misalignment with natural flow.
+2. **Line 2 - "the essential quality of Formation as it appears in this story"**
+   - Meaning: a description of how this quality of Formation is instantiated."
+   - Changing: Decribe both challenges (disruptions, imbalances, or lessons that arise from the change) and potential benefits (new insights, opportunities, or higher-order growth made possible by the transformation) resulting from line 2  {hexagram_content['line_type'][4]} changing to {opposite_line_type[hexagram_content['line_type'][4]]} in the context of Formation and this story.  DO NOT describe the effects {opposite_line_type[hexagram_content['line_type'][4]]} changing to {hexagram_content['line_type'][4]}  because that is impossible given that line 2 is {hexagram_content['line_type'][4]}. "
 
-3. **Line 3 - "Conflict"**
-   - Meaning: The protagonist meets direct opposition or external challenges that threaten to halt their creation.
-   - Changing Interpretation: If yang changes to yin, it indicates retreat or exhaustion before reaching full realization.
+3. **Line 3 - "the essential quality of Conflict as it appears in this story"**
+   - Meaning: a description of how this quality of Conflict is instantiated."
+   - Changing: Decribe both challenges (disruptions, imbalances, or lessons that arise from the change) and potential benefits (new insights, opportunities, or higher-order growth made possible by the transformation) resulting from line 3  {hexagram_content['line_type'][3]} changing to {opposite_line_type[hexagram_content['line_type'][3]]} in the context of Conflict and this story.  DO NOT describe the effects {opposite_line_type[hexagram_content['line_type'][3]]} changing to {hexagram_content['line_type'][3]}  because that is impossible given that line 3 is {hexagram_content['line_type'][3]}. "
 
-4. **Line 4 - "Manifestation"**
-   - Meaning: The protagonist refines their vision, aligning their creative work with external reality. They gain momentum.
-   - Changing Interpretation: If yin changes to yang, it may indicate overreaching ambition, leading to unsustainable expansion.
+4. **Line 4 - "the essential quality of Manifestation as it appears in this story"**
+   - Meaning: a description of how this quality of Manifestation is instantiated."
+   - Changing: Decribe both challenges (disruptions, imbalances, or lessons that arise from the change) and potential benefits (new insights, opportunities, or higher-order growth made possible by the transformation) resulting from line 4  {hexagram_content['line_type'][2]} changing to {opposite_line_type[hexagram_content['line_type'][2]]} in the context of Manifestation and this story.  DO NOT describe the effects {opposite_line_type[hexagram_content['line_type'][2]]} changing to {hexagram_content['line_type'][2]}  because that is impossible given that line 4 is {hexagram_content['line_type'][2]}. "
 
-5. **Line 5 - "Mastery"**
-   - Meaning: The protagonist takes full command of their creation, standing at the peak of their power.
-   - Changing Interpretation: If yang changes to yin, it suggests the risk of arrogance or a misjudgment that could undermine success.
+5. **Line 5 - "the essential quality of Mastery as it appears in this story"**
+   - Meaning: a description of how this quality of Mastery is instantiated."
+   - Changing: Decribe both challenges (disruptions, imbalances, or lessons that arise from the change) and potential benefits (new insights, opportunities, or higher-order growth made possible by the transformation) resulting from line 5  {hexagram_content['line_type'][1]} changing to {opposite_line_type[hexagram_content['line_type'][1]]} in the context of Mastery and this story.  DO NOT describe the effects {opposite_line_type[hexagram_content['line_type'][1]]} changing to {hexagram_content['line_type'][1]}  because that is impossible given that line 5 is {hexagram_content['line_type'][1]}. "
 
-6. **Line 6 - "Transcendence"**
-   - Meaning: The protagonist's creation is complete, no longer theirs but something that exists beyond them, affecting the world.
-   - Changing Interpretation: If yang changes to yin, it signifies clinging to control instead of letting go, preventing evolution.
+6. **Line 6 - "the essential quality of Transcendence as it appears in this story"**
+   - Meaning: a description of how this quality of Transcendence is instantiated."
+   - Changing: Decribe both challenges (disruptions, imbalances, or lessons that arise from the change) and potential benefits (new insights, opportunities, or higher-order growth made possible by the transformation) resulting from line 6  {hexagram_content['line_type'][0]} changing to {opposite_line_type[hexagram_content['line_type'][0]]} in the context of Transcendence and this story.  DO NOT describe the effects {opposite_line_type[hexagram_content['line_type'][0]]} changing to {hexagram_content['line_type'][0]}  because that is impossible given that line 6 is {hexagram_content['line_type'][0]}. "
+
+IMPORTANT: For each line's "Moving Line" description:
+- If the current line is yang (─), only describe what happens when it changes to yin (--)
+- If the current line is yin (--), only describe what happens when it changes to yang (─)
+- Never describe a yin→yang change for a yang line
+- Never describe a yang→yin change for a yin line
 
 ### Output Format:
-The response should be structured as a JSON object replacing the following template values:
+The response should be structured as a JSON object following this template:
 
 ```json
-{prompt_reply_structure}
-    """
+{json.dumps(prompt_reply_structure, indent=2)}
+```
+"""
+
+    # print(Fore.GREEN + prompt + Style.RESET_ALL)
     return prompt

@@ -31,7 +31,5 @@
 # Loop from 1 to 64
 for i in $(seq -f "%02g" 1 64); do
     # Execute the command with the current number
-    ./regen_story.py --filename ../regen/${i}.json --index 0 --provider openai --save
-    ./regen_story.py --filename ../regen/${i}.json --index 1 --provider openai --save
-    ./regen_story.py --filename ../regen/${i}.json --index 2 --provider openai --save
+    ./regen_history.py --filename ../regen/${i}.json --provider openai --save
 done

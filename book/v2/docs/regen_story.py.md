@@ -12,9 +12,9 @@ This script generates new stories for I Ching hexagrams using OpenAI's GPT API. 
 ```
 
 ### Arguments
-- `-f`, `--filename` : Path to JSON file containing stories data
-- `-i`, `--index`    : Integer specifying which story entry to update (0-based index)
-- `-s`, `--save`     : Save the modified data back to the input file
+- `-f, --filename`: Path to JSON file containing stories data
+- `-i, --index`: Integer specifying which story entry to update (0-based index)
+- `-s, --save`: Save the modified data back to the input file
 
 ### Example
 ```bash
@@ -23,7 +23,7 @@ This script generates new stories for I Ching hexagrams using OpenAI's GPT API. 
 ```
 
 ### Environment Variables
-- `OPENAI_API_KEY`: Required OpenAI API key for making requests
+`OPENAI_API_KEY`: Required OpenAI API key for making requests
 
 ### Process
 1. Reads and validates input JSON file against schema
@@ -46,7 +46,7 @@ This script generates new stories for I Ching hexagrams using OpenAI's GPT API. 
 - Returns updated stories data structure
 - Prints complete JSON output in red
 
-*Last Updated:* 10-15-2023 03:45
+*Last Updated:* 10-05-2023 12:00
 
 ---
 

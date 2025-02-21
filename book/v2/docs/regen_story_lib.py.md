@@ -17,29 +17,29 @@ prompt = make_prompt(hexagram_number=1, story_idx=0)
 ```
 
 ### Core Components
-1. **Story Types:**
+1. Story Types:
    - Man vs. Man
    - Man vs. Nature
    - Man vs. Self
 
-2. **Schema Structure:**
+2. Schema Structure:
    - Title
    - Theme
    - Short Story (~200 words)
    - Lines in Context (6 lines with interpretations)
 
-3. **Line Interpretations:**
+3. Line Interpretations:
    - Name: Central concept
    - Meaning: Significance in story
    - Changing: Effect when line changes
 
 ### Functions
 `make_prompt(hexagram_number, story_idx)`
-- Generates a complete prompt for story generation using:
-  - I Ching primer
-  - Tholonic primer
-  - Hexagram-specific content
-  - Story structure guidelines
+Generates a complete prompt for story generation using:
+- I Ching primer
+- Tholonic primer
+- Hexagram-specific content
+- Story structure guidelines
 
 ### Schema Validation
 - Enforces story length limits
@@ -52,8 +52,9 @@ prompt = make_prompt(hexagram_number=1, story_idx=0)
 - os
 - sys
 
-*Author:* Assistant  
-*Last Updated:* 03-21-2024 12:00
+*Author: Assistant*
+
+*Last Updated:* 03-21-2024 00:00
 
 ---
 
