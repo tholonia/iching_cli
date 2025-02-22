@@ -175,19 +175,28 @@ echo -e "\033[33mMerging...\033[0m"
 
 #COVER=${D}/../includes/COVER_PAGE_8.5x11.pdf
 #COVER=${D}/../includes/COVER_v1.pdf
-COVER=${D}/../includes/COVER_v2.pdf
+
+COVER=${D}/../includes/COVER_v3.pdf
+COPYRIGHT=${D}/../includes/COPYRIGHT_PAGE_v1.pdf
+INSIDE=${D}/../includes/INSIDE_PAGE.pdf
+BOOK=${D}/../includes/BOOK_INTRO.pdf
+Q8=${D}/../includes/q8_iching_png.pdf
+BIN=${D}/../includes/binhex4col_png.pdf
+TOC=${D}/../includes/FINAL_TOC.pdf
+ICHING=${D}/../includes/iching.pdf
 
 # add copyright and cover to PDF
 # - q8_iching_png.pdf and bin/q8_iching_png.pdf are premade from PNG/PSD files
 
 pdftk \
     ${COVER} \
-    ${D}/../includes/COPYRIGHT_PAGE_v1.pdf \
-    ${D}/../includes/BOOK_INTRO.pdf \
-    ${D}/../includes/q8_iching_png.pdf \
-    ${D}/../includes/binhex4col_png.pdf \
-    ${D}/../includes/FINAL_TOC.pdf \
-    ${D}/../includes/iching.pdf \
+    ${COPYRIGHT} \
+    ${INSIDE} \
+    ${BOOK} \
+    ${Q8} \
+    ${BIN} \
+    ${TOC} \
+    ${ICHING} \
     cat output ${D}/../includes/FINAL_iching.pdf
 
 # pdftk \

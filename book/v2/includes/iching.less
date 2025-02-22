@@ -2,7 +2,7 @@
 /*
 // Page Size Variables
 */
-@page-width: 8.5in;
+@page-width: 8.25in;
 @page-height: 11in;
 
 @margin-outer: 0.5in;
@@ -68,11 +68,17 @@ body {
 @media print {
     body {
         width: auto !important;
-        height: auto !important;
+        /*height: auto !important;*/
+        height: 100vh; /* Ensure full-page height */
+
         margin: 0 !important;
         padding: 0 !important;
         font-size: @base-font-size !important;
         line-height: @base-line-height !important;
+
+    }
+    html {
+        height: 100vh;
     }
 
     #write {
@@ -91,6 +97,19 @@ body {
 
     p, div:not(.page-break), span, h1, h2, h3, h4, h5, write, img, ul, ol, li {
         page-break-inside: auto !important; /* Allow natural breaking */
+    }
+
+    /* to ensure notes doc extends to bottom of page */
+    .container {
+        display: flex;
+        flex-direction: column;
+        min-height: 100vh;
+        /* Full height of the page */
+    }
+
+    .ndiv {
+        flex-grow: 1;
+        /* Stretch to fill the remaining space */
     }
 }
 
@@ -229,3 +248,4 @@ div:not(.page-break) {
 ul, ol {
     page-break-before: auto;
 }
+

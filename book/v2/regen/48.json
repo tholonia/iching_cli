@@ -1,284 +1,284 @@
 {
-    "id": 48,
-    "hexagram_code": "\u4def",
-    "name": "Restoration",
-    "description": "The process of renewal and replenishment after depletion. Like a well being refilled or an ecosystem recovering after disruption, this represents the natural cycle of restoration and the return of vitality.",
-    "king_wen": {
-        "sequence": 48,
-        "traditional_title": "Jing/The Well",
-        "common_title": ""
+  "id": 48,
+  "hexagram_code": "\u4def",
+  "name": "Restoration",
+  "description": "The process of renewal and replenishment after depletion. Like a well being refilled or an ecosystem recovering after disruption, this represents the natural cycle of restoration and the return of vitality.",
+  "king_wen": {
+    "sequence": 48,
+    "traditional_title": "Jing/The Well",
+    "common_title": ""
+  },
+  "binary_sequence": 22,
+  "trigrams": {
+    "above": {
+      "Trigram Number": 6,
+      "Binary Decimal": 2,
+      "Symbol": "\u2635",
+      "Chinese Symbol": "\u574e",
+      "Phonetic": "K\u01cen",
+      "English Translation": "Water",
+      "English Symbol": "\u6c34",
+      "Meaning": "The Abysmal",
+      "Quality": "Deep and Mysterious"
     },
-    "binary_sequence": 22,
-    "trigrams": {
-        "above": {
-            "Trigram Number": 6,
-            "Binary Decimal": 2,
-            "Symbol": "\u2635",
-            "Chinese Symbol": "\u574e",
-            "Phonetic": "K\u01cen",
-            "English Translation": "Water",
-            "English Symbol": "\u6c34",
-            "Meaning": "The Abysmal",
-            "Quality": "Deep and Mysterious"
-        },
-        "below": {
-            "Trigram Number": 5,
-            "Binary Decimal": 6,
-            "Symbol": "\u2634",
-            "Chinese Symbol": "\u5dfd",
-            "Phonetic": "X\u00f9n",
-            "English Translation": "Wind/Wood",
-            "English Symbol": "\u98ce/\u6728",
-            "Meaning": "The Gentle",
-            "Quality": "Gentle and Penetrating"
-        }
-    },
-    "attributes": {
-        "perspective": "The renewal of resources through steady nourishment",
-        "nature": "Restorative, nourishing, sustaining",
-        "action": "Replenishment, maintenance, cultivation",
-        "success_through": "Consistent care and attention to fundamental needs",
-        "challenge": "Maintaining reliable access to essential resources"
-    },
-    "lines": [
-        {
-            "position": 6,
-            "name": "Completing the Cycle",
-            "meaning": "The culmination of restoration, where the journey of transformation is fully realized and a new beginning is set.",
-            "changing": "The full circle of yin, transformed and perfected, seamlessly emerges as a potent yang force, heralding rebirth."
-        },
-        {
-            "position": 5,
-            "name": "Illuminated Ascent",
-            "meaning": "A stage marked by clarity and elevation; the restored energy ascends, guiding the path to transformation.",
-            "changing": "The mature, enlightened yin transitions smoothly into a radiant yang, highlighting emerging strength."
-        },
-        {
-            "position": 4,
-            "name": "Flourishing Revival",
-            "meaning": "A vibrant phase where restoration gains momentum, invoking dynamic growth and forward movement.",
-            "changing": "The deep, reflective yin energy channels into a robust yang force, manifesting as a flourishing revival."
-        },
-        {
-            "position": 3,
-            "name": "Harmonious Integration",
-            "meaning": "A balanced moment when opposing forces merge, establishing a firm foundation for further restoration.",
-            "changing": "Here, yin\u2019s quiet persistence is infused with yang\u2019s vitality, leading to a balanced reconfiguration of energy."
-        },
-        {
-            "position": 2,
-            "name": "Shifting Currents",
-            "meaning": "A period of subtle transformation where energies intermingling create the conditions for growth.",
-            "changing": "The hidden aspects of yin start to reveal their potential, gradually morphing into a gentle, rising yang influence."
-        },
-        {
-            "position": 1,
-            "name": "Emerging Seed",
-            "meaning": "The initial stir of change; a quiet but resolute beginning that holds the promise of renewal.",
-            "changing": "In this line, dormant yin energy awakens, setting the stage for a transformative surge of yang."
-        }
-    ],
-    "tholonic_analysis": {
-        "negotiation": "The hexagram represents the balance between giving and receiving nourishment. The gentle wind below supports the movement of water above, showing how subtle forces can maintain essential resources when properly channeled.",
-        "limitation": "The structure defines boundaries between sustainable use and depletion. It establishes how resources must be maintained within natural cycles, showing that ongoing restoration requires consistent care.",
-        "contribution": "This configuration contributes to systemic evolution by demonstrating how resources can be sustainably maintained. It shows how proper stewardship ensures continuing availability of essential elements.",
-        "significance_in_thologram": "Represents the critical function of resource renewal in any system. Functions as a model for how awareness maintains access to vital resources. Important in understanding how systems sustain themselves through proper resource management."
-    },
-    "transformations": {
-        "no_moving_lines": "The situation calls for steady maintenance and careful stewardship. Continue tending to essential resources while ensuring sustainable access. Success comes through consistent care.",
-        "all_moving_lines": "Complete transformation of the resource system is occurring. All aspects of maintenance are in flux. The restoration will create fundamental change, requiring careful attention to maintaining reliable access to essentials."
-    },
-    "hierarchy": {
-        "order8child": "Finding foundation",
-        "order8parent": "RESOLUTION; Moving Toward Completion"
-    },
-    "image": {
-        "description": "The chosen subject and medium of an underwater coral nursery embody the hexagram's themes of restoration and renewal. The coral garden illustrates universal patterns of growth and resilience, rising from the ocean floor in a dynamic interplay of life and resourcefulness. The triadic relationship is observed between coral, water, and sunlight, representing the balance that sustains life. This image captures the emergence of order from natural chaos, as fragile coral structures form complex and harmonious patterns. The coral's nurturing environment underscores the principle of consistent care in maintaining essential resources, reflecting a delicate balance between structure and fluidity. By visually depicting these interconnected relationships, the image serves as a metaphor for how nurturing efforts lead to sustained vitality and evolution within any system.",
-        "file": "48.png"
-    },
-    "energy_cycle": "ascending",
-    "stories": {
-        "title": "Three Tales of \"Restoration\"",
-        "entries": [
-            {
-                "title": "The Artisan's Revival (Man vs. Man)",
-                "theme": "Antoine de Saint-Exup\u00e9ry",
-                "short_story": "In a quaint village nestled within a ring of vibrant flora and gentle rivers, lived Emile, an artisan known for his unique creations which bridged the gap between the natural and the sublime. His works were reflections of the world\u2019s harmony and chaos, yet they lay incomplete due to his incessant quest for perfection. One day, while strolling along the tranquil riverbank, a thought descended upon Emile like a whisper from the wind. Inspired by the environment\u2019s quiet persistence, he decided to finally create the masterpiece he had long envisioned\u2014a sculpture that symbolized renewal.\n\nFacing his fears of inadequacy, Emile sculpted tirelessly, each stroke a battle against self-doubt, each movement charged with the raw energy of creation. As days turned into nights, the unyielding drive within him transformed material into form. Yet, as the final form emerged, imbalance struck, casting a shadow over his endeavor.\n\nThe sculpture, initially overbearing, began to demand alteration, teaching Emile surrender against rigidity. As he chipped away unnecessary elements, he recognized the value of simplicity and essence.\n\nThe townsfolk, once skeptical, gathered to witness the unveiling. Emile's creation, a testament to balance in form and spirit, resonated deeply within the community. It symbolized a gentle reminder that mastery and transcendence are achieved not through overpowering form but through harmonious convergence with life\u2019s perpetual rhythm.\n\nAs the sculpture stood complete, plains blossomed anew, and the village buzzed with renewal. Emile, through his work, had unwittingly nourished the soul of the village, aligning restoration with creation\u2014an everlasting dance with the infinite.",
-                "lines_in_context": {
-                    "6": {
-                        "name": "Transcendence",
-                        "meaning": "The sculpture stands as more than an object; it becomes a catalyst for communal renewal, transcending singular artistic expression.",
-                        "changing": "As Emile allows his creation to influence the community, new potentials for collective growth arise, inspiring layers of transformation for villagers. If he clings to personal attachment, its broader impact may remain unfulfilled."
-                    },
-                    "5": {
-                        "name": "Mastery",
-                        "meaning": "Emile attains mastery not through force but through yielding to the natural simplicity of the form.",
-                        "changing": "By overriding his artistic ego, he fosters a deeper connection with his pursuit. Failure to embrace constraints might lead to imbalance, reducing mastery to unyielding complication."
-                    },
-                    "4": {
-                        "name": "Manifestation",
-                        "meaning": "The sculpture embodies the junction of vision and reality, manifesting the harmonious balance Emile sought.",
-                        "changing": "Allowing the piece to evolve naturally involves the risk of veering toward overcomplexity, or conversely, revealing new vistas of beauty and truth."
-                    },
-                    "3": {
-                        "name": "Conflict",
-                        "meaning": "Emile engages with self-doubt and expectations, which threaten his resolve and creative flow.",
-                        "changing": "In acknowledging the conflict, Emile taps into profound insights, reshaping his approach and unlocking hidden strength."
-                    },
-                    "2": {
-                        "name": "Formation",
-                        "meaning": "Emile\u2019s idea takes form with care, yet tentative where harmony meets chaos.",
-                        "changing": "A shift in formation brings newfound balance, or may throw it into chaos if newfound expressions are enforced too hastily, avoiding deeper integration."
-                    },
-                    "1": {
-                        "name": "Emergence",
-                        "meaning": "Emile's initial encounter with inspiration reveals vulnerable purity of thought and intention.",
-                        "changing": "The realization of this spark as action emboldens potential, yet might disrupt present stability if pursued recklessly."
-                    }
-                }
-            },
-            {
-                "title": "The Wellspring of Creation (Man vs. Nature)",
-                "theme": "Style of Ursula K. Le Guin",
-                "short_story": "In a secluded valley overlooked by ancient peaks, a young sculptor named Eliara found herself entranced by the whispers of the wind that danced across her landscapes. She had long searched for inspiration, a deep well of creative force that was as elusive as the wind itself. On a crisp morning, she ventured deeper into the valley and discovered an ancient well, shrouded in the echoes of centuries past. Entranced, she felt its pull, a silent resonance that urged her to immerse herself in its mysteries.\n\nSeeking to capture its essence, Eliara began a grand sculpture, each stone an ode to the earth and sky, each angle a homage to time. Her hands moved intuitively, guided by an unseen force linking the well's depths to her craft. As the form emerged, a struggle unveiled itself within her\u2014the euphoria of creation contending with the chaos of expression.\n\nAll at once, a storm brewed over the valley, its ferocity mirroring her inner turmoil. Lightning illuminated the well, casting darkened shadows across her work, evoking both fear and revelation. In the storm's eye, pillars of stone teetered, forcing Eliara to reevaluate the foundation of her vision.\n\nConceding to the storm's challenge, Eliara deftly adjusted her creation, balancing both chaos and order in a dance of stone. The storm passed, leaving a hushed clarity in its wake, as the valley's ancient resonance fused with her handiwork.\n\nWith the return of calm, her sculpture was complete\u2014not as a monolith of her making, but as a living testament to the valley's eternal voice. Her journey was not only about creation but also about becoming\u2014a process of harmonizing with the wellsprings of creative energy. The valley whispered of renewal, a legacy that would continue to inspire those who dared to listen.",
-                "lines_in_context": {
-                    "6": {
-                        "name": "Transcendence",
-                        "meaning": "The sculpture becomes more than its material form; it represents a timeless connection with the valley's spirit.",
-                        "changing": "If Eliara clings to personal ownership over the sculpture, she risks diminishing its capability to inspire others, confining its potential within the boundaries of ego."
-                    },
-                    "5": {
-                        "name": "Mastery",
-                        "meaning": "Eliara attains mastery by allowing her intuitive connection with the well's essence to guide her artistic process.",
-                        "changing": "If Eliara becomes blinded by her own prowess, neglecting the lessons of humility, she might detach from the source of genuine inspiration, leaving her creation without soul."
-                    },
-                    "4": {
-                        "name": "Manifestation",
-                        "meaning": "Her sculpture embodies the valley's voice, materializing Eliara's vision into tangible reality.",
-                        "changing": "By allowing the natural forces of the storm to refine her work, she discovers an interplay between destruction and creation, leading to unexpected beauty."
-                    },
-                    "3": {
-                        "name": "Conflict",
-                        "meaning": "Eliara faces the inner turmoil of balancing chaotic inspiration with structured creation.",
-                        "changing": "By confronting the storm's intervention, Eliara gains profound insight into adaptation; if she instead resists, her creation might fracture under the weight of rigidity."
-                    },
-                    "2": {
-                        "name": "Formation",
-                        "meaning": "Eliara's idea begins to take form, weaving together elements from her inner vision and the well's whispers.",
-                        "changing": "If Eliara fails to adapt her vision with sensitivity, her work risks becoming rigid, losing the dynamic essence sought in her quest."
-                    },
-                    "1": {
-                        "name": "Emergence",
-                        "meaning": "Within the well, Eliara discovers the initial spark that propels her into the flow of creation.",
-                        "changing": "If Eliara hesitates to embrace her newfound inspiration, she might lose the fertile moment of potential, stalling the creative journey."
-                    }
-                }
-            },
-            {
-                "title": "Wellspring of Creativity (Man vs. Self)",
-                "theme": "Inspired by Haruki Murakami",
-                "short_story": "In the heart of a secluded forest, an artist named Shun found himself lost in a haze of creative stagnation. His canvases lay bare, untouched by the brush that once danced with inspiration. One day, wandering aimlessly, Shun stumbled upon an ancient well, hidden beneath a canopy of whispering leaves. The well exuded a silent profundity that resonated with the mysteries of the universe. Intrigued, Shun drew closer, feeling a pull towards its depths.\n\nAs he gazed into the well, a vision emerged\u2014a vibrant interplay of colors and shapes that stirred the dormant energy within him. Inspired, he rushed back to his studio, the image from the well emblazoned in his mind. His brush moved with newfound fervor, each stroke a testament to the creative force that flowed through him.\n\nBut as his painting took form, shadows of doubt crept into his thoughts. Was this truly his creation, or did the well impose its vision upon him? In moments of hesitation, he felt the burden of that question weighing heavily on his consciousness.\n\nThe night brought a fierce storm, echoing his internal struggle. As the winds howled, Shun faced the tempest head-on, allowing it to refine his work, stripping away what was superfluous. He embraced the chaos, trusting in the process of transcendence.\n\nWith the storm's end came a tranquil dawn. Shun's painting glowed with vitality, an embodiment of the creative journey that transformed both the canvas and the artist. The well had become his muse, merging with his essence to create something wholly new. It was a reminder that creation is a dance with the unknown, a cycle of rebirth that begins anew with every brushstroke.",
-                "lines_in_context": {
-                    "6": {
-                        "name": "Transcendence",
-                        "meaning": "The final masterpiece is not merely a painting; it becomes a living narrative that transcends its medium, embodying the unity of Shun's inner and outer worlds.",
-                        "changing": "If Shun clings to the painting as a personal triumph, he risks severing its connection to the universal story it tells, limiting its transformative potential."
-                    },
-                    "5": {
-                        "name": "Mastery",
-                        "meaning": "Shun achieves mastery as he aligns his artistic direction with the well's wisdom, creating a work resonant with authenticity.",
-                        "changing": "Allowing self-importance to overshadow intuition could lead him to overlook the painting's deeper messages, stripping it of its profound truth."
-                    },
-                    "4": {
-                        "name": "Manifestation",
-                        "meaning": "The painting becomes a tangible reflection of Shun\u2019s internal visions, materializing the ethereal as concrete.",
-                        "changing": "In striving for perfection prematurely, Shun could introduce a rigidity that suppresses the painting\u2019s natural evolution, missing unexpected beauty."
-                    },
-                    "3": {
-                        "name": "Conflict",
-                        "meaning": "Shun wrestles with self-doubt and external chaos that threaten to disrupt his creative state.",
-                        "changing": "Surrendering to the challenges allows Shun to gain deeper insights into the balance between control and spontaneity, enhancing the final work's impact."
-                    },
-                    "2": {
-                        "name": "Formation",
-                        "meaning": "The vision from the well crystallizes into a coherent form as Shun commits it to the canvas, balancing intuition with technique.",
-                        "changing": "Resistance to exploring emerging ideas could lead to a stunted creative process, closing Shun off from new ways of seeing."
-                    },
-                    "1": {
-                        "name": "Emergence",
-                        "meaning": "A spark of inspiration ignites as Shun glimpses into the well, awakening dormant creative energies.",
-                        "changing": "Embracing this new inspiration could empower Shun to break free from previous constraints, venturing into uncharted creative territories."
-                    }
-                }
-            }
-        ]
-    },
-    "history": {
-        "title": "The Marshall Plan: A Framework for European Renewal",
-        "subtitle": "\"Restoration\" in History",
-        "short_story": "In the devastation following World War II, Europe faced a monumental task of rebuilding from the ruins. Cities were shattered, families displaced, and economies in freefall. Amidst this chaos, U.S. Secretary of State George Marshall envisioned a bold initiative\u2014the Marshall Plan. Announced in 1947, the plan offered unprecedented economic assistance, aiming not just to repair infrastructure, but to foster a sustainable recovery. It required European nations to collaborate, paving a path toward economic integration. Over four years, $13 billion was allocated to revitalize industry, boost agriculture, and strengthen economic ties. Marshall's strategy required coordination, self-reliance, and shared goals. By 1952, Western Europe's industrial output soared, agricultural industries flourished, and trade increased significantly. The plan's success was its ability to inspire cooperation and innovation, laying the foundation for the European Economic Community. The Marshall Plan is a testament to the transformative power of renewal through supportive structures and collective effort, embodying the essence of \"Restoration\" as described in Hexagram 48.",
-        "source": [
-            "\"The Marshall Plan: Dawn of the Cold War\" by Benn Steil (Simon & Schuster, 2018)"
-        ],
-        "lines_in_history": {
-            "6": {
-                "name": "Transcendence",
-                "meaning": "As the European nations transcended their past conflicts, they embraced a new chapter of cooperation and unity.",
-                "changing": "Transitioning towards unity was challenging, as past grievances stirred resistance. However, this shift fostered unprecedented alliance and peace, enabling Europe to thrive in new ways."
-            },
-            "5": {
-                "name": "Mastery of Coordination",
-                "meaning": "The collaborative efforts of European nations to enact the Marshall Plan marked a new mastery in coordination and resource management.",
-                "changing": "Challenges arose in achieving consensus and alignment on economic strategies. Yet, overcoming these hurdles resulted in strengthened alliances and a unified economic vision."
-            },
-            "4": {
-                "name": "Manifestation of Strategy",
-                "meaning": "The Marshall Plan embodied a strategic alignment with external forces to galvanize Europe's redevelopment.",
-                "changing": "Rapid changes in approach challenged the consistent application of the plan, but adapting to these changes sparked innovation, propelling Europe towards greater prosperity."
-            },
-            "3": {
-                "name": "Conflict Resolution",
-                "meaning": "Initial conflicts between differing national interests and historical tensions required careful negotiation to pave the way for cooperative restoration.",
-                "changing": "Resistance to collaboration posed challenges, yet addressing these tensions catalyzed breakthroughs in diplomatic relations, creating pathways for sustained progress."
-            },
-            "2": {
-                "name": "Formation of Collective Vision",
-                "meaning": "Establishing a collective approach for economic revival was crucial to stabilizing and progressing Europe's recovery.",
-                "changing": "Competing national priorities risked fragmenting efforts, but aligning under a shared vision forged new cooperation and resilience."
-            },
-            "1": {
-                "name": "Emergence of Renewal",
-                "meaning": "The initial steps of the Marshall Plan marked the emergence of a new hope for rejuvenation amidst the post-war desolation.",
-                "changing": "Initiating this plan challenged existing paradigms, but catalyzed a transformation that unlocked Europe's boundless potential for revitalization."
-            }
-        }
-    },
-    "trigram_phrase": {
-        "Jungian": "The delicate dance of penetrating the shadowy depths of the unconscious unveils a transformative alchemy of the psyche.",
-        "Platonic": "In the symphony of the soul's voyage, where subtle influence dances with profound depth, there lies an enigmatic odyssey, traversing the veiled strata of existence.",
-        "Taoist": "The subtle dance of influence threads through the depths of mystery's embrace.",
-        "Tholonic": "In the silent dance of delicate influence and profound enigma, there emerges a gentle immersion into the depths of existence.",
-        "Thermodynamics": "The delicate exchange of energy effuses through the intricate enigmas, seamlessly harmonizing the thermodynamic equilibrium.",
-        "general": "A gentle influence navigates the depths of mystery, harmonizing transformation.",
-        "explanation": "The lower trigram, 'The Gentle,' symbolizes a subtle yet persistent influence that penetrates and transforms. The upper trigram, 'The Abysmal,' represents profound depths and mystery. Together, they illustrate a process where gentle, persistent influence navigates and harmonizes with the deep, mysterious aspects of existence, leading to transformation and restoration."
-    },
-    "line_type": [
-        "yin",
-        "yang",
-        "yin",
-        "yang",
-        "yang",
-        "yin"
-    ],
-    "pairpath": {
-        "title": "Resolution",
-        "ascending_hex_num": 48,
-        "ascending_hex_name": "The Well",
-        "descending_hex_num": 21,
-        "descending_hex_name": "Biting Through",
-        "description": "This pair-path represents the duality of nourishment and resolution. The Well (Hexagram 48) signifies the ascending aspect of drawing sustenance and wisdom from a deep source, emphasizing renewal and the continuity of life. Biting Through (Hexagram 21), the descending aspect, involves confronting obstacles and resolving issues with decisiveness and clarity. Together, they illustrate a cycle of internal nourishment leading to external resolution.",
-        "kstate": "stable",
-        "image_prompt": "A tranquil ancient well set in a serene landscape, symbolizing deep wisdom and nourishment, juxtaposed with a scene of a decisive act of breaking through barriers, representing clarity and resolution. The image should convey a sense of balance between inner sustenance and external action.",
-        "path_num": 7
+    "below": {
+      "Trigram Number": 5,
+      "Binary Decimal": 6,
+      "Symbol": "\u2634",
+      "Chinese Symbol": "\u5dfd",
+      "Phonetic": "X\u00f9n",
+      "English Translation": "Wind/Wood",
+      "English Symbol": "\u98ce/\u6728",
+      "Meaning": "The Gentle",
+      "Quality": "Gentle and Penetrating"
     }
+  },
+  "attributes": {
+    "perspective": "The renewal of resources through steady nourishment",
+    "nature": "Restorative, nourishing, sustaining",
+    "action": "Replenishment, maintenance, cultivation",
+    "success_through": "Consistent care and attention to fundamental needs",
+    "challenge": "Maintaining reliable access to essential resources"
+  },
+  "lines": [
+    {
+      "position": 6,
+      "name": "Completing the Cycle",
+      "meaning": "The culmination of restoration, where the journey of transformation is fully realized and a new beginning is set.",
+      "changing": "The full circle of yin, transformed and perfected, seamlessly emerges as a potent yang force, heralding rebirth."
+    },
+    {
+      "position": 5,
+      "name": "Illuminated Ascent",
+      "meaning": "A stage marked by clarity and elevation; the restored energy ascends, guiding the path to transformation.",
+      "changing": "The mature, enlightened yin transitions smoothly into a radiant yang, highlighting emerging strength."
+    },
+    {
+      "position": 4,
+      "name": "Flourishing Revival",
+      "meaning": "A vibrant phase where restoration gains momentum, invoking dynamic growth and forward movement.",
+      "changing": "The deep, reflective yin energy channels into a robust yang force, manifesting as a flourishing revival."
+    },
+    {
+      "position": 3,
+      "name": "Harmonious Integration",
+      "meaning": "A balanced moment when opposing forces merge, establishing a firm foundation for further restoration.",
+      "changing": "Here, yin\u2019s quiet persistence is infused with yang\u2019s vitality, leading to a balanced reconfiguration of energy."
+    },
+    {
+      "position": 2,
+      "name": "Shifting Currents",
+      "meaning": "A period of subtle transformation where energies intermingling create the conditions for growth.",
+      "changing": "The hidden aspects of yin start to reveal their potential, gradually morphing into a gentle, rising yang influence."
+    },
+    {
+      "position": 1,
+      "name": "Emerging Seed",
+      "meaning": "The initial stir of change; a quiet but resolute beginning that holds the promise of renewal.",
+      "changing": "In this line, dormant yin energy awakens, setting the stage for a transformative surge of yang."
+    }
+  ],
+  "tholonic_analysis": {
+    "negotiation": "The hexagram represents the balance between giving and receiving nourishment. The gentle wind below supports the movement of water above, showing how subtle forces can maintain essential resources when properly channeled.",
+    "limitation": "The structure defines boundaries between sustainable use and depletion. It establishes how resources must be maintained within natural cycles, showing that ongoing restoration requires consistent care.",
+    "contribution": "This configuration contributes to systemic evolution by demonstrating how resources can be sustainably maintained. It shows how proper stewardship ensures continuing availability of essential elements.",
+    "significance_in_thologram": "Represents the critical function of resource renewal in any system. Functions as a model for how awareness maintains access to vital resources. Important in understanding how systems sustain themselves through proper resource management."
+  },
+  "transformations": {
+    "no_moving_lines": "The situation calls for steady maintenance and careful stewardship. Continue tending to essential resources while ensuring sustainable access. Success comes through consistent care.",
+    "all_moving_lines": "Complete transformation of the resource system is occurring. All aspects of maintenance are in flux. The restoration will create fundamental change, requiring careful attention to maintaining reliable access to essentials."
+  },
+  "hierarchy": {
+    "order8child": "Finding foundation",
+    "order8parent": "RESOLUTION; Moving Toward Completion"
+  },
+  "image": {
+    "description": "The chosen subject and medium of an underwater coral nursery embody the hexagram's themes of restoration and renewal. The coral garden illustrates universal patterns of growth and resilience, rising from the ocean floor in a dynamic interplay of life and resourcefulness. The triadic relationship is observed between coral, water, and sunlight, representing the balance that sustains life. This image captures the emergence of order from natural chaos, as fragile coral structures form complex and harmonious patterns. The coral's nurturing environment underscores the principle of consistent care in maintaining essential resources, reflecting a delicate balance between structure and fluidity. By visually depicting these interconnected relationships, the image serves as a metaphor for how nurturing efforts lead to sustained vitality and evolution within any system.",
+    "file": "48.png"
+  },
+  "energy_cycle": "ascending",
+  "stories": {
+    "title": "Three Tales of \"Restoration\"",
+    "entries": [
+      {
+        "title": "The Artisan's Revival (Man vs. Man)",
+        "theme": "Antoine de Saint-Exup\u00e9ry",
+        "short_story": "In a quaint village nestled within a ring of vibrant flora and gentle rivers, lived Emile, an artisan known for his unique creations which bridged the gap between the natural and the sublime. His works were reflections of the world\u2019s harmony and chaos, yet they lay incomplete due to his incessant quest for perfection. One day, while strolling along the tranquil riverbank, a thought descended upon Emile like a whisper from the wind. Inspired by the environment\u2019s quiet persistence, he decided to finally create the masterpiece he had long envisioned\u2014a sculpture that symbolized renewal.\n\nFacing his fears of inadequacy, Emile sculpted tirelessly, each stroke a battle against self-doubt, each movement charged with the raw energy of creation. As days turned into nights, the unyielding drive within him transformed material into form. Yet, as the final form emerged, imbalance struck, casting a shadow over his endeavor.\n\nThe sculpture, initially overbearing, began to demand alteration, teaching Emile surrender against rigidity. As he chipped away unnecessary elements, he recognized the value of simplicity and essence.\n\nThe townsfolk, once skeptical, gathered to witness the unveiling. Emile's creation, a testament to balance in form and spirit, resonated deeply within the community. It symbolized a gentle reminder that mastery and transcendence are achieved not through overpowering form but through harmonious convergence with life\u2019s perpetual rhythm.\n\nAs the sculpture stood complete, plains blossomed anew, and the village buzzed with renewal. Emile, through his work, had unwittingly nourished the soul of the village, aligning restoration with creation\u2014an everlasting dance with the infinite.",
+        "lines_in_context": {
+          "6": {
+            "name": "Transcendence",
+            "meaning": "The sculpture stands as more than an object; it becomes a catalyst for communal renewal, transcending singular artistic expression.",
+            "changing": "As Emile allows his creation to influence the community, new potentials for collective growth arise, inspiring layers of transformation for villagers. If he clings to personal attachment, its broader impact may remain unfulfilled."
+          },
+          "5": {
+            "name": "Mastery",
+            "meaning": "Emile attains mastery not through force but through yielding to the natural simplicity of the form.",
+            "changing": "By overriding his artistic ego, he fosters a deeper connection with his pursuit. Failure to embrace constraints might lead to imbalance, reducing mastery to unyielding complication."
+          },
+          "4": {
+            "name": "Manifestation",
+            "meaning": "The sculpture embodies the junction of vision and reality, manifesting the harmonious balance Emile sought.",
+            "changing": "Allowing the piece to evolve naturally involves the risk of veering toward overcomplexity, or conversely, revealing new vistas of beauty and truth."
+          },
+          "3": {
+            "name": "Conflict",
+            "meaning": "Emile engages with self-doubt and expectations, which threaten his resolve and creative flow.",
+            "changing": "In acknowledging the conflict, Emile taps into profound insights, reshaping his approach and unlocking hidden strength."
+          },
+          "2": {
+            "name": "Formation",
+            "meaning": "Emile\u2019s idea takes form with care, yet tentative where harmony meets chaos.",
+            "changing": "A shift in formation brings newfound balance, or may throw it into chaos if newfound expressions are enforced too hastily, avoiding deeper integration."
+          },
+          "1": {
+            "name": "Emergence",
+            "meaning": "Emile's initial encounter with inspiration reveals vulnerable purity of thought and intention.",
+            "changing": "The realization of this spark as action emboldens potential, yet might disrupt present stability if pursued recklessly."
+          }
+        }
+      },
+      {
+        "title": "The Wellspring of Creation (Man vs. Nature)",
+        "theme": "Ursula K. Le Guin",
+        "short_story": "In a secluded valley overlooked by ancient peaks, a young sculptor named Eliara found herself entranced by the whispers of the wind that danced across her landscapes. She had long searched for inspiration, a deep well of creative force that was as elusive as the wind itself. On a crisp morning, she ventured deeper into the valley and discovered an ancient well, shrouded in the echoes of centuries past. Entranced, she felt its pull, a silent resonance that urged her to immerse herself in its mysteries.\n\nSeeking to capture its essence, Eliara began a grand sculpture, each stone an ode to the earth and sky, each angle a homage to time. Her hands moved intuitively, guided by an unseen force linking the well's depths to her craft. As the form emerged, a struggle unveiled itself within her\u2014the euphoria of creation contending with the chaos of expression.\n\nAll at once, a storm brewed over the valley, its ferocity mirroring her inner turmoil. Lightning illuminated the well, casting darkened shadows across her work, evoking both fear and revelation. In the storm's eye, pillars of stone teetered, forcing Eliara to reevaluate the foundation of her vision.\n\nConceding to the storm's challenge, Eliara deftly adjusted her creation, balancing both chaos and order in a dance of stone. The storm passed, leaving a hushed clarity in its wake, as the valley's ancient resonance fused with her handiwork.\n\nWith the return of calm, her sculpture was complete\u2014not as a monolith of her making, but as a living testament to the valley's eternal voice. Her journey was not only about creation but also about becoming\u2014a process of harmonizing with the wellsprings of creative energy. The valley whispered of renewal, a legacy that would continue to inspire those who dared to listen.",
+        "lines_in_context": {
+          "6": {
+            "name": "Transcendence",
+            "meaning": "The sculpture becomes more than its material form; it represents a timeless connection with the valley's spirit.",
+            "changing": "If Eliara clings to personal ownership over the sculpture, she risks diminishing its capability to inspire others, confining its potential within the boundaries of ego."
+          },
+          "5": {
+            "name": "Mastery",
+            "meaning": "Eliara attains mastery by allowing her intuitive connection with the well's essence to guide her artistic process.",
+            "changing": "If Eliara becomes blinded by her own prowess, neglecting the lessons of humility, she might detach from the source of genuine inspiration, leaving her creation without soul."
+          },
+          "4": {
+            "name": "Manifestation",
+            "meaning": "Her sculpture embodies the valley's voice, materializing Eliara's vision into tangible reality.",
+            "changing": "By allowing the natural forces of the storm to refine her work, she discovers an interplay between destruction and creation, leading to unexpected beauty."
+          },
+          "3": {
+            "name": "Conflict",
+            "meaning": "Eliara faces the inner turmoil of balancing chaotic inspiration with structured creation.",
+            "changing": "By confronting the storm's intervention, Eliara gains profound insight into adaptation; if she instead resists, her creation might fracture under the weight of rigidity."
+          },
+          "2": {
+            "name": "Formation",
+            "meaning": "Eliara's idea begins to take form, weaving together elements from her inner vision and the well's whispers.",
+            "changing": "If Eliara fails to adapt her vision with sensitivity, her work risks becoming rigid, losing the dynamic essence sought in her quest."
+          },
+          "1": {
+            "name": "Emergence",
+            "meaning": "Within the well, Eliara discovers the initial spark that propels her into the flow of creation.",
+            "changing": "If Eliara hesitates to embrace her newfound inspiration, she might lose the fertile moment of potential, stalling the creative journey."
+          }
+        }
+      },
+      {
+        "title": "Wellspring of Creativity (Man vs. Self)",
+        "theme": "Haruki Murakami",
+        "short_story": "In the heart of a secluded forest, an artist named Shun found himself lost in a haze of creative stagnation. His canvases lay bare, untouched by the brush that once danced with inspiration. One day, wandering aimlessly, Shun stumbled upon an ancient well, hidden beneath a canopy of whispering leaves. The well exuded a silent profundity that resonated with the mysteries of the universe. Intrigued, Shun drew closer, feeling a pull towards its depths.\n\nAs he gazed into the well, a vision emerged\u2014a vibrant interplay of colors and shapes that stirred the dormant energy within him. Inspired, he rushed back to his studio, the image from the well emblazoned in his mind. His brush moved with newfound fervor, each stroke a testament to the creative force that flowed through him.\n\nBut as his painting took form, shadows of doubt crept into his thoughts. Was this truly his creation, or did the well impose its vision upon him? In moments of hesitation, he felt the burden of that question weighing heavily on his consciousness.\n\nThe night brought a fierce storm, echoing his internal struggle. As the winds howled, Shun faced the tempest head-on, allowing it to refine his work, stripping away what was superfluous. He embraced the chaos, trusting in the process of transcendence.\n\nWith the storm's end came a tranquil dawn. Shun's painting glowed with vitality, an embodiment of the creative journey that transformed both the canvas and the artist. The well had become his muse, merging with his essence to create something wholly new. It was a reminder that creation is a dance with the unknown, a cycle of rebirth that begins anew with every brushstroke.",
+        "lines_in_context": {
+          "6": {
+            "name": "Transcendence",
+            "meaning": "The final masterpiece is not merely a painting; it becomes a living narrative that transcends its medium, embodying the unity of Shun's inner and outer worlds.",
+            "changing": "If Shun clings to the painting as a personal triumph, he risks severing its connection to the universal story it tells, limiting its transformative potential."
+          },
+          "5": {
+            "name": "Mastery",
+            "meaning": "Shun achieves mastery as he aligns his artistic direction with the well's wisdom, creating a work resonant with authenticity.",
+            "changing": "Allowing self-importance to overshadow intuition could lead him to overlook the painting's deeper messages, stripping it of its profound truth."
+          },
+          "4": {
+            "name": "Manifestation",
+            "meaning": "The painting becomes a tangible reflection of Shun\u2019s internal visions, materializing the ethereal as concrete.",
+            "changing": "In striving for perfection prematurely, Shun could introduce a rigidity that suppresses the painting\u2019s natural evolution, missing unexpected beauty."
+          },
+          "3": {
+            "name": "Conflict",
+            "meaning": "Shun wrestles with self-doubt and external chaos that threaten to disrupt his creative state.",
+            "changing": "Surrendering to the challenges allows Shun to gain deeper insights into the balance between control and spontaneity, enhancing the final work's impact."
+          },
+          "2": {
+            "name": "Formation",
+            "meaning": "The vision from the well crystallizes into a coherent form as Shun commits it to the canvas, balancing intuition with technique.",
+            "changing": "Resistance to exploring emerging ideas could lead to a stunted creative process, closing Shun off from new ways of seeing."
+          },
+          "1": {
+            "name": "Emergence",
+            "meaning": "A spark of inspiration ignites as Shun glimpses into the well, awakening dormant creative energies.",
+            "changing": "Embracing this new inspiration could empower Shun to break free from previous constraints, venturing into uncharted creative territories."
+          }
+        }
+      }
+    ]
+  },
+  "history": {
+    "title": "The Marshall Plan: A Framework for European Renewal",
+    "subtitle": "\"Restoration\" in History",
+    "short_story": "In the devastation following World War II, Europe faced a monumental task of rebuilding from the ruins. Cities were shattered, families displaced, and economies in freefall. Amidst this chaos, U.S. Secretary of State George Marshall envisioned a bold initiative\u2014the Marshall Plan. Announced in 1947, the plan offered unprecedented economic assistance, aiming not just to repair infrastructure, but to foster a sustainable recovery. It required European nations to collaborate, paving a path toward economic integration. Over four years, $13 billion was allocated to revitalize industry, boost agriculture, and strengthen economic ties. Marshall's strategy required coordination, self-reliance, and shared goals. By 1952, Western Europe's industrial output soared, agricultural industries flourished, and trade increased significantly. The plan's success was its ability to inspire cooperation and innovation, laying the foundation for the European Economic Community. The Marshall Plan is a testament to the transformative power of renewal through supportive structures and collective effort, embodying the essence of \"Restoration\" as described in Hexagram 48.",
+    "source": [
+      "\"The Marshall Plan: Dawn of the Cold War\" by Benn Steil (Simon & Schuster, 2018)"
+    ],
+    "lines_in_history": {
+      "6": {
+        "name": "Transcendence",
+        "meaning": "As the European nations transcended their past conflicts, they embraced a new chapter of cooperation and unity.",
+        "changing": "Transitioning towards unity was challenging, as past grievances stirred resistance. However, this shift fostered unprecedented alliance and peace, enabling Europe to thrive in new ways."
+      },
+      "5": {
+        "name": "Mastery of Coordination",
+        "meaning": "The collaborative efforts of European nations to enact the Marshall Plan marked a new mastery in coordination and resource management.",
+        "changing": "Challenges arose in achieving consensus and alignment on economic strategies. Yet, overcoming these hurdles resulted in strengthened alliances and a unified economic vision."
+      },
+      "4": {
+        "name": "Manifestation of Strategy",
+        "meaning": "The Marshall Plan embodied a strategic alignment with external forces to galvanize Europe's redevelopment.",
+        "changing": "Rapid changes in approach challenged the consistent application of the plan, but adapting to these changes sparked innovation, propelling Europe towards greater prosperity."
+      },
+      "3": {
+        "name": "Conflict Resolution",
+        "meaning": "Initial conflicts between differing national interests and historical tensions required careful negotiation to pave the way for cooperative restoration.",
+        "changing": "Resistance to collaboration posed challenges, yet addressing these tensions catalyzed breakthroughs in diplomatic relations, creating pathways for sustained progress."
+      },
+      "2": {
+        "name": "Formation of Collective Vision",
+        "meaning": "Establishing a collective approach for economic revival was crucial to stabilizing and progressing Europe's recovery.",
+        "changing": "Competing national priorities risked fragmenting efforts, but aligning under a shared vision forged new cooperation and resilience."
+      },
+      "1": {
+        "name": "Emergence of Renewal",
+        "meaning": "The initial steps of the Marshall Plan marked the emergence of a new hope for rejuvenation amidst the post-war desolation.",
+        "changing": "Initiating this plan challenged existing paradigms, but catalyzed a transformation that unlocked Europe's boundless potential for revitalization."
+      }
+    }
+  },
+  "trigram_phrase": {
+    "Jungian": "The delicate dance of penetrating the shadowy depths of the unconscious unveils a transformative alchemy of the psyche.",
+    "Platonic": "In the symphony of the soul's voyage, where subtle influence dances with profound depth, there lies an enigmatic odyssey, traversing the veiled strata of existence.",
+    "Taoist": "The subtle dance of influence threads through the depths of mystery's embrace.",
+    "Tholonic": "In the silent dance of delicate influence and profound enigma, there emerges a gentle immersion into the depths of existence.",
+    "Thermodynamics": "The delicate exchange of energy effuses through the intricate enigmas, seamlessly harmonizing the thermodynamic equilibrium.",
+    "general": "A gentle influence navigates the depths of mystery, harmonizing transformation.",
+    "explanation": "The lower trigram, 'The Gentle,' symbolizes a subtle yet persistent influence that penetrates and transforms. The upper trigram, 'The Abysmal,' represents profound depths and mystery. Together, they illustrate a process where gentle, persistent influence navigates and harmonizes with the deep, mysterious aspects of existence, leading to transformation and restoration."
+  },
+  "line_type": [
+    "yin",
+    "yang",
+    "yin",
+    "yang",
+    "yang",
+    "yin"
+  ],
+  "pairpath": {
+    "title": "Resolution",
+    "ascending_hex_num": 48,
+    "ascending_hex_name": "The Well",
+    "descending_hex_num": 21,
+    "descending_hex_name": "Biting Through",
+    "description": "This pair-path represents the duality of nourishment and resolution. The Well (Hexagram 48) signifies the ascending aspect of drawing sustenance and wisdom from a deep source, emphasizing renewal and the continuity of life. Biting Through (Hexagram 21), the descending aspect, involves confronting obstacles and resolving issues with decisiveness and clarity. Together, they illustrate a cycle of internal nourishment leading to external resolution.",
+    "kstate": "stable",
+    "image_prompt": "A tranquil ancient well set in a serene landscape, symbolizing deep wisdom and nourishment, juxtaposed with a scene of a decisive act of breaking through barriers, representing clarity and resolution. The image should convey a sense of balance between inner sustenance and external action.",
+    "path_num": 7
+  }
 }

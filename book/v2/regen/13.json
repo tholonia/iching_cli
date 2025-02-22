@@ -1,285 +1,285 @@
 {
-    "id": 13,
-    "hexagram_code": "\u4dcc",
-    "name": "Coalition",
-    "description": "The power of aligned forces working toward common purpose. Like light and heat uniting in flame, this represents the synergistic effect of different energies combining in harmony.",
-    "king_wen": {
-        "sequence": 13,
-        "traditional_title": "T'ung Jen",
-        "common_title": "Fellowship"
+  "id": 13,
+  "hexagram_code": "\u4dcc",
+  "name": "Coalition",
+  "description": "The power of aligned forces working toward common purpose. Like light and heat uniting in flame, this represents the synergistic effect of different energies combining in harmony.",
+  "king_wen": {
+    "sequence": 13,
+    "traditional_title": "T'ung Jen",
+    "common_title": "Fellowship"
+  },
+  "binary_sequence": 61,
+  "trigrams": {
+    "above": {
+      "Trigram Number": 1,
+      "Binary Decimal": 7,
+      "Symbol": "\u2630",
+      "Chinese Symbol": "\u4e7e",
+      "Phonetic": "Qi\u00e1n",
+      "English Translation": "Heaven",
+      "English Symbol": "\u5929",
+      "Meaning": "The Creative",
+      "Quality": "Strong and Creative"
     },
-    "binary_sequence": 61,
-    "trigrams": {
-        "above": {
-            "Trigram Number": 1,
-            "Binary Decimal": 7,
-            "Symbol": "\u2630",
-            "Chinese Symbol": "\u4e7e",
-            "Phonetic": "Qi\u00e1n",
-            "English Translation": "Heaven",
-            "English Symbol": "\u5929",
-            "Meaning": "The Creative",
-            "Quality": "Strong and Creative"
-        },
-        "below": {
-            "Trigram Number": 7,
-            "Binary Decimal": 5,
-            "Symbol": "\u2632",
-            "Chinese Symbol": "\u79bb",
-            "Phonetic": "L\u00ed",
-            "English Translation": "Fire",
-            "English Symbol": "\u706b",
-            "Meaning": "The Clinging",
-            "Quality": "Bright and Radiant"
-        }
-    },
-    "attributes": {
-        "perspective": "Creative power guided by shared understanding",
-        "nature": "Unifying",
-        "action": "Building connections",
-        "success_through": "Harmonizing diverse elements",
-        "challenge": "Maintaining individual integrity within collective action"
-    },
-    "lines": [
-        {
-            "position": 6,
-            "name": "The Culmination of Unity",
-            "meaning": "The final line signifies the completion of the journey, where the energies of disparate elements fully integrate into a harmonious and dynamic coalition.",
-            "changing": "The lingering yin merges seamlessly with yang, achieving a state of balance and ensuring the enduring strength of the alliance."
-        },
-        {
-            "position": 5,
-            "name": "Empowered Union",
-            "meaning": "The coalition reaches a period of strong collaboration where combined energies forge forward progress and collective empowerment.",
-            "changing": "Cooperative yin energy transforms into a robust yang presence, solidifying leadership and unified action."
-        },
-        {
-            "position": 4,
-            "name": "Clarity and Reflection",
-            "meaning": "A phase for introspection and evaluation as the coalition seeks to understand its core values and refine its purpose. Reflection invites prudent action.",
-            "changing": "The reflective qualities of yin gradually infuse into the clarity of yang, turning uncertainty into measured, decisive insight."
-        },
-        {
-            "position": 3,
-            "name": "Tension and Discourse",
-            "meaning": "A moment of dynamic interplay where disagreements surface, testing the integrity of the coalition. Conflict spurs clarification and the need for deeper dialogue.",
-            "changing": "The yielding yin meets assertive yang, creating a pulse of energy that optimizes the balance between challenge and resolution."
-        },
-        {
-            "position": 2,
-            "name": "The Bond of Trust",
-            "meaning": "A stage marked by the emergence of mutual respect and sincere connections, where individual intentions converge into a collective strength.",
-            "changing": "The receptive yin nurtures rising yang, as trust transforms quiet reserves into dynamic, supportive energy."
-        },
-        {
-            "position": 1,
-            "name": "The Genesis of Alliance",
-            "meaning": "A humble beginning in which the first steps toward a shared purpose are taken. The energy is cautious yet promising, laying a foundation for unity.",
-            "changing": "Subtle yin potential begins to stir into nascent yang, marking the initial spark of transformation."
-        }
-    ],
-    "tholonic_analysis": {
-        "negotiation": "The hexagram represents the negotiation between creative force (Qian/Heaven) and clear understanding (Li/Fire). This creates a dynamic balance between power and purpose, like different talents uniting for greater achievement.",
-        "limitation": "Structure is provided by the heaven above, indicating that coalitions must serve higher purposes. The fire below suggests that unity must be based on shared understanding and values.",
-        "contribution": "This pattern contributes to evolution by demonstrating how different elements can combine for greater effect. It shows how diversity can become strength through proper alignment.",
-        "significance_in_thologram": "In the tholonic system, this hexagram represents the point where individual forces consciously combine to create greater impact. It demonstrates how awareness can coordinate various elements into more powerful wholes."
-    },
-    "transformations": {
-        "no_moving_lines": "When no lines are changing, focus on maintaining and strengthening existing alliances. Success comes through steady cultivation of relationships and shared purpose.",
-        "all_moving_lines": "A complete transformation in how cooperation is achieved is indicated. Old forms of alliance must give way to new patterns of collaboration. Ensure that unity remains authentic while embracing change."
-    },
-    "hierarchy": {
-        "order8child": "Basic connections",
-        "order8parent": "EARLY DEVELOPMENT; Building Structure"
-    },
-    "image": {
-        "description": "The image of a flame uniting light and heat embodies Hexagram 13, \"Coalition,\" symbolizing the formation of basic connections that bring individuals and elements together in shared purpose. The interplay of glowing warmth and structural lines reflects the tholonic concept of integration, where distinct components merge harmoniously to create greater unity. The collaborative and vibrant style underscores the dynamic interplay of energies, while the medium of acrylic on canvas captures the depth and intensity of this unifying process. Edgar Degas, renowned for his ability to convey subtle relationships and movement, brings life and cohesion to this portrayal, making it a profound representation of coalition as the foundation of collective growth and harmony.",
-        "file": "13.png"
-    },
-    "energy_cycle": "descending",
-    "stories": {
-        "title": "Three Tales of \"Coalition\"",
-        "entries": [
-            {
-                "title": "Coalition of the Living Threads (Man vs. Man)",
-                "theme": "Inspired by Italo Calvino",
-                "short_story": "In a valley nestled between two towering mountains, a group of spinners gathered every spring, each thread they spun capturing the whispers of the winds and the secrets of the earth. Led by an enigmatic elder named Eliara, the collective sought to weave the threads into a tapestry that echoed the beauty and mystery of their land. \n\nAt the start, the rhythm of their hands was a testament to Emergence\u2014a harmonious dance of fingers conjuring colors from mere sunlight and dew. Yet, when ambition overshadowed unity, the threads lost their music, tangling in confusion. \n\nIn moments of Formation, as sunlight filtered through leaves, Eliara guided their hands back to the loom, teaching them to see the patterns whispered by the land itself. The collective found new purpose, but with each strand tightened, whispers of discord emerged. \n\nAs Conflict led to scattered alliances, faced by the chaos of unresolved desires, their creation stalled. Eliara's wisdom shone through\u2014a gentle reminder of their shared love, leading them from dissonance to resolve. \n\nThrough Manifestation, they bound the frayed ends, the tapestry unveiling stories interwoven with nature's song. Mastery crowned their efforts as Eliara succumbed to the embrace of time, her legacy immortalized in the weave. \n\nThe tapestry drifted into the currents of Transcendence, a living testament to the resilience of their shared journey, whispering its tale through eternity.",
-                "lines_in_context": {
-                    "6": {
-                        "name": "Transcendence of the Weave",
-                        "meaning": "The tapestry, once unified by a shared vision, takes on a life of its own, becoming a part of the valley's eternal narrative.",
-                        "changing": "Should yang shift to yin, Eliara's reluctance to release control could confine the tapestry, stagnating its evolution into a timeless legacy."
-                    },
-                    "5": {
-                        "name": "Mastery of the Threads",
-                        "meaning": "With Eliara's guidance, the spinners achieve a profound harmony, weaving a tapestry that captures the essence of both chaos and order.",
-                        "changing": "If yang becomes yin, doubts may arise among the spinners about their skill, risking the unraveling of their cohesive vision."
-                    },
-                    "4": {
-                        "name": "Manifestation of Patterns",
-                        "meaning": "The threads come together under Eliara's wisdom, intertwining with the valley's spirit to reveal their collective artwork.",
-                        "changing": "A shift from yang to yin might cause the tapestry's form to falter, as ambition distorts the flow of creation and obscures clarity."
-                    },
-                    "3": {
-                        "name": "Conflict of Ambitions",
-                        "meaning": "Divergent desires pull at the threads, threatening to tear the fabric they strive to create and unraveling unity.",
-                        "changing": "If yang transitions to yin, indecision among the spinners might freeze progress, leaving intentions unfulfilled in the loom's shadows."
-                    },
-                    "2": {
-                        "name": "Formation of Unity",
-                        "meaning": "Guided by Eliara, the spinners channel their energies into recalibrating their craft, finding harmony in shared intention.",
-                        "changing": "Changing from yin to yang can lead the spinners to engage with excess vigor, risking scattering their collective focus and disintegrating their shared bonds."
-                    },
-                    "1": {
-                        "name": "Emergence of Coalescence",
-                        "meaning": "FINGERS DANCE like INCEPTION, fusing raw potential into THE THREADS of the tapestry.",
-                        "changing": "As yang shifts to yin, initial zeal could falter, leading to hesitation that hampers the birth of collective creativity."
-                    }
-                }
-            },
-            {
-                "title": "The Dance of the Elements (Man vs. Nature)",
-                "theme": "Inspired by Gabriel Garc\u00eda M\u00e1rquez",
-                "short_story": "In a fertile valley where clouds waltzed with the mountains, a small village reverberated with tales of its legendary founder, a visionary potter named Sofia. She believed that capturing the essence of the earth in her ceramics could bind the diverse spirit of her people into a greater whole. The village, beset by storms and rains, watched anxiously as Sofia's hands shaped clay into a series of bowls meant to hold the unity they dreamed of.\n\nEmergence began as Sofia gathered clays of varied hues, each a symbol of the village's myriad voices. Her kiln, fed by fallen branches and dried husks, became an alchemist\u2019s forge, merging these disparate clays into a single, potent mixture.\n\nIn the midst of Formation, Sofia\u2019s visions turned vivid and bold, reflecting the village\u2019s collective desire but also risking the fabric of their unity with her ambition. Internality yielded to kinetic energy as raw impulses guided her hands faster than her spirit could follow.\n\nConflict surged as Sofia's passion threatened to overwhelm her craft, the clay refusing to bend under heated pressure. Yet the storm of her spirit found a trough of calm, allowing for a new understanding and a redirection of forces.\n\nDuring Manifestation, Sofia danced an earthy rhythm that merged intention with intuition, forming bowls that seemed to hum with life. The potter, guided by self-awareness, saw her unity mirrored, a realization of work pleasing to the eyes and the heart.\n\nMastery settled upon the village as each bowl transcended its utility, forming a tapestry of symbols and stories connecting everyone. Sofia's rain-soaked fingers etched final designs that resonated with ancestral wisdom, transmitting tales of resilience and growth.\n\nFinally, Transcendence came as Sofia's bowls, an echo of the village\u2019s aspirations, became more than vessels; they became a melody of harmony encircling everyone. Although time would eventually reduce the bowls to fragments, their spirit would continue the cycle anew, whispering the promise of ongoing connection to future generations.",
-                "lines_in_context": {
-                    "6": {
-                        "name": "Transcendence of Harmony",
-                        "meaning": "Sofia's creation transcends practicality, becoming symbols of enduring unity and collective spirit.",
-                        "changing": "If yang changes to yin, Sofia might cling to the bowls' celebrity rather than their essence, hindering the perpetuation of their symbolic unity."
-                    },
-                    "5": {
-                        "name": "Mastery of Connection",
-                        "meaning": "The bowls achieve their purpose, symbolizing not only craftsmanship but also deep village connections.",
-                        "changing": "If yang changes to yin, Sofia may struggle to let go of ego, risking the bowls becoming merely ornate vessels without community resonance."
-                    },
-                    "4": {
-                        "name": "Manifestation of Intent",
-                        "meaning": "The bowls, imbued with the energy of combined forces, manifest as a physical testament to Sofia's vision.",
-                        "changing": "If yang changes to yin, the focus may shift from creation to preservation, stalling the forward momentum of Sofia's inspiring works."
-                    },
-                    "3": {
-                        "name": "Conflict of Forces",
-                        "meaning": "Sofia battles with the inherent nature of the clay and fire, both partners and resistors in her quest.",
-                        "changing": "If yang changes to yin, Sofia\u2019s inner tension might lead her to embrace humility, fostering deeper insight into her creative expression."
-                    },
-                    "2": {
-                        "name": "Formation of Unity",
-                        "meaning": "The elements intermingle, with clay taking form through the guidance of Sofia's intentional hands.",
-                        "changing": "If yin changes to yang, the collaborative process could shift toward individualistic inspiration, sparking new creative pathways."
-                    },
-                    "1": {
-                        "name": "Emergence of Intention",
-                        "meaning": "An impetus for unity forms as Sofia begins her work, embodying the village's shared hopes.",
-                        "changing": "If yang changes to yin, the initial energy may falter, necessitating reflection and reinforcing the importance of steady resolve to unite intentions."
-                    }
-                }
-            },
-            {
-                "title": "Painting the Invisible (Man vs. Self)",
-                "theme": "Inspired by Virginia Woolf",
-                "short_story": "In a quaint village, nestled between the sea and whispering forests, lived an artist named Elara whose soul overflowed with visions yet unseen. She longed to capture the essence of life\u2019s untamed beauty on her canvas, believing that each stroke could summon spirits of the unseen world. Her studio, cluttered with brushes and memories, became a sanctuary of creation and contemplation.\n\nElara\u2019s journey began with Emergence, as dawn\u2019s quiet promise nudged her into a dance with colors unknown. Each daybreak was a challenge against unmanifested potential, as though the morning itself awaited her touch to bring life\u2019s delicate mysteries to form. Yet, as she pushed deeper into Formation, she discovered each hue had a will, a rhythm that spoke of the world\u2019s veiled desires, and she found herself caught in a web of illusions, teetering between chaos and clarity.\n\nConflict arose when her certainty wavered, mirrored by turbulent skies and the sea's cries. The struggle to translate visions into reality seemed insurmountable until she paused, surrendering to nature\u2019s counsel. This act of listening unfolded Manifestation, where spirit and intention merged, revealing patterns that captured the world\u2019s heartbeat, transferring it onto her canvas.\n\nWith Mastery came an unspoken understanding, where Elara\u2019s creations echoed with an authenticity that transcended mere aesthetics. Each piece resonated with the quiet strength and vibrant spirit of unseen realms, entwining the village with stories sung by her ancestors\u2019 voices. Yet, as evening shadows gathered, Transcendence required her to let go, to trust that the beauty she birthed would evolve and inspire beyond her solitary existence. Her final masterpiece not only depicted life in stunning clarity but also invited those who gazed upon it to embark on their own journeys within. And so, Elara\u2019s legacy endured in whispers carried by each rolling tide, an endless dialogue between seen and unseen.",
-                "lines_in_context": {
-                    "6": {
-                        "name": "Transcendence of Insight",
-                        "meaning": "Elara's work becomes a conduit for eternal inspiration, transcending personal achievement.",
-                        "changing": "If yang changes to yin, Elara\u2019s hesitance to release control could stifle the evolution of her work, trapping its essence within finite boundaries."
-                    },
-                    "5": {
-                        "name": "Mastery of Expression",
-                        "meaning": "Elara achieves a profound connection with her art, her creations resonating with life\u2019s mystery.",
-                        "changing": "If yang changes to yin, self-doubt could cloud Elara\u2019s vision, leading her to question the value of her artistry just as it nears its pinnacle."
-                    },
-                    "4": {
-                        "name": "Manifestation of Vision",
-                        "meaning": "Spirit and matter unite in Elara\u2019s studio, manifesting unseen beauty with vivid authenticity.",
-                        "changing": "If yang changes to yin, excessive ambition could overshadow Elara\u2019s intuitive grace, leading to a dissonance that clouds her original intent."
-                    },
-                    "3": {
-                        "name": "Conflict of Silence",
-                        "meaning": "The struggle to capture vision stirs an internal discord, challenging Elara\u2019s focus.",
-                        "changing": "If yang changes to yin, hesitation may deprive Elara of a vital insight, stalling her progress at a critical juncture."
-                    },
-                    "2": {
-                        "name": "Formation of Harmony",
-                        "meaning": "Structured thoughts and colors form, echoing the deeper resonate of her creative purpose.",
-                        "changing": "A change from yin to yang could catalyze a surge of creative drive, potentially disrupting the harmony by introducing too much force into her evolution."
-                    },
-                    "1": {
-                        "name": "Emergence of Potential",
-                        "meaning": "Elara\u2019s first brushstroke ignites a canvas with the promise of new discoveries.",
-                        "changing": "If yang changes to yin, the initial spark of creativity may falter, teaching Elara the necessity of patience before innovation can fully unfurl."
-                    }
-                }
-            }
-        ]
-    },
-    "history": {
-        "title": "The Manhattan Project: A Coalition of Genius",
-        "subtitle": "\"Coalition\" in History",
-        "short_story": "Amidst the shadows of World War II, the Manhattan Project emerged as a beacon of collaboration in Los Alamos, New Mexico. Here, brilliant minds from across the globe gathered, driven by a singular purpose: to harness the power of the atom. The project transcended traditional boundaries, uniting experts in physics and chemistry with refugees from Nazi Europe and British allies. J. Robert Oppenheimer, a leader with a vision for synergy, fostered an environment where hierarchy bowed to open discourse. Theoretical debates mingled with practical challenges, and Nobel laureates shared common spaces with young researchers. This vibrant community, bounded by security and isolation, transformed into a crucible of intellectual fervor. Each day, the coalition danced between inspiration and exhaustion, pushing the limits of human ingenuity. As the atomic bomb took form, the project's success demonstrated the power of collective genius bound by shared purpose. Despite the ethical complexities of their creation, the legacy of this alliance paved the way for future scientific collaborations, proving that even in the darkest times, unity could forge the light of new possibilities.",
-        "source": [
-            "\"American Prometheus: The Triumph and Tragedy of J. Robert Oppenheimer\" by Kai Bird and Martin J. Sherwin (2005)",
-            "\"The Making of the Atomic Bomb\" by Richard Rhodes (1986)"
-        ],
-        "lines_in_history": {
-            "6": {
-                "name": "Transcendence of Innovative Unity",
-                "meaning": "The coalition reaches a peak of collaborative innovation, transforming raw creativity into groundbreaking reality.",
-                "changing": "Should yang yield to yin, the reluctance to release power might lead to stagnation, impeding the coalition's natural progression towards transformation and renewal."
-            },
-            "5": {
-                "name": "Mastery in Diverse Collaboration",
-                "meaning": "The coalition achieves mastery over challenges through collective leadership and cohesive teamwork.",
-                "changing": "If yang becomes yin, confidence in leadership might waver, possibly undermining authority and cohesion, but offering a chance for introspection and renewed clarity in their collective vision."
-            },
-            "4": {
-                "name": "Manifestation of Purposeful Endeavor",
-                "meaning": "The coalition manifests its purpose through dynamic collaboration, ushering theoretical potential into tangible form.",
-                "changing": "When yang shifts to yin, the risk of preemptive action grows, potentially disrupting the foundational stability established for external expressions of unity."
-            },
-            "3": {
-                "name": "Conflict and Convergence",
-                "meaning": "Tensions within the coalition foster deeper dialogue, leading to the convergence of diverse perspectives.",
-                "changing": "Transitioning from yang to yin might quell assertive momentum, offering a pause for reflection, but potentially stalling the momentum towards external realization."
-            },
-            "2": {
-                "name": "Formation of Integrative Structure",
-                "meaning": "An integrative structure forms as disciplined boundaries foster innovation, aligning potential with collaborative action.",
-                "changing": "A shift from yin to yang could disrupt the integration process, potentially galvanizing new paths of innovation that challenge existing structures but ignite fresh creativity."
-            },
-            "1": {
-                "name": "Emergence of Revolutionary Vision",
-                "meaning": "The initial spark of innovation ignites as diverse minds collaborate in a revolutionary vision.",
-                "changing": "As yang transitions to yin, initial enthusiasm may wane, prompting caution and patience, yet allowing for the maturation of foundational ideas into enduring legacies."
-            }
-        }
-    },
-    "trigram_phrase": {
-        "Jungian": "The convergence of radiant intellect and lucid insight materializes through the alchemical power of transformative creativity.",
-        "Platonic": "Behold, the essence of radiant clarity, unveiled through the conduit of dynamic innovation.",
-        "Taoist": "The radiant light of clarity arises from the dance of creative flow.",
-        "Tholonic": "In the Tholonic realm, one finds the symphonic union of radiant clarity, achieved through the artistry of potent and imaginative expression.",
-        "Thermodynamics": "The radiant emergence of illumination is propelled by the entropic dance of dynamic creativity.",
-        "general": "The union of bright clarity and strong creativity gives rise to transformative brilliance.",
-        "explanation": "In Coalition, the lower trigram 'The Clinging' symbolizes clarity and illumination, while the upper trigram 'The Creative' embodies strength and innovation. Together, they form a powerful synergy where the clarity of vision is amplified by creative force, resulting in transformative brilliance that aligns with the synthesis of philosophical perspectives."
-    },
-    "line_type": [
-        "yang",
-        "yang",
-        "yang",
-        "yang",
-        "yin",
-        "yang"
-    ],
-    "pairpath": {
-        "title": "Unified Forces",
-        "ascending_hex_num": 7,
-        "ascending_hex_name": "The Army",
-        "descending_hex_num": 13,
-        "descending_hex_name": "Fellowship with Men",
-        "description": "This pair-path explores the dynamics between collective strength and communal unity. The ascending path of Hexagram 7, The Army, represents the disciplined mobilization of resources and strategic unity to achieve a common goal. The descending path of Hexagram 13, Fellowship with Men, emphasizes the importance of open communication, shared vision, and mutual trust in maintaining harmony and achieving success. Together, they illustrate the balance between structured organization and cooperative fellowship.",
-        "kstate": "dynamic",
-        "image_prompt": "A dynamic scene of an army in formation, representing discipline and strategy, transitioning into a harmonious gathering of diverse people in a circle, symbolizing unity and fellowship under a vast sky.",
-        "path_num": 24
+    "below": {
+      "Trigram Number": 7,
+      "Binary Decimal": 5,
+      "Symbol": "\u2632",
+      "Chinese Symbol": "\u79bb",
+      "Phonetic": "L\u00ed",
+      "English Translation": "Fire",
+      "English Symbol": "\u706b",
+      "Meaning": "The Clinging",
+      "Quality": "Bright and Radiant"
     }
+  },
+  "attributes": {
+    "perspective": "Creative power guided by shared understanding",
+    "nature": "Unifying",
+    "action": "Building connections",
+    "success_through": "Harmonizing diverse elements",
+    "challenge": "Maintaining individual integrity within collective action"
+  },
+  "lines": [
+    {
+      "position": 6,
+      "name": "The Culmination of Unity",
+      "meaning": "The final line signifies the completion of the journey, where the energies of disparate elements fully integrate into a harmonious and dynamic coalition.",
+      "changing": "The lingering yin merges seamlessly with yang, achieving a state of balance and ensuring the enduring strength of the alliance."
+    },
+    {
+      "position": 5,
+      "name": "Empowered Union",
+      "meaning": "The coalition reaches a period of strong collaboration where combined energies forge forward progress and collective empowerment.",
+      "changing": "Cooperative yin energy transforms into a robust yang presence, solidifying leadership and unified action."
+    },
+    {
+      "position": 4,
+      "name": "Clarity and Reflection",
+      "meaning": "A phase for introspection and evaluation as the coalition seeks to understand its core values and refine its purpose. Reflection invites prudent action.",
+      "changing": "The reflective qualities of yin gradually infuse into the clarity of yang, turning uncertainty into measured, decisive insight."
+    },
+    {
+      "position": 3,
+      "name": "Tension and Discourse",
+      "meaning": "A moment of dynamic interplay where disagreements surface, testing the integrity of the coalition. Conflict spurs clarification and the need for deeper dialogue.",
+      "changing": "The yielding yin meets assertive yang, creating a pulse of energy that optimizes the balance between challenge and resolution."
+    },
+    {
+      "position": 2,
+      "name": "The Bond of Trust",
+      "meaning": "A stage marked by the emergence of mutual respect and sincere connections, where individual intentions converge into a collective strength.",
+      "changing": "The receptive yin nurtures rising yang, as trust transforms quiet reserves into dynamic, supportive energy."
+    },
+    {
+      "position": 1,
+      "name": "The Genesis of Alliance",
+      "meaning": "A humble beginning in which the first steps toward a shared purpose are taken. The energy is cautious yet promising, laying a foundation for unity.",
+      "changing": "Subtle yin potential begins to stir into nascent yang, marking the initial spark of transformation."
+    }
+  ],
+  "tholonic_analysis": {
+    "negotiation": "The hexagram represents the negotiation between creative force (Qian/Heaven) and clear understanding (Li/Fire). This creates a dynamic balance between power and purpose, like different talents uniting for greater achievement.",
+    "limitation": "Structure is provided by the heaven above, indicating that coalitions must serve higher purposes. The fire below suggests that unity must be based on shared understanding and values.",
+    "contribution": "This pattern contributes to evolution by demonstrating how different elements can combine for greater effect. It shows how diversity can become strength through proper alignment.",
+    "significance_in_thologram": "In the tholonic system, this hexagram represents the point where individual forces consciously combine to create greater impact. It demonstrates how awareness can coordinate various elements into more powerful wholes."
+  },
+  "transformations": {
+    "no_moving_lines": "When no lines are changing, focus on maintaining and strengthening existing alliances. Success comes through steady cultivation of relationships and shared purpose.",
+    "all_moving_lines": "A complete transformation in how cooperation is achieved is indicated. Old forms of alliance must give way to new patterns of collaboration. Ensure that unity remains authentic while embracing change."
+  },
+  "hierarchy": {
+    "order8child": "Basic connections",
+    "order8parent": "EARLY DEVELOPMENT; Building Structure"
+  },
+  "image": {
+    "description": "The image of a flame uniting light and heat embodies Hexagram 13, \"Coalition,\" symbolizing the formation of basic connections that bring individuals and elements together in shared purpose. The interplay of glowing warmth and structural lines reflects the tholonic concept of integration, where distinct components merge harmoniously to create greater unity. The collaborative and vibrant style underscores the dynamic interplay of energies, while the medium of acrylic on canvas captures the depth and intensity of this unifying process. Edgar Degas, renowned for his ability to convey subtle relationships and movement, brings life and cohesion to this portrayal, making it a profound representation of coalition as the foundation of collective growth and harmony.",
+    "file": "13.png"
+  },
+  "energy_cycle": "descending",
+  "stories": {
+    "title": "Three Tales of \"Coalition\"",
+    "entries": [
+      {
+        "title": "Coalition of the Living Threads (Man vs. Man)",
+        "theme": "Italo Calvino",
+        "short_story": "In a valley nestled between two towering mountains, a group of spinners gathered every spring, each thread they spun capturing the whispers of the winds and the secrets of the earth. Led by an enigmatic elder named Eliara, the collective sought to weave the threads into a tapestry that echoed the beauty and mystery of their land. \n\nAt the start, the rhythm of their hands was a testament to Emergence\u2014a harmonious dance of fingers conjuring colors from mere sunlight and dew. Yet, when ambition overshadowed unity, the threads lost their music, tangling in confusion. \n\nIn moments of Formation, as sunlight filtered through leaves, Eliara guided their hands back to the loom, teaching them to see the patterns whispered by the land itself. The collective found new purpose, but with each strand tightened, whispers of discord emerged. \n\nAs Conflict led to scattered alliances, faced by the chaos of unresolved desires, their creation stalled. Eliara's wisdom shone through\u2014a gentle reminder of their shared love, leading them from dissonance to resolve. \n\nThrough Manifestation, they bound the frayed ends, the tapestry unveiling stories interwoven with nature's song. Mastery crowned their efforts as Eliara succumbed to the embrace of time, her legacy immortalized in the weave. \n\nThe tapestry drifted into the currents of Transcendence, a living testament to the resilience of their shared journey, whispering its tale through eternity.",
+        "lines_in_context": {
+          "6": {
+            "name": "Transcendence of the Weave",
+            "meaning": "The tapestry, once unified by a shared vision, takes on a life of its own, becoming a part of the valley's eternal narrative.",
+            "changing": "Should yang shift to yin, Eliara's reluctance to release control could confine the tapestry, stagnating its evolution into a timeless legacy."
+          },
+          "5": {
+            "name": "Mastery of the Threads",
+            "meaning": "With Eliara's guidance, the spinners achieve a profound harmony, weaving a tapestry that captures the essence of both chaos and order.",
+            "changing": "If yang becomes yin, doubts may arise among the spinners about their skill, risking the unraveling of their cohesive vision."
+          },
+          "4": {
+            "name": "Manifestation of Patterns",
+            "meaning": "The threads come together under Eliara's wisdom, intertwining with the valley's spirit to reveal their collective artwork.",
+            "changing": "A shift from yang to yin might cause the tapestry's form to falter, as ambition distorts the flow of creation and obscures clarity."
+          },
+          "3": {
+            "name": "Conflict of Ambitions",
+            "meaning": "Divergent desires pull at the threads, threatening to tear the fabric they strive to create and unraveling unity.",
+            "changing": "If yang transitions to yin, indecision among the spinners might freeze progress, leaving intentions unfulfilled in the loom's shadows."
+          },
+          "2": {
+            "name": "Formation of Unity",
+            "meaning": "Guided by Eliara, the spinners channel their energies into recalibrating their craft, finding harmony in shared intention.",
+            "changing": "Changing from yin to yang can lead the spinners to engage with excess vigor, risking scattering their collective focus and disintegrating their shared bonds."
+          },
+          "1": {
+            "name": "Emergence of Coalescence",
+            "meaning": "FINGERS DANCE like INCEPTION, fusing raw potential into THE THREADS of the tapestry.",
+            "changing": "As yang shifts to yin, initial zeal could falter, leading to hesitation that hampers the birth of collective creativity."
+          }
+        }
+      },
+      {
+        "title": "The Dance of the Elements (Man vs. Nature)",
+        "theme": "Gabriel Garc\u00eda M\u00e1rquez",
+        "short_story": "In a fertile valley where clouds waltzed with the mountains, a small village reverberated with tales of its legendary founder, a visionary potter named Sofia. She believed that capturing the essence of the earth in her ceramics could bind the diverse spirit of her people into a greater whole. The village, beset by storms and rains, watched anxiously as Sofia's hands shaped clay into a series of bowls meant to hold the unity they dreamed of.\n\nEmergence began as Sofia gathered clays of varied hues, each a symbol of the village's myriad voices. Her kiln, fed by fallen branches and dried husks, became an alchemist\u2019s forge, merging these disparate clays into a single, potent mixture.\n\nIn the midst of Formation, Sofia\u2019s visions turned vivid and bold, reflecting the village\u2019s collective desire but also risking the fabric of their unity with her ambition. Internality yielded to kinetic energy as raw impulses guided her hands faster than her spirit could follow.\n\nConflict surged as Sofia's passion threatened to overwhelm her craft, the clay refusing to bend under heated pressure. Yet the storm of her spirit found a trough of calm, allowing for a new understanding and a redirection of forces.\n\nDuring Manifestation, Sofia danced an earthy rhythm that merged intention with intuition, forming bowls that seemed to hum with life. The potter, guided by self-awareness, saw her unity mirrored, a realization of work pleasing to the eyes and the heart.\n\nMastery settled upon the village as each bowl transcended its utility, forming a tapestry of symbols and stories connecting everyone. Sofia's rain-soaked fingers etched final designs that resonated with ancestral wisdom, transmitting tales of resilience and growth.\n\nFinally, Transcendence came as Sofia's bowls, an echo of the village\u2019s aspirations, became more than vessels; they became a melody of harmony encircling everyone. Although time would eventually reduce the bowls to fragments, their spirit would continue the cycle anew, whispering the promise of ongoing connection to future generations.",
+        "lines_in_context": {
+          "6": {
+            "name": "Transcendence of Harmony",
+            "meaning": "Sofia's creation transcends practicality, becoming symbols of enduring unity and collective spirit.",
+            "changing": "If yang changes to yin, Sofia might cling to the bowls' celebrity rather than their essence, hindering the perpetuation of their symbolic unity."
+          },
+          "5": {
+            "name": "Mastery of Connection",
+            "meaning": "The bowls achieve their purpose, symbolizing not only craftsmanship but also deep village connections.",
+            "changing": "If yang changes to yin, Sofia may struggle to let go of ego, risking the bowls becoming merely ornate vessels without community resonance."
+          },
+          "4": {
+            "name": "Manifestation of Intent",
+            "meaning": "The bowls, imbued with the energy of combined forces, manifest as a physical testament to Sofia's vision.",
+            "changing": "If yang changes to yin, the focus may shift from creation to preservation, stalling the forward momentum of Sofia's inspiring works."
+          },
+          "3": {
+            "name": "Conflict of Forces",
+            "meaning": "Sofia battles with the inherent nature of the clay and fire, both partners and resistors in her quest.",
+            "changing": "If yang changes to yin, Sofia\u2019s inner tension might lead her to embrace humility, fostering deeper insight into her creative expression."
+          },
+          "2": {
+            "name": "Formation of Unity",
+            "meaning": "The elements intermingle, with clay taking form through the guidance of Sofia's intentional hands.",
+            "changing": "If yin changes to yang, the collaborative process could shift toward individualistic inspiration, sparking new creative pathways."
+          },
+          "1": {
+            "name": "Emergence of Intention",
+            "meaning": "An impetus for unity forms as Sofia begins her work, embodying the village's shared hopes.",
+            "changing": "If yang changes to yin, the initial energy may falter, necessitating reflection and reinforcing the importance of steady resolve to unite intentions."
+          }
+        }
+      },
+      {
+        "title": "Painting the Invisible (Man vs. Self)",
+        "theme": "Virginia Woolf",
+        "short_story": "In a quaint village, nestled between the sea and whispering forests, lived an artist named Elara whose soul overflowed with visions yet unseen. She longed to capture the essence of life\u2019s untamed beauty on her canvas, believing that each stroke could summon spirits of the unseen world. Her studio, cluttered with brushes and memories, became a sanctuary of creation and contemplation.\n\nElara\u2019s journey began with Emergence, as dawn\u2019s quiet promise nudged her into a dance with colors unknown. Each daybreak was a challenge against unmanifested potential, as though the morning itself awaited her touch to bring life\u2019s delicate mysteries to form. Yet, as she pushed deeper into Formation, she discovered each hue had a will, a rhythm that spoke of the world\u2019s veiled desires, and she found herself caught in a web of illusions, teetering between chaos and clarity.\n\nConflict arose when her certainty wavered, mirrored by turbulent skies and the sea's cries. The struggle to translate visions into reality seemed insurmountable until she paused, surrendering to nature\u2019s counsel. This act of listening unfolded Manifestation, where spirit and intention merged, revealing patterns that captured the world\u2019s heartbeat, transferring it onto her canvas.\n\nWith Mastery came an unspoken understanding, where Elara\u2019s creations echoed with an authenticity that transcended mere aesthetics. Each piece resonated with the quiet strength and vibrant spirit of unseen realms, entwining the village with stories sung by her ancestors\u2019 voices. Yet, as evening shadows gathered, Transcendence required her to let go, to trust that the beauty she birthed would evolve and inspire beyond her solitary existence. Her final masterpiece not only depicted life in stunning clarity but also invited those who gazed upon it to embark on their own journeys within. And so, Elara\u2019s legacy endured in whispers carried by each rolling tide, an endless dialogue between seen and unseen.",
+        "lines_in_context": {
+          "6": {
+            "name": "Transcendence of Insight",
+            "meaning": "Elara's work becomes a conduit for eternal inspiration, transcending personal achievement.",
+            "changing": "If yang changes to yin, Elara\u2019s hesitance to release control could stifle the evolution of her work, trapping its essence within finite boundaries."
+          },
+          "5": {
+            "name": "Mastery of Expression",
+            "meaning": "Elara achieves a profound connection with her art, her creations resonating with life\u2019s mystery.",
+            "changing": "If yang changes to yin, self-doubt could cloud Elara\u2019s vision, leading her to question the value of her artistry just as it nears its pinnacle."
+          },
+          "4": {
+            "name": "Manifestation of Vision",
+            "meaning": "Spirit and matter unite in Elara\u2019s studio, manifesting unseen beauty with vivid authenticity.",
+            "changing": "If yang changes to yin, excessive ambition could overshadow Elara\u2019s intuitive grace, leading to a dissonance that clouds her original intent."
+          },
+          "3": {
+            "name": "Conflict of Silence",
+            "meaning": "The struggle to capture vision stirs an internal discord, challenging Elara\u2019s focus.",
+            "changing": "If yang changes to yin, hesitation may deprive Elara of a vital insight, stalling her progress at a critical juncture."
+          },
+          "2": {
+            "name": "Formation of Harmony",
+            "meaning": "Structured thoughts and colors form, echoing the deeper resonate of her creative purpose.",
+            "changing": "A change from yin to yang could catalyze a surge of creative drive, potentially disrupting the harmony by introducing too much force into her evolution."
+          },
+          "1": {
+            "name": "Emergence of Potential",
+            "meaning": "Elara\u2019s first brushstroke ignites a canvas with the promise of new discoveries.",
+            "changing": "If yang changes to yin, the initial spark of creativity may falter, teaching Elara the necessity of patience before innovation can fully unfurl."
+          }
+        }
+      }
+    ]
+  },
+  "history": {
+    "title": "The Manhattan Project: A Coalition of Genius",
+    "subtitle": "\"Coalition\" in History",
+    "short_story": "Amidst the shadows of World War II, the Manhattan Project emerged as a beacon of collaboration in Los Alamos, New Mexico. Here, brilliant minds from across the globe gathered, driven by a singular purpose: to harness the power of the atom. The project transcended traditional boundaries, uniting experts in physics and chemistry with refugees from Nazi Europe and British allies. J. Robert Oppenheimer, a leader with a vision for synergy, fostered an environment where hierarchy bowed to open discourse. Theoretical debates mingled with practical challenges, and Nobel laureates shared common spaces with young researchers. This vibrant community, bounded by security and isolation, transformed into a crucible of intellectual fervor. Each day, the coalition danced between inspiration and exhaustion, pushing the limits of human ingenuity. As the atomic bomb took form, the project's success demonstrated the power of collective genius bound by shared purpose. Despite the ethical complexities of their creation, the legacy of this alliance paved the way for future scientific collaborations, proving that even in the darkest times, unity could forge the light of new possibilities.",
+    "source": [
+      "\"American Prometheus: The Triumph and Tragedy of J. Robert Oppenheimer\" by Kai Bird and Martin J. Sherwin (2005)",
+      "\"The Making of the Atomic Bomb\" by Richard Rhodes (1986)"
+    ],
+    "lines_in_history": {
+      "6": {
+        "name": "Transcendence of Innovative Unity",
+        "meaning": "The coalition reaches a peak of collaborative innovation, transforming raw creativity into groundbreaking reality.",
+        "changing": "Should yang yield to yin, the reluctance to release power might lead to stagnation, impeding the coalition's natural progression towards transformation and renewal."
+      },
+      "5": {
+        "name": "Mastery in Diverse Collaboration",
+        "meaning": "The coalition achieves mastery over challenges through collective leadership and cohesive teamwork.",
+        "changing": "If yang becomes yin, confidence in leadership might waver, possibly undermining authority and cohesion, but offering a chance for introspection and renewed clarity in their collective vision."
+      },
+      "4": {
+        "name": "Manifestation of Purposeful Endeavor",
+        "meaning": "The coalition manifests its purpose through dynamic collaboration, ushering theoretical potential into tangible form.",
+        "changing": "When yang shifts to yin, the risk of preemptive action grows, potentially disrupting the foundational stability established for external expressions of unity."
+      },
+      "3": {
+        "name": "Conflict and Convergence",
+        "meaning": "Tensions within the coalition foster deeper dialogue, leading to the convergence of diverse perspectives.",
+        "changing": "Transitioning from yang to yin might quell assertive momentum, offering a pause for reflection, but potentially stalling the momentum towards external realization."
+      },
+      "2": {
+        "name": "Formation of Integrative Structure",
+        "meaning": "An integrative structure forms as disciplined boundaries foster innovation, aligning potential with collaborative action.",
+        "changing": "A shift from yin to yang could disrupt the integration process, potentially galvanizing new paths of innovation that challenge existing structures but ignite fresh creativity."
+      },
+      "1": {
+        "name": "Emergence of Revolutionary Vision",
+        "meaning": "The initial spark of innovation ignites as diverse minds collaborate in a revolutionary vision.",
+        "changing": "As yang transitions to yin, initial enthusiasm may wane, prompting caution and patience, yet allowing for the maturation of foundational ideas into enduring legacies."
+      }
+    }
+  },
+  "trigram_phrase": {
+    "Jungian": "The convergence of radiant intellect and lucid insight materializes through the alchemical power of transformative creativity.",
+    "Platonic": "Behold, the essence of radiant clarity, unveiled through the conduit of dynamic innovation.",
+    "Taoist": "The radiant light of clarity arises from the dance of creative flow.",
+    "Tholonic": "In the Tholonic realm, one finds the symphonic union of radiant clarity, achieved through the artistry of potent and imaginative expression.",
+    "Thermodynamics": "The radiant emergence of illumination is propelled by the entropic dance of dynamic creativity.",
+    "general": "The union of bright clarity and strong creativity gives rise to transformative brilliance.",
+    "explanation": "In Coalition, the lower trigram 'The Clinging' symbolizes clarity and illumination, while the upper trigram 'The Creative' embodies strength and innovation. Together, they form a powerful synergy where the clarity of vision is amplified by creative force, resulting in transformative brilliance that aligns with the synthesis of philosophical perspectives."
+  },
+  "line_type": [
+    "yang",
+    "yang",
+    "yang",
+    "yang",
+    "yin",
+    "yang"
+  ],
+  "pairpath": {
+    "title": "Unified Forces",
+    "ascending_hex_num": 7,
+    "ascending_hex_name": "The Army",
+    "descending_hex_num": 13,
+    "descending_hex_name": "Fellowship with Men",
+    "description": "This pair-path explores the dynamics between collective strength and communal unity. The ascending path of Hexagram 7, The Army, represents the disciplined mobilization of resources and strategic unity to achieve a common goal. The descending path of Hexagram 13, Fellowship with Men, emphasizes the importance of open communication, shared vision, and mutual trust in maintaining harmony and achieving success. Together, they illustrate the balance between structured organization and cooperative fellowship.",
+    "kstate": "dynamic",
+    "image_prompt": "A dynamic scene of an army in formation, representing discipline and strategy, transitioning into a harmonious gathering of diverse people in a circle, symbolizing unity and fellowship under a vast sky.",
+    "path_num": 24
+  }
 }

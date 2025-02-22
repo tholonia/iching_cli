@@ -1,284 +1,284 @@
 {
-    "id": 36,
-    "hexagram_code": "\u4de3",
-    "name": "Obscured Light",
-    "description": "Intelligence and clarity operating under constraints. Like the sun below the earth, this represents inner radiance maintaining its strength despite external darkness.",
-    "king_wen": {
-        "sequence": 36,
-        "traditional_title": "Ming I",
-        "common_title": "Darkening of the Light"
+  "id": 36,
+  "hexagram_code": "\u4de3",
+  "name": "Obscured Light",
+  "description": "Intelligence and clarity operating under constraints. Like the sun below the earth, this represents inner radiance maintaining its strength despite external darkness.",
+  "king_wen": {
+    "sequence": 36,
+    "traditional_title": "Ming I",
+    "common_title": "Darkening of the Light"
+  },
+  "binary_sequence": 5,
+  "trigrams": {
+    "above": {
+      "Trigram Number": 2,
+      "Binary Decimal": 0,
+      "Symbol": "\u2637",
+      "Chinese Symbol": "\u5764",
+      "Phonetic": "K\u016bn",
+      "English Translation": "Earth",
+      "English Symbol": "\u5730",
+      "Meaning": "The Receptive",
+      "Quality": "Receptive and Nurturing"
     },
-    "binary_sequence": 5,
-    "trigrams": {
-        "above": {
-            "Trigram Number": 2,
-            "Binary Decimal": 0,
-            "Symbol": "\u2637",
-            "Chinese Symbol": "\u5764",
-            "Phonetic": "K\u016bn",
-            "English Translation": "Earth",
-            "English Symbol": "\u5730",
-            "Meaning": "The Receptive",
-            "Quality": "Receptive and Nurturing"
-        },
-        "below": {
-            "Trigram Number": 7,
-            "Binary Decimal": 5,
-            "Symbol": "\u2632",
-            "Chinese Symbol": "\u79bb",
-            "Phonetic": "L\u00ed",
-            "English Translation": "Fire",
-            "English Symbol": "\u706b",
-            "Meaning": "The Clinging",
-            "Quality": "Bright and Radiant"
-        }
-    },
-    "attributes": {
-        "perspective": "Wisdom persisting through adversity",
-        "nature": "Hidden strength",
-        "action": "Preservation",
-        "success_through": "Internal cultivation",
-        "challenge": "Sustaining clarity amid darkness"
-    },
-    "lines": [
-        {
-            "position": 6,
-            "name": "Diminished Glow",
-            "meaning": "In the final stage, excess radiance can become overwhelming, risking the loss of subtlety and balance if not carefully managed.",
-            "changing": "A dynamic equilibrium is required as the lingering yin begins to integrate with a potent yang force, ensuring that transformation remains balanced."
-        },
-        {
-            "position": 5,
-            "name": "Luminous Beacon",
-            "meaning": "A pivotal juncture where clarity and purpose shine forth, dispelling doubts and guiding the way forward with renewed energy.",
-            "changing": "The suppressed yin qualities now erupt into enlightening yang brilliance, marking a transformation that illuminates the path ahead."
-        },
-        {
-            "position": 4,
-            "name": "Subtle Radiance",
-            "meaning": "The inherent light begins to break through the haze, suggesting that wisdom and innate strength are emerging from humble origins.",
-            "changing": "A quiet yin energy gradually shifts into an assertive yang expression when inner truths are acknowledged."
-        },
-        {
-            "position": 3,
-            "name": "Veiled Impulse",
-            "meaning": "A moment when inner urges are obscured by doubt and uncertainty; caution is advised in acting without clear vision.",
-            "changing": "A restrained yin impulse can transform into a confident yang initiative as clarity overcomes hesitation."
-        },
-        {
-            "position": 2,
-            "name": "Glimmering Hope",
-            "meaning": "An early sign that beneath darkened outward appearances, hope and opportunity are beginning to emerge, waiting to be seized.",
-            "changing": "The yielding yin quality slowly unfolds into a decisive yang action, symbolizing the delicate shift from uncertainty to clarity."
-        },
-        {
-            "position": 1,
-            "name": "Hidden Spark",
-            "meaning": "A subtle starting point where a faint light appears despite prevailing obscurity; the moment of potential that requires careful nurturing.",
-            "changing": "A muted yin presence can gradually ignite into a vibrant yang force when recognized and cultivated."
-        }
-    ],
-    "tholonic_analysis": {
-        "negotiation": "Balance between expression and preservation. The hexagram shows how wisdom can thrive even when constrained. Represents negotiation between visibility and protection.",
-        "limitation": "Creates protection through concealment. The earth above contains and protects the fire below, showing how limitation can preserve rather than extinguish.",
-        "contribution": "Contributes by demonstrating how awareness can persist and develop under adverse conditions. Like a seed growing underground, this constraint enables future emergence.",
-        "significance_in_thologram": "Represents crucial phases where development must occur hidden from view. Shows how temporary constraint can strengthen rather than weaken a system."
-    },
-    "transformations": {
-        "no_moving_lines": "A period where wisdom must be cultivated internally. Accept this time of restricted expression as necessary for development. Focus on inner growth.",
-        "all_moving_lines": "Complete transformation from concealment to expression approaching. The period of constraint has served its purpose. Prepare for emergence while maintaining gained wisdom."
-    },
-    "hierarchy": {
-        "order8child": "Hidden transformation",
-        "order8parent": "TRANSFORMATION; Active Change"
-    },
-    "image": {
-        "description": "In this representation of the hexagram \"OBSCURED LIGHT,\" the camouflaged chameleon symbolizes hidden transformation, embodying the principle of negotiation as it balances between visibility and invisibility, mirroring the dynamic of change and adaptation inherent in awareness. Styled in surrealism, this portrayal transcends ordinary perception to reveal deeper layers of reality, akin to the Thologram's recursive exploration of existence. Georgia O'Keeffe, recognized for capturing the essence beyond the apparent, parallels the Tholonic model's emphasis on awareness as fundamental. The choice of gouache enhances the vivid yet nuanced textures, reflecting the interplay of contribution and limitation \u2014 highlighting the chameleon\u2019s integration into its environment while maintaining distinctiveness. This composition, as award-winning and highly symbolic, encapsulates the essence of active change, unmasking the subtleties of transformative processes within both the physical and abstract realms.",
-        "file": "36.png"
-    },
-    "energy_cycle": "ascending",
-    "stories": {
-        "title": "Three Tales of \"Obscured Light\"",
-        "entries": [
-            {
-                "title": "Illuminating Shadows (Man vs. Man)",
-                "theme": "Inspired by Virginia Woolf",
-                "short_story": "In a quaint village nestled between rolling hills and dense forests, Eleanor, an introspective artist, faced the challenge of translating her vivid dreams into tangible works of art. Lurking shadows and luminous light played a dance in her mind \u2014 a battle not only on her canvas but within her soul. She painted in a secluded attic, and from her window, the world seemed an expansive tapestry of light and dark, mirroring the struggles of her creative heart.\n\nEleanor meticulously layered brush strokes, driven by an urgent need to capture fleeting visions of brilliance. Though the village buzzed with daily life below, her world was largely solitary. Her art promised to wield light, dispersing the oppressive shadows that encroached upon her creativity. Yet, the more she tried to control each stroke, the harder it became to balance vision and execution.\n\nA critique from a respected mentor echoed in her mind, urging a trust in chaos, to embrace those shadows rather than fight them. Surrendering to this idea, her brush moved with renewed freedom, each play of light and darkness whispering secrets of harmonious balance.\n\nIn her final piece, Eleanor achieved transcendence \u2014 a masterpiece where luminous forms emerged triumphant from shadowy depths, invoking wonder in those who gazed upon it. Her transformation was complete, not just as an artist but as a soul reconciled with the world.\n\nSurrounded by villagers curious and inspired, she stood at her easel and understood that light was not the absence of shadow, but its deepest companion.",
-                "lines_in_context": {
-                    "6": {
-                        "name": "Line 6: Transcendence",
-                        "meaning": "Eleanor's realization that shadow is not to be feared but embraced, enabling her true art to flourish and inspire others.",
-                        "changing": "As Eleanor finally allows her sense of control to give way to the dance of creation, she finds that the embrace of imperfection reveals a deeper truth, not only refining her artistic practice but enriching her life and connection with community."
-                    },
-                    "5": {
-                        "name": "Line 5: Mastery",
-                        "meaning": "Eleanor reaches a point of mastery where her technique and intuition merge seamlessly, creating art that resonates.",
-                        "changing": "As her mastery grows, Eleanor faces the risk of becoming overconfident, threatening to obscure the reflective humility that ensures her growth. Yet, should she integrate her learned vulnerability, her mastery could illuminate her understanding, allowing for profound insights to guide her onward."
-                    },
-                    "4": {
-                        "name": "Line 4: Manifestation",
-                        "meaning": "The world outside gazes in, as Eleanor's creations begin to reveal the hidden dynamics of light and shadow.",
-                        "changing": "Through sudden self-doubt, Eleanor jeopardizes her ability to manifest creative visions. However, should she embrace the unexpected insights from embracing vulnerability, the true complexity of her art manifests, inspiring a transformative narrative for herself and her audience."
-                    },
-                    "3": {
-                        "name": "Line 3: Conflict",
-                        "meaning": "The clash of light and shadow in Eleanor's art serves as a metaphor for her internal struggle between creative inspiration and doubt.",
-                        "changing": "Through self-imposed pressures, Eleanor risks reaching an escalation point where conflict consumes her process. Yet, by embracing confrontation with her fears, she navigates forward, allowing rich, harmonious creations to emerge from the collision."
-                    },
-                    "2": {
-                        "name": "Line 2: Formation",
-                        "meaning": "Eleanor's early experiments establish the foundational elements upon which her artistic vision will build.",
-                        "changing": "A shift from thoughtful precision to impulsive action might threaten the stability of Eleanor's emerging style. However, embracing intuition over constraints may lead to the discovery of unique structures aligning her technique with the core essence of her creativity."
-                    },
-                    "1": {
-                        "name": "Line 1: Emergence",
-                        "meaning": "The initial spark of artistic vision ignites within Eleanor, tender yet filled with boundless potential.",
-                        "changing": "By attempting to hold tightly to initial ideas, Eleanor risks stifling the flow of inspiration. However, if she relinquishes strict control, she uncovers uncharted paths, allowing her imagination to fuel a more profound artistic journey."
-                    }
-                }
-            },
-            {
-                "title": "Veiled Radiance (Man vs. Nature)",
-                "theme": "Inspired by Antoine de Saint-Exup\u00e9ry",
-                "short_story": "In a vast desert, where the sun veiled itself behind billowing sands, young Nazir wandered, drawn by the whispers of an ancient elder's tale. This story spoke of a mystical relic, rumored to ignite an eternal flame that could illuminate even the deepest darkness. Guided by constellations and the melodious hum of the desert winds, Nazir embarked on a quest to unveil this hidden light. Days blurred into nights as he journeyed, battling searing heat and the echoes of doubt that shadowed his every step. With each mile, the desert's vastness threatened to engulf his spirit, yet his resolve burned brightly, sustained by memories of his village shrouded in twilight.\n\nOne twilight, as Nazir's strength waned, a mirage of an ancient ruin shimmered on the horizon. It was there that his resolve would be tested. The ruin's labyrinth beckoned him with its silent promise of clarity. As he traversed its cryptic passages, the relic's light pulsed gently beneath layers of shifting sand, mirroring the ember within him.\n\nFinally, standing before the relic, Nazir witnessed a luminescent glow unfold, like dawn breaking through a stormy night. The light flowed through him, dissolving shadows, and his heart swelled with newfound understanding. The relic's glow seeped across the desert, weaving through the dunes towards his distant village, heralding a new dawn. Nazir's journey transcended mere discovery\u2014he became a prism through which the light of truth refracted, dispelling darkness with clarity, an echo of the sun's promise beyond its shadow.\n\nIn embracing the light, Nazir understood the elder's tale was a gift for those who dared to seek beyond the veil, transforming shadows into a tableau of brilliance, and filling the world with the boundless potential of unseen light.",
-                "lines_in_context": {
-                    "6": {
-                        "name": "Transcendence",
-                        "meaning": "Nazir's realization of the relic's light symbolizes the culmination of his quest, illuminating the path before him and his village.",
-                        "changing": "Should Nazir cling to the relic's glow solely as an external source of enlightenment, he may confine its potential to a solitary achievement, risking loss of further inner growth and community sharing."
-                    },
-                    "5": {
-                        "name": "Mastery",
-                        "meaning": "Nazir harmonizes his inner light with the relic's, achieving balance and clarity in his purpose.",
-                        "changing": "If Nazir becomes overconfident, mistaking the relic's glow for his sole guidance, he risks clouding his insight and hindering further personal and shared illumination."
-                    },
-                    "4": {
-                        "name": "Manifestation",
-                        "meaning": "The relic's light manifests, casting warmth and hope across the desolate dunes, mirroring Nazir's newfound clarity.",
-                        "changing": "If Nazir rushes the search for the relic's light, his haste may shift the delicate balance, distorting the true nature of its brilliance and impact."
-                    },
-                    "3": {
-                        "name": "Conflict",
-                        "meaning": "Nazir experiences inner turmoil as doubts challenge his determination against the desert's adversity.",
-                        "changing": "Giving in to despair might extinguish the faint light of hope within Nazir, yet overcoming this struggle forges resilience, allowing him to emerge renewed."
-                    },
-                    "2": {
-                        "name": "Formation",
-                        "meaning": "Nazir builds an internal structure of hope and vision, learning to trust his journey's unfolding.",
-                        "changing": "Impatience may lead Nazir to act prematurely, disrupting the fragile formation of his resolve before it fully materializes."
-                    },
-                    "1": {
-                        "name": "Emergence",
-                        "meaning": "The first inklings of Nazir's determination light up against the desert's vast, foreboding expanse.",
-                        "changing": "Should Nazir seek to preserve his initial hope too tightly, he risks smothering its growth, thereby impeding the unfolding journey of discovery."
-                    }
-                }
-            },
-            {
-                "title": "Enlightenment in Shadows (Man vs. Self)",
-                "theme": "Inspired by Gabriel Garcia Marquez",
-                "short_story": "In the secluded town of Solitaria, beneath a perpetual shroud of mist, lived a peculiar artist named Celeste. Her art studio was a sanctuary of vibrant colors and shifting shadows, where she endeavored tirelessly to capture the interplay of light and obscurity. Her heart yearned for enlightenment, an intangible essence she believed lay hidden within the delicate balance of shadows.\n\nEach dawn, the town awoke to the muted hues of Celeste\u2019s unfinished canvases. Her paintings were reflections of her soul's ambition to merge ethereal light with the somber blanketing fog. To Celeste, the mist was as much an adversary as it was a muse, diffusing the sun's warmth and casting veils over her creative clarity.\n\nDespite this, she embraced the fog, seeing it as an indispensable dance partner in her pursuit of revelation. Her resolve was to transform the unseen into the visible, to let her inner spark blaze through the town\u2019s twilight.\n\nAs she painted, her hands moved in concert with the whispers of the mist, her brushstrokes coaxing colors to the surface like a hidden sun breaking through dense clouds. Yet, as her masterpiece neared completion, Solitaria\u2019s fog thickened, threatening to envelop Celeste's vision entirely.\n\nUndeterred, she welcomed the challenge. Art had taught her that true light could only be realized by surrendering to the shadows, letting them shape the transcendence they veiled. In a final flourish, she let go of control, allowing intuition to guide her. Her studio resonated with a shared understanding, the shadows receding to reveal an illumination that surpassed mere sight.\n\nIn her magnum opus, the fog itself gave way, revealing an epiphany painted in hues of dawn, as if the spirit of Solitaria's light had finally found its voice. The town awakened to a new appreciation for the fog, now seen not as an obstacle, but as an essential element of Celeste\u2019s radiant creation.",
-                "lines_in_context": {
-                    "6": {
-                        "name": "Transcendence",
-                        "meaning": "As Celeste completes her masterpiece, the elusive veil of enlightenment lifts, revealing the truth beyond the shadows she so fervently sought.",
-                        "changing": "When this transformation occurs, the risk lies in Celeste's newfound clarity leading her to forget the shadows that shaped her journey. However, embracing this change can open avenues for deeper understanding and shared expression, spreading enlightenment beyond her personal canvas."
-                    },
-                    "5": {
-                        "name": "Mastery",
-                        "meaning": "Celeste achieves a fluidity and confidence in her technique that harmonizes her vision with the ambient shadows, crafting art that speaks beyond words.",
-                        "changing": "If Celeste\u2019s mastery flourishes into arrogance, she risks losing touch with the humility that nurtures her creativity. Yet, this transformation can also catalyze breakthroughs that redefine her understanding, enriching her art and influence."
-                    },
-                    "4": {
-                        "name": "Manifestation",
-                        "meaning": "Celeste\u2019s art begins to resonate with the community, as her paintings defy the darkness to reveal stories woven within the fog.",
-                        "changing": "As the line transitions, Celeste may face challenges in overextending her creative reach, potentially straining the balance that keeps her vision intact. The potential benefit lies in discovering new realms of expression and connection."
-                    },
-                    "3": {
-                        "name": "Conflict",
-                        "meaning": "Celeste navigates the tension within herself, art embodying the discord between inner light and external shadow.",
-                        "changing": "Should Celeste fall prey to her doubts, the conflict may obscure her vision. Conversely, engaging with her fears can yield richer, more nuanced art that bridges her internal and external worlds."
-                    },
-                    "2": {
-                        "name": "Formation",
-                        "meaning": "Celeste crafts the foundational elements of her masterpiece, setting the stage for her art to embrace clarity amidst chaos.",
-                        "changing": "This transformation could disrupt the equilibrium of Celeste\u2019s foundational vision, but it also harbors the potential for unexpected insights, advancing her pursuit of balance and innovation."
-                    },
-                    "1": {
-                        "name": "Emergence",
-                        "meaning": "Celeste\u2019s initial spark of inspiration flickers amid the overbearing fog, awaiting the moment to blaze into form.",
-                        "changing": "As the line changes, Celeste risks her emerging ideas being prematurely obscured, yet this shift also threatens to stifle her potential. When embraced, it gifts her a greater appreciation for nurturing inspiration amid adversity."
-                    }
-                }
-            }
-        ]
-    },
-    "history": {
-        "title": "The Underground Railroad: Light in the Dark",
-        "subtitle": "\"Obscured Light\" in History",
-        "short_story": "In the early 19th century, the Underground Railroad emerged as a beacon of hope against the darkness of slavery in the United States. Spearheaded by courageous individuals like Harriet Tubman, this clandestine network used secret routes and safe houses to guide enslaved people to freedom. Despite operating under constant threat of discovery, its participants communicated through hidden signals, quilts, and coded messages in spirituals, embodying resilience and unity. These efforts illuminated the path northward, liberating approximately 100,000 people from bondage. As Tubman led them to safety, she embodied the Underground Railroad's essence: an unwavering light cutting through the oppressive shadows, turning secrecy into salvation.",
-        "source": [
-            "\"Bound for Canaan: The Underground Railroad, the War for the Soul of America\" by Fergus Bordewich (2005)"
-        ],
-        "lines_in_history": {
-            "6": {
-                "name": "Reflection on Sacrifice",
-                "meaning": "Contemplating the completion of a transformative journey and the sacrifices made. This line embodies the closure of a cycle, reflecting on the sacrifices and changes necessary for growth and completion.",
-                "changing": "When this line shifts, the reflection on sacrifice and the closure of a cycle may face resistance or attachment, challenging the surrender to transformation and hindering the ability to embrace the renewal of light and liberation."
-            },
-            "5": {
-                "name": "Radiant Leadership",
-                "meaning": "Exemplifying the full expression of guiding light and leadership. This line signifies the embodiment of radiant guidance and decisive actions, illuminating the path with clarity and authority.",
-                "changing": "When this line transforms, the radiant leadership and authority in guiding others may face challenges, leading to moments of hesitation and loss of clarity, potentially dimming the beacon that lights the way for those seeking freedom from darkness."
-            },
-            "4": {
-                "name": "Adaptation to Shadows",
-                "meaning": "Embracing the challenge of manifesting light in the external world. This line represents the integration of light within the shadows, navigating the complexities of operating in secrecy and under constant threat.",
-                "changing": "A changing line here suggests a shift in adapting to shadows, where the balance between concealment and exposure may be disrupted, impacting the ability to operate covertly and protect both the light and those seeking it in the depths of darkness."
-            },
-            "3": {
-                "name": "Culmination of Resilience",
-                "meaning": "Reaching the pinnacle of inner strength and transition towards external action. This line symbolizes the completion of inner fortitude and the readiness to manifest light outwardly.",
-                "changing": "As this line transitions, the culmination of inner resilience may encounter hurdles, testing the ability to extend that resilience outwardly, affecting the readiness to shine light into the darkness with full strength."
-            },
-            "2": {
-                "name": "Harmonious Alignment",
-                "meaning": "Establishing connections and structures to support the emerging light. This line embodies the formation of supportive networks and strategies that enhance the spreading of light and hope.",
-                "changing": "When this line changes, the harmonious alignment of sources of support and guidance may face challenges, impacting the stability of the network and the effectiveness of conveying light in the midst of darkness."
-            },
-            "1": {
-                "name": "Emergence of Light",
-                "meaning": "The initial spark of hope and illumination emerges in the darkness. This line represents the birth of potential light, signaling a transformative force ready to shine.",
-                "changing": "This changing line signifies a critical moment when the potential for light to break through is either embraced and amplified or obscured, challenging the path to enlightenment."
-            }
-        }
-    },
-    "trigram_phrase": {
-        "Jungian": "Illumination arises where the psyche remains open, fostering the soul's vibrance under the gentle embrace of nurturing shadows.",
-        "Platonic": "Within the embrace of a nurturing soul, the brilliance and clarity of the inner light are unveiled and flourish.",
-        "Taoist": "Radiant clarity emerges when the receptive and nurturing embrace the flow.",
-        "Tholonic": "The luminous essence unfolds through its serene union with the earth's nurturing embrace.",
-        "Thermodynamics": "The entropic potential of inherent brilliance manifests itself through the gentle facilitation and thermal conduciveness of openness and receptivity.",
-        "general": "True brilliance emerges when light is gently nurtured and embraced by openness.",
-        "explanation": "The Clinging represents brightness and radiance, signifying potential and clarity. The Receptive symbolizes openness and nurturing, providing a supportive environment. Together, they suggest that when illumination is met with a nurturing and open attitude, it can fully manifest its potential, much like a seed growing in fertile soil."
-    },
-    "line_type": [
-        "yin",
-        "yin",
-        "yin",
-        "yang",
-        "yin",
-        "yang"
-    ],
-    "pairpath": {
-        "title": "Conflict's Veil",
-        "ascending_hex_num": 36,
-        "ascending_hex_name": "Darkening of the Light",
-        "descending_hex_num": 6,
-        "descending_hex_name": "Conflict",
-        "description": "This pair-path explores the interplay between concealment and confrontation. As 'Darkening of the Light' ascends, it signifies the need for caution and strategic withdrawal, hiding one's light to preserve inner truth amidst adversity. Conversely, 'Conflict' descends, representing the inevitable clash when differences arise, urging resolution through understanding and patience. Together, they illustrate the cycle of retreat and engagement, teaching the wisdom of knowing when to retreat into shadow and when to face challenges head-on.",
-        "kstate": "dynamic",
-        "image_prompt": "A landscape divided into two contrasting halves: one side is shrouded in shadows with a dimly lit lantern symbolizing hidden light, while the other side depicts a turbulent sky with clashing clouds, representing conflict. The horizon blends both elements, illustrating the cycle of concealment and confrontation.",
-        "path_num": 23
+    "below": {
+      "Trigram Number": 7,
+      "Binary Decimal": 5,
+      "Symbol": "\u2632",
+      "Chinese Symbol": "\u79bb",
+      "Phonetic": "L\u00ed",
+      "English Translation": "Fire",
+      "English Symbol": "\u706b",
+      "Meaning": "The Clinging",
+      "Quality": "Bright and Radiant"
     }
+  },
+  "attributes": {
+    "perspective": "Wisdom persisting through adversity",
+    "nature": "Hidden strength",
+    "action": "Preservation",
+    "success_through": "Internal cultivation",
+    "challenge": "Sustaining clarity amid darkness"
+  },
+  "lines": [
+    {
+      "position": 6,
+      "name": "Diminished Glow",
+      "meaning": "In the final stage, excess radiance can become overwhelming, risking the loss of subtlety and balance if not carefully managed.",
+      "changing": "A dynamic equilibrium is required as the lingering yin begins to integrate with a potent yang force, ensuring that transformation remains balanced."
+    },
+    {
+      "position": 5,
+      "name": "Luminous Beacon",
+      "meaning": "A pivotal juncture where clarity and purpose shine forth, dispelling doubts and guiding the way forward with renewed energy.",
+      "changing": "The suppressed yin qualities now erupt into enlightening yang brilliance, marking a transformation that illuminates the path ahead."
+    },
+    {
+      "position": 4,
+      "name": "Subtle Radiance",
+      "meaning": "The inherent light begins to break through the haze, suggesting that wisdom and innate strength are emerging from humble origins.",
+      "changing": "A quiet yin energy gradually shifts into an assertive yang expression when inner truths are acknowledged."
+    },
+    {
+      "position": 3,
+      "name": "Veiled Impulse",
+      "meaning": "A moment when inner urges are obscured by doubt and uncertainty; caution is advised in acting without clear vision.",
+      "changing": "A restrained yin impulse can transform into a confident yang initiative as clarity overcomes hesitation."
+    },
+    {
+      "position": 2,
+      "name": "Glimmering Hope",
+      "meaning": "An early sign that beneath darkened outward appearances, hope and opportunity are beginning to emerge, waiting to be seized.",
+      "changing": "The yielding yin quality slowly unfolds into a decisive yang action, symbolizing the delicate shift from uncertainty to clarity."
+    },
+    {
+      "position": 1,
+      "name": "Hidden Spark",
+      "meaning": "A subtle starting point where a faint light appears despite prevailing obscurity; the moment of potential that requires careful nurturing.",
+      "changing": "A muted yin presence can gradually ignite into a vibrant yang force when recognized and cultivated."
+    }
+  ],
+  "tholonic_analysis": {
+    "negotiation": "Balance between expression and preservation. The hexagram shows how wisdom can thrive even when constrained. Represents negotiation between visibility and protection.",
+    "limitation": "Creates protection through concealment. The earth above contains and protects the fire below, showing how limitation can preserve rather than extinguish.",
+    "contribution": "Contributes by demonstrating how awareness can persist and develop under adverse conditions. Like a seed growing underground, this constraint enables future emergence.",
+    "significance_in_thologram": "Represents crucial phases where development must occur hidden from view. Shows how temporary constraint can strengthen rather than weaken a system."
+  },
+  "transformations": {
+    "no_moving_lines": "A period where wisdom must be cultivated internally. Accept this time of restricted expression as necessary for development. Focus on inner growth.",
+    "all_moving_lines": "Complete transformation from concealment to expression approaching. The period of constraint has served its purpose. Prepare for emergence while maintaining gained wisdom."
+  },
+  "hierarchy": {
+    "order8child": "Hidden transformation",
+    "order8parent": "TRANSFORMATION; Active Change"
+  },
+  "image": {
+    "description": "In this representation of the hexagram \"OBSCURED LIGHT,\" the camouflaged chameleon symbolizes hidden transformation, embodying the principle of negotiation as it balances between visibility and invisibility, mirroring the dynamic of change and adaptation inherent in awareness. Styled in surrealism, this portrayal transcends ordinary perception to reveal deeper layers of reality, akin to the Thologram's recursive exploration of existence. Georgia O'Keeffe, recognized for capturing the essence beyond the apparent, parallels the Tholonic model's emphasis on awareness as fundamental. The choice of gouache enhances the vivid yet nuanced textures, reflecting the interplay of contribution and limitation \u2014 highlighting the chameleon\u2019s integration into its environment while maintaining distinctiveness. This composition, as award-winning and highly symbolic, encapsulates the essence of active change, unmasking the subtleties of transformative processes within both the physical and abstract realms.",
+    "file": "36.png"
+  },
+  "energy_cycle": "ascending",
+  "stories": {
+    "title": "Three Tales of \"Obscured Light\"",
+    "entries": [
+      {
+        "title": "Illuminating Shadows (Man vs. Man)",
+        "theme": "Virginia Woolf",
+        "short_story": "In a quaint village nestled between rolling hills and dense forests, Eleanor, an introspective artist, faced the challenge of translating her vivid dreams into tangible works of art. Lurking shadows and luminous light played a dance in her mind \u2014 a battle not only on her canvas but within her soul. She painted in a secluded attic, and from her window, the world seemed an expansive tapestry of light and dark, mirroring the struggles of her creative heart.\n\nEleanor meticulously layered brush strokes, driven by an urgent need to capture fleeting visions of brilliance. Though the village buzzed with daily life below, her world was largely solitary. Her art promised to wield light, dispersing the oppressive shadows that encroached upon her creativity. Yet, the more she tried to control each stroke, the harder it became to balance vision and execution.\n\nA critique from a respected mentor echoed in her mind, urging a trust in chaos, to embrace those shadows rather than fight them. Surrendering to this idea, her brush moved with renewed freedom, each play of light and darkness whispering secrets of harmonious balance.\n\nIn her final piece, Eleanor achieved transcendence \u2014 a masterpiece where luminous forms emerged triumphant from shadowy depths, invoking wonder in those who gazed upon it. Her transformation was complete, not just as an artist but as a soul reconciled with the world.\n\nSurrounded by villagers curious and inspired, she stood at her easel and understood that light was not the absence of shadow, but its deepest companion.",
+        "lines_in_context": {
+          "6": {
+            "name": "Line 6: Transcendence",
+            "meaning": "Eleanor's realization that shadow is not to be feared but embraced, enabling her true art to flourish and inspire others.",
+            "changing": "As Eleanor finally allows her sense of control to give way to the dance of creation, she finds that the embrace of imperfection reveals a deeper truth, not only refining her artistic practice but enriching her life and connection with community."
+          },
+          "5": {
+            "name": "Line 5: Mastery",
+            "meaning": "Eleanor reaches a point of mastery where her technique and intuition merge seamlessly, creating art that resonates.",
+            "changing": "As her mastery grows, Eleanor faces the risk of becoming overconfident, threatening to obscure the reflective humility that ensures her growth. Yet, should she integrate her learned vulnerability, her mastery could illuminate her understanding, allowing for profound insights to guide her onward."
+          },
+          "4": {
+            "name": "Line 4: Manifestation",
+            "meaning": "The world outside gazes in, as Eleanor's creations begin to reveal the hidden dynamics of light and shadow.",
+            "changing": "Through sudden self-doubt, Eleanor jeopardizes her ability to manifest creative visions. However, should she embrace the unexpected insights from embracing vulnerability, the true complexity of her art manifests, inspiring a transformative narrative for herself and her audience."
+          },
+          "3": {
+            "name": "Line 3: Conflict",
+            "meaning": "The clash of light and shadow in Eleanor's art serves as a metaphor for her internal struggle between creative inspiration and doubt.",
+            "changing": "Through self-imposed pressures, Eleanor risks reaching an escalation point where conflict consumes her process. Yet, by embracing confrontation with her fears, she navigates forward, allowing rich, harmonious creations to emerge from the collision."
+          },
+          "2": {
+            "name": "Line 2: Formation",
+            "meaning": "Eleanor's early experiments establish the foundational elements upon which her artistic vision will build.",
+            "changing": "A shift from thoughtful precision to impulsive action might threaten the stability of Eleanor's emerging style. However, embracing intuition over constraints may lead to the discovery of unique structures aligning her technique with the core essence of her creativity."
+          },
+          "1": {
+            "name": "Line 1: Emergence",
+            "meaning": "The initial spark of artistic vision ignites within Eleanor, tender yet filled with boundless potential.",
+            "changing": "By attempting to hold tightly to initial ideas, Eleanor risks stifling the flow of inspiration. However, if she relinquishes strict control, she uncovers uncharted paths, allowing her imagination to fuel a more profound artistic journey."
+          }
+        }
+      },
+      {
+        "title": "Veiled Radiance (Man vs. Nature)",
+        "theme": "Antoine de Saint-Exup\u00e9ry",
+        "short_story": "In a vast desert, where the sun veiled itself behind billowing sands, young Nazir wandered, drawn by the whispers of an ancient elder's tale. This story spoke of a mystical relic, rumored to ignite an eternal flame that could illuminate even the deepest darkness. Guided by constellations and the melodious hum of the desert winds, Nazir embarked on a quest to unveil this hidden light. Days blurred into nights as he journeyed, battling searing heat and the echoes of doubt that shadowed his every step. With each mile, the desert's vastness threatened to engulf his spirit, yet his resolve burned brightly, sustained by memories of his village shrouded in twilight.\n\nOne twilight, as Nazir's strength waned, a mirage of an ancient ruin shimmered on the horizon. It was there that his resolve would be tested. The ruin's labyrinth beckoned him with its silent promise of clarity. As he traversed its cryptic passages, the relic's light pulsed gently beneath layers of shifting sand, mirroring the ember within him.\n\nFinally, standing before the relic, Nazir witnessed a luminescent glow unfold, like dawn breaking through a stormy night. The light flowed through him, dissolving shadows, and his heart swelled with newfound understanding. The relic's glow seeped across the desert, weaving through the dunes towards his distant village, heralding a new dawn. Nazir's journey transcended mere discovery\u2014he became a prism through which the light of truth refracted, dispelling darkness with clarity, an echo of the sun's promise beyond its shadow.\n\nIn embracing the light, Nazir understood the elder's tale was a gift for those who dared to seek beyond the veil, transforming shadows into a tableau of brilliance, and filling the world with the boundless potential of unseen light.",
+        "lines_in_context": {
+          "6": {
+            "name": "Transcendence",
+            "meaning": "Nazir's realization of the relic's light symbolizes the culmination of his quest, illuminating the path before him and his village.",
+            "changing": "Should Nazir cling to the relic's glow solely as an external source of enlightenment, he may confine its potential to a solitary achievement, risking loss of further inner growth and community sharing."
+          },
+          "5": {
+            "name": "Mastery",
+            "meaning": "Nazir harmonizes his inner light with the relic's, achieving balance and clarity in his purpose.",
+            "changing": "If Nazir becomes overconfident, mistaking the relic's glow for his sole guidance, he risks clouding his insight and hindering further personal and shared illumination."
+          },
+          "4": {
+            "name": "Manifestation",
+            "meaning": "The relic's light manifests, casting warmth and hope across the desolate dunes, mirroring Nazir's newfound clarity.",
+            "changing": "If Nazir rushes the search for the relic's light, his haste may shift the delicate balance, distorting the true nature of its brilliance and impact."
+          },
+          "3": {
+            "name": "Conflict",
+            "meaning": "Nazir experiences inner turmoil as doubts challenge his determination against the desert's adversity.",
+            "changing": "Giving in to despair might extinguish the faint light of hope within Nazir, yet overcoming this struggle forges resilience, allowing him to emerge renewed."
+          },
+          "2": {
+            "name": "Formation",
+            "meaning": "Nazir builds an internal structure of hope and vision, learning to trust his journey's unfolding.",
+            "changing": "Impatience may lead Nazir to act prematurely, disrupting the fragile formation of his resolve before it fully materializes."
+          },
+          "1": {
+            "name": "Emergence",
+            "meaning": "The first inklings of Nazir's determination light up against the desert's vast, foreboding expanse.",
+            "changing": "Should Nazir seek to preserve his initial hope too tightly, he risks smothering its growth, thereby impeding the unfolding journey of discovery."
+          }
+        }
+      },
+      {
+        "title": "Enlightenment in Shadows (Man vs. Self)",
+        "theme": "Gabriel Garcia Marquez",
+        "short_story": "In the secluded town of Solitaria, beneath a perpetual shroud of mist, lived a peculiar artist named Celeste. Her art studio was a sanctuary of vibrant colors and shifting shadows, where she endeavored tirelessly to capture the interplay of light and obscurity. Her heart yearned for enlightenment, an intangible essence she believed lay hidden within the delicate balance of shadows.\n\nEach dawn, the town awoke to the muted hues of Celeste\u2019s unfinished canvases. Her paintings were reflections of her soul's ambition to merge ethereal light with the somber blanketing fog. To Celeste, the mist was as much an adversary as it was a muse, diffusing the sun's warmth and casting veils over her creative clarity.\n\nDespite this, she embraced the fog, seeing it as an indispensable dance partner in her pursuit of revelation. Her resolve was to transform the unseen into the visible, to let her inner spark blaze through the town\u2019s twilight.\n\nAs she painted, her hands moved in concert with the whispers of the mist, her brushstrokes coaxing colors to the surface like a hidden sun breaking through dense clouds. Yet, as her masterpiece neared completion, Solitaria\u2019s fog thickened, threatening to envelop Celeste's vision entirely.\n\nUndeterred, she welcomed the challenge. Art had taught her that true light could only be realized by surrendering to the shadows, letting them shape the transcendence they veiled. In a final flourish, she let go of control, allowing intuition to guide her. Her studio resonated with a shared understanding, the shadows receding to reveal an illumination that surpassed mere sight.\n\nIn her magnum opus, the fog itself gave way, revealing an epiphany painted in hues of dawn, as if the spirit of Solitaria's light had finally found its voice. The town awakened to a new appreciation for the fog, now seen not as an obstacle, but as an essential element of Celeste\u2019s radiant creation.",
+        "lines_in_context": {
+          "6": {
+            "name": "Transcendence",
+            "meaning": "As Celeste completes her masterpiece, the elusive veil of enlightenment lifts, revealing the truth beyond the shadows she so fervently sought.",
+            "changing": "When this transformation occurs, the risk lies in Celeste's newfound clarity leading her to forget the shadows that shaped her journey. However, embracing this change can open avenues for deeper understanding and shared expression, spreading enlightenment beyond her personal canvas."
+          },
+          "5": {
+            "name": "Mastery",
+            "meaning": "Celeste achieves a fluidity and confidence in her technique that harmonizes her vision with the ambient shadows, crafting art that speaks beyond words.",
+            "changing": "If Celeste\u2019s mastery flourishes into arrogance, she risks losing touch with the humility that nurtures her creativity. Yet, this transformation can also catalyze breakthroughs that redefine her understanding, enriching her art and influence."
+          },
+          "4": {
+            "name": "Manifestation",
+            "meaning": "Celeste\u2019s art begins to resonate with the community, as her paintings defy the darkness to reveal stories woven within the fog.",
+            "changing": "As the line transitions, Celeste may face challenges in overextending her creative reach, potentially straining the balance that keeps her vision intact. The potential benefit lies in discovering new realms of expression and connection."
+          },
+          "3": {
+            "name": "Conflict",
+            "meaning": "Celeste navigates the tension within herself, art embodying the discord between inner light and external shadow.",
+            "changing": "Should Celeste fall prey to her doubts, the conflict may obscure her vision. Conversely, engaging with her fears can yield richer, more nuanced art that bridges her internal and external worlds."
+          },
+          "2": {
+            "name": "Formation",
+            "meaning": "Celeste crafts the foundational elements of her masterpiece, setting the stage for her art to embrace clarity amidst chaos.",
+            "changing": "This transformation could disrupt the equilibrium of Celeste\u2019s foundational vision, but it also harbors the potential for unexpected insights, advancing her pursuit of balance and innovation."
+          },
+          "1": {
+            "name": "Emergence",
+            "meaning": "Celeste\u2019s initial spark of inspiration flickers amid the overbearing fog, awaiting the moment to blaze into form.",
+            "changing": "As the line changes, Celeste risks her emerging ideas being prematurely obscured, yet this shift also threatens to stifle her potential. When embraced, it gifts her a greater appreciation for nurturing inspiration amid adversity."
+          }
+        }
+      }
+    ]
+  },
+  "history": {
+    "title": "The Underground Railroad: Light in the Dark",
+    "subtitle": "\"Obscured Light\" in History",
+    "short_story": "In the early 19th century, the Underground Railroad emerged as a beacon of hope against the darkness of slavery in the United States. Spearheaded by courageous individuals like Harriet Tubman, this clandestine network used secret routes and safe houses to guide enslaved people to freedom. Despite operating under constant threat of discovery, its participants communicated through hidden signals, quilts, and coded messages in spirituals, embodying resilience and unity. These efforts illuminated the path northward, liberating approximately 100,000 people from bondage. As Tubman led them to safety, she embodied the Underground Railroad's essence: an unwavering light cutting through the oppressive shadows, turning secrecy into salvation.",
+    "source": [
+      "\"Bound for Canaan: The Underground Railroad, the War for the Soul of America\" by Fergus Bordewich (2005)"
+    ],
+    "lines_in_history": {
+      "6": {
+        "name": "Reflection on Sacrifice",
+        "meaning": "Contemplating the completion of a transformative journey and the sacrifices made. This line embodies the closure of a cycle, reflecting on the sacrifices and changes necessary for growth and completion.",
+        "changing": "When this line shifts, the reflection on sacrifice and the closure of a cycle may face resistance or attachment, challenging the surrender to transformation and hindering the ability to embrace the renewal of light and liberation."
+      },
+      "5": {
+        "name": "Radiant Leadership",
+        "meaning": "Exemplifying the full expression of guiding light and leadership. This line signifies the embodiment of radiant guidance and decisive actions, illuminating the path with clarity and authority.",
+        "changing": "When this line transforms, the radiant leadership and authority in guiding others may face challenges, leading to moments of hesitation and loss of clarity, potentially dimming the beacon that lights the way for those seeking freedom from darkness."
+      },
+      "4": {
+        "name": "Adaptation to Shadows",
+        "meaning": "Embracing the challenge of manifesting light in the external world. This line represents the integration of light within the shadows, navigating the complexities of operating in secrecy and under constant threat.",
+        "changing": "A changing line here suggests a shift in adapting to shadows, where the balance between concealment and exposure may be disrupted, impacting the ability to operate covertly and protect both the light and those seeking it in the depths of darkness."
+      },
+      "3": {
+        "name": "Culmination of Resilience",
+        "meaning": "Reaching the pinnacle of inner strength and transition towards external action. This line symbolizes the completion of inner fortitude and the readiness to manifest light outwardly.",
+        "changing": "As this line transitions, the culmination of inner resilience may encounter hurdles, testing the ability to extend that resilience outwardly, affecting the readiness to shine light into the darkness with full strength."
+      },
+      "2": {
+        "name": "Harmonious Alignment",
+        "meaning": "Establishing connections and structures to support the emerging light. This line embodies the formation of supportive networks and strategies that enhance the spreading of light and hope.",
+        "changing": "When this line changes, the harmonious alignment of sources of support and guidance may face challenges, impacting the stability of the network and the effectiveness of conveying light in the midst of darkness."
+      },
+      "1": {
+        "name": "Emergence of Light",
+        "meaning": "The initial spark of hope and illumination emerges in the darkness. This line represents the birth of potential light, signaling a transformative force ready to shine.",
+        "changing": "This changing line signifies a critical moment when the potential for light to break through is either embraced and amplified or obscured, challenging the path to enlightenment."
+      }
+    }
+  },
+  "trigram_phrase": {
+    "Jungian": "Illumination arises where the psyche remains open, fostering the soul's vibrance under the gentle embrace of nurturing shadows.",
+    "Platonic": "Within the embrace of a nurturing soul, the brilliance and clarity of the inner light are unveiled and flourish.",
+    "Taoist": "Radiant clarity emerges when the receptive and nurturing embrace the flow.",
+    "Tholonic": "The luminous essence unfolds through its serene union with the earth's nurturing embrace.",
+    "Thermodynamics": "The entropic potential of inherent brilliance manifests itself through the gentle facilitation and thermal conduciveness of openness and receptivity.",
+    "general": "True brilliance emerges when light is gently nurtured and embraced by openness.",
+    "explanation": "The Clinging represents brightness and radiance, signifying potential and clarity. The Receptive symbolizes openness and nurturing, providing a supportive environment. Together, they suggest that when illumination is met with a nurturing and open attitude, it can fully manifest its potential, much like a seed growing in fertile soil."
+  },
+  "line_type": [
+    "yin",
+    "yin",
+    "yin",
+    "yang",
+    "yin",
+    "yang"
+  ],
+  "pairpath": {
+    "title": "Conflict's Veil",
+    "ascending_hex_num": 36,
+    "ascending_hex_name": "Darkening of the Light",
+    "descending_hex_num": 6,
+    "descending_hex_name": "Conflict",
+    "description": "This pair-path explores the interplay between concealment and confrontation. As 'Darkening of the Light' ascends, it signifies the need for caution and strategic withdrawal, hiding one's light to preserve inner truth amidst adversity. Conversely, 'Conflict' descends, representing the inevitable clash when differences arise, urging resolution through understanding and patience. Together, they illustrate the cycle of retreat and engagement, teaching the wisdom of knowing when to retreat into shadow and when to face challenges head-on.",
+    "kstate": "dynamic",
+    "image_prompt": "A landscape divided into two contrasting halves: one side is shrouded in shadows with a dimly lit lantern symbolizing hidden light, while the other side depicts a turbulent sky with clashing clouds, representing conflict. The horizon blends both elements, illustrating the cycle of concealment and confrontation.",
+    "path_num": 23
+  }
 }

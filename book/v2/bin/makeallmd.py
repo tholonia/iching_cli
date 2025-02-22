@@ -82,7 +82,7 @@ Last Updated: 2024
 # xHEXAGRAMS = [ '20','23','28','30','31','39','55','56','59']
 test_HEXAGRAMS = [ '01','02','03']
 
-
+from funcs_lib import wen_values
 
 HEXAGRAMS = [ '01', '02', '03', '04', '05', '06', '07', '08', '09', '10',
     '11', '12', '13', '14', '15', '16', '17', '18', '19', '20',
@@ -114,7 +114,7 @@ def ensure_directory_exists(tdir):
             os.makedirs(tdir, exist_ok=True)
             print(f"Created directory: {tdir}")
         except Exception as e:
-            print(f"Error creating directory {tdir}: {e}")
+            print(f"Error (r03) creating directory {tdir}: {e}")
             return False
     return True
 
@@ -156,10 +156,10 @@ def rewrite_literary_style(text, hexagram_id):
 
 def get_image_blurb(sfnum):
     try:
-        with open(f'{ROOT}/{sfnum}_img.txt', 'r', encoding='utf-8') as f:
+        with open(f'{ROOT}/prod/{sfnum}_img.txt', 'r', encoding='utf-8') as f:
             return f.read()
     except Exception as e:
-        print(f"Error reading file {ROOT}/{sfnum}.txt: {e}")
+        print(f"Error (r04) reading file {ROOT}/{sfnum}.txt: {e}")
         input(f"Paused on ERROR reading file {ROOT}/{sfnum}_img.txt")
         return None
 
@@ -174,7 +174,7 @@ def get_hex_blurb(sfnum):
         list: Array of paragraphs from the file, or None if file not found
     """
     try:
-        with open(f'{ROOT}/{sfnum}_hex.txt', 'r', encoding='utf-8') as f:
+        with open(f'{ROOT}/prod/{sfnum}_hex.txt', 'r', encoding='utf-8') as f:
             content = f.read().strip()
             # Split on double newlines to separate paragraphs
             # and filter out empty strings
@@ -185,7 +185,7 @@ def get_hex_blurb(sfnum):
                 return None
             return paragraphs
     except Exception as e:
-        print(Fore.RED + f"Error reading file {ROOT}/{sfnum}_hex.txt: {e}" + Style.RESET_ALL)
+        print(Fore.RED + f"Error (r05) reading file {ROOT}/{sfnum}_hex.txt: {e}" + Style.RESET_ALL)
         input(f"Paused on ERROR reading file {ROOT}/{sfnum}_hex.txt")
         return None
 
@@ -216,7 +216,7 @@ def format_core_section(core, sfnum):
 <span style="font-size:2em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;">{core['king_wen']['sequence']} {core['hexagram_code']}</span><span style="font-size:1em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;vertical-align:text-bottom;"> {core['binary_sequence']} </span><span style="font-size:2em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;">&nbsp; {core['name']}</span>
 </div>
 ## {core['description']}
-<img src="{ROOT}/{core['image']['file']}">
+<img src="{ROOT}/prod/{core['image']['file']}">
 <span style="margin-bottom: 8px;"> &nbsp; </span>
 ### *{image_blurb}*
 <p/>
@@ -233,21 +233,28 @@ def format_core_section(core, sfnum):
 
 #### ***Lines in Transition***
 
-<ul><li><B>{core['lines'][5]['position']}</B> ({core['line_type'][5]}) <I>{core['lines'][5]['name']}</I> - {core['lines'][5]['meaning']}.\n<i>Changing</i>: {core['lines'][5]['changing']}</li></ul>
-<ul><li><B>{core['lines'][4]['position']}</B> ({core['line_type'][4]}) <I>{core['lines'][4]['name']}</I> - {core['lines'][4]['meaning']}.\n<i>Changing</i>: {core['lines'][4]['changing']}</li></ul>
-<ul><li><B>{core['lines'][3]['position']}</B> ({core['line_type'][3]}) <I>{core['lines'][3]['name']}</I> - {core['lines'][3]['meaning']}.\n<i>Changing</i>: {core['lines'][3]['changing']}</li></ul>
-<ul><li><B>{core['lines'][2]['position']}</B> ({core['line_type'][2]}) <I>{core['lines'][2]['name']}</I> - {core['lines'][2]['meaning']}.\n<i>Changing</i>: {core['lines'][2]['changing']}</li></ul>
-<ul><li><B>{core['lines'][1]['position']}</B> ({core['line_type'][1]}) <I>{core['lines'][1]['name']}</I> - {core['lines'][1]['meaning']}.\n<i>Changing</i>: {core['lines'][1]['changing']}</li></ul>
-<ul><li><B>{core['lines'][0]['position']}</B> ({core['line_type'][0]}) <I>{core['lines'][0]['name']}</I> - {core['lines'][0]['meaning']}.\n<i>Changing</i>: {core['lines'][0]['changing']}</li></ul>
+<ul><li><B>{core['lines'][5]['position']}</B> ({core['line_type'][5]}) <I>{core['lines'][5]['name']}</I> - {core['lines'][5]['meaning']}\n<i>Moving line</i>: {core['lines'][5]['changing']}</li></ul>
+<ul><li><B>{core['lines'][4]['position']}</B> ({core['line_type'][4]}) <I>{core['lines'][4]['name']}</I> - {core['lines'][4]['meaning']}\n<i>Moving line</i>: {core['lines'][4]['changing']}</li></ul>
+<ul><li><B>{core['lines'][3]['position']}</B> ({core['line_type'][3]}) <I>{core['lines'][3]['name']}</I> - {core['lines'][3]['meaning']}\n<i>Moving line</i>: {core['lines'][3]['changing']}</li></ul>
+<ul><li><B>{core['lines'][2]['position']}</B> ({core['line_type'][2]}) <I>{core['lines'][2]['name']}</I> - {core['lines'][2]['meaning']}\n<i>Moving line</i>: {core['lines'][2]['changing']}</li></ul>
+<ul><li><B>{core['lines'][1]['position']}</B> ({core['line_type'][1]}) <I>{core['lines'][1]['name']}</I> - {core['lines'][1]['meaning']}\n<i>Moving line</i>: {core['lines'][1]['changing']}</li></ul>
+<ul><li><B>{core['lines'][0]['position']}</B> ({core['line_type'][0]}) <I>{core['lines'][0]['name']}</I> - {core['lines'][0]['meaning']}\n<i>Moving line</i>: {core['lines'][0]['changing']}</li></ul>
 
 #### **No Moving Lines**: {core['transformations']['no_moving_lines']}
 #### **All Moving Lines**: {core['transformations']['all_moving_lines']}
 
 #### ***Tholonic Analysis***
-**Negotiation**: {core['tholonic_analysis']['negotiation']}. **Limitation**: {core['tholonic_analysis']['limitation']}. **Contribution**: {core['tholonic_analysis']['contribution']}
+**Negotiation**: {core['tholonic_analysis']['negotiation']}. **Limitation**: {core['tholonic_analysis']['limitation']}. **Contribution**: {core['tholonic_analysis']['contribution']}"""
+
+
+    asc_hbval = wen_values[core['pairpath']['ascending_hex_num']][1]
+    des_hbval = wen_values[core['pairpath']['descending_hex_num']][1]
+
+
+    ostr += f"""
 
 #### ***The 32 Paths***
-#### The *{core['pairpath']['kstate']}* path of *{core['pairpath']['title']}* hold "{core['pairpath']['ascending_hex_name']}" ({core['pairpath']['ascending_hex_num']}) and *{core['pairpath']['descending_hex_name']}* ({core['pairpath']['descending_hex_num']}).  {core['pairpath']['description']}
+#### The *{core['pairpath']['kstate']}* path of *{core['pairpath']['title']}* hold "{core['pairpath']['ascending_hex_name']}" ({core['pairpath']['ascending_hex_num']} <sub>*{asc_hbval}*</sub>) and *{core['pairpath']['descending_hex_name']}* ({core['pairpath']['descending_hex_num']} <sub>*{des_hbval}*</sub>).  {core['pairpath']['description']}
 
 """
     return ostr
@@ -261,17 +268,17 @@ def format_stories_section(core,stories):
 
         result += f"""
 ##### {story['title']}
-### In the style of {story['theme']}
+### *In the style of {story['theme']}*
 
 #### {udesc}
 
 #### ***Lines in Context:***
-<ul><li><B>1</B> ({core['line_type'][5]}) <i>{story['lines_in_context']['1']['name']}</i> - {story['lines_in_context']['1']['meaning']}. <i>Changing</i> - {story['lines_in_context']['1']['changing']}</li></ul>
-<ul><li><B>2</B> ({core['line_type'][4]}) <i>{story['lines_in_context']['2']['name']}</i> - {story['lines_in_context']['2']['meaning']}. <i>Changing</i> - {story['lines_in_context']['2']['changing']}</li></ul>
-<ul><li><B>3</B> ({core['line_type'][3]}) <i>{story['lines_in_context']['3']['name']}</i> - {story['lines_in_context']['3']['meaning']}. <i>Changing</i> - {story['lines_in_context']['3']['changing']}</li></ul>
-<ul><li><B>4</B> ({core['line_type'][2]}) <i>{story['lines_in_context']['4']['name']}</i> - {story['lines_in_context']['4']['meaning']}. <i>Changing</i> - {story['lines_in_context']['4']['changing']}</li></ul>
-<ul><li><B>5</B> ({core['line_type'][1]}) <i>{story['lines_in_context']['5']['name']}</i> - {story['lines_in_context']['5']['meaning']}. <i>Changing</i> - {story['lines_in_context']['5']['changing']}</li></ul>
-<ul><li><B>6</B> ({core['line_type'][0]}) <i>{story['lines_in_context']['6']['name']}</i> - {story['lines_in_context']['6']['meaning']}. <i>Changing</i> - {story['lines_in_context']['6']['changing']}</li></ul>
+<ul><li><B>1</B> ({core['line_type'][5]}) <i>{story['lines_in_context']['1']['name']}</i> - {story['lines_in_context']['1']['meaning']} <i>Moving line</i> - {story['lines_in_context']['1']['changing']}</li></ul>
+<ul><li><B>2</B> ({core['line_type'][4]}) <i>{story['lines_in_context']['2']['name']}</i> - {story['lines_in_context']['2']['meaning']} <i>Moving line</i> - {story['lines_in_context']['2']['changing']}</li></ul>
+<ul><li><B>3</B> ({core['line_type'][3]}) <i>{story['lines_in_context']['3']['name']}</i> - {story['lines_in_context']['3']['meaning']} <i>Moving line</i> - {story['lines_in_context']['3']['changing']}</li></ul>
+<ul><li><B>4</B> ({core['line_type'][2]}) <i>{story['lines_in_context']['4']['name']}</i> - {story['lines_in_context']['4']['meaning']} <i>Moving line</i> - {story['lines_in_context']['4']['changing']}</li></ul>
+<ul><li><B>5</B> ({core['line_type'][1]}) <i>{story['lines_in_context']['5']['name']}</i> - {story['lines_in_context']['5']['meaning']} <i>Moving line</i> - {story['lines_in_context']['5']['changing']}</li></ul>
+<ul><li><B>6</B> ({core['line_type'][0]}) <i>{story['lines_in_context']['6']['name']}</i> - {story['lines_in_context']['6']['meaning']} <i>Moving line</i> - {story['lines_in_context']['6']['changing']}</li></ul>
 """
 
     return result
@@ -289,12 +296,12 @@ def format_history_section(history, core):
 
 #### ***Lines in History:***
 
-<ul><li><B>1</B> ({core['line_type'][5]}) <i>{history['lines_in_history']['1']['name']}</i> - {history['lines_in_history']['1']['meaning']} <i>Changing</i> - {history['lines_in_history']['1']['changing']}</li></ul>
-<ul><li><B>2</B> ({core['line_type'][4]}) <i>{history['lines_in_history']['2']['name']}</i> - {history['lines_in_history']['2']['meaning']} <i>Changing</i> - {history['lines_in_history']['2']['changing']}</li></ul>
-<ul><li><B>3</B> ({core['line_type'][3]}) <i>{history['lines_in_history']['3']['name']}</i> - {history['lines_in_history']['3']['meaning']} <i>Changing</i> - {history['lines_in_history']['3']['changing']}</li></ul>
-<ul><li><B>4</B> ({core['line_type'][2]}) <i>{history['lines_in_history']['4']['name']}</i> - {history['lines_in_history']['4']['meaning']} <i>Changing</i> - {history['lines_in_history']['4']['changing']}</li></ul>
-<ul><li><B>5</B> ({core['line_type'][1]}) <i>{history['lines_in_history']['5']['name']}</i> - {history['lines_in_history']['5']['meaning']} <i>Changing</i> - {history['lines_in_history']['5']['changing']}</li></ul>
-<ul><li><B>6</B> ({core['line_type'][0]}) <i>{history['lines_in_history']['6']['name']}</i> - {history['lines_in_history']['6']['meaning']} <i>Changing</i> - {history['lines_in_history']['6']['changing']}</li></ul>
+<ul><li><B>1</B> ({core['line_type'][5]}) <i>{history['lines_in_history']['1']['name']}</i> - {history['lines_in_history']['1']['meaning']} <i>Moving line</i> - {history['lines_in_history']['1']['changing']}</li></ul>
+<ul><li><B>2</B> ({core['line_type'][4]}) <i>{history['lines_in_history']['2']['name']}</i> - {history['lines_in_history']['2']['meaning']} <i>Moving line</i> - {history['lines_in_history']['2']['changing']}</li></ul>
+<ul><li><B>3</B> ({core['line_type'][3]}) <i>{history['lines_in_history']['3']['name']}</i> - {history['lines_in_history']['3']['meaning']} <i>Moving line</i> - {history['lines_in_history']['3']['changing']}</li></ul>
+<ul><li><B>4</B> ({core['line_type'][2]}) <i>{history['lines_in_history']['4']['name']}</i> - {history['lines_in_history']['4']['meaning']} <i>Moving line</i> - {history['lines_in_history']['4']['changing']}</li></ul>
+<ul><li><B>5</B> ({core['line_type'][1]}) <i>{history['lines_in_history']['5']['name']}</i> - {history['lines_in_history']['5']['meaning']} <i>Moving line</i> - {history['lines_in_history']['5']['changing']}</li></ul>
+<ul><li><B>6</B> ({core['line_type'][0]}) <i>{history['lines_in_history']['6']['name']}</i> - {history['lines_in_history']['6']['meaning']} <i>Moving line</i> - {history['lines_in_history']['6']['changing']}</li></ul>
 """
 
 def format_intro_section(args):
@@ -382,12 +389,24 @@ def generate_markdown_from_json(json_data, sfnum):
         below_meaning = 'N/A'
         below_engtr = 'N/A'
 
+
+# removed from notes section: <div style="page-break-before: always;"></div>
+
     markdown += f"""
 
-<div style="page-break-before: always;"></div>
 ###### *Notes*
+### **King Wen**: {core['king_wen']['sequence']} {core['hexagram_code']} <sub>*{core['binary_sequence']}*</sub> {core['king_wen']['common_title']}; {above_num} {above_symbol} <sub>*{above_bin}*</sub> {above_meaning},  {above_engtr} *over* {below_num} {below_symbol} <sub>*{below_bin}*</sub> {below_meaning}, {below_engtr};
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
-### **King Wen Order**: {core['king_wen']['sequence']} {core['hexagram_code']} {core['king_wen']['common_title']} **Binary**: {core['binary_sequence']}, **Above**: {above_num} (binary {above_bin}) {above_engtr} {above_symbol} {above_meaning}, **Below**: {below_num} (binary {below_bin}) {below_engtr} {below_symbol} {below_meaning}
 """
     return markdown
 
@@ -503,10 +522,10 @@ def main():
             with open(filename, 'r', encoding='utf-8') as file:
                 json_data = json.load(file)
         except FileNotFoundError:
-            print(Fore.RED + f"Error: File {filename} not found" + Style.RESET_ALL)
+            print(Fore.RED + f"Error (r01): File {filename} not found" + Style.RESET_ALL)
             continue
         except json.JSONDecodeError:
-            print(Fore.RED + f"Error: Invalid JSON in {filename}" + Style.RESET_ALL)
+            print(Fore.RED + f"Error (r02): Invalid JSON in {filename}" + Style.RESET_ALL)
             continue
 
         # flat_json = flatten_json(json_data)
