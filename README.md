@@ -205,8 +205,8 @@ see: `book/v2/requirements.txt`
 
 Applications required (for Linux)
 
-- **pdftk** *PDF tools
-- **code** (I use  Cursor AI, https://www.cursor.com/ )
+- **pdftk** *PDF tools*
+- **code** *(I use  Cursor AI, https://www.cursor.com/ )*
 - **okular** *PDF Viewer*
 - **prince-books** *Publisher*
 - **node-less** *CSS preprocessing*
@@ -238,6 +238,10 @@ Docs exist in `book/v2/docs`
 
 `./regen_story.py` rewrites a particular story (and all the lines) identified by its index of 0, 1, or 2.  To rewrite all the stories in a hexahran, you need to run this 3 times each with a different index.
 
+```sh
+./regen_story.py --filename ../regen/03.json --index 0 --provider openai [--save]
+```
+
 `./regen_history.py` rewrites the history story (and all the lines).
 
 `regen_theme_name.py` Run this to clean up the theme names (authors names) for the stories, as the AI will often say "in the style of {authors name}", or some other verbosity, and this will strip out everything except {authors name} and write it back to the json file.
@@ -262,7 +266,7 @@ These PDF require an export from a PSD to a PNG, then convert that PNG to a PDF.
 - `q8_iching_png.pdf  `
 - `binhex4col_png.pdf  `
 
-The TOC PDF must be generated with `regen-TOC.py`
+The TOC PDF must be generated with `regen-TOC.py`.  This creates ah HTML file that is convert to PDF in `post.sh`.
 
 Update `prep.sh` and `post.sh` with new filenames of necessary, then run:
 
@@ -270,6 +274,48 @@ Update `prep.sh` and `post.sh` with new filenames of necessary, then run:
 ./prep.sh
 # exoprt to html in typora
 ./post.sh
+```
+
+### Updating content and General Utility Info
+
+To remove the traditional Chinese names for the trigrams, trun th efollowing from tghe ```book/v2/bin``` folder:
+
+```sh
+perl -pi -e 's/\(Kan\/Water\)/\(Water\)/gmi' ../regen/*
+perl -pi -e 's/\(Qian\/Heaven\)/\(Heaven\)/gmi' ../regen/*
+perl -pi -e 's/\(Sun\/Wind\)/\(Wind\)/gmi' ../regen/*
+perl -pi -e 's/\(Dui\/Lake\)/\(Lake\)/gmi' ../regen/*
+perl -pi -e 's/\(Chen\/Thunder\)/\(Thunder\)/gmi' ../regen/*
+perl -pi -e 's/\(Li\/Fire\)/\(Fire\)/gmi' ../regen/*
+perl -pi -e 's/\(Gen\/Mountain\)/\(Mountain\)/gmi' ../regen/*
+perl -pi -e 's/\(Kun\/Earth\)/\(Earth\)/gmi' ../regen/*
+```
+
+Use PERL to modify JSON. For example, add the key "notes" above "hexagram_code":
+
+```sh
+# add the node 'notes' above 'hexagram_code'
+perl -pi -e 's/"hexagram_code/"notes":"",\n  "hexagram_code/gmi' ../regen/*json
+```
+
+```sh
+# add nodes 'api','model','date' above 'notes'.  Set date on runtime
+D=`date` perl -pi -e "s/\"notes/\"api\":\"perplexity\",\n    \"model\":\"sonar\",\n    \"date\":\"${D}\",\n    \"notes/gmi" ../regen/01.json
+```
+
+Complex PDF files shoudl be converted to simple PDF file.  
+
+```sh
+# PDF -> PNG
+export CURRENT_SIZE="8.25x11"
+magick -density 300 ../includes/_32paths_${CURRENT_SIZE}.pdf -resize 2475x3300! ../includes/_32paths_${CURRENT_SIZE}.png
+magick -density 300 ../includes/_binhex4col_${CURRENT_SIZE}.pdf -resize 2475x3300! ../includes/_binhex4col_${CURRENT_SIZE}.png
+magick -density 300 ../includes/_q8_iching_${CURRENT_SIZE}.pdf -resize 2475x3300! ../includes/_q8_iching_${CURRENT_SIZE}.png
+# PNG -> PDF
+magick ../includes/_32paths_${CURRENT_SIZE}.png ../includes/_32paths_${CURRENT_SIZE}_png.pdf
+magick ../includes/_binhex4col_${CURRENT_SIZE}.png ../includes/_binhex4col_${CURRENT_SIZE}_png.pdf
+magick ../includes/_q8_iching_${CURRENT_SIZE}.png ../includes/_q8_iching_${CURRENT_SIZE}_png.pdf
+
 ```
 
 

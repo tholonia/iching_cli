@@ -1,0 +1,2 @@
+#!/bin/bash
+./make_doc_python.py --create-doc $1

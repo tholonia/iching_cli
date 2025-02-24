@@ -87,7 +87,7 @@ if __name__ == "__main__":
 
     # Print hexagram codes
     for hexagram in hexagram_data_list:
-        print(hexagram[1])
+        print(hexagram)
 
     # Pretty print the sorted array
     # pprint(hexagram_data_list)

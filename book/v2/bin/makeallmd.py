@@ -244,7 +244,7 @@ def format_core_section(core, sfnum):
 #### **All Moving Lines**: {core['transformations']['all_moving_lines']}
 
 #### ***Tholonic Analysis***
-**Negotiation**: {core['tholonic_analysis']['negotiation']}. **Limitation**: {core['tholonic_analysis']['limitation']}. **Contribution**: {core['tholonic_analysis']['contribution']}"""
+**Negotiation**: {core['tholonic_analysis']['negotiation']} **Limitation**: {core['tholonic_analysis']['limitation']} **Contribution**: {core['tholonic_analysis']['contribution']}"""
 
 
     asc_hbval = wen_values[core['pairpath']['ascending_hex_num']][1]

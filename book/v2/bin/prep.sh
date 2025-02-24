@@ -122,7 +122,8 @@ lessc ${D}/../includes/iching_nopage.less ${D}/../includes/iching_nopage.css
 cp ${D}/../includes/iching_nopage.css /home/jw/.config/Typora/themes/iching_nopage.css
 
 # Pass the test flag to makeallmd.py if present
-./makeallmd.py --content pages ${TEST_FLAG}
+#./makeallmd.py --content pages ${TEST_FLAG}
+./make_all_docs.py --content pages ${TEST_FLAG}
 
 typora ${D}/../includes/iching.md
 

@@ -46,3 +46,10 @@ book/v2/bin/makeallmd.py.ORG
 book/v2/bin/grids/
 book/v2/ok6/
 book/v2/ok7/
+book/assets/
+book/v2/bin/.env
+book/v2/ok10_openai_gpt-4o/
+book/v2/ok10_ppx_sonar/
+book/v2/prod/Thumbs.db
+book/v2/prod/Thumbs.db:encryptable
+

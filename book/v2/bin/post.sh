@@ -108,8 +108,11 @@ BREAK='<div style="page-break-before: always;"></div>'
 #   process_document "BOOK_INTRO"
 
 
+CURRENT_SIZE="8.25x11"
+
+
 #BLANK=${D}/../includes/blank_8.3x11.7.pdf
-BLANK=${D}/../includes/blank_8.5x11.pdf
+BLANK=${D}/../includes/blank_${CURRENT_SIZE}.pdf
 
 function process_document() {
     local DOCUMENT="$1"
@@ -176,17 +179,16 @@ echo -e "\033[33mMerging...\033[0m"
 #COVER=${D}/../includes/COVER_PAGE_8.5x11.pdf
 #COVER=${D}/../includes/COVER_v1.pdf
 
-COVER=${D}/../includes/COVER_v3.pdf
+COVER=${D}/../includes/_COVER_v2_${CURRENT_SIZE}.pdf
 COPYRIGHT=${D}/../includes/COPYRIGHT_PAGE_v1.pdf
-INSIDE=${D}/../includes/INSIDE_PAGE.pdf
+INSIDE=${D}/../includes/INSIDE_PAGE_${CURRENT_SIZE}.pdf
 BOOK=${D}/../includes/BOOK_INTRO.pdf
-Q8=${D}/../includes/q8_iching_png.pdf
-BIN=${D}/../includes/binhex4col_png.pdf
+Q8=${D}/../includes/_q8_iching_${CURRENT_SIZE}_png.pdf
+BIN=${D}/../includes/_binhex4col_${CURRENT_SIZE}_png.pdf
+PATHS=${D}/../includes/_32paths_${CURRENT_SIZE}_png.pdf
 TOC=${D}/../includes/FINAL_TOC.pdf
 ICHING=${D}/../includes/iching.pdf
 
-# add copyright and cover to PDF
-# - q8_iching_png.pdf and bin/q8_iching_png.pdf are premade from PNG/PSD files
 
 pdftk \
     ${COVER} \
@@ -195,6 +197,7 @@ pdftk \
     ${BOOK} \
     ${Q8} \
     ${BIN} \
+    ${PATHS} \
     ${TOC} \
     ${ICHING} \
     cat output ${D}/../includes/FINAL_iching.pdf

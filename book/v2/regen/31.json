@@ -1,285 +1,289 @@
 {
-  "id": 31,
-  "hexagram_code": "\u4dde",
-  "name": "Resonant Attraction",
-  "description": "The harmonious interplay of complementary forces creating mutual influence and transformation. Like electromagnetic fields that invisibly shape and affect each other, this hexagram represents the dynamic attraction between different but compatible energies that leads to creative unity.",
-  "king_wen": {
-    "sequence": 31,
-    "traditional_title": "Hsien",
-    "common_title": "Influence/Wooing"
-  },
-  "binary_sequence": 28,
-  "trigrams": {
-    "above": {
-      "Trigram Number": 8,
-      "Binary Decimal": 4,
-      "Symbol": "\u2631",
-      "Chinese Symbol": "\u5151",
-      "Phonetic": "Du\u00ec",
-      "English Translation": "Lake/Marsh",
-      "English Symbol": "\u6cfd",
-      "Meaning": "The Joyous",
-      "Quality": "Joyful and Harmonious"
+    "id": 31,
+    "api": "openai",
+    "model": "gpt-4o",
+    "date": "Sun Feb 23 11:48:15 AM -03 2025",
+    "notes": "",
+    "hexagram_code": "䷞",
+    "name": "Resonant Attraction",
+    "description": "The harmonious interplay of complementary forces creating mutual influence and transformation. Like electromagnetic fields that invisibly shape and affect each other, this hexagram represents the dynamic attraction between different but compatible energies that leads to creative unity.",
+    "king_wen": {
+        "sequence": 31,
+        "traditional_title": "Hsien",
+        "common_title": "Influence/Wooing"
     },
-    "below": {
-      "Trigram Number": 3,
-      "Binary Decimal": 3,
-      "Symbol": "\u2636",
-      "Chinese Symbol": "\u826e",
-      "Phonetic": "G\u00e8n",
-      "English Translation": "Mountain",
-      "English Symbol": "\u5c71",
-      "Meaning": "The Still",
-      "Quality": "Still and Enduring"
-    }
-  },
-  "attributes": {
-    "perspective": "The dynamic interplay between receptivity and stability that creates sustainable influence",
-    "nature": "Magnetic and Harmonizing",
-    "action": "Cultivating mutual influence",
-    "success_through": "Understanding and working with natural affinities",
-    "challenge": "Maintaining authentic connection while allowing natural development"
-  },
-  "lines": [
-    {
-      "position": 6,
-      "name": "The Transcendent Resonance",
-      "meaning": "At the apex of the hexagram, the line embodies a summit of resonant energy, where diverse forces merge into a sublime, unifying brilliance.",
-      "changing": "The final stage sees all remaining yin energies fully transmuted into pure yang, culminating in a state of transcendent and harmonious unity."
-    },
-    {
-      "position": 5,
-      "name": "The Luminous Threshold",
-      "meaning": "Approaching the level of culmination, this line radiates a clear promise of unity, where the synthesis of energies becomes unmistakably potent.",
-      "changing": "The mature yin, steeped in reflection, transforms into assertive yang, marking the passage from potential to brilliant reality."
-    },
-    {
-      "position": 4,
-      "name": "The Echoing Chamber",
-      "meaning": "Here, deep reflections resonate across time, inviting profound insight and the reevaluation of past experiences in light of new energy.",
-      "changing": "Subtle energies shift as lingering yin experiences resonate outward, gradually emerging as a reflective yang light guiding the way forward."
-    },
-    {
-      "position": 3,
-      "name": "The Vibrant Pulse",
-      "meaning": "At the energetic heart of attraction, this line beats with dynamic momentum, signaling the surge of creative power and mutual influence.",
-      "changing": "A decisive transformation converts passive yin into an active yang force, igniting movement and creative expression."
-    },
-    {
-      "position": 2,
-      "name": "The Resonant Bridge",
-      "meaning": "This line serves as a bridge linking the inner realm with outer expression, harmonizing internal receptivity with external outreach.",
-      "changing": "A measured transition happens as receptive yin softly shifts into affirming yang, strengthening the connection between self and world."
-    },
-    {
-      "position": 1,
-      "name": "The Gathering Spring",
-      "meaning": "In its nascent state, the line echoes the call of emerging life; a subtle vibration that invites introspection and the accumulation of latent energies.",
-      "changing": "A gentle alchemy occurs as concealed yin energies awaken, beginning their transformation into a soft, budding yang presence."
-    }
-  ],
-  "tholonic_analysis": {
-    "negotiation": "The hexagram represents negotiation between openness (Lake) and stability (Mountain). This interaction produces sustainable influence through natural affinity. The lines show progressive stages of developing mutual resonance.",
-    "limitation": "Lake above Mountain shows how containing influence creates lasting effect. Like water finding its level, limitations guide energy into sustainable patterns. These boundaries ensure authentic connection.",
-    "contribution": "This configuration contributes understanding of how systems naturally influence each other. It demonstrates how awareness can guide the development of harmonious relationships through recognition of natural affinities.",
-    "significance_in_thologram": "This hexagram occupies a position in the thologram where different energies naturally align. It represents how systems develop sustainable relationships through mutual influence, essential for creating higher-order harmonies."
-  },
-  "transformations": {
-    "no_moving_lines": "When no lines are moving, focus on maintaining current harmonious connections. Stay authentic and allow natural affinities to develop. Progress comes through steady cultivation rather than forced influence.",
-    "all_moving_lines": "When all lines move, a complete transformation in relationship dynamics is indicated. Old patterns of influence give way to new forms of connection. Stay centered while navigating fundamental shifts in interaction."
-  },
-  "hierarchy": {
-    "order8child": "Testing through interaction",
-    "order8parent": "CHALLENGES; Testing & Strengthening"
-  },
-  "image": {
-    "description": "The image captures the essence of \"Resonant Attraction\" through its vivid interplay of forms and energies, representing a universal pattern of dynamic harmony. It visually communicates the triadic relationship of openness and stability with organic and cosmic elements concocting in a balanced dance between structure and chaos. This harmonizes the concept of sustainable influence emerging from natural affinities, demonstrated through intricate networks connecting celestial bodies and the figure\u2019s innovative gesture. The scene embodies emergence, suggesting a divine order arising from the seeming chaos of cosmic interactions, reflecting a hierarchy that extends from the microcosm of human expression to the macrocosm of universal dance. It encapsulates the transformative power of authentic connection and the seamless integration of disparate elements into a cohesive whole, echoing the core message of cultivating mutual influence through genuine interaction.",
-    "file": "31.png"
-  },
-  "energy_cycle": "ascending",
-  "stories": {
-    "title": "Three Tales of \"Resonant Attraction\"",
-    "entries": [
-      {
-        "title": "Echoes of Influence (Man vs. Man)",
-        "theme": "Paulo Coelho",
-        "short_story": "In a small village nestled between the arms of an ancient forest and a flowing river, lived a young artisan named Elara. Her craft, an enchanting mosaic of vivid colors, echoed her quiet devotion to capturing the beauty she saw in the world. The villagers admired her work but were often puzzled by its abstract forms.\n\nOne day, Elara was commissioned by the village elder to craft a mural that would symbolize the community's hopes for future generations (Emergence). Enthralled by the project, she spent days in solitude, collecting inspirations from the whispers of the river and the whispers of the winds. Yet, amidst this solitude, a doubt began to creep into her mind, clouding her vision (Formation).\n\nConflicts raged within her as she wrestled with the pressure of expectation and her own creative heart (Conflict). Her once fluid ideas now clashed with uncertainties, leading her to question her abilities. But as the struggle deepened, she realized that beauty lay not in perfection but in harmony between contrasts (Manifestation).\n\nGradually, the mural took shape, guided by Elara's newfound understanding. The vibrant colors flowed together, telling a story of unity within diversity (Mastery). On the day of the unveiling, as daylight kissed the mural's surface, the village stood in awe of the creation that seemed to breathe with life.\n\nIn that moment, Elara transcended her fears. She had woven a masterpiece that resonated with the village's spirit, capturing the dance of influences that shape human existence. Her work became more than art; it was a beacon of shared dreams (Transcendence). In embracing her path, Elara discovered that true influence arises from allowing oneself to be touched by the world and in turn touching it back with the same grace.",
-        "lines_in_context": {
-          "6": {
-            "name": "Transcendence",
-            "meaning": "Elara's mural transcends mere decoration to become a living testament to the village's collective hope.",
-            "changing": "When Elara embraces change by opening herself fully to her art and community, a profound ripple effect touches all, heightening the mural's impact as a catalyst for communal growth and transformation."
-          },
-          "5": {
-            "name": "Mastery",
-            "meaning": "Through mastery, Elara achieves a blend of technical skill and emotional depth, uniting disparate elements into a cohesive whole.",
-            "changing": "Should Elara fall into complacency, her mural risks losing its vibrancy, fading into mediocrity instead of maintaining its evocative resonance."
-          },
-          "4": {
-            "name": "Manifestation",
-            "meaning": "Elara's internal conflict resolves into a clear, manifested vision on the mural's surface.",
-            "changing": "If she grows rigid, losing touch with her inner muse, the mural could become static, its energy dissipating into uninspired narrative."
-          },
-          "3": {
-            "name": "Conflict",
-            "meaning": "Elara's inner struggle and external expectations clash, catalyzing her growth as an artist.",
-            "changing": "If doubt overtakes her confidence, she risks abandoning the mural, leaving her vision unrealized and fractured."
-          },
-          "2": {
-            "name": "Formation",
-            "meaning": "As Elara channels ideas into tangible designs, her creations begin to reveal the underlying harmony.",
-            "changing": "By embracing a dynamic shift, she unlocks new avenues of inspiration, intensifying the thematic richness of her mural."
-          },
-          "1": {
-            "name": "Emergence",
-            "meaning": "The commission sparks a new wave of creative exploration, diverting Elara's latent talents toward community expression.",
-            "changing": "Should she choose bold intuition over caution, she forges a path into splendid abstraction, where her genius flourishes beyond past constraints."
-          }
+    "binary_sequence": 28,
+    "trigrams": {
+        "above": {
+            "Trigram Number": 8,
+            "Binary Decimal": 4,
+            "Symbol": "☱",
+            "Chinese Symbol": "兑",
+            "Phonetic": "Duì",
+            "English Translation": "Lake/Marsh",
+            "English Symbol": "泽",
+            "Meaning": "The Joyous",
+            "Quality": "Joyful and Harmonious"
+        },
+        "below": {
+            "Trigram Number": 3,
+            "Binary Decimal": 3,
+            "Symbol": "☶",
+            "Chinese Symbol": "艮",
+            "Phonetic": "Gèn",
+            "English Translation": "Mountain",
+            "English Symbol": "山",
+            "Meaning": "The Still",
+            "Quality": "Still and Enduring"
         }
-      },
-      {
-        "title": "Resonant Awakening (Man vs. Nature)",
-        "theme": "Gabriel Garc\u00eda M\u00e1rquez",
-        "short_story": "In the heart of a hidden valley, cloaked by a mist that never seemed to clear, lay the Village of Echoes, a place where the resonance of nature fused seamlessly with the whispers of human life. Each dawn was greeted by the melodious calls of birds and the vibrant rustle of leaves, as if the earth itself breathed a polyphonic hymn. At the center of this symphony, Maria, a gifted gardener, lived with an uncanny ability to communicate with the plants she tended. \n\nOn a fateful morning, Maria woke from a vivid dream, in which a peculiar seed called to her, promising blossoms of unparalleled beauty (Emergence). Intrigued and empowered by the seed\u2019s silent plea, she searched her garden until her fingers brushed against its smooth, unassuming surface. Planting it in a clearing, she nurtured it with care and intention (Formation). \n\nAs the days passed, the seed\u2019s growth faced a stubborn drought, threatening its potential. Maria toiled against nature\u2019s harsh decrees, drawing water from a deep well, her efforts echoing her internal struggle (Conflict). Yet, unforeseen, the skies burst open in a deluge, ensuring the seed's flourishing amidst adversity (Manifestation). \n\nThe plant\u2019s flowering attracted villagers from afar, eager for the rumored sight. Under Maria's vigilant care, the plant became a testament to her mastery, its petals whispering tales of resilience and love (Mastery). Each blossom seemed to emit a soothing resonance that enveloped the village in peace.\n\nOne evening, as the sun set in a spectrum of crimson and gold, Maria realized the seed\u2019s gift extended beyond her garden, uniting the hearts of villagers and imbuing them with newfound harmony (Transcendence). Her creation had not only fulfilled its promise but transcended the limits of its own existence, weaving itself into the soul of the community.",
-        "lines_in_context": {
-          "6": {
-            "name": "Transcendence",
-            "meaning": "Maria's achievement transcends the personal, echoing through the village and beyond.",
-            "changing": "As the plant's essence transforms the village, it symbolizes unity and collaboration, fostering a shared vision of beauty and purpose."
-          },
-          "5": {
-            "name": "Mastery",
-            "meaning": "Maria enfolds skill and devotion, guiding the plant to full bloom.",
-            "changing": "Overconfidence might blind her to subtle disharmonies, threatening the garden's balance and vibrant communication."
-          },
-          "4": {
-            "name": "Manifestation",
-            "meaning": "The plant's unexpected survival against the arid climate sees its full expression.",
-            "changing": "Should Maria grow complacent, neglect might lead the garden to stagnate, losing its vital presence and message."
-          },
-          "3": {
-            "name": "Conflict",
-            "meaning": "Maria wrestles with drought, a mirror to her inner turmoil and fear.",
-            "changing": "Embracing struggle deepens her resilience, turning adversity into a catalyst for growth and innovation."
-          },
-          "2": {
-            "name": "Formation",
-            "meaning": "The seed's potential slowly unfolds as Maria nurtures it with love and intent.",
-            "changing": "A shift to action invites innovative methods, enhancing growth and reinforcing the bond between gardener and garden."
-          },
-          "1": {
-            "name": "Emergence",
-            "meaning": "The seed's subtle call inspires Maria to explore and cultivate its hidden promise.",
-            "changing": "Transforming doubt into determination empowers Maria, instilling confidence to initiate and pursue her vision."
-          }
+    },
+    "attributes": {
+        "perspective": "The dynamic interplay between receptivity and stability that creates sustainable influence",
+        "nature": "Magnetic and Harmonizing",
+        "action": "Cultivating mutual influence",
+        "success_through": "Understanding and working with natural affinities",
+        "challenge": "Maintaining authentic connection while allowing natural development"
+    },
+    "lines": [
+        {
+            "position": 6,
+            "name": "The Transcendent Resonance",
+            "meaning": "At the apex of the hexagram, the line embodies a summit of resonant energy, where diverse forces merge into a sublime, unifying brilliance.",
+            "changing": "The final stage sees all remaining yin energies fully transmuted into pure yang, culminating in a state of transcendent and harmonious unity."
+        },
+        {
+            "position": 5,
+            "name": "The Luminous Threshold",
+            "meaning": "Approaching the level of culmination, this line radiates a clear promise of unity, where the synthesis of energies becomes unmistakably potent.",
+            "changing": "The mature yin, steeped in reflection, transforms into assertive yang, marking the passage from potential to brilliant reality."
+        },
+        {
+            "position": 4,
+            "name": "The Echoing Chamber",
+            "meaning": "Here, deep reflections resonate across time, inviting profound insight and the reevaluation of past experiences in light of new energy.",
+            "changing": "Subtle energies shift as lingering yin experiences resonate outward, gradually emerging as a reflective yang light guiding the way forward."
+        },
+        {
+            "position": 3,
+            "name": "The Vibrant Pulse",
+            "meaning": "At the energetic heart of attraction, this line beats with dynamic momentum, signaling the surge of creative power and mutual influence.",
+            "changing": "A decisive transformation converts passive yin into an active yang force, igniting movement and creative expression."
+        },
+        {
+            "position": 2,
+            "name": "The Resonant Bridge",
+            "meaning": "This line serves as a bridge linking the inner realm with outer expression, harmonizing internal receptivity with external outreach.",
+            "changing": "A measured transition happens as receptive yin softly shifts into affirming yang, strengthening the connection between self and world."
+        },
+        {
+            "position": 1,
+            "name": "The Gathering Spring",
+            "meaning": "In its nascent state, the line echoes the call of emerging life; a subtle vibration that invites introspection and the accumulation of latent energies.",
+            "changing": "A gentle alchemy occurs as concealed yin energies awaken, beginning their transformation into a soft, budding yang presence."
         }
-      },
-      {
-        "title": "The Whisper of Resonance (Man vs. Self)",
-        "theme": "Haruki Murakami",
-        "short_story": "Seiji was an ordinary man with an extraordinary talent for hearing the world's silent whispers. He lived a modest life in a small town, understanding his only real gift was his ability to perceive connections between seemingly unrelated phenomena. One morning, as he wandered through the forest near his home, he felt the gentle pull of a stream's murmur, a symphony of nature's own accord intertwined with his heart (Emergence).\n\nCompelled by this silent orchestra, Seiji began to build a bridge across the stream, convinced it held the secret to deeper understanding (Formation). His dedication to this project was unwavering, even as others saw it as a curiosity at best. Yet, as the structure took shape, so too did the resistance from people around him\u2014skepticism and criticism flowed like the currents he sought to span (Conflict).\n\nThough engulfed in doubt, Seiji persisted, aligning each plank and nail with the rhythm of the water, ensuring his creation harmonized with its environment (Manifestation). Upon completion, the bridge wasn't merely functional; it became a conduit of introspection and unity. Traversing the bridge, individuals found clarity in their thoughts, touched by the resonance of a reality often unnoticed (Mastery).\n\nWith his work complete, Seiji marveled at how a simple act of creation had weaved such profound harmony, its whispers now echoing throughout the community (Transcendence). Embracing this new chapter, Seiji came to understand the true nature of influence\u2014one that beckons subtly yet transforms completely.",
-        "lines_in_context": {
-          "6": {
-            "name": "Transcendence",
-            "meaning": "The bridge becomes a symbol of deeper harmony, uniting thoughts and spirits.",
-            "changing": "The transition to active engagement with the world amplifies the bridge's role in the community, fostering unprecedented unity and understanding, transforming individual perceptions into collective awareness."
-          },
-          "5": {
-            "name": "Mastery",
-            "meaning": "Seiji aligns his structure with the natural flow, mastering the art of subtle influence.",
-            "changing": "A shift from control to overconfidence risks unraveling his creation's delicate balance, potentially turning harmonious unity into discord if unchecked."
-          },
-          "4": {
-            "name": "Manifestation",
-            "meaning": "The bridge materializes, harmonizing with its surroundings to connect disparate parts.",
-            "changing": "A lapse into rigidity could stifle its living connection to the environment, turning vibrance into sterile utility."
-          },
-          "3": {
-            "name": "Conflict",
-            "meaning": "Seiji confronts doubt from within and without, spurred by his unshakable vision.",
-            "changing": "If discouragement overcomes him, his dream of the bridge might wither, a testament to ambitions left unrealized."
-          },
-          "2": {
-            "name": "Formation",
-            "meaning": "He channels his idea into tangible actions, bridging the gap between vision and reality.",
-            "changing": "A sweeping embrace of innovation could spark new directions, transforming abstract potential into groundbreaking reality."
-          },
-          "1": {
-            "name": "Emergence",
-            "meaning": "The gentle whisper of the stream awakens Seiji\u2019s latent creative energy, driving him to action.",
-            "changing": "Dynamic shifts replace calm observation with unwavering initiative, inspiring transformative creativity in unexpected areas of life."
-          }
-        }
-      }
-    ]
-  },
-  "history": {
-    "title": "Newton's Insights into Gravitational Resonance",
-    "subtitle": "\"Resonant Attraction\" in History",
-    "short_story": "In the 17th century, Isaac Newton's contemplation of an apple falling from a tree led him to a monumental epiphany. It wasn't merely the fall of the apple that intrigued Newton but the concept of unseen forces shaping the universe. He perceived gravity not as an isolated occurrence but as part of a grand cosmic resonance. The unseen pull that directed the apple downward also governed the heavens, uniting terrestrial and celestial mechanics (Emergence). By observing the moon's orbit, Newton formulated his theory of universal gravitation\u2014a fundamental law that illustrated the mutual attraction between masses (Formation). This elegant principle confronted the rigid skepticism of his contemporaries (Conflict). Despite resistance, Newton's dedication propelled him to refine his theories, resulting in the seminal work, 'Principia Mathematica' (Manifestation). This masterful text unified the physics of the earth and sky, demonstrating a profound mastery of natural laws (Mastery). His legacy transcended scientific boundaries, embedding the concept of gravitational resonance into the human understanding of the universe (Transcendence). Newton's work transformed the mere observation of falling fruit into a universal symphony, revealing the interconnected tapestry of existence.",
-    "source": [
-      "Isaac Newton's 'Philosophi\u00e6 Naturalis Principia Mathematica'",
-      "Biographies of Isaac Newton: 'Isaac Newton' by James Gleick"
     ],
-    "lines_in_history": {
-      "6": {
-        "name": "Transcendence of Universal Laws",
-        "meaning": "Newton's discovery reveals the universal law of gravitation, transcending previous limitations of understanding.",
-        "changing": "When abstract theories are challenged by practical application, resistance may arise, but successful integration leads to a transformative understanding of cosmic interconnectedness."
-      },
-      "5": {
-        "name": "Mastery of Mathematical Principles",
-        "meaning": "Newton's ability to mathematically describe gravitational forces marks a pinnacle of scientific mastery.",
-        "changing": "If the complexity overwhelms dissemination, it may lead to confusion; yet, simplifying these principles for wider comprehension can empower future scientific inquiry."
-      },
-      "4": {
-        "name": "Manifestation of Gravitational Theory",
-        "meaning": "The publication of 'Principia Mathematica' manifests Newton's theories into a cohesive framework.",
-        "changing": "Relying purely on theoretical elegance without empirical validation may diminish its real-world application, highlighting the need for balance."
-      },
-      "3": {
-        "name": "Conflict with Established Views",
-        "meaning": "Newton's gravitational insights disrupt existing scientific paradigms, clashing with reluctance to change.",
-        "changing": "If not reconciled, the tension might stifle scientific progress; conversely, overcoming it leads to greater acceptance and revolutionary progress."
-      },
-      "2": {
-        "name": "Formation of Theoretical Constructs",
-        "meaning": "Newton builds the conceptual framework of universal gravitation, organizing his observations into systematic theories.",
-        "changing": "A shift from theory to empirical testing may refine his ideas, enabling them to withstand scrutiny and adaptation."
-      },
-      "1": {
-        "name": "Emergence of Gravitational Insight",
-        "meaning": "The initial realization of gravitational forces emerges from everyday observation.",
-        "changing": "Elevating this insight into formal theory may face skepticism, but doing so unveils a profound layer of cosmic order."
-      }
+    "tholonic_analysis": {
+        "negotiation": "The hexagram represents negotiation between openness (Lake) and stability (Mountain). This interaction produces sustainable influence through natural affinity. The lines show progressive stages of developing mutual resonance.",
+        "limitation": "Lake above Mountain shows how containing influence creates lasting effect. Like water finding its level, limitations guide energy into sustainable patterns. These boundaries ensure authentic connection.",
+        "contribution": "This configuration contributes understanding of how systems naturally influence each other. It demonstrates how awareness can guide the development of harmonious relationships through recognition of natural affinities.",
+        "significance_in_thologram": "This hexagram occupies a position in the thologram where different energies naturally align. It represents how systems develop sustainable relationships through mutual influence, essential for creating higher-order harmonies."
+    },
+    "transformations": {
+        "no_moving_lines": "When no lines are moving, focus on maintaining current harmonious connections. Stay authentic and allow natural affinities to develop. Progress comes through steady cultivation rather than forced influence.",
+        "all_moving_lines": "When all lines move, a complete transformation in relationship dynamics is indicated. Old patterns of influence give way to new forms of connection. Stay centered while navigating fundamental shifts in interaction."
+    },
+    "hierarchy": {
+        "order8child": "Testing through interaction",
+        "order8parent": "CHALLENGES; Testing & Strengthening"
+    },
+    "image": {
+        "description": "The image captures the essence of \"Resonant Attraction\" through its vivid interplay of forms and energies, representing a universal pattern of dynamic harmony. It visually communicates the triadic relationship of openness and stability with organic and cosmic elements concocting in a balanced dance between structure and chaos. This harmonizes the concept of sustainable influence emerging from natural affinities, demonstrated through intricate networks connecting celestial bodies and the figure’s innovative gesture. The scene embodies emergence, suggesting a divine order arising from the seeming chaos of cosmic interactions, reflecting a hierarchy that extends from the microcosm of human expression to the macrocosm of universal dance. It encapsulates the transformative power of authentic connection and the seamless integration of disparate elements into a cohesive whole, echoing the core message of cultivating mutual influence through genuine interaction.",
+        "file": "31.png"
+    },
+    "energy_cycle": "ascending",
+    "stories": {
+        "title": "Three Tales of \"Resonant Attraction\"",
+        "entries": [
+            {
+                "title": "The Echoes of Influence (Man vs. Man)",
+                "theme": "Gabriel García Márquez",
+                "short_story": "In a town where every lane was a river of whispers, Diego, the most revered craftsman, embarked on his grand endeavor: a fountain that would sing the town's history. His workshop echoed with the anticipation of this creation, each tool contributing its own murmur to the symphony of intent.\n\nThe project sprung from a spark of inspiration, one morning when the sun filtered through the mist in such a way that even the dust seemed to dance. With every gesture, Diego felt the fountain's shape gently rising from his vision into reality (Emergence).\n\nIn the next phase, clarity birthed form; stones and water channels were artfully assembled. Yet, as Diego sculpted the marble, doubts seeped through cracks as his patrons voiced concerns over cost and time (Formation). Their whispers threatened to erode his resolve, testing the bedrock of his ambition (Conflict).\n\nUnyielding, Diego delved deeper into his work, aligning marble grooves to catch the light just so, and the fountain's facade began to glow with veiled promises. But at what cost, he wondered, would this vision solidify? (Manifestation).\n\nAs water first kissed stone, a melody unfurled, stunning the town into reverent silence—Diego's mastery sprouting from their silenced doubts (Mastery). This fountain, his magnum opus, drew visitors from beyond the mountains, a testament not just to his craft but to his faith in a whisper realized.\n\nThe town's echoes now danced upon other canvases, as Diego's creation transcended mere stone and song, awakening a deeper potential within each soul. This, he realized, was not just a fountain, but a conduit to the endless harmony between imagination and reality (Transcendence).",
+                "lines_in_context": {
+                    "6": {
+                        "name": "Transcendence",
+                        "meaning": "Diego's fountain transcends its initial purpose, becoming a timeless symbol of unity and shared truth.",
+                        "changing": "As the fountain resonates throughout the town, it quietly transforms discord into harmony, uncovering collective aspirations."
+                    },
+                    "5": {
+                        "name": "Mastery",
+                        "meaning": "Diego's alignment of light and water elevates the fountain into a masterpiece of living art.",
+                        "changing": "Should pride shadow his judgment, the fountain might lose its authenticity, turning beauty into mere spectacle."
+                    },
+                    "4": {
+                        "name": "Manifestation",
+                        "meaning": "Amid skepticism, Diego's unwavering vision brings the fountain to life, bridging ideas and reality.",
+                        "changing": "Formal perfection without heart may render the fountain cold, dampening its emotional resonance with the people."
+                    },
+                    "3": {
+                        "name": "Conflict",
+                        "meaning": "Diego faces the collective doubts of his patrons against his unwavering belief in his art.",
+                        "changing": "If he succumbs to doubt, his vision falters, leaving an unfinished echo of his aspiration."
+                    },
+                    "2": {
+                        "name": "Formation",
+                        "meaning": "Diego's dream crystallizes into a tangible blueprint, solidifying under careful hands.",
+                        "changing": "Infusion of renewed inspiration could ignite unexpected pathways, enhancing the artistic depth."
+                    },
+                    "1": {
+                        "name": "Emergence",
+                        "meaning": "The fountain's concept emerges from Diego's imagination, spurred by an ordinary morning's brilliance.",
+                        "changing": "As his vision solidifies into determination, Diego invites collaboration, thus enriching the creation process with fresh perspectives."
+                    }
+                }
+            },
+            {
+                "title": "Harmony of the Elements (Man vs. Nature)",
+                "theme": "Haruki Murakami",
+                "short_story": "In a quiet realm where mountains kissed the sky and rivers whispered secrets beneath their breath, lived a solitary figure named Asahi. Each morning, he would wander through the verdant valleys, listening to the subtle symphony of nature, seeking a deeper connection with the world around him.\n\nOne day, as the mist lingered like a dream unready to dissipate, Asahi stumbled upon a hidden brook, its gentle song weaving into his soul (Emergence). Drawn to its melody, he lingered, feeling an invisible urge to capture the brook's essence in a harmonious creation.\n\nDetermined, he set about constructing a wind chime, intending it to sing in unison with the brook. His hands worked with precise intention, each piece of wood and metal aligning with an internal rhythm that pulsed within him (Formation). Yet, as the chime began to take shape, doubts crept in, rustling like unseen leaves. Would his creation resonate truly, or fall silent against the brook's purity (Conflict)?\n\nBut Asahi persevered, binding each element with reverence, aligning them to catch the wind's breath. When the chime was finally hung, its song merged with the brook's voice, a manifestation of balance, as if the earth itself held its breath in delight (Manifestation).\n\nThe harmony between the brook and the chime grew, captivating the valley's spirits with its serene interplay. Asahi's mastery emerged, not in dominance but in a profound alignment with the forces he barely controlled (Mastery).\n\nIn this unity, Asahi discovered transcendence—a realization that the world itself was a vast chime, each being a note in an endless, harmonious symphony (Transcendence). His creation was no longer just a wind chime but an eternal dance of elements, resonating with the heartbeats of the mountains and whispers of the river.",
+                "lines_in_context": {
+                    "6": {
+                        "name": "Transcendence",
+                        "meaning": "The creation resonates with the harmony of nature, revealing a unity beyond its original scope.",
+                        "changing": "As the wind chime's song fuses with the valley's natural tunes, it expands Asahi's understanding, leading to a shared vision of unity and higher awareness."
+                    },
+                    "5": {
+                        "name": "Mastery",
+                        "meaning": "Asahi aligns his creation with nature's rhythm, mastering the craft of subtle influence.",
+                        "changing": "The transition from meticulous control to an acceptance of natural flow deepens the connection, preventing disharmony and allowing the creation to blossom in unexpected ways."
+                    },
+                    "4": {
+                        "name": "Manifestation",
+                        "meaning": "The wind chime materializes, integrating seamlessly with its surroundings.",
+                        "changing": "A shift from active construction to a more passive observation allows refinement, ensuring that the chime's song remains in harmony with its context."
+                    },
+                    "3": {
+                        "name": "Conflict",
+                        "meaning": "Asahi faces internal doubts about the authenticity of his creation.",
+                        "changing": "Yielding to inner tension could arrest the flow of creativity, but overcoming it solidifies trust in his intuition, enhancing the creation's authenticity."
+                    },
+                    "2": {
+                        "name": "Formation",
+                        "meaning": "The construction of the wind chime takes form, guided by Asahi's subtle intent.",
+                        "changing": "A shift towards active engagement with his materials heightens his creative insight, allowing more innovative expressions of harmony to unfold."
+                    },
+                    "1": {
+                        "name": "Emergence",
+                        "meaning": "The initial inspiration springs forth from the brook's subtle song.",
+                        "changing": "The transformation from passive receptivity to active creation ignites fresh possibilities, guiding Asahi toward a deeper creative expression."
+                    }
+                }
+            },
+            {
+                "title": "The Weaver's Journey (Man vs. Self)",
+                "theme": "Isabel Allende",
+                "short_story": "In the heart of a secluded village by the mountains, there lived a weaver named Luna, renowned for her tapestries that seemed to hold whispered secrets of the world. Her fingers deftly danced over threads, conjuring images of serene landscapes and cosmic dances. Despite the admiration, Luna felt a stirring within—a yearning to weave a masterpiece alive with her soul's silent stories.\n\nOne twilight, as Luna sat by her loom, the world around her seemed to pause, weaving a silence so profound that the beating of her heart echoed like a distant drum (Emergence). With newfound determination, she gathered vibrant threads, feeling their raw energy pulsing through her fingers as she began her work in earnest (Formation).\n\nAs the tapestry grew, Luna felt a tension in her spirit, a doubt threading through each knot. Every doubt drew closer whispers of her limitations, turning vibrant hues into muted shadows (Conflict). Yet, she persisted, allowing the tapestry's story to unfold organically, relinquishing control to trust the process.\n\nIn the final strokes, Luna found herself in flow, her creation transforming into a living mosaic of light and breath (Manifestation). Each figure on the tapestry was vibrant and multi-dimensional, speaking whispers of unity and coherence.\n\nHer work completed, Luna stepped back to see the observer's eyes reflect a deeper understanding—a dance between individual and universal harmony. Her vision had become a conduit to a world beyond mere sight (Mastery).\n\nLuna's hands, now still, knew she had woven more than threads. It was a path to her own transcendence—a masterpiece whispered in silence, echoing through the hearts it touched anew (Transcendence).",
+                "lines_in_context": {
+                    "6": {
+                        "name": "Transcendence of Creative Spirit",
+                        "meaning": "Luna's tapestry becomes a vessel of universal connection, whispering a shared understanding.",
+                        "changing": "When her creation ignites within others a spark of recognition, it challenges existing perceptions but offers a transformation into a collective awareness of beauty beyond the visible."
+                    },
+                    "5": {
+                        "name": "Mastery of Inner Vision",
+                        "meaning": "Luna masters the art of translating her soul’s whispers into visible form.",
+                        "changing": "Should her confidence turn to arrogance, the tapestry might lose its soul, becoming a mere aesthetic without depth."
+                    },
+                    "4": {
+                        "name": "Manifestation of Inner Truths",
+                        "meaning": "Luna's tapestry manifests her inner visions, becoming a living testament of her journey.",
+                        "changing": "Yielding to external validation could stifle its intimacy, rendering it a mere decoration devoid of personal resonance."
+                    },
+                    "3": {
+                        "name": "Conflict of Doubt",
+                        "meaning": "Luna wrestles with self-doubt threatening to unravel her creative flow.",
+                        "changing": "Succumbing to uncertainty might halt her progress, but mastering it fosters a profound trust in her creative vision."
+                    },
+                    "2": {
+                        "name": "Formation of Creative Will",
+                        "meaning": "Her collection of threads marks the beginning of a tangible transformation.",
+                        "changing": "Allowing structured methodology to embrace spontaneity can elevate her artistry, igniting new pathways of expression."
+                    },
+                    "1": {
+                        "name": "Emergence of Inspiration",
+                        "meaning": "The silence that envelops her is the womb from which her creative inspiration is born.",
+                        "changing": "As stillness gives way to creative urgency, the challenge of embracing this shift spurs hidden potential into vibrant reality."
+                    }
+                }
+            }
+        ]
+    },
+    "history": {
+        "title": "Newton's Insights into Gravitational Resonance",
+        "subtitle": "\"Resonant Attraction\" in History",
+        "short_story": "In the 17th century, Isaac Newton's contemplation of an apple falling from a tree led him to a monumental epiphany. It wasn't merely the fall of the apple that intrigued Newton but the concept of unseen forces shaping the universe. He perceived gravity not as an isolated occurrence but as part of a grand cosmic resonance. The unseen pull that directed the apple downward also governed the heavens, uniting terrestrial and celestial mechanics (Emergence). By observing the moon's orbit, Newton formulated his theory of universal gravitation—a fundamental law that illustrated the mutual attraction between masses (Formation). This elegant principle confronted the rigid skepticism of his contemporaries (Conflict). Despite resistance, Newton's dedication propelled him to refine his theories, resulting in the seminal work, 'Principia Mathematica' (Manifestation). This masterful text unified the physics of the earth and sky, demonstrating a profound mastery of natural laws (Mastery). His legacy transcended scientific boundaries, embedding the concept of gravitational resonance into the human understanding of the universe (Transcendence). Newton's work transformed the mere observation of falling fruit into a universal symphony, revealing the interconnected tapestry of existence.",
+        "source": [
+            "Isaac Newton's 'Philosophiæ Naturalis Principia Mathematica'",
+            "Biographies of Isaac Newton: 'Isaac Newton' by James Gleick"
+        ],
+        "lines_in_history": {
+            "6": {
+                "name": "Transcendence of Universal Laws",
+                "meaning": "Newton's discovery reveals the universal law of gravitation, transcending previous limitations of understanding.",
+                "changing": "When abstract theories are challenged by practical application, resistance may arise, but successful integration leads to a transformative understanding of cosmic interconnectedness."
+            },
+            "5": {
+                "name": "Mastery of Mathematical Principles",
+                "meaning": "Newton's ability to mathematically describe gravitational forces marks a pinnacle of scientific mastery.",
+                "changing": "If the complexity overwhelms dissemination, it may lead to confusion; yet, simplifying these principles for wider comprehension can empower future scientific inquiry."
+            },
+            "4": {
+                "name": "Manifestation of Gravitational Theory",
+                "meaning": "The publication of 'Principia Mathematica' manifests Newton's theories into a cohesive framework.",
+                "changing": "Relying purely on theoretical elegance without empirical validation may diminish its real-world application, highlighting the need for balance."
+            },
+            "3": {
+                "name": "Conflict with Established Views",
+                "meaning": "Newton's gravitational insights disrupt existing scientific paradigms, clashing with reluctance to change.",
+                "changing": "If not reconciled, the tension might stifle scientific progress; conversely, overcoming it leads to greater acceptance and revolutionary progress."
+            },
+            "2": {
+                "name": "Formation of Theoretical Constructs",
+                "meaning": "Newton builds the conceptual framework of universal gravitation, organizing his observations into systematic theories.",
+                "changing": "A shift from theory to empirical testing may refine his ideas, enabling them to withstand scrutiny and adaptation."
+            },
+            "1": {
+                "name": "Emergence of Gravitational Insight",
+                "meaning": "The initial realization of gravitational forces emerges from everyday observation.",
+                "changing": "Elevating this insight into formal theory may face skepticism, but doing so unveils a profound layer of cosmic order."
+            }
+        }
+    },
+    "trigram_phrase": {
+        "Jungian": "The eternal resilience of the Mountain manifests through the jubilant harmony of the Lake, forging a balanced and resonant unity.",
+        "Platonic": "In the symphony of nature's wisdom, let us behold how the unyielding essence of the Mountain is mirrored in the jubilant serenade of the Lake, thereby weaving a tapestry of tranquil harmony and balanced accord.",
+        "Taoist": "The timeless soul of the Mountain mirrors itself in the gentle laughter of the Lake, weaving a dance of steadfastness and bliss.",
+        "Tholonic": "The steadfast Mountain, in its tranquil presence, converses with the joyful echo of the Lake, together weaving a timeless melody of peace and harmonious delight.",
+        "Thermodynamics": "The convergence of entropy in equilibrium with the thermodynamic cheerfulness yields a harmonic entropy equilibrium, where stability and energy flux coalesce to form a balanced system.",
+        "general": "The steadfast Mountain harmonizes with the joyful Lake to create a balanced and enduring unity.",
+        "explanation": "The lower trigram, 'The Still,' symbolizes stability and endurance, akin to a Mountain's resilience. The upper trigram, 'The Joyous,' represents joy and harmony, like the Lake's cheerful nature. Together, they illustrate how steadfastness and joy can combine to form a harmonious and balanced unity, where enduring strength meets joyful energy, creating a stable yet dynamic system."
+    },
+    "line_type": [
+        "yin",
+        "yang",
+        "yang",
+        "yang",
+        "yin",
+        "yin"
+    ],
+    "pairpath": {
+        "title": "Influence and Reduction",
+        "ascending_hex_num": 31,
+        "ascending_hex_name": "Influence",
+        "descending_hex_num": 41,
+        "descending_hex_name": "Decrease",
+        "description": "This pair-path explores the dynamic interplay between attraction and contraction. As Influence (Hexagram 31) ascends, it signifies the power of mutual attraction and the drawing together of forces. Conversely, Decrease (Hexagram 41) descends, symbolizing the necessary reduction or simplification to achieve balance and harmony. Together, they represent the cyclical nature of expansion and contraction, where influence leads to growth, and reduction ensures sustainability.",
+        "kstate": "stable",
+        "image_prompt": "A serene landscape depicting a gentle, magnetic pull between two celestial bodies in a twilight sky, symbolizing the concept of attraction and influence. Below, a tranquil scene of a river narrowing into a single stream, representing reduction and balance. The image should convey a sense of natural harmony and cyclical flow.",
+        "path_num": 10
     }
-  },
-  "trigram_phrase": {
-    "Jungian": "The eternal resilience of the Mountain manifests through the jubilant harmony of the Lake, forging a balanced and resonant unity.",
-    "Platonic": "In the symphony of nature's wisdom, let us behold how the unyielding essence of the Mountain is mirrored in the jubilant serenade of the Lake, thereby weaving a tapestry of tranquil harmony and balanced accord.",
-    "Taoist": "The timeless soul of the Mountain mirrors itself in the gentle laughter of the Lake, weaving a dance of steadfastness and bliss.",
-    "Tholonic": "The steadfast Mountain, in its tranquil presence, converses with the joyful echo of the Lake, together weaving a timeless melody of peace and harmonious delight.",
-    "Thermodynamics": "The convergence of entropy in equilibrium with the thermodynamic cheerfulness yields a harmonic entropy equilibrium, where stability and energy flux coalesce to form a balanced system.",
-    "general": "The steadfast Mountain harmonizes with the joyful Lake to create a balanced and enduring unity.",
-    "explanation": "The lower trigram, 'The Still,' symbolizes stability and endurance, akin to a Mountain's resilience. The upper trigram, 'The Joyous,' represents joy and harmony, like the Lake's cheerful nature. Together, they illustrate how steadfastness and joy can combine to form a harmonious and balanced unity, where enduring strength meets joyful energy, creating a stable yet dynamic system."
-  },
-  "line_type": [
-    "yin",
-    "yang",
-    "yang",
-    "yang",
-    "yin",
-    "yin"
-  ],
-  "pairpath": {
-    "title": "Influence and Reduction",
-    "ascending_hex_num": 31,
-    "ascending_hex_name": "Influence",
-    "descending_hex_num": 41,
-    "descending_hex_name": "Decrease",
-    "description": "This pair-path explores the dynamic interplay between attraction and contraction. As Influence (Hexagram 31) ascends, it signifies the power of mutual attraction and the drawing together of forces. Conversely, Decrease (Hexagram 41) descends, symbolizing the necessary reduction or simplification to achieve balance and harmony. Together, they represent the cyclical nature of expansion and contraction, where influence leads to growth, and reduction ensures sustainability.",
-    "kstate": "stable",
-    "image_prompt": "A serene landscape depicting a gentle, magnetic pull between two celestial bodies in a twilight sky, symbolizing the concept of attraction and influence. Below, a tranquil scene of a river narrowing into a single stream, representing reduction and balance. The image should convey a sense of natural harmony and cyclical flow.",
-    "path_num": 10
-  }
 }

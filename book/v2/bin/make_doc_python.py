@@ -59,6 +59,9 @@ import funcs_lib as flib
 from colorama import Fore, Style
 import argparse
 import sys
+import dotenv
+
+dotenv.load_dotenv()
 
 def extract_doc_comment(file_path):
     """Extract the documentation comment from a Python file."""

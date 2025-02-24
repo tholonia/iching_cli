@@ -74,7 +74,10 @@ from pprint import pprint
 import traceback
 import argparse
 from vertexai.language_models import ChatModel
+import re
+from dotenv import load_dotenv
 
+load_dotenv()
 
 wen_values = {
     1: [1, 63, "111111", 6],
@@ -149,9 +152,13 @@ def get_model_for_provider(provider):
         'openai': 'gpt-4o',
         'grok': 'grok-beta',
         'anthropic': 'claude-3.5-sonnet',
-        'google': 'gemini-1.5-pro'
+        'google': 'gemini-1.5-pro',
+        # 'perplexity': 'sonar-reasoning-pro'  # gets a bit too 'out there' when writing storiesUpdated model name
+        # 'perplexity': 'sonar-reasoning'
+        # 'perplexity': 'sonar-pro'
+        'perplexity': 'sonar'
     }
-    return provider_models.get(provider, 'gpt-4o')  # default to gpt-4o if provider not found
+    return provider_models.get(provider, 'gpt-4o')
 
 def call_ai_api(prompt, system_message="You are an expert assistant.", model=None, provider="openai"):
     """
@@ -171,10 +178,11 @@ def call_ai_api(prompt, system_message="You are an expert assistant.", model=Non
     """
     # Get the appropriate model for the provider if not specified
     model = model or get_model_for_provider(provider)
-
+    API_KEY = os.getenv("OPENAI_API_KEY")
     if provider == "openai":
         # Initialize the OpenAI client
-        client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
+        client = OpenAI(api_key=API_KEY)
+
         if not os.getenv("OPENAI_API_KEY"):
             print(Fore.RED + "Error: OPENAI_API_KEY environment variable is required" + Style.RESET_ALL)
             print(Fore.RED + traceback.format_exc() + Style.RESET_ALL)
@@ -238,7 +246,6 @@ def call_ai_api(prompt, system_message="You are an expert assistant.", model=Non
             print(Fore.RED + f"Error calling Anthropic API: {e}" + Style.RESET_ALL)
             raise
 
-
     elif provider == "grok":
         # Replace 'YOUR_API_KEY' with your actual xAI API key
         GROK_API_KEY = os.getenv('GROK_API_KEY')
@@ -280,63 +287,138 @@ def call_ai_api(prompt, system_message="You are an expert assistant.", model=Non
             print(Fore.RED + f"Error calling OpenAI API: {e}" + Style.RESET_ALL)
             print(Fore.RED + traceback.format_exc() + Style.RESET_ALL)
             raise
-    # elif provider == "XXXX":
-    #     if not os.getenv("XXXX_API_KEY"):
-    #         print(Fore.RED + "Error: XXXX_API_KEY environment variable is required" + Style.RESET_ALL)
-    #         print(Fore.RED + traceback.format_exc() + Style.RESET_ALL)
-    #         sys.exit(1)
 
-    #     GROK_API_KEY = os.getenv("GROK_API_KEY")
-    #     url = "https://api.x.ai/v1/chat/completions"  # Updated to correct URL
+    elif provider == "perplexity" or provider == "ppx":
+        if not os.getenv("PERPLEXITY_API_KEY"):
+            print(Fore.RED + "Error (e01): PERPLEXITY_API_KEY environment variable is required" + Style.RESET_ALL)
+            sys.exit(1)
 
-    #     headers = {
-    #         "Authorization": f"Bearer {GROK_API_KEY}",
-    #         "Content-Type": "application/json"
-    #     }
+        try:
+            url = "https://api.perplexity.ai/chat/completions"
+            headers = {
+                "Authorization": f"Bearer {os.getenv('PERPLEXITY_API_KEY')}",
+                "Accept": "application/json",
+                "Content-Type": "application/json"
+            }
 
-    #     data = {
-    #         'model': model,
-    #         'messages': [
-    #             {'role': 'system', 'content': system_message},
-    #             {'role': 'user', 'content': prompt}
-    #         ],
-    #         'temperature': 0.7
-    #     }
+            # Enhanced system message with explicit JSON and formatting instructions
+            enhanced_system_message = (
+                f"{system_message} "
+                "Provide direct responses without explaining your thinking process. "
+                "Format your response as valid JSON with these requirements:\n"
+                "1. All string values MUST be enclosed in double quotes\n"
+                "2. No trailing commas\n"
+                "3. All property names must be in double quotes\n"
+                "4. All newlines in text must be escaped as \\n\n"
+                "5. Ensure all JSON syntax is strictly valid\n"
+                "6. For the 'short_story' field:\n"
+                "   - Format text in proper paragraphs\n"
+                "   - Only use newlines between paragraphs\n"
+                "   - Do not split sentences across lines\n"
+                "   - Keep dialogue and action in the same paragraph\n"
+                "Do not include any explanation or commentary outside the JSON."
+            )
 
-    #     try:
-    #         response = requests.post(url, headers=headers, data=json.dumps(data))
-    #         response.raise_for_status()
+            data = {
+                "model": model,
+                "messages": [
+                    {"role": "system", "content": enhanced_system_message},
+                    {"role": "user", "content": prompt}
+                ],
+                "temperature": 0.7,
+                "max_tokens": 4096,
+                "stream": False,
+                "top_p": 1.0,
+                "top_k": 50
+            }
 
-    #         # Parse the JSON response
-    #         result = response.json()
-    #         pprint(result)  # Keep this for debugging
+            response = requests.post(url, headers=headers, json=data)
 
-    #         # Extract the content from the response
-    #         if 'choices' in result and len(result['choices']) > 0:
-    #             content = result['choices'][0]['message']['content'].strip()
-    #             if not content:
-    #                 raise Exception("Empty response from Grok API")
-    #             return content
-    #         else:
-    #             raise Exception("Invalid response structure from Grok API")
+            if response.status_code != 200:
+                print(Fore.RED + f"Error (e02): API Error Response: {response.text}" + Style.RESET_ALL)
+                response.raise_for_status()
 
-    #     except requests.exceptions.RequestException as e:
-    #         print(Fore.RED + f"Error calling Grok API: {e}" + Style.RESET_ALL)
-    #         print(Fore.RED + traceback.format_exc() + Style.RESET_ALL)
-    #         raise
-    #     except Exception as e:
-    #         print(Fore.RED + f"Error processing Grok response: {e}" + Style.RESET_ALL)
-    #         print(Fore.RED + traceback.format_exc() + Style.RESET_ALL)
-    #         raise
+            result = response.json()
+            if 'choices' in result and len(result['choices']) > 0:
+                content = result['choices'][0]['message']['content'].strip()
+                if not content:
+                    raise Exception("Error (e03): Empty response from Perplexity API")
+
+                # Try to fix common JSON formatting issues
+                content = content.replace('": ', '":')  # Remove space after colons
+                content = content.replace(', }', '}')   # Remove trailing commas
+                content = content.replace(',}', '}')    # Remove trailing commas
+                content = content.replace('",\n  }', '"\n  }')  # Remove trailing commas
+
+                # Escape newlines in string values
+                def escape_string_newlines(match):
+                    key = match.group(1).strip('"')  # Get the key name without quotes
+                    value = match.group(2)  # Get the value
+
+                    # # Special handling for short_story field
+                    # if key == "short_story":
+                    #     # First, join all content into a single line
+                    #     value = re.sub(r'\s*\n\s*', ' ', value)
+
+                    #     # Split into sentences
+                    #     sentences = re.split(r'([.!?])\s+', value)
+
+                    #     # Rebuild paragraphs
+                    #     paragraphs = []
+                    #     current_para = []
+
+                    #     for i in range(0, len(sentences)-1, 2):
+                    #         sentence = sentences[i].strip()
+                    #         ending = sentences[i+1] if i+1 < len(sentences) else '.'
+
+                    #         if sentence:
+                    #             current_para.append(sentence + ending + ' ')
+
+                    #         # Start new paragraph on strong narrative breaks
+                    #         if ending in '.!?' and len(current_para) >= 2:
+                    #             paragraphs.append(''.join(current_para).strip())
+                    #             current_para = []
+
+                    #     # Add any remaining sentences
+                    #     if current_para:
+                    #         paragraphs.append(''.join(current_para).strip())
+
+                    #     # Join paragraphs with double newlines
+                    #     value = '\n\n'.join(paragraphs)
+
+                    # Process newlines and sentence endings
+                    escaped = value.replace('\n', '\\n')
+                    escaped = ensure_sentence_endings(escaped, key)
+
+                    return f'"{key}": "{escaped}"'
+
+                # Match both key and value in JSON, including short_story
+                content = re.sub(r'("(?:meaning|changing|short_story)")\s*:\s*"([^"]*)"',
+                               escape_string_newlines, content)
+
+                return clean_response(content)
+            else:
+                raise Exception("Error (e04): Invalid response structure from Perplexity API")
+
+        except requests.exceptions.RequestException as e:
+            print(Fore.RED + f"Error (e05): Error calling Perplexity API: {e}" + Style.RESET_ALL)
+            print(Fore.RED + traceback.format_exc() + Style.RESET_ALL)
+            raise
+        except Exception as e:
+            print(Fore.RED + f"Error (e06): Error processing Perplexity response: {e}" + Style.RESET_ALL)
+            print(Fore.RED + traceback.format_exc() + Style.RESET_ALL)
+            raise
 
     else:
-        print(Fore.RED + f"Unsupported provider: {provider}" + Style.RESET_ALL)
+        print(Fore.RED + f"Error (e07): Unsupported provider: {provider}" + Style.RESET_ALL)
         print(Fore.RED + traceback.format_exc() + Style.RESET_ALL)
-        raise ValueError(f"Unsupported provider: {provider}")
+        raise ValueError(f"Error (e07): Unsupported provider: {provider}")
 
 def clean_response(res):
     """
     Clean response text by removing markdown and JSON code block markers.
+    First attempts to extract content between ```json and ``` markers.
+    If that fails, falls back to general cleaning.
 
     Args:
         res (str): The response text to clean
@@ -354,27 +436,76 @@ def clean_response(res):
     if not isinstance(res, str):
         return res
 
-    # Remove leading markdown/json markers
-    lines = res.split('\n')
-    if lines and lines[0].startswith('```'):
-        lines = lines[1:]
+    # First try to extract content between ```json and ``` markers
+    json_pattern = r"```json\n(.*?)```"
+    matches = re.findall(json_pattern, res, re.DOTALL)
+    if matches:
+        return matches[0].strip()
 
-    # Remove trailing markers
-    if lines and lines[-1].strip() == '```':
-        lines = lines[:-1]
+    try:
+        # If no JSON block found, proceed with general cleaning
+        lines = res.split('\n')
+        if lines and lines[0].startswith('```'):
+            lines = lines[1:]
 
-    # Rejoin and strip whitespace
-    cleaned = '\n'.join(lines).strip()
+        # Remove trailing markers
+        if lines and lines[-1].strip() == '```':
+            lines = lines[:-1]
 
-    # Remove code block markers from start/end only
-    if cleaned.startswith('```markdown'):
-        cleaned = cleaned[11:]
-    elif cleaned.startswith('```json'):
-        cleaned = cleaned[7:]
-    elif cleaned.startswith('```'):
-        cleaned = cleaned[3:]
+        # Rejoin and strip whitespace
+        cleaned = '\n'.join(lines).strip()
 
-    if cleaned.endswith('```'):
-        cleaned = cleaned[:-3]
+        # Remove code block markers from start/end only
+        if cleaned.startswith('```markdown'):
+            cleaned = cleaned[11:]
+        elif cleaned.startswith('```json'):
+            cleaned = cleaned[7:]
+        elif cleaned.startswith('```'):
+            cleaned = cleaned[3:]
 
-    return cleaned.strip()
+        if cleaned.endswith('```'):
+            cleaned = cleaned[:-3]
+
+        return cleaned.strip()
+    except Exception as e:
+        print(Fore.RED + f"Error (e08): Error cleaning response: {e}" + Style.RESET_ALL)
+        print(Fore.RED + traceback.format_exc() + Style.RESET_ALL)
+        raise
+
+def ensure_sentence_endings(text, key=None):
+    """
+    Ensure each sentence in the text ends with a period.
+    Only processes text for specified keys.
+
+    Args:
+        text (str): The text to process
+        key (str): The JSON key being processed. If None, skips processing.
+    """
+    try:
+        # Only process text for specific keys
+        if key not in ["meaning", "changing"]:
+            return text
+
+        if not text:
+            return text
+
+        # Split on common sentence endings while preserving them
+        sentences = re.split(r'([.!?])\s*', text)
+
+        # Recombine sentences, ensuring each ends with a period
+        result = []
+        for i in range(0, len(sentences)-1, 2):
+            sentence = sentences[i].strip()
+            ending = sentences[i+1] if i+1 < len(sentences) else '.'
+            if sentence:
+                result.append(sentence + ending)
+
+        # Handle the last sentence if it doesn't end with punctuation
+        if sentences[-1].strip():
+            result.append(sentences[-1].strip() + '.')
+
+        return ' '.join(result)
+    except Exception as e:
+        print(Fore.RED + f"Error (e09): Error ensuring sentence endings: {e}" + Style.RESET_ALL)
+        print(Fore.RED + traceback.format_exc() + Style.RESET_ALL)
+        raise
