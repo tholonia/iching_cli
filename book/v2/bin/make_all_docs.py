@@ -78,25 +78,6 @@ Author: JW
 Last Updated: 2024
 =============================================================================
 """
-
-
-# Predefined list of all hexagrams
-# xHEXAGRAMS = [ '20','23','28','30','31','39','55','56','59']
-test_HEXAGRAMS = ['04']
-
-from funcs_lib import wen_values
-
-HEXAGRAMS = [ '01', '02', '03', '04', '05', '06', '07', '08', '09', '10',
-    '11', '12', '13', '14', '15', '16', '17', '18', '19', '20',
-    '21', '22', '23', '24', '25', '26', '27', '28', '29', '30',
-    '31', '32', '33', '34', '35', '36', '37', '38', '39', '40',
-    '41', '42', '43', '44', '45', '46', '47', '48', '49', '50',
-    '51', '52', '53', '54', '55', '56', '57', '58', '59', '60',
-    '61', '62', '63', '64'
-]
-
-ROOT="/home/jw/store/src/iching_cli/book/v2"
-
 import json
 import sys
 import argparse
@@ -109,19 +90,28 @@ import yaml
 from openai import OpenAI
 from pprint import pprint
 import dotenv
+from libs.funcs_lib import wen_values, get_json_version, ensure_directory_exists
+
+
+# Predefined list of all hexagrams
+# xHEXAGRAMS = [ '20','23','28','30','31','39','55','56','59']
+test_HEXAGRAMS = ['63','64']
+
+
+HEXAGRAMS = [ '01', '02', '03', '04', '05', '06', '07', '08', '09', '10',
+    '11', '12', '13', '14', '15', '16', '17', '18', '19', '20',
+    '21', '22', '23', '24', '25', '26', '27', '28', '29', '30',
+    '31', '32', '33', '34', '35', '36', '37', '38', '39', '40',
+    '41', '42', '43', '44', '45', '46', '47', '48', '49', '50',
+    '51', '52', '53', '54', '55', '56', '57', '58', '59', '60',
+    '61', '62', '63', '64'
+]
+
+ROOT="/home/jw/store/src/iching_cli/book/v2"
+
 
 dotenv.load_dotenv()
 
-def ensure_directory_exists(tdir):
-    """Create the description directory if it doesn't exist"""
-    if not os.path.exists(tdir):
-        try:
-            os.makedirs(tdir, exist_ok=True)
-            print(f"Created directory: {tdir}")
-        except Exception as e:
-            print(f"Error (r03) creating directory {tdir}: {e}")
-            return False
-    return True
 
 def rewrite_literary_style(text, hexagram_id):
     # Try reading from cache first
@@ -326,28 +316,6 @@ def format_intro_section(args):
         intro = ""
     return intro
 
-def get_yaml():
-    yaml_path = f"{ROOT}/../export.yaml"
-    if not os.path.exists(yaml_path):
-        return ""
-
-    with open(yaml_path, 'r', encoding='utf-8') as file:
-        yaml_data = yaml.safe_load(file)
-
-    # Generate YAML frontmatter string
-    frontmatter = ["---"]
-    for key, value in yaml_data.items():
-        if isinstance(value, (list, dict)):
-            frontmatter.append(f"{key}: {yaml.dump(value, default_flow_style=False)}")
-        else:
-            frontmatter.append(f"{key}: {value}")
-    frontmatter.append("---\n")
-    # Convert frontmatter list to string
-    frontmatter_str = "\n".join(frontmatter)
-
-    # Note: title_page and copyright_page variables are unused, so removed
-
-    return frontmatter_str
 
 def generate_markdown_from_json(json_data, sfnum):
     """Generate complete markdown using all JSON sections"""
@@ -427,24 +395,7 @@ def generate_markdown_from_json(json_data, sfnum):
 
     return markdown
 
-def get_json_filenames():
-    """
-    Get names of all JSON files from the specified directory.
 
-    Returns:
-        list: List of JSON filenames (without full path)
-    """
-    json_files = glob.glob(os.path.join(ROOT, "*.json"))
-
-    sfiles = sorted(os.path.basename(f) for f in json_files)
-
-    for i in range(len(sfiles)):
-        sfiles[i] = ROOT + "/" + sfiles[i]
-
-
-    # print(sfiles)
-    # exit()
-    return sfiles
 
 def parse_args():
     """Parse command line arguments"""
@@ -467,52 +418,6 @@ def parse_args():
 
     return args
 
-def get_json_version():
-    """
-    Read version string from includes/VER_JSON.txt file.
-    Returns empty string if file is empty or doesn't exist.
-    Skips lines that begin with #.
-    """
-    try:
-        with open(f"{ROOT}/includes/VER_JSON.txt", 'r', encoding='utf-8') as f:
-            # Read all non-comment lines into a list
-            lines = [line.strip() for line in f.readlines() if not line.strip().startswith('#')]
-            return lines[0] if lines else ""
-    except (FileNotFoundError, IOError):
-        return ""
-
-def flatten_json(json_data):
-    """
-    Flattens a nested JSON structure into a 1D dictionary with intuitive key names.
-
-    Args:
-        json_data (dict): The JSON data to flatten
-
-    Returns:
-        dict: Flattened dictionary with dot-notation keys
-    """
-    flat_dict = {}
-
-    def flatten(data, prefix=''):
-        if isinstance(data, dict):
-            for key, value in data.items():
-                new_prefix = f"{prefix}.{key}" if prefix else key
-                if isinstance(value, (dict, list)):
-                    flatten(value, new_prefix)
-                else:
-                    flat_dict[new_prefix] = value
-        elif isinstance(data, list):
-            for i, item in enumerate(data):
-                new_prefix = f"{prefix}[{i}]"
-                if isinstance(item, (dict, list)):
-                    flatten(item, new_prefix)
-                else:
-                    flat_dict[new_prefix] = item
-        else:
-            flat_dict[prefix] = data
-
-    flatten(json_data)
-    return flat_dict
 
 def main():
     # Parse command line arguments
@@ -524,12 +429,10 @@ def main():
         HEXAGRAMS = test_HEXAGRAMS
         print(Fore.YELLOW + "Using test hexagrams: " + str(HEXAGRAMS) + Style.RESET_ALL)
 
-    # Start with YAML and intro
-    combined_output = get_yaml()  # YAML only at start of combined file
-    combined_output += format_intro_section(args)
+    combined_output = format_intro_section(args)
 
     # Load the version string
-    json_version = get_json_version()
+    json_version = get_json_version(f"{ROOT}/includes/VER_JSON.txt")
 
     for sfnum in HEXAGRAMS:
         filename = f"{ROOT}/{json_version}/{sfnum}.json"

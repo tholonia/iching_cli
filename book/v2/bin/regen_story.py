@@ -59,11 +59,11 @@ import sys
 import jsonschema
 from openai import OpenAI
 from colorama import Fore, Style, init
-import regen_story_lib as slib
+import libs.regen_story_lib as slib
 from pprint import pprint
 import os
 import argparse
-from funcs_lib import call_ai_api, get_model_for_provider  # Add this import
+from libs.funcs_lib import call_ai_api, get_model_for_provider  # Add this import
 import traceback
 from dotenv import load_dotenv
 

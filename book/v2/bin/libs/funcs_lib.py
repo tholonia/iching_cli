@@ -473,6 +473,7 @@ def clean_response(res):
         raise
 
 def ensure_sentence_endings(text, key=None):
+
     """
     Ensure each sentence in the text ends with a period.
     Only processes text for specified keys.
@@ -509,3 +510,83 @@ def ensure_sentence_endings(text, key=None):
         print(Fore.RED + f"Error (e09): Error ensuring sentence endings: {e}" + Style.RESET_ALL)
         print(Fore.RED + traceback.format_exc() + Style.RESET_ALL)
         raise
+
+def get_json_version(f):
+    """
+    Read version string from includes/VER_JSON.txt file.
+    Returns empty string if file is empty or doesn't exist.
+    Skips lines that begin with #.
+    """
+    try:
+        with open(f, 'r', encoding='utf-8') as f:
+            # Read all non-comment lines into a list
+            lines = [line.strip() for line in f.readlines() if not line.strip().startswith('#')]
+            return lines[0] if lines else ""
+    except (FileNotFoundError, IOError):
+        return ""
+
+
+def ensure_directory_exists(tdir):
+    """Create the description directory if it doesn't exist"""
+    if not os.path.exists(tdir):
+        try:
+            os.makedirs(tdir, exist_ok=True)
+            print(f"Created directory: {tdir}")
+        except Exception as e:
+            print(f"Error (r03) creating directory {tdir}: {e}")
+            return False
+    return True
+
+
+def flatten_json(json_data):
+    """
+    Flattens a nested JSON structure into a 1D dictionary with intuitive key names.
+
+    Args:
+        json_data (dict): The JSON data to flatten
+
+    Returns:
+        dict: Flattened dictionary with dot-notation keys
+    """
+    flat_dict = {}
+
+    def flatten(data, prefix=''):
+        if isinstance(data, dict):
+            for key, value in data.items():
+                new_prefix = f"{prefix}.{key}" if prefix else key
+                if isinstance(value, (dict, list)):
+                    flatten(value, new_prefix)
+                else:
+                    flat_dict[new_prefix] = value
+        elif isinstance(data, list):
+            for i, item in enumerate(data):
+                new_prefix = f"{prefix}[{i}]"
+                if isinstance(item, (dict, list)):
+                    flatten(item, new_prefix)
+                else:
+                    flat_dict[new_prefix] = item
+        else:
+            flat_dict[prefix] = data
+
+    flatten(json_data)
+    return flat_dict
+
+def get_json_filenames():
+    """
+    Get names of all JSON files from the specified directory.
+
+    Returns:
+        list: List of JSON filenames (without full path)
+    """
+    json_files = glob.glob(os.path.join(ROOT, "*.json"))
+
+    sfiles = sorted(os.path.basename(f) for f in json_files)
+
+    for i in range(len(sfiles)):
+        sfiles[i] = ROOT + "/" + sfiles[i]
+
+
+    # print(sfiles)
+    # exit()
+    return sfiles
+
