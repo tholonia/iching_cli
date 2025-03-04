@@ -1,0 +1,296 @@
+/*
+// Page Size Variables
+*/
+@page-width: 8.25in;
+@page-height: 11in;
+
+@margin-outer: 0.5in;
+@margin-gutter: 1in;
+@margin-top: 0.5in;
+@margin-bottom: 0.2in;
+/* Reduced to prevent excessive white space */
+
+@base-font-family: 'LinLibertine';
+@base-font-size: 11pt;
+@base-line-height: 1.4;
+
+@text-color: #1f0909;
+
+@heading-colors: {
+    1: #000;
+    2: #222;
+    3: #444;
+    4: #555;
+    5: #444;
+    6: #777;
+}
+
+@border-color: #c5c5c5;
+
+/* Font Smoothing */
+.font-smoothing() {
+    -webkit-font-smoothing: antialiased !important;
+    -moz-osx-font-smoothing: grayscale !important;
+    text-rendering: optimizeLegibility !important;
+}
+
+/* === Global Styles === */
+html {
+    font-size: 0.6875em !important;
+    .font-smoothing();
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+body {
+    font-family: @base-font-family !important;
+    font-size: @base-font-size !important;
+    line-height: @base-line-height !important;
+    font-weight: normal !important;
+    .font-smoothing();
+    color: @text-color !important;
+    background-color: #ffffff !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    width: auto !important;
+    height: auto !important;
+    counter-reset: page -1;
+    widows: 2;
+    orphans: 2;
+}
+
+@page {
+    size: @page-width @page-height !important;
+    counter-reset: page -1;
+
+    @bottom-center {
+        content: "Page " counter(page) " of " counter(pages);
+    }
+}
+
+@media print {
+    body {
+        width: auto !important;
+        /*height: auto !important;*/
+        height: 100vh;
+        /* Ensure full-page height */
+
+        margin: 0 !important;
+        padding: 0 !important;
+        font-size: @base-font-size !important;
+        line-height: @base-line-height !important;
+
+    }
+
+    html {
+        height: 100vh;
+    }
+
+    #write {
+        max-width: @page-width !important;
+        margin: 0 auto !important;
+        padding: 0 !important;
+        overflow: visible !important;
+    }
+
+    h1 {
+        page-break-before: always !important;
+        break-before: always !important;
+        margin-top: 0 !important;
+        display: block !important;
+    }
+
+    p,
+    div:not(.page-break),
+    span,
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    write,
+    img,
+    ul,
+    ol,
+    li {
+        page-break-inside: auto !important;
+        /* Allow natural breaking */
+    }
+
+    /* to ensure notes doc extends to bottom of page */
+    .container {
+        display: flex;
+        flex-direction: column;
+        min-height: 100vh;
+        /* Full height of the page */
+    }
+
+    .ndiv {
+        flex-grow: 1;
+        /* Stretch to fill the remaining space */
+    }
+}
+
+/* === Page Break Rules === */
+.page-break {
+    page-break-before: always !important;
+    break-before: always !important;
+}
+
+/* === Header Formatting === */
+#write {
+    margin: 0 auto !important;
+    padding: 0 !important;
+    width: auto !important;
+    max-width: (@page-width - @margin-gutter - @margin-outer) !important;
+}
+
+/* === Typography === */
+.heading-base() {
+    text-align: center !important;
+    font-weight: normal !important;
+    font-family: @base-font-family !important;
+    display: block !important;
+}
+
+h1 {
+    .heading-base();
+    font-size: 2em !important;
+    color: @heading-colors[1] !important;
+    border-bottom: 1px solid @border-color !important;
+    padding-bottom: 0.2em !important;
+    margin-top: 0 !important;
+    max-width: @page-width !important;
+    margin: 0 auto !important;
+}
+
+h2 {
+    .heading-base();
+    font-size: 18pt !important;
+    color: @heading-colors[2] !important;
+    line-height: 1.2em !important;
+    max-width: 88% !important;
+    margin: 0 auto !important;
+    /*padding: 0 0 35px !important;*/
+}
+
+h3 {
+    .heading-base();
+    font-size: 14pt !important;
+    color: @heading-colors[3] !important;
+    line-height: 1em !important;
+    text-align: left !important;
+}
+
+h4,
+#write h4 {
+    /* .heading-base(); */
+    font-weight: normal !important;
+    font-family: @base-font-family !important;
+    display: block !important;
+    font-size: 15pt !important;
+    color: @heading-colors[4] !important;
+    line-height: 1.2em !important;
+}
+
+h5,
+#write h5 {
+    .heading-base();
+    font-size: 1.2em !important;
+    color: @heading-colors[3] !important;
+
+    text-align: left !important;
+    font-weight: normal !important;
+    font-style: italic;
+    font-family: 'LinLibertine' !important;
+    display: block !important;
+    font-size: 11pt !important;
+    margin-left: 20pt;
+}
+
+
+h6 {
+    .heading-base();
+    font-size: 1.7em !important;
+    color: @heading-colors[6] !important;
+    border-bottom: 1px solid @border-color !important;
+    padding-bottom: 0.2em !important;
+}
+
+/* === List Formatting === */
+ol li,
+ul li {
+    list-style-position: inside !important;
+    list-style-type: none !important;
+    font-family: @base-font-family !important;
+    color: @heading-colors[3] !important;
+    font-size: 1.0em !important;
+    font-weight: normal !important;
+    line-height: 1.2em !important;
+    page-break-inside: auto !important;
+    margin-left: -24px !important;;
+}
+
+/* === Image Handling === */
+img {
+/*    margin: auto !important;*/
+/*    display: block !important;*/
+/*    max-width: 100% !important;*/
+/*    border: 1px solid #2a2929;*/
+/*    border-radius: 17px;*/
+    page-break-inside: auto !important;
+}
+
+pre {
+    display: inline;
+    font-family: monospace;
+    /* Ensures monospaced font remains */
+    background: none;
+    /* Remove default background */
+    border: none;
+    /* Remove any border */
+    padding: 0;
+    /* Remove padding */
+    margin: 0;
+    /* Remove margin */
+    white-space: pre-wrap;
+    /* Allows wrapping if needed */
+}
+
+/* === Preventing Large White Space Issues === */
+body {
+    line-height: 1.5;
+}
+
+p,
+div,
+span,
+blockquote {
+    page-break-inside: auto;
+}
+
+h1 {
+    page-break-before: right !important;
+    break-before: recto !important;
+}
+
+h2,
+h3,
+h4,
+h5,
+h6 {
+    page-break-before: auto;
+    page-break-after: auto;
+}
+
+/* Allow divs to break naturally, except for forced breaks */
+div:not(.page-break) {
+    page-break-inside: auto !important;
+    break-inside: auto !important;
+}
+
+/* Ensure lists and their items are not split across pages */
+ul,
+ol {
+    page-break-before: auto;
+}
