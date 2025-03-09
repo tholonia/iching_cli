@@ -1,188 +1,211 @@
 #!/bin/bash
-
 # =============================================================================
-# post.sh - I Ching Book PDF Generation Script
+# post.sh - I Ching Introduction Document Post-Processing Script
 # =============================================================================
 #
 # Description:
-#   This script automates the process of generating a final PDF document for
-#   the I Ching book. It handles HTML to PDF conversion, table of contents
-#   generation, and merging of various document sections.
-#
-# Process:
-#   1. Removes any existing final PDF to ensure a clean build
-#   2. Uses Prince to convert HTML content into PDF with:
-#      - Proper page styling
-#      - Automatic table of contents generation
-#      - Bookmark levels for navigation
-#   3. Merges additional pages into the final PDF using pdftk
-#   4. Opens the final PDF in Okular for review
+#     Post-processes the I Ching introduction document by converting HTML
+#     files to PDF format, merging multiple PDF files, and creating the final
+#     document. This script handles PDF generation, page manipulation, and
+#     document assembly.
 #
 # Usage:
-#   ./post.sh
+#     ./post.sh
+#
+# Process:
+#     1. HTML Cleaning - Removes calc() lines that might cause issues
+#     2. PDF Generation - Converts HTML to PDF using prince-books
+#     3. Page Manipulation - Adjusts page ordering with pdftk
+#     4. Document Assembly - Merges component PDFs into final document
+#     5. Document Preview - Opens final PDF in viewer
+#
+# Files Processed:
+#     - iching_intro.html → iching_intro.pdf
+#     - COPYRIGHT.html → COPYRIGHT.pdf
+#     - Various cover and content PDFs merged into final document
 #
 # Dependencies:
-#   - Prince: HTML to PDF conversion with TOC support
-#     Required flags: --prince-toc for TOC generation
-#   - pdftk: PDF manipulation tool
-#   - Okular: PDF viewer
+#     - prince-books: HTML to PDF converter
+#     - pdftk: PDF manipulation tool
+#     - okular: PDF viewer
 #
-# Input Files:
-#   - COVER_PAGE.pdf: Book cover
-#   - COPYRIGHT_PAGE.pdf: Copyright information
-#   - iching.html: Main content with TOC nav element
-#   - iching.css: Styling with Prince-specific TOC properties
+# Directory Structure:
+#     - ../Latest/: Contains generated HTML and PDF files
+#     - ../Styles/: Contains CSS style files
+#     - ../content/: Contains cover pages and other assets
 #
-# Output:
-#   - FINAL_iching.pdf: Complete book with:
-#     - Cover page
-#     - Copyright page
-#     - Table of contents
-#     - Main content
-#
-# TOC Requirements:
-#   - HTML must include nav element with role="doc-toc"
-#   - CSS must define prince-bookmark-level for headings
-#   - Prince must be run with --prince-toc flag
-#
-# Example TOC Structure:
-#   <nav role="doc-toc">
-#     <h1>Table of Contents</h1>
-#     <ol>
-#       <li><a href="#chapter-1">Chapter 1</a></li>
-#     </ol>
-#   </nav>
+# Notes:
+#     - Uses blank page templates for proper pagination
+#     - Page size is determined by CURRENT_SIZE variable (8.25x11)
 #
 # Author: JW
 # Last Updated: 2024
 # =============================================================================
 
-#./makeallmd.py
-#typora docs/iching.md
+# Parse command line arguments
+FORMAT="PDF"  # Default to PDF if no format specified
 
-# makebook_postonly.sh
+# Check if a format was provided as an argument
+if [ $# -ge 1 ]; then
+    if [ "$1" = "BOOK" ] || [ "$1" = "PDF" ]; then
+        FORMAT="$1"
+    else
+        echo -e "\033[31mError: Invalid format '$1'. Valid formats are BOOK or PDF.\033[0m"
+        echo -e "Usage: $0 [BOOK|PDF]"
+        exit 1
+    fi
+fi
 
-# This script automates the process of generating a final PDF document for the I Ching book.
-# It performs the following steps:
-# 1. Removes any existing final PDF to ensure a clean build.
-# 2. Uses Prince to convert HTML content into a PDF, applying specific styles for print.
-# 3. Merges additional pages (cover and copyright) into the final PDF using pdftk.
-# 4. Opens the final PDF in Okular for review.
+# Constants and configuration
+PAGE_SIZE="6.69x9.61"
+BASE_DIR="/home/jw/src/iching_cli/book/intro"
+SCRIPT_DIR="${BASE_DIR}/bin"
+CONTENT_DIR="${BASE_DIR}/content"
+LATEST_DIR="${BASE_DIR}/Latest"
+STYLES_DIR="${BASE_DIR}/Styles"
+BLANK_PAGE="${CONTENT_DIR}/blank_${PAGE_SIZE}.pdf"
+OUTPUT_NAME="FINAL_iching_intro"
+TEMP_DIR="/tmp"
 
-# Steps:
-# 1. Remove the existing FINAL_iching.pdf to avoid conflicts with previous builds.
-# 2. Use Prince to convert iching.html to iching.pdf, applying styles from iching.css.
-# 3. Merge COVER_PAGE.pdf and COPYRIGHT_PAGE.pdf with iching.pdf to create FINAL_iching.pdf.
-# 4. Open the resulting FINAL_iching.pdf in Okular for viewing.
+# Create required directories
+mkdir -p "${LATEST_DIR}"
 
-# Usage:
-# Run this script from the command line to generate and view the final I Ching book PDF.
+# Cleanup previous run
+function cleanup_previous_files() {
+    echo -e "\033[33mCleaning up previous files...\033[0m"
+    rm -f "${LATEST_DIR}/${OUTPUT_NAME}_${FORMAT}.pdf"
+    rm -f "${TEMP_DIR}/out.pdf"
+    rm -f "${TEMP_DIR}/html.pdf"
+    rm -f "${TEMP_DIR}/iching_intro_${FORMAT}.pdf"
+    rm -f "${TEMP_DIR}/COPYRIGHT_${FORMAT}.pdf"
+    rm -f "${TEMP_DIR}/TOC_${FORMAT}.pdf"
+    rm -f "${TEMP_DIR}/iching_intro_${FORMAT}.pdf-cut.pdf"
+    rm -f "${TEMP_DIR}/COPYRIGHT_${FORMAT}.pdf-cut.pdf"
+    rm -f "${TEMP_DIR}/TOC_${FORMAT}.pdf-cut.pdf"
+    rm -f "${LATEST_DIR}/FINAL_COPYRIGHT_${FORMAT}.pdf"
+    rm -f "${LATEST_DIR}/FINAL_TOC_${FORMAT}.pdf"
+}
 
-# Dependencies:
-# - Prince: A tool for converting HTML and CSS to PDF.
-# - pdftk: A tool for manipulating PDF documents.
-# - Okular: A PDF viewer for reviewing the final document.
-
-# Note:
-# Ensure all input files (COVER_PAGE.pdf, COPYRIGHT_PAGE.pdf, iching.html) are present in the expected directories.
-
-D="/home/jw/src/iching_cli/book/intro/bin"
-BREAK='<div style="page-break-before: always;"></div>'
-
-# Function to process HTML documents into PDFs
-#
-# This function processes an HTML document by:
-# 1. Creating a temporary copy of the HTML file
-# 2. Removing any 'calc()' lines that might cause issues
-# 3. Generating a PDF using prince-books with specified styling
-#
-# Usage:
-#   process_document "document_name" ["style_file"]
-#
-# Parameters:
-#   $1 - Document name without extension (required)
-#   $2 - CSS style file name (optional, defaults to iching.css)
-#
-# Example:
-#   process_document "COPYRIGHT_PAGE_v1" "iching_nopage.css"
-#   process_document "BOOK_INTRO"
-
-
-CURRENT_SIZE="8.25x11"
-
-
-#BLANK=${D}/../includes/blank_8.3x11.7.pdf
-BLANK=${D}/../Images/publish/7x10_paperback/blank_8.5x11.pdf
-
+# Process an HTML document into PDF
 function process_document() {
     local DOCUMENT="$1"
+    local CSS_FILE="${2:-iching_intro.css}"
+    local INPUT_HTML="${LATEST_DIR}/${DOCUMENT}.html"
+    local OUTPUT_PDF="${LATEST_DIR}/${DOCUMENT}.pdf"
+    local TEMP_HTML="${TEMP_DIR}/html.tmp"
 
     echo -e "\033[35mProcessing ${DOCUMENT}\033[0m"
 
-    # delete calc() line
-    cp ${D}/../content/${DOCUMENT}.html /tmp/html.tmp
-    cat /tmp/html.tmp | grep -v "calc(" > ${D}/../Latest/${DOCUMENT}.html
+    # Remove calc() line to prevent rendering issues
+    cp "${INPUT_HTML}" "${TEMP_HTML}"
+    grep -v "calc(" "${TEMP_HTML}" > "${INPUT_HTML}"
 
-    # make PDF
-    rm -f ${D}/../Latest/${DOCUMENT}.pdf
-    set -x
+    # Convert HTML to PDF
+    echo -e "\033[36mConverting to PDF...\033[0m"
     prince-books \
-        --style=${D}/../Styles/${2:-iching_intro.css} \
+        --style="${STYLES_DIR}/${CSS_FILE}" \
         --media=print \
-        -o ${D}/../Latest/${DOCUMENT}.pdf \
-        ${D}/../Latest/${DOCUMENT}.html #2>> /tmp/prince.log
-    set +x
+        -o "${OUTPUT_PDF}" \
+        "${INPUT_HTML}"
+
+    # Check if PDF was created successfully
+    if [ ! -f "${OUTPUT_PDF}" ]; then
+        echo -e "\033[31mError: Failed to create ${OUTPUT_PDF}\033[0m"
+        return 1
+    fi
+
+    echo -e "\033[32mCreated ${OUTPUT_PDF}\033[0m"
+    return 0
 }
 
-rm -f ${D}/../Latest/FINAL_iching.pdf
-rm -f /tmp/out.pdf
-rm -f /tmp/html.pdf
+# Process documents based on format
+function process_documents_for_format() {
+    echo -e "\033[33mProcessing documents for ${FORMAT} format...\033[0m"
 
-#^ PROCESS: COPYRIGHT_PAGE_v1.html > COPYRIGHT_PAGE_v1.pdf
-#! make sure the HTML output was generated with teh 'nopages' CSS to avoid page numbers
-process_document "iching_intro"
-cp ${D}/../Latest/iching_intro.pdf /tmp/iching_intro.pdf
-pdftk /tmp/iching_intro.pdf cat 2-end output  /tmp/iching_intro.pdf-cut.pdf
-# insert 2 blank pages
-pdftk ${BLANK}  /tmp/iching_intro.pdf-cut.pdf cat output ${D}/../Latest/iching_intro.pdf
+    # Process main content
+    process_document "iching_intro"
+    cp "${LATEST_DIR}/iching_intro.pdf" "${TEMP_DIR}/iching_intro_${FORMAT}.pdf"
+    pdftk "${TEMP_DIR}/iching_intro_${FORMAT}.pdf" cat 3-end output "${TEMP_DIR}/iching_intro_${FORMAT}.pdf-cut.pdf"
+    cp "${TEMP_DIR}/iching_intro_${FORMAT}.pdf-cut.pdf" "${LATEST_DIR}/iching_intro_${FORMAT}.pdf"
 
+    # Process copyright
+    set -x
+#    process_document "COPYRIGHT"
+    cp "${LATEST_DIR}/COPYRIGHT.pdf" "${TEMP_DIR}/COPYRIGHT_${FORMAT}.pdf"
+    if [ "$FORMAT" = "BOOK" ]; then
+        pdftk "${TEMP_DIR}/COPYRIGHT_${FORMAT}.pdf" cat 2-end output "${LATEST_DIR}/FINAL_COPYRIGHT_${FORMAT}.pdf"
+    else
+        pdftk "${TEMP_DIR}/COPYRIGHT_${FORMAT}.pdf" cat 1-end output "${LATEST_DIR}/FINAL_COPYRIGHT_${FORMAT}.pdf"
+    fi
+    set +x
+    # Process TOC with no page numbers
+    process_document "TOC" "iching_intro_nopage.css"
+    cp "${LATEST_DIR}/TOC.pdf" "${TEMP_DIR}/TOC_${FORMAT}.pdf"
+    pdftk "${TEMP_DIR}/TOC_${FORMAT}.pdf" cat 3-end output "${TEMP_DIR}/TOC_${FORMAT}.pdf-cut.pdf"
+    pdftk "${BLANK_PAGE}" "${TEMP_DIR}/TOC_${FORMAT}.pdf-cut.pdf" cat output "${LATEST_DIR}/FINAL_TOC_${FORMAT}.pdf"
 
-#~-----------------------------------------------------------------------------------
-echo -e "\033[33mMerging...\033[0m"
+    echo -e "\033[32mAll documents processed successfully\033[0m"
+}
 
-#COVER=${D}/../includes/COVER_PAGE_8.5x11.pdf
-#COVER=${D}/../includes/COVER_v1.pdf
+# Set file references based on format
+function set_format_files() {
+    if [ "$FORMAT" = "BOOK" ]; then
+        COVER=""
+        COPYRIGHT="${LATEST_DIR}/FINAL_COPYRIGHT_${FORMAT}.pdf"
+    else
+        COVER="${CONTENT_DIR}/COVER_${PAGE_SIZE}.pdf"
+        COPYRIGHT="${LATEST_DIR}/FINAL_COPYRIGHT_${FORMAT}.pdf"
+    fi
+}
 
-# COVER=${D}/../includes/_COVER_v2_${CURRENT_SIZE}.pdf
-# COPYRIGHT=${D}/../includes/COPYRIGHT_PAGE_v1.pdf
-# INSIDE=${D}/../includes/INSIDE_PAGE_${CURRENT_SIZE}.pdf
-# BOOK=${D}/../includes/BOOK_INTRO.pdf
-# Q8=${D}/../includes/_q8_iching_${CURRENT_SIZE}_png.pdf
-# BIN=${D}/../includes/_binhex4col_${CURRENT_SIZE}_png.pdf
-# PATHS=${D}/../includes/_32paths_${CURRENT_SIZE}_png.pdf
-# TOC=${D}/../includes/FINAL_TOC.pdf
-# ICHING=${D}/../includes/iching.pdf
-#
-#
-# pdftk \
-#     ${COVER} \
-#     ${COPYRIGHT} \
-#     ${INSIDE} \
-#     ${BOOK} \
-#     ${Q8} \
-#     ${BIN} \
-#     ${PATHS} \
-#     ${TOC} \
-#     ${ICHING} \
-#     cat output ${D}/../includes/FINAL_iching.pdf
-#
-# # pdftk \
-# #     ${D}/../includes/COVER_PAGE_8.5x11.pdf \
-# #     ${D}/../includes/COPYRIGHT_PAGE_v1.pdf \
-# #     ${D}/../includes/BOOK_INTRO.pdf \
-# #     ${D}/../includes/FINAL_TOC.pdf \
-# #     ${D}/../includes/iching.pdf \
-# #     cat output ${D}/../includes/FINAL_iching.pdf
-#
-okular ${D}/../Latest/iching_intro.pdf
+# Merge all documents into final PDF
+function merge_documents() {
+    echo -e "\033[33mMerging documents into final PDF...\033[0m"
+
+    TOC="${LATEST_DIR}/FINAL_TOC_${FORMAT}.pdf"
+    ICHING="${LATEST_DIR}/iching_intro_${FORMAT}.pdf"
+    OUTPUT="${LATEST_DIR}/${OUTPUT_NAME}_${FORMAT}.pdf"
+
+    pdftk \
+        ${COVER} \
+        ${COPYRIGHT} \
+        ${TOC} \
+        ${ICHING} \
+        cat output "${OUTPUT}"
+
+    echo -e "\033[32mCreated final document: ${OUTPUT}\033[0m"
+}
+
+# Display the final document
+function display_document() {
+    echo -e "\033[33mOpening document for preview...\033[0m"
+    okular "${LATEST_DIR}/${OUTPUT_NAME}_${FORMAT}.pdf"
+}
+
+# Main execution flow
+function main() {
+    # Start processing
+    echo -e "\033[1;34mStarting document post-processing\033[0m"
+    echo -e "\033[34mPage size: ${PAGE_SIZE}, Format: ${FORMAT}\033[0m"
+
+    # Clean up previous files
+    cleanup_previous_files
+
+    # Process documents
+    process_documents_for_format
+
+    # Set format-specific files
+    set_format_files
+
+    # Merge documents
+    merge_documents
+
+    # Display the final document
+    display_document
+
+    echo -e "\033[1;32mPost-processing complete\033[0m"
+}
+
+# Run the main function
+main
 

@@ -1,91 +1,49 @@
 #!/bin/bash
-
 # =============================================================================
-# prep.sh - I Ching Book Preparation Script
+# prep.sh - I Ching Introduction Document Preparation Script
 # =============================================================================
 #
 # Description:
-#   This script prepares the I Ching book for PDF generation by setting up
-#   necessary files, compiling styles, and initiating the document generation
-#   process. It ensures a clean build environment and consistent styling.
+#     Prepares the I Ching introduction document by cleaning previous builds,
+#     compiling LESS stylesheets to CSS, updating Typora themes, and opening
+#     the document for editing. This script ensures consistent styling and
+#     proper environment setup before document generation.
 #
 # Usage:
-#   ./prep.sh [version_suffix] [--test]
-#   Example: ./prep.sh v2         # Will use files with "_v2" suffix
-#   Example: ./prep.sh v2 --test  # Will use test set of hexagrams
-#
-# Arguments:
-#   version_suffix: Optional suffix for versioned files
-#   --test: Optional flag to use test set of hexagrams
+#     ./prep.sh
 #
 # Process:
-#   1. Clean Build Environment:
-#      - Remove existing HTML and MD files
-#      - Ensure fresh start for new build
-#   2. Style Compilation:
-#      - Compile iching.less to iching.css
-#      - Compile iching_nopage.less to iching_nopage.css
-#   3. Typora Configuration:
-#      - Copy compiled CSS to Typora themes
-#      - Set up both paged and non-paged variants
-#   4. Document Generation:
-#      - Run makeallmd.py to create markdown
-#      - Open in Typora for manual export
+#     1. Environment Setup - Sets directory paths and display
+#     2. Clean Previous Builds - Removes existing HTML output
+#     3. Style Compilation - Processes LESS files to CSS
+#     4. Theme Installation - Copies styles to Typora theme directory
+#     5. Document Opening - Launches Typora with the introduction document
+#
+# Files Processed:
+#     - iching_intro.less → iching_intro.css
+#     - iching_intro_nopage.less → iching_intro_nopage.css
+#     - iching_intro.md (opened in Typora)
 #
 # Dependencies:
-#   - lessc: LESS CSS compiler
-#   - Typora: Markdown editor
-#   - makeallmd.py: Markdown generation script
+#     - lessc: LESS CSS compiler
+#     - Typora: Markdown editor/viewer
+#     - X11 display server
 #
-# File Structure:
-#   Input:
-#     - ../includes/iching.less
-#     - ../includes/iching_nopage.less
-#   Output:
-#     - ../includes/iching.css
-#     - ../includes/iching_nopage.css
-#     - ~/.config/Typora/themes/iching.css
-#     - ~/.config/Typora/themes/iching_nopage.css
+# Directory Structure:
+#     - ../Styles/: Contains LESS and CSS style files
+#     - ../content/: Contains markdown content
+#     - /home/jw/.config/Typora/themes/: Typora themes directory
 #
 # Notes:
-#   - Ensure Typora is properly configured with theme directory
-#   - Manual export to HTML required after script completion
+#     - Uses PAGE_SIZE=_6.69x9.61 for consistent document dimensions
+#     - Requires X11 display server for Typora GUI (export DISPLAY=:0)
 #
 # Author: JW
 # Last Updated: 2024
 # =============================================================================
 
-# makebook.sh
-# Usage: ./makebook_pre.sh [version_suffix]
-# Example: ./makebook_pre.sh v2    # Will use files with "_v2" suffix
-
-# This script prepares the I Ching book for PDF generation by performing the following tasks:
-# 1. Cleans up previous HTML and Markdown files to ensure a fresh build.
-# 2. Compiles LESS stylesheets into CSS for use in Typora and Prince.
-# 3. Copies the latest CSS to Typora's theme directory for consistent styling.
-# 4. Generates the Markdown document for the I Ching book using makeallmd.py.
-# 5. Opens the generated Markdown in Typora for manual export to HTML.
-# 6. After exporting, makebook_postonly.sh is called from Typora to finalize the PDF.
-
-# Steps:
-# 1. Remove existing iching.html and iching.md files to avoid conflicts.
-# 2. Compile iching.less into iching.css using lessc.
-# 3. Copy the compiled CSS to Typora's theme directory.
-# 4. Generate the Markdown document using makeallmd.py with the --content pages option.
-# 5. Open the generated iching.md in Typora for review and export.
-
-# Usage:
-# Run this script to prepare the I Ching book for PDF generation. After running, use Typora to export the Markdown to HTML.
-
-# Dependencies:
-# - lessc: A tool for compiling LESS to CSS.
-# - Typora: A Markdown editor for reviewing and exporting the document.
-# - makeallmd.py: A Python script for generating the Markdown document.
-
-# Note:
-# Ensure all input files and dependencies are present and correctly configured before running the script.
-
 D="/home/jw/src/iching_cli/book/intro/bin"
+PAGE_SIZE=_6.69x9.61
 
 # Get version suffix if provided
 VERSION_SUFFIX=""
@@ -99,7 +57,10 @@ lessc ${D}/../Styles/iching_intro.less ${D}/../Styles/iching_intro.css
 cp ${D}/../Styles/iching_intro.css /home/jw/.config/Typora/themes/iching_intro.css
 cp ${D}/../Styles/iching_intro.less /home/jw/.config/Typora/themes/iching_intro.less
 
+lessc ${D}/../Styles/iching_intro_nopage.less ${D}/../Styles/iching_intro_nopage.css
+cp ${D}/../Styles/iching_intro_nopage.css /home/jw/.config/Typora/themes/iching_intro_nopage.css
+cp ${D}/../Styles/iching_intro_nopage.less /home/jw/.config/Typora/themes/iching_intro_nopage.less
+
 
 typora ${D}/../content/iching_intro.md
 
-# after export./ makebook_postonly.sh in called from Typora

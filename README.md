@@ -272,7 +272,7 @@ Update `prep.sh` and `post.sh` with new filenames of necessary, then run:
 
 ```sh
 ./prep.sh
-# exoprt to html in typora
+# export to html in typora
 ./post.sh
 ```
 
@@ -320,7 +320,65 @@ magick ../includes/_q8_iching_${CURRENT_SIZE}.png ../includes/_q8_iching_${CURRE
 
 
 
+**Tholonic Game of Life Simulation**
 
+
+To generate frames using the CPU:
+
+```sh
+./tholonic_game_of_life.py --size 2000 --cell-size 1 --interval 0 \
+--generations 1000 --gpu=cpu
+```
+
+There is also a CPU only version that creates a very different "love field", but not sure why.
+
+```sh
+./tholonic_game_of_life_v0.py --size 2000 --cell-size 1 --interval 0 \
+--generations 1000 --save-interval 1
+
+```
+
+
+
+
+
+To generate frames and save the state of each frame to a compressed numpy file:
+Note: this creates radically different output!  I have no idea why, as they should be identical.  I assume it has something to do with the numpy/cupy libs that are used here and not used in the CPU mode.
+
+```sh
+./tholonic_game_of_life.py --size 2000 --cell-size 1 --interval 0 \
+--generations 1000 --headless --save-interval 1 --gpu=cupy
+```
+To continue generating from a specific frame
+
+```sh
+ # starts generatin from frame 1065 to 2065
+ ./tholonic_game_of_life.py --size 2000 --cell-size 1 \
+ --interval 0 --headless --save-interval 1 \
+ --generations 1000 --load states/v1/tholonic_state_gen001065.npz --gpu cupy
+
+```
+
+To view the numpy data:
+```sh
+./tholonic_viewer.py states/v1/tholonic_state_gen002000.npz \
+--output  basename(${file}}.png 
+```
+
+To convert all tyhe numpy fields into images:
+```sh
+counter=1
+for file in $(ls states/*.npz | sort -V); do
+    ./tholonic_viewer.py ${file} --output  basename(${file}}.png --save-only
+    ((counter++))
+done
+```
+To convert the frames into a video:
+```sh
+ffmpeg -y -framerate 30 -i v2/tholonic_state_gen%06d.png \
+-vf "scale=trunc(iw/2)*2:trunc(ih/2)*2" -c:v libx264 \
+-pix_fmt yuv420p v2_output.mp4
+```
 
 # About
 

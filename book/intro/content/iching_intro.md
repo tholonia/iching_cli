@@ -1,6 +1,17 @@
-# The Tholonic I-Ching: A Comprehensive Integration
+<div style='page-break-after: always;'></div>
 
-This book is meant to be the forward or introduction to the book “The Tholonic I Ching”. It is published separately because 1) the book “The Tholonic I Ching” is 550 pages without the introduction, and the addition 75+ pages makes “The Tholonic I Ching” too cumbersome and significantly distracts from the books aesthetics. 2) This book is more that a simple introduction. It’s an overview of two complex models that requires some special explanations, hence the 75+ pages. 3) Both this book and “The Tholonic I Ching” are regularly updated but not at the same time. Keeping the books separate allows each book to evolve at its own pace. 4) Most readers of “The Tholonic I Ching” will not be interested in this lengthy explanation, so there is little point in including it.
+# The Tholonic I-Ching
+
+## A Comprehensive Integration
+
+This book is meant to be the forward or introduction to the book “The Tholonic I Ching”. It is published separately because:
+
+1) 1) 1: The book “The Tholonic I Ching” is 550 pages without the introduction, and the addition 75+ pages makes “The Tholonic I Ching” too cumbersome and significantly distracts from the book's aesthetics (plus, most people are not interested the in reasoning). 
+   2) 
+   3) 2: This book is more that a simple introduction. It’s an overview of two complex models that requires some special explanations, hence the 100+ pages. 
+   4) 
+   5) 3: Both this book and “The Tholonic I Ching” are regularly updated but not at the same time. Keeping the books separate allows each book to evolve at its own pace. 4) Most readers of “The Tholonic I Ching” will not be interested in this lengthy explanation, so there is little point in including it.
+   6) 
 
 # Section I: Introduction & Foundations
 
@@ -69,7 +80,7 @@ In the Tholonic model, the *thologram* is a self-organizing, self-similar, recur
 
 <center><img src='../Images/0_004.png' style=';width:100%'/></center>
 
-## Awareness and Intention: The Source of All Energy and Existence
+## A&I: The Source of Energy and Existence
 
 To best understand the basic premise of the Tholonic model, let’s use a thought experiment.
 
@@ -377,7 +388,7 @@ All of this is to demonstrate how the two systems are quite compatible to the po
 
 ~~*Note: While I have not shown the N-state distribution cloud for middle transitions (because it was too difficult to show in a reasonable manner), you can imagine the transition from the round N-state cloud in Inception transitioning to the N-state cloud in Diffusion, which is a one-dimensional line that stretches to infinity. Imagine the transitional clouds centered around the densest part of the “branches”, and increasingly and exponentially expanding outward and upward.*~~
 
-# Section III: Tholonic Mapping of the I-Ching
+# Section III: Tholonic-I Ching Mapping
 
 ## Directional Flow of the I-Ching
 
@@ -660,13 +671,13 @@ For the large outer triad, we start with the 1<sup>st</sup> vector, or edge and 
 
 ## Hexagrams
 
-With the hexagrams in their binary order we can put together the 64 hexagrams (below).
+With the hexagrams in their binary order we can put together the 64 hexagrams (below).  Some of the hexagrams are identified as being made of trigrams that are:  <img src='../Images/trigram_colors.png' style='width:25%'/>
 
-There are 2 pairs of blue-framed hexagrams which are those that are a product of those trigrams that define the scope. These are the *north-south* trigrams <img src='../Images/bc/hexagramB63.png' style='width:30px'/> <img src='../Images/bc/hexagramB56.png' style='width:30px'/> <img src='../Images/bc/hexagramB07.png' style='width:30px'/> <img src='../Images/bc/hexagramB00.png' style='width:30px'/>.
+There are 2 pairs of *scope* hexagrams which are those that are a product of those trigrams that define the scope. These are the *north-south* trigrams <img src='../Images/bc/hexagramB63.png' style='width:30px'/> <img src='../Images/bc/hexagramB56.png' style='width:30px'/> <img src='../Images/bc/hexagramB07.png' style='width:30px'/> <img src='../Images/bc/hexagramB00.png' style='width:30px'/>.
 
-There are 2 pairs of red-framed hexagrams which are a product of the trigrams that define the context, or movement within that scope. These are the *east-west* trigrams <img src='../Images/bc/hexagramB45.png' style='width:30px'/> <img src='../Images/bc/hexagramB42.png' style='width:30px'/> <img src='../Images/bc/hexagramB21.png' style='width:30px'/> <img src='../Images/bc/hexagramB18.png' style='width:30px'/>.
+There are 2 pairs of *context* hexagrams which are a product of the trigrams that define the context, or movement within that scope. These are the *east-west* trigrams <img src='../Images/bc/hexagramB45.png' style='width:30px'/> <img src='../Images/bc/hexagramB42.png' style='width:30px'/> <img src='../Images/bc/hexagramB21.png' style='width:30px'/> <img src='../Images/bc/hexagramB18.png' style='width:30px'/>.
 
-There are 8 pairs green-framed hexagrams which are a product of the transitional trigrams <img src='../Images/bc/trigram-b01.png' style='width:30px'/> <img src='../Images/bc/trigram-b03.png' style='width:30px'/> <img src='../Images/bc/trigram-b04.png' style='width:30px'/> <img src='../Images/bc/trigram-b06.png' style='width:30px'/>.
+There are 8 pairs *transitional* hexagrams which are a product of the transitional trigrams <img src='../Images/bc/trigram-b01.png' style='width:30px'/> <img src='../Images/bc/trigram-b03.png' style='width:30px'/> <img src='../Images/bc/trigram-b04.png' style='width:30px'/> <img src='../Images/bc/trigram-b06.png' style='width:30px'/>.
 
 The remaining 20 pairs are a mixture of dissimilar trigrams.
 
@@ -718,7 +729,7 @@ Numbers are not as intuitive as images, so here are a couple of charts that clea
 
 <center><img src='../Images/graphs-seq2.png' style='width:100%'/></center>
 
-## Cross-Cultural Connections: Astrology and the I-Ching
+## Cross-Models: Astrology and the I-Ching
 
 The fundamental structure that the I-Ching and related Eastern thinking is built on is essentially the same as the model for astrology and related Western thinking. This is not at all surprising as both cultures were observing the same laws and patterns in action. However, if we find where they combine and overlap, we can understand one model that encompasses both.
 
@@ -775,7 +786,7 @@ However, if we arrange them in a circle, and color them to represent the *Negoti
 -   But there is another set of 1 and 0 which are made of the bigrams <img src='../Images/bc/bigram01.png' style='width:35px'/> <img src='../Images/bc/bigram00.png' style='width:35px'/>, and these represent the CONTRIBUTE (red) points, which are the points that return to the N-state, so 1s and 0s leave the N-state as a single line of 0 or 1, yin or yang, but return to the N-state as a bigram also of 0 or 1, yin or yang.
 -   The 2s <img src='../Images/bc/bigram10.png' style='width:35px'/> and 3s <img src='../Images/bc/bigram11.png' style='width:35px'/> occupy the DEFINING (green) points and only appear once, unlike the 1/0s. 3 represents the most energized, or extreme yang state, and is that same axis that divides the planets in the traditional astrological layout.
 
-## The Lines, Part 1
+## The Lines
 
 *Note: Except for the graphic at the end of this chapter, the red and blue text used below is not related to the RGB colors of the tholon as has been used up until now. They were chosen for their ease of readability and contrast*.
 
@@ -823,7 +834,7 @@ Both of these models describe only the structure, the contexts of which is const
 
 With all that we have learned so far, let’s attempt to decipher and translate the I-Ching. This will be Part II of this book, “*The Way of Change*”, when its draft version is ready to be published. Currently it is a work in progress unfit for even draft publishing.
 
-# Section IV: Synthesis and Broader Applications
+# Section IV: Synthesis
 
 ## How Creation Works
 
