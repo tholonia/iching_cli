@@ -57,3 +57,11 @@ book/intro/Images/
 book/intro/Latest/
 book/intro/content/iching_intro.html
 
+*.ORG
+*Thumbs*
+book/intro/bin/frames/
+book/intro/bin/packages/
+book/intro/bin/states/
+*.css
+book/intro/Styles/iching_intro_nopage
+*.png

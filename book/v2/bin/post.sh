@@ -86,129 +86,268 @@
 # Note:
 # Ensure all input files (COVER_PAGE.pdf, COPYRIGHT_PAGE.pdf, iching.html) are present in the expected directories.
 
+# Enable better error handling
+set -o pipefail
+
+# Parse command line arguments
+FORMAT="PDF"  # Default to PDF if no format specified
+
+# Check if a format was provided as an argument
+if [ $# -ge 1 ]; then
+    if [ "$1" = "BOOK" ] || [ "$1" = "PDF" ]; then
+        FORMAT="$1"
+    else
+        echo -e "\033[31mError: Invalid format '$1'. Valid formats are BOOK or PDF.\033[0m"
+        echo -e "Usage: $0 [BOOK|PDF]"
+        exit 1
+    fi
+fi
+
+# Constants and configuration
 D="/home/jw/src/iching_cli/book/v2/bin"
-BREAK='<div style="page-break-before: always;"></div>'
+CURRENT_SIZE="8.25x11"
+BLANK="${D}/../includes/blank_${CURRENT_SIZE}.pdf"
+TEMP_DIR="/tmp/iching_book_$$"  # Use PID for isolation
+
+# Create required directories
+mkdir -p "${TEMP_DIR}"
+
+# Trap for cleaning up on exit
+trap 'rm -rf "${TEMP_DIR}"' EXIT INT TERM
 
 # Function to process HTML documents into PDFs
-#
-# This function processes an HTML document by:
-# 1. Creating a temporary copy of the HTML file
-# 2. Removing any 'calc()' lines that might cause issues
-# 3. Generating a PDF using prince-books with specified styling
-#
-# Usage:
-#   process_document "document_name" ["style_file"]
-#
-# Parameters:
-#   $1 - Document name without extension (required)
-#   $2 - CSS style file name (optional, defaults to iching.css)
-#
-# Example:
-#   process_document "COPYRIGHT_PAGE_v1" "iching_nopage.css"
-#   process_document "BOOK_INTRO"
-
-
-CURRENT_SIZE="8.25x11"
-
-
-#BLANK=${D}/../includes/blank_8.3x11.7.pdf
-BLANK=${D}/../includes/blank_${CURRENT_SIZE}.pdf
-
 function process_document() {
     local DOCUMENT="$1"
+    local CSS_FILE="${2:-iching.css}"
 
     echo -e "\033[35mProcessing ${DOCUMENT}\033[0m"
 
-    # delete calc() line
-    cp ${D}/../includes/${DOCUMENT}.html /tmp/html.tmp
-    cat /tmp/html.tmp | grep -v "calc(" > ${D}/../includes/${DOCUMENT}.html
+    # Verify input file exists
+    if [ ! -f "${D}/../includes/${DOCUMENT}.html" ]; then
+        echo -e "\033[31mError: Input file ${D}/../includes/${DOCUMENT}.html not found\033[0m"
+        return 1
+    fi
 
-    # make PDF
-    rm -f ${D}/../includes/${DOCUMENT}.pdf
-    set -x
-    prince-books \
-        --style=${D}/../includes/${2:-iching.css} \
+    # Create temporary HTML without calc() lines
+    cp "${D}/../includes/${DOCUMENT}.html" "${TEMP_DIR}/current.html"
+    grep -v "calc(" "${TEMP_DIR}/current.html" > "${D}/../includes/${DOCUMENT}.html"
+
+    # Make PDF
+    rm -f "${D}/../includes/${DOCUMENT}.pdf"
+
+    echo -e "\033[36mConverting ${DOCUMENT} to PDF using ${CSS_FILE}...\033[0m"
+
+    if prince-books \
+        --style="${D}/../includes/${CSS_FILE}" \
         --media=print \
-        -o ${D}/../includes/${DOCUMENT}.pdf \
-        ${D}/../includes/${DOCUMENT}.html #2>> /tmp/prince.log
+        -o "${D}/../includes/${DOCUMENT}.pdf" \
+        "${D}/../includes/${DOCUMENT}.html"; then
+
+        echo -e "\033[32m✓ Created ${DOCUMENT}.pdf\033[0m"
+        return 0
+    else
+        echo -e "\033[31m✗ Failed to create ${DOCUMENT}.pdf\033[0m"
+        return 1
+    fi
+}
+
+# Cleanup previous files
+function cleanup_previous_files() {
+    echo -e "\033[33mCleaning up previous files...\033[0m"
+    rm -f "${D}/../includes/FINAL_iching.pdf"
+    rm -f "${D}/../includes/FINAL_iching_${FORMAT}.pdf"
+    rm -f "${TEMP_DIR}/out.pdf"
+    rm -f "${TEMP_DIR}/html.pdf"
+    rm -f "${TEMP_DIR}/TOC_${FORMAT}.pdf"
+    rm -f "${TEMP_DIR}/TOC_${FORMAT}-cut.pdf"
+    rm -f "${TEMP_DIR}/COPYRIGHT_${FORMAT}.pdf"
+    rm -f "${TEMP_DIR}/COPYRIGHT_${FORMAT}-cut.pdf"
+    rm -f "${TEMP_DIR}/BOOK_INTRO_${FORMAT}.pdf"
+    rm -f "${TEMP_DIR}/BOOK_INTRO_${FORMAT}-cut.pdf"
+    rm -f "${TEMP_DIR}/iching_${FORMAT}.pdf"
+    rm -f "${TEMP_DIR}/iching_${FORMAT}-cut.pdf"
+    rm -f "${D}/../includes/FINAL_TOC_${FORMAT}.pdf"
+    rm -f "${D}/../includes/COPYRIGHT_PAGE_v1_${FORMAT}.pdf"
+    rm -f "${D}/../includes/BOOK_INTRO_${FORMAT}.pdf"
+    rm -f "${D}/../includes/iching_${FORMAT}.pdf"
+}
+
+# Process all documents for the selected format
+function process_documents() {
+    local status=0
+
+    echo -e "\033[1;34mProcessing documents for ${FORMAT} format\033[0m"
+
+    # Process TOC
+    echo -e "\033[34mProcessing Table of Contents...\033[0m"
+    if ! process_document "TOC" "iching_nopage.css"; then
+        echo -e "\033[31mFailed to process TOC\033[0m"
+        status=1
+    else
+        cp "${D}/../includes/TOC.pdf" "${TEMP_DIR}/TOC_${FORMAT}.pdf"
+        pdftk "${TEMP_DIR}/TOC_${FORMAT}.pdf" cat 3-end output "${TEMP_DIR}/TOC_${FORMAT}-cut.pdf"
+        pdftk "${BLANK}" "${TEMP_DIR}/TOC_${FORMAT}-cut.pdf" cat output "${D}/../includes/FINAL_TOC_${FORMAT}.pdf"
+    fi
+
+    # Process COPYRIGHT
+    echo -e "\033[34mProcessing Copyright Page...\033[0m"
+    # if ! process_document "COPYRIGHT" "iching_nopage.css"; then
+    #     echo -e "\033[31mFailed to process COPYRIGHT\033[0m"
+    #     status=1
+    # else
+    cp "${D}/../includes/COPYRIGHT.pdf" "${TEMP_DIR}/COPYRIGHT_${FORMAT}.pdf"
+    pdftk "${TEMP_DIR}/COPYRIGHT_${FORMAT}.pdf" cat 2-end output "${TEMP_DIR}/COPYRIGHT_${FORMAT}-cut.pdf"
+
+    if [ "${FORMAT}" = "PDF" ]; then
+        pdftk "${BLANK}" "${TEMP_DIR}/COPYRIGHT_${FORMAT}-cut.pdf" cat output "${D}/../includes/COPYRIGHT_${FORMAT}.pdf"
+    else
+        cp "${TEMP_DIR}/COPYRIGHT_${FORMAT}-cut.pdf" "${D}/../includes/COPYRIGHT_${FORMAT}.pdf"
+    fi
+    # fi
+
+    # Process BOOK_INTRO
+    echo -e "\033[34mProcessing Book Introduction...\033[0m"
+    if ! process_document "BOOK_INTRO"; then
+        echo -e "\033[31mFailed to process BOOK_INTRO\033[0m"
+        status=1
+    else
+        cp "${D}/../includes/BOOK_INTRO.pdf" "${TEMP_DIR}/BOOK_INTRO_${FORMAT}.pdf"
+        pdftk "${TEMP_DIR}/BOOK_INTRO_${FORMAT}.pdf" cat 3-end output "${TEMP_DIR}/BOOK_INTRO_${FORMAT}-cut.pdf"
+        pdftk "${BLANK}" "${TEMP_DIR}/BOOK_INTRO_${FORMAT}-cut.pdf" cat output "${D}/../includes/BOOK_INTRO_${FORMAT}.pdf"
+    fi
+
+    # Process main content
+    echo -e "\033[34mProcessing Main Content...\033[0m"
+    if ! process_document "iching"; then
+        echo -e "\033[31mFailed to process iching\033[0m"
+        status=1
+    else
+        cp "${D}/../includes/iching.pdf" "${TEMP_DIR}/iching_${FORMAT}.pdf"
+        pdftk "${TEMP_DIR}/iching_${FORMAT}.pdf" cat 3-end output "${TEMP_DIR}/iching_${FORMAT}-cut.pdf"
+        pdftk "${BLANK}" "${TEMP_DIR}/iching_${FORMAT}-cut.pdf" cat output "${D}/../includes/iching_${FORMAT}.pdf"
+    fi
+
+    return $status
+}
+
+# Merge all components into final PDF
+function merge_documents() {
+    echo -e "\033[33mMerging documents into final PDF...\033[0m"
+
+    # Define component files
+    COVER="${D}/../includes/_COVER_v2_${CURRENT_SIZE}.pdf"
+    COPYRIGHT="${D}/../includes/COPYRIGHT_${FORMAT}.pdf"
+    BOOK="${D}/../includes/BOOK_INTRO_${FORMAT}.pdf"
+    Q8="${D}/../includes/_q8_iching_${CURRENT_SIZE}_png.pdf"
+    BIN="${D}/../includes/_binhex4col_${CURRENT_SIZE}_png.pdf"
+    PATHS="${D}/../includes/_32paths_${CURRENT_SIZE}_png.pdf"
+    TOC="${D}/../includes/FINAL_TOC_${FORMAT}.pdf"
+    ICHING="${D}/../includes/iching_${FORMAT}.pdf"
+    OUTPUT="${D}/../includes/FINAL_iching_${FORMAT}.pdf"
+
+
+
+    if [ "${FORMAT}" = "BOOK" ]; then
+        echo -e "\033[33mSkipping cover page for BOOK format\033[0m"
+        COVER=""
+    fi
+
+
+
+    # Verify all files exist
+    for file in  "${COPYRIGHT}" "${BOOK}" "${Q8}" "${BIN}" "${PATHS}" "${TOC}" "${ICHING}"; do
+        if [ ! -f "$file" ]; then
+            echo -e "\033[31mError: Required file |$file| not found\033[0m"
+            return 1
+        else
+            echo -e "\033[32m✓ Found file |$file|\033[0m"
+        fi
+    done
+
+
+
+    set -x
+
+
+    # Merge files
+    if pdftk \
+        ${COVER} \
+        ${COPYRIGHT} \
+        ${BOOK} \
+        ${Q8} \
+        ${BIN} \
+        ${PATHS} \
+        ${TOC} \
+        ${ICHING} \
+        cat output "${OUTPUT}"; then
+
+        echo -e "\033[32mSuccessfully created ${OUTPUT}\033[0m"
+        return 0
+    else
+        echo -e "\033[31mFailed to create final document\033[0m"
+        return 1
+    fi
     set +x
 }
 
-rm -f ${D}/../includes/FINAL_iching.pdf
-rm -f /tmp/out.pdf
-rm -f /tmp/html.pdf
+# Open the final PDF
+function display_document() {
+    local PDF_FILE="${D}/../includes/FINAL_iching_${FORMAT}.pdf"
 
-#^ PROCESS: TOC.html > TOC.pdf
-#! make sure the HTML output was generated with teh 'nopages' CSS to avoid page numbers
-process_document "TOC" "iching_nopage.css" # make PDF from HTML
-cp ${D}/../includes/TOC.pdf /tmp/TOC.pdf
-pdftk /tmp/TOC.pdf cat 3-end output  /tmp//TOC-cut.pdf
-# insert 2 blank pages
-pdftk ${BLANK} /tmp/TOC-cut.pdf cat output ${D}/../includes/FINAL_TOC.pdf
+    if [ ! -f "${PDF_FILE}" ]; then
+        echo -e "\033[31mError: Final PDF ${PDF_FILE} not found\033[0m"
+        return 1
+    fi
 
-#^ PROCESS: COPYRIGHT_PAGE_v1.html > COPYRIGHT_PAGE_v1.pdf
-#! make sure the HTML output was generated with teh 'nopages' CSS to avoid page numbers
-process_document "COPYRIGHT_PAGE_v1" "iching_nopage.css"
-cp ${D}/../includes/COPYRIGHT_PAGE_v1.pdf /tmp/COPYRIGHT_PAGE_v1.pdf
-pdftk /tmp/COPYRIGHT_PAGE_v1.pdf cat 5-end output  /tmp//COPYRIGHT_PAGE_v1-cut.pdf
-# insert 2 blank pages
-pdftk ${BLANK} /tmp/COPYRIGHT_PAGE_v1-cut.pdf cat output ${D}/../includes/COPYRIGHT_PAGE_v1.pdf
+    echo -e "\033[33mOpening document for preview...\033[0m"
+    if command -v okular >/dev/null 2>&1; then
+        okular "${PDF_FILE}" &
+        return 0
+    else
+        echo -e "\033[33mOkular not found. PDF is at: ${PDF_FILE}\033[0m"
+        return 1
+    fi
+}
 
+# Main execution flow
+function main() {
+    local status=0
 
-#^ PROCESS: BOOK_INTRO.html > BOOK_INTRO.pdf
-#! make sure the HTML output was generated with teh 'nopages' CSS to avoid page numbers
-process_document "BOOK_INTRO"
-cp ${D}/../includes/BOOK_INTRO.pdf /tmp/BOOK_INTRO.pdf
-pdftk /tmp/BOOK_INTRO.pdf cat 3-end output  /tmp/BOOK_INTRO-cut.pdf
-# insert 1 blank pages
-pdftk ${BLANK} /tmp/BOOK_INTRO-cut.pdf cat output ${D}/../includes/BOOK_INTRO.pdf
+    # Start processing
+    echo -e "\033[1;34mStarting I Ching Book PDF generation\033[0m"
+    echo -e "\033[34mPage size: ${CURRENT_SIZE}, Format: ${FORMAT}\033[0m"
 
-#^ PROCESS: iching.html > iching.pdf
-process_document "iching"
-cp ${D}/../includes/iching.pdf /tmp/iching.pdf
-pdftk /tmp/iching.pdf cat 3-end output  /tmp/iching-cut.pdf
-# insert 1 blank pages
+    # Clean up previous files
+    cleanup_previous_files
 
-pdftk ${BLANK} /tmp/iching-cut.pdf cat output ${D}/../includes/iching.pdf
+    # Process documents
+    if ! process_documents; then
+        echo -e "\033[31mWarning: Some documents failed to process\033[0m"
+        status=1
+    fi
 
+    # Merge documents
+    if ! merge_documents; then
+        echo -e "\033[31mError: Failed to merge documents\033[0m"
+        status=1
+    else
+        # Display the final document
+        if ! display_document; then
+            echo -e "\033[33mWarning: Could not open PDF viewer\033[0m"
+            # Don't fail the script just because viewer didn't open
+        fi
+    fi
 
+    if [ $status -eq 0 ]; then
+        echo -e "\033[1;32mI Ching Book PDF generation complete\033[0m"
+    else
+        echo -e "\033[1;31mI Ching Book PDF generation completed with errors\033[0m"
+    fi
 
-#~-----------------------------------------------------------------------------------
-echo -e "\033[33mMerging...\033[0m"
+    return $status
+}
 
-#COVER=${D}/../includes/COVER_PAGE_8.5x11.pdf
-#COVER=${D}/../includes/COVER_v1.pdf
-
-COVER=${D}/../includes/_COVER_v2_${CURRENT_SIZE}.pdf
-COPYRIGHT=${D}/../includes/COPYRIGHT_PAGE_v1.pdf
-INSIDE=${D}/../includes/INSIDE_PAGE_${CURRENT_SIZE}.pdf
-BOOK=${D}/../includes/BOOK_INTRO.pdf
-Q8=${D}/../includes/_q8_iching_${CURRENT_SIZE}_png.pdf
-BIN=${D}/../includes/_binhex4col_${CURRENT_SIZE}_png.pdf
-PATHS=${D}/../includes/_32paths_${CURRENT_SIZE}_png.pdf
-TOC=${D}/../includes/FINAL_TOC.pdf
-ICHING=${D}/../includes/iching.pdf
-
-
-pdftk \
-    ${COVER} \
-    ${COPYRIGHT} \
-    ${INSIDE} \
-    ${BOOK} \
-    ${Q8} \
-    ${BIN} \
-    ${PATHS} \
-    ${TOC} \
-    ${ICHING} \
-    cat output ${D}/../includes/FINAL_iching.pdf
-
-# pdftk \
-#     ${D}/../includes/COVER_PAGE_8.5x11.pdf \
-#     ${D}/../includes/COPYRIGHT_PAGE_v1.pdf \
-#     ${D}/../includes/BOOK_INTRO.pdf \
-#     ${D}/../includes/FINAL_TOC.pdf \
-#     ${D}/../includes/iching.pdf \
-#     cat output ${D}/../includes/FINAL_iching.pdf
-
-okular ${D}/../includes/FINAL_iching.pdf
+# Run the main function
+main
+exit $?
 

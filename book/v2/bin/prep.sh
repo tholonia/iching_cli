@@ -91,6 +91,7 @@ D="/home/jw/src/iching_cli/book/v2/bin"
 VERSION_SUFFIX=""
 TEST_FLAG=""
 
+
 # Parse arguments
 while [[ $# -gt 0 ]]; do
     case $1 in

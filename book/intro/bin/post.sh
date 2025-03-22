@@ -57,7 +57,12 @@ if [ $# -ge 1 ]; then
 fi
 
 # Constants and configuration
-PAGE_SIZE="6.69x9.61"
+
+#! the size is just for file names, the actual size is 6.69x9.61
+#! Only change size in LESS file to change output size
+PROD_PAGE_SIZE="6.69x9.61"
+
+PAGE_SIZE="${PROD_PAGE_SIZE}"
 BASE_DIR="/home/jw/src/iching_cli/book/intro"
 SCRIPT_DIR="${BASE_DIR}/bin"
 CONTENT_DIR="${BASE_DIR}/content"
@@ -101,13 +106,14 @@ function process_document() {
     grep -v "calc(" "${TEMP_HTML}" > "${INPUT_HTML}"
 
     # Convert HTML to PDF
+    set -x
     echo -e "\033[36mConverting to PDF...\033[0m"
     prince-books \
         --style="${STYLES_DIR}/${CSS_FILE}" \
         --media=print \
         -o "${OUTPUT_PDF}" \
         "${INPUT_HTML}"
-
+    set +x
     # Check if PDF was created successfully
     if [ ! -f "${OUTPUT_PDF}" ]; then
         echo -e "\033[31mError: Failed to create ${OUTPUT_PDF}\033[0m"
@@ -123,7 +129,9 @@ function process_documents_for_format() {
     echo -e "\033[33mProcessing documents for ${FORMAT} format...\033[0m"
 
     # Process main content
+    #!--------------------------------------------------------------
     process_document "iching_intro"
+    #!--------------------------------------------------------------
     cp "${LATEST_DIR}/iching_intro.pdf" "${TEMP_DIR}/iching_intro_${FORMAT}.pdf"
     pdftk "${TEMP_DIR}/iching_intro_${FORMAT}.pdf" cat 3-end output "${TEMP_DIR}/iching_intro_${FORMAT}.pdf-cut.pdf"
     cp "${TEMP_DIR}/iching_intro_${FORMAT}.pdf-cut.pdf" "${LATEST_DIR}/iching_intro_${FORMAT}.pdf"
@@ -139,7 +147,9 @@ function process_documents_for_format() {
     fi
     set +x
     # Process TOC with no page numbers
+    #!--------------------------------------------------------------
     process_document "TOC" "iching_intro_nopage.css"
+    #!--------------------------------------------------------------
     cp "${LATEST_DIR}/TOC.pdf" "${TEMP_DIR}/TOC_${FORMAT}.pdf"
     pdftk "${TEMP_DIR}/TOC_${FORMAT}.pdf" cat 3-end output "${TEMP_DIR}/TOC_${FORMAT}.pdf-cut.pdf"
     pdftk "${BLANK_PAGE}" "${TEMP_DIR}/TOC_${FORMAT}.pdf-cut.pdf" cat output "${LATEST_DIR}/FINAL_TOC_${FORMAT}.pdf"
