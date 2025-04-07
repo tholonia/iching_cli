@@ -10,7 +10,10 @@
 #     proper environment setup before document generation.
 #
 # Usage:
-#     ./prep.sh
+#     ./prep.sh [--small] [--no-gui] [--build]
+#       --small    Use lower resolution images for faster processing
+#       --no-gui   Skip launching Typora (for systems without X11/display)
+#       --build    Rebuild all image files (otherwise uses cached versions)
 #
 # Process:
 #     1. Environment Setup - Sets directory paths and display
@@ -42,15 +45,48 @@
 # Last Updated: 2024
 # =============================================================================
 
+
 D="/home/jw/src/iching_cli/book/intro/bin"
 PAGE_SIZE=_6.69x9.61
+
+# Parse command line arguments
+SMALL=false
+NO_GUI=false
+BUILD=false
+rm -f ../Images
+ln -fs /home/jw/store/src/iching_cli/book/intro/HiRes  /home/jw/store/src/iching_cli/book/intro/Images
+for arg in "$@"; do
+  case $arg in
+    --small)
+      SMALL=true
+      rm -f ../Images
+      ln -fs /home/jw/store/src/iching_cli/book/intro/72  /home/jw/store/src/iching_cli/book/intro/Images
+
+      shift
+      ;;
+    --no-gui)
+      NO_GUI=true
+      shift
+      ;;
+    --build)
+      BUILD=true
+      shift
+      ;;
+    *)
+      # Unknown option
+      ;;
+  esac
+done
 
 # Get version suffix if provided
 VERSION_SUFFIX=""
 
-export DISPLAY=:0
+# Only set display if not in no-gui mode
+if [ "$NO_GUI" = false ]; then
+  export DISPLAY=:0
+fi
 
-rm -f ${D}/../intro/iching_intro.html
+# rm -f ${D}/../intro/iching_intro.html
 
 #! need to copy latest css for typora
 lessc ${D}/../Styles/iching_intro.less ${D}/../Styles/iching_intro.css
@@ -61,6 +97,57 @@ lessc ${D}/../Styles/iching_intro_nopage.less ${D}/../Styles/iching_intro_nopage
 cp ${D}/../Styles/iching_intro_nopage.css /home/jw/.config/Typora/themes/iching_intro_nopage.css
 cp ${D}/../Styles/iching_intro_nopage.less /home/jw/.config/Typora/themes/iching_intro_nopage.less
 
+if [ "$SMALL" = true ]; then
 
-typora ${D}/../content/iching_intro.md
+    if [ "$BUILD" = true ]; then
+        rm -f ../72/bc/*.jpg
+        # Process all PNG files from the HiRes directory
+        for file in ../HiRes/bc/*.png; do
+            # Extract just the filename without the path and extension
+            filename=$(basename "${file%.*}")
+
+            # Convert the file to 72 DPI and immediately to JPEG with 50% quality
+            magick "$file" -density 72 -units PixelsPerInch -quality 50 "../72/bc/${filename}.jpg"
+
+            echo "Converted: $filename.png to $filename.jpg with 72 DPI and 50% quality"
+            done
+        cd ../72/bc
+        rename .jpg _sm.jpg *.jpg
+        cd -
+
+        # Process all PNG files from the HiRes directory
+        echo "Processing images in small mode..."
+        rm -f ../72/*.jpg
+
+        for file in ../HiRes/*.png; do
+            # Extract just the filename without the path and extension
+            filename=$(basename "${file%.*}")
+
+            # Convert the file to 72 DPI and immediately to JPEG with 50% quality
+            magick "$file" -density 72 -units PixelsPerInch -quality 50 "../72/${filename}.jpg"
+
+            echo "Converted: $filename.png to $filename.jpg with 72 DPI and 50% quality"
+            done
+
+        cd ../72
+            rename .jpg _sm.jpg *.jpg
+        cd -
+    fi
+
+
+    cp ../content/iching_intro.md ../content/iching_intro_sm.md
+    perl -pi -e 's/\.png/_sm.jpg/g' ../content/iching_intro_sm.md
+
+    if [ "$NO_GUI" = false ]; then
+      typora ${D}/../content/iching_intro_sm.md || echo "Error: Failed to open Typora. Try running with --no-gui option."
+    else
+      echo "Skipping Typora in no-gui mode. Files are prepared at: ${D}/../content/iching_intro_sm.md"
+    fi
+else
+    if [ "$NO_GUI" = false ]; then
+      typora ${D}/../content/iching_intro.md || echo "Error: Failed to open Typora. Try running with --no-gui option."
+    else
+      echo "Skipping Typora in no-gui mode. Files are prepared at: ${D}/../content/iching_intro.md"
+    fi
+fi
 

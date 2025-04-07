@@ -65,3 +65,9 @@ book/intro/bin/states/
 *.css
 book/intro/Styles/iching_intro_nopage
 *.png
+*.jpg 
+book/intro/72/
+book/intro/HiRes/
+book/intro/Images
+*.out
+*.log

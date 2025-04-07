@@ -10,7 +10,11 @@
 #     document assembly.
 #
 # Usage:
-#     ./post.sh
+#     ./post.sh [BOOK|PDF] [--small]
+#
+# Options:
+#     BOOK|PDF   - Output format (defaults to PDF if not specified)
+#     --small    - Use small image version (iching_intro_sm.md) as input
 #
 # Process:
 #     1. HTML Cleaning - Removes calc() lines that might cause issues
@@ -20,7 +24,7 @@
 #     5. Document Preview - Opens final PDF in viewer
 #
 # Files Processed:
-#     - iching_intro.html → iching_intro.pdf
+#     - iching_intro.html → iching_intro.pdf (or iching_intro_sm.html if --small)
 #     - COPYRIGHT.html → COPYRIGHT.pdf
 #     - Various cover and content PDFs merged into final document
 #
@@ -44,16 +48,31 @@
 
 # Parse command line arguments
 FORMAT="PDF"  # Default to PDF if no format specified
+SMALL=false   # Default to standard version
 
-# Check if a format was provided as an argument
-if [ $# -ge 1 ]; then
-    if [ "$1" = "BOOK" ] || [ "$1" = "PDF" ]; then
-        FORMAT="$1"
-    else
-        echo -e "\033[31mError: Invalid format '$1'. Valid formats are BOOK or PDF.\033[0m"
-        echo -e "Usage: $0 [BOOK|PDF]"
-        exit 1
-    fi
+# Parse all arguments
+for arg in "$@"; do
+  case $arg in
+    BOOK|PDF)
+      FORMAT="$arg"
+      ;;
+    --small)
+      SMALL=true
+      ;;
+    *)
+      echo -e "\033[31mError: Invalid argument '$arg'. Valid formats are BOOK or PDF with optional --small.\033[0m"
+      echo -e "Usage: $0 [BOOK|PDF] [--small]"
+      exit 1
+      ;;
+  esac
+done
+
+# Set input file based on --small flag
+if [ "$SMALL" = true ]; then
+  INPUT_BASE="iching_intro_sm"
+  echo -e "\033[34mUsing small image version: ${INPUT_BASE}\033[0m"
+else
+  INPUT_BASE="iching_intro"
 fi
 
 # Constants and configuration
@@ -70,25 +89,33 @@ LATEST_DIR="${BASE_DIR}/Latest"
 STYLES_DIR="${BASE_DIR}/Styles"
 BLANK_PAGE="${CONTENT_DIR}/blank_${PAGE_SIZE}.pdf"
 OUTPUT_NAME="FINAL_iching_intro"
+if [ "$SMALL" = true ]; then
+  OUTPUT_NAME="FINAL_iching_intro_sm"
+fi
 TEMP_DIR="/tmp"
 
 # Create required directories
 mkdir -p "${LATEST_DIR}"
 
+function rmx() {
+    echo "Deleting: ${1}"
+    rm -f "${1}"
+}
+
 # Cleanup previous run
 function cleanup_previous_files() {
     echo -e "\033[33mCleaning up previous files...\033[0m"
-    rm -f "${LATEST_DIR}/${OUTPUT_NAME}_${FORMAT}.pdf"
-    rm -f "${TEMP_DIR}/out.pdf"
-    rm -f "${TEMP_DIR}/html.pdf"
-    rm -f "${TEMP_DIR}/iching_intro_${FORMAT}.pdf"
-    rm -f "${TEMP_DIR}/COPYRIGHT_${FORMAT}.pdf"
-    rm -f "${TEMP_DIR}/TOC_${FORMAT}.pdf"
-    rm -f "${TEMP_DIR}/iching_intro_${FORMAT}.pdf-cut.pdf"
-    rm -f "${TEMP_DIR}/COPYRIGHT_${FORMAT}.pdf-cut.pdf"
-    rm -f "${TEMP_DIR}/TOC_${FORMAT}.pdf-cut.pdf"
-    rm -f "${LATEST_DIR}/FINAL_COPYRIGHT_${FORMAT}.pdf"
-    rm -f "${LATEST_DIR}/FINAL_TOC_${FORMAT}.pdf"
+    rmx "${LATEST_DIR}/${OUTPUT_NAME}_${FORMAT}.pdf"
+    rmx "${TEMP_DIR}/out.pdf"
+    rmx "${TEMP_DIR}/html.pdf"
+    rmx "${TEMP_DIR}/${INPUT_BASE}_${FORMAT}.pdf"
+    rmx "${TEMP_DIR}/COPYRIGHT_${FORMAT}.pdf"
+    rmx "${TEMP_DIR}/TOC_${FORMAT}.pdf"
+    rmx "${TEMP_DIR}/${INPUT_BASE}_${FORMAT}.pdf-cut.pdf"
+    rmx "${TEMP_DIR}/COPYRIGHT_${FORMAT}.pdf-cut.pdf"
+    rmx "${TEMP_DIR}/TOC_${FORMAT}.pdf-cut.pdf"
+    rmx "${LATEST_DIR}/FINAL_COPYRIGHT_${FORMAT}.pdf"
+    rmx "${LATEST_DIR}/FINAL_TOC_${FORMAT}.pdf"
 }
 
 # Process an HTML document into PDF
@@ -105,10 +132,20 @@ function process_document() {
     cp "${INPUT_HTML}" "${TEMP_HTML}"
     grep -v "calc(" "${TEMP_HTML}" > "${INPUT_HTML}"
 
+
+    # cp "${INPUT_HTML}" "${TEMP_HTML}"
+    # sed -E ':a;N;$!ba;s/<svg[^>]*>.*?<\/svg>//g' "${TEMP_HTML}" > "${INPUT_HTML}"
+
+    # # Remove SVG line to prevent rendering issues
+    # cp "${INPUT_HTML}" "${TEMP_HTML}"
+    # grep -v -i "svg" "${TEMP_HTML}" > "${INPUT_HTML}"
+
     # Convert HTML to PDF
     set -x
     echo -e "\033[36mConverting to PDF...\033[0m"
-    prince-books \
+    prince-books --verbose --no-warn-css --debug --log=debug.log  \
+        --fail-dropped-content --fail-missing-resources --fail-missing-glyphs  \
+        --input=html \
         --style="${STYLES_DIR}/${CSS_FILE}" \
         --media=print \
         -o "${OUTPUT_PDF}" \
@@ -130,11 +167,11 @@ function process_documents_for_format() {
 
     # Process main content
     #!--------------------------------------------------------------
-    process_document "iching_intro"
+    process_document "${INPUT_BASE}"
     #!--------------------------------------------------------------
-    cp "${LATEST_DIR}/iching_intro.pdf" "${TEMP_DIR}/iching_intro_${FORMAT}.pdf"
-    pdftk "${TEMP_DIR}/iching_intro_${FORMAT}.pdf" cat 3-end output "${TEMP_DIR}/iching_intro_${FORMAT}.pdf-cut.pdf"
-    cp "${TEMP_DIR}/iching_intro_${FORMAT}.pdf-cut.pdf" "${LATEST_DIR}/iching_intro_${FORMAT}.pdf"
+    cp "${LATEST_DIR}/${INPUT_BASE}.pdf" "${TEMP_DIR}/${INPUT_BASE}_${FORMAT}.pdf"
+    pdftk "${TEMP_DIR}/${INPUT_BASE}_${FORMAT}.pdf" cat 3-end output "${TEMP_DIR}/${INPUT_BASE}_${FORMAT}.pdf-cut.pdf"
+    cp "${TEMP_DIR}/${INPUT_BASE}_${FORMAT}.pdf-cut.pdf" "${LATEST_DIR}/${INPUT_BASE}_${FORMAT}.pdf"
 
     # Process copyright
     set -x
@@ -172,8 +209,10 @@ function set_format_files() {
 function merge_documents() {
     echo -e "\033[33mMerging documents into final PDF...\033[0m"
 
-    TOC="${LATEST_DIR}/FINAL_TOC_${FORMAT}.pdf"
-    ICHING="${LATEST_DIR}/iching_intro_${FORMAT}.pdf"
+#    TOC="${LATEST_DIR}/FINAL_TOC_${FORMAT}.pdf"
+    TOC=""
+
+    ICHING="${LATEST_DIR}/${INPUT_BASE}_${FORMAT}.pdf"
     OUTPUT="${LATEST_DIR}/${OUTPUT_NAME}_${FORMAT}.pdf"
 
     pdftk \
