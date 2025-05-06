@@ -1,0 +1,42 @@
+#!/bin/bash
+
+
+
+BASE_DIR="/home/jw/src/iching_cli/book/intro"
+STYLES_DIR="${BASE_DIR}/Styles"
+LATEST_DIR="${BASE_DIR}/Latest"
+TEMP_DIR="/tmp"
+FORMAT="BOOK"
+PROD_PAGE_SIZE="6.69x9.61"
+PAGE_SIZE="${PROD_PAGE_SIZE}"
+CONTENT_DIR="${BASE_DIR}/content"
+BLANK_PAGE="${CONTENT_DIR}/blank_${PAGE_SIZE}.pdf"
+CSS_FILE="iching_intro_nopage"
+
+
+lessc ${BASE_DIR}/Styles/iching_intro_nopage.less ${STYLES_DIR}/${CSS_FILE}.css
+cp ${STYLES_DIR}/${CSS_FILE}.css /home/jw/.config/Typora/themes/${CSS_FILE}.css
+cp ${STYLES_DIR}/${CSS_FILE}.less /home/jw/.config/Typora/themes/${CSS_FILE}.less
+
+./regen_TOC_v2.py
+rm debug.log
+    prince-books \
+        --verbose \
+        --no-warn-css \
+        --debug \
+        --log=debug.log  \
+        --fail-dropped-content \
+        --fail-missing-resources \
+        --fail-missing-glyphs  \
+        --input=html \
+        --style="${STYLES_DIR}/${CSS_FILE}.css" \
+        --media=print \
+        -o ../Latest/TOC.pdf \
+        ../Latest/TOC.html
+
+tail -2 debug.log
+
+cp "${LATEST_DIR}/TOC.pdf" "${TEMP_DIR}/TOC_${FORMAT}.pdf"
+pdftk "${TEMP_DIR}/TOC_${FORMAT}.pdf" cat 3-end output "${TEMP_DIR}/TOC_${FORMAT}.pdf-cut.pdf"
+pdftk "${BLANK_PAGE}" "${TEMP_DIR}/TOC_${FORMAT}.pdf-cut.pdf" cat output "${LATEST_DIR}/FINAL_TOC_${FORMAT}.pdf"
+

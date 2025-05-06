@@ -1,13 +1,13 @@
 /*
  A4 PAGE SIZE
 */
-@page-width: 8.27in;
-@page-height: 11.69in;
+// @page-width: 8.27in;
+// @page-height: 11.69in;
 
-/* PRODUCTION SIZE
+// PRODUCTION SIZE
 @page-width: 6.69in;
 @page-height: 9.61in;
-*/
+
 
 @margin-outer: 0.5in;
 @margin-gutter: 1in;
@@ -31,6 +31,11 @@
 }
 
 @border-color: #c5c5c5;
+
+h1.title, h1#title, header.title {
+    display: none !important;
+}
+
 
 /* Font Smoothing */
 .font-smoothing() {
@@ -141,7 +146,16 @@ body {
     page-break-before: always !important;
     break-before: always !important;
 }
-
+@page :blank {
+    @top-center {
+      content: "";
+    }
+    @bottom-center {
+      content: "";
+    }
+    background: white;
+  }
+  
 /* === Header Formatting === */
 #write {
     margin: 0 auto !important;
@@ -276,7 +290,7 @@ blockquote {
 
 h1 {
     page-break-before: right !important;
-    break-before: recto !important;
+    // break-before: recto !important;
 }
 
 h2,

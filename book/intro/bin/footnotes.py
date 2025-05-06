@@ -1,4 +1,19 @@
 #!/bin/env python3
+"""
+Markdown Footnote Extractor
+
+This utility extracts and lists all footnote references from Markdown documents.
+It identifies references in the format [^n] where n is a number, sorts them
+numerically, and prints the unique footnote numbers in order.
+
+Usage:
+    python footnotes.py [filename]
+    - If filename is provided, reads from that file
+    - If no filename is provided, reads from standard input
+
+Output:
+    A list of unique footnote numbers found in the document, sorted numerically.
+"""
 import re
 import sys
 

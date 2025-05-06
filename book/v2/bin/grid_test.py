@@ -1,5 +1,39 @@
 #!/usr/bin/env python3
 
+"""
+Binary Pattern Target Analyzer and Visualizer
+
+This script generates and visualizes a 2D grid highlighting positions where binary
+numbers have a specific number of '1' bits. For a given grid size NxN and a target
+number of ones, it:
+
+1. Creates a grid where each cell represents a composite number formed by combining
+   two values (upper and lower) into a single binary number
+2. Marks cells (1/0) based on whether their binary representation contains exactly
+   the target number of '1' bits
+3. Generates a binary heatmap visualization showing matching positions
+4. Outputs statistics about the overall distribution of '1' bits
+
+Usage:
+    ./grid_test.py <grid_size> <target_ones>
+
+Arguments:
+    grid_size:    Integer specifying the dimensions of the square grid (NxN)
+    target_ones:  Integer specifying the desired number of '1' bits to match
+
+Output:
+    - Generates a binary plot saved as 'grid_<size>x<size>_ones_<target>.png'
+    - Prints the distribution of '1' bits across all numbers in the grid
+    - Uses binary colormap (black and white) for visualization
+
+Example:
+    ./grid_test.py 64 10  # Creates a 64x64 grid, highlighting numbers with 10 ones
+
+Note:
+    The script automatically calculates the required bit width based on the
+    maximum possible value in the grid ((size-1) * size).
+"""
+
 import sys
 import math
 import numpy as np

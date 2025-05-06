@@ -46,6 +46,31 @@
 # =============================================================================
 
 
+
+# cat \
+# ../content/i00_INTRO.md \
+# ../content/i01_FOUNDATION.md \
+# ../content/i02_ICHING_BASICS.md \
+# ../content/i03_MAPPING.md \
+# ../content/i04_SYNTHESIS.md \
+# ../content/i05_MATH.md \
+# ../content/i06_APPENDIX.md \
+# > ../content/iching_intro.md
+
+cat \
+../content/i00_INTRO.md \
+../content/i01_FOUNDATION.md \
+../content/i02_ICHING_BASICS.md \
+../content/i03_MAPPING.md \
+../content/i04_SYNTHESIS.md \
+../content/i05_MATH.md \
+../content/i06_APPENDIX.md \
+> ../content/iching_intro.md
+
+
+
+
+
 D="/home/jw/src/iching_cli/book/intro/bin"
 PAGE_SIZE=_6.69x9.61
 
@@ -77,6 +102,7 @@ for arg in "$@"; do
       ;;
   esac
 done
+
 
 # Get version suffix if provided
 VERSION_SUFFIX=""
@@ -145,6 +171,11 @@ if [ "$SMALL" = true ]; then
     fi
 else
     if [ "$NO_GUI" = false ]; then
+    # Display reminder in cyan
+      echo -e "\033[36mREMINDER: You must save the output to the '../latest' directory!\033[0m"
+      echo "Press Enter to continue..."
+      read
+
       typora ${D}/../content/iching_intro.md || echo "Error: Failed to open Typora. Try running with --no-gui option."
     else
       echo "Skipping Typora in no-gui mode. Files are prepared at: ${D}/../content/iching_intro.md"

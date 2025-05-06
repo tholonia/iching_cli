@@ -95,7 +95,7 @@ from libs.funcs_lib import wen_values, get_json_version, ensure_directory_exists
 
 # Predefined list of all hexagrams
 # xHEXAGRAMS = [ '20','23','28','30','31','39','55','56','59']
-test_HEXAGRAMS = ['63','64']
+test_HEXAGRAMS = ['10']
 
 
 HEXAGRAMS = [ '01', '02', '03', '04', '05', '06', '07', '08', '09', '10',

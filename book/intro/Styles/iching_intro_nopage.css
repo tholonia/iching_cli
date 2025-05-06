@@ -1,10 +1,6 @@
 /*
  A4 PAGE SIZE
 */
-/* PRODUCTION SIZE
-@page-width: 6.69in;
-@page-height: 9.61in;
-*/
 /* Reduced to prevent excessive white space */
 /* Font Smoothing */
 /* === Global Styles === */
@@ -35,7 +31,7 @@ body {
   orphans: 2;
 }
 @page {
-  size: 8.27in 11.69in !important;
+  size: 6.69in 9.61in !important;
   counter-reset: page -1;
   @bottom-center {
     content: none !important;
@@ -56,7 +52,7 @@ body {
     height: 100vh;
   }
   #write {
-    max-width: 8.27in !important;
+    max-width: 6.69in !important;
     margin: 0 auto !important;
     padding: 0 !important;
     overflow: visible !important;
@@ -105,7 +101,7 @@ body {
   margin: 0 auto !important;
   padding: 0 !important;
   width: auto !important;
-  max-width: 6.77in !important;
+  max-width: 5.19in !important;
 }
 /* === Typography === */
 h1 {
@@ -118,7 +114,7 @@ h1 {
   border-bottom: 1px solid #c5c5c5 !important;
   padding-bottom: 0.2em !important;
   margin-top: 0 !important;
-  max-width: 8.27in !important;
+  max-width: 6.69in !important;
   margin: 0 auto !important;
 }
 h2 {

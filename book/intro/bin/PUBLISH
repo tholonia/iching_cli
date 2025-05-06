@@ -1,0 +1,5 @@
+#!/bin/bash
+./post_v2.sh --no-gui  # regen to get correct pages
+./regen_TOC
+./post_v2.sh
+

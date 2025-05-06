@@ -19,7 +19,11 @@
 #   4. Opens the final PDF in Okular for review
 #
 # Usage:
-#   ./post.sh
+#   ./post.sh [BOOK|PDF] [--minimal]
+#
+# Arguments:
+#   BOOK|PDF: Format to generate (default: PDF)
+#   --minimal: Only include the main content (iching) in the final document
 #
 # Dependencies:
 #   - Prince: HTML to PDF conversion with TOC support
@@ -91,17 +95,26 @@ set -o pipefail
 
 # Parse command line arguments
 FORMAT="PDF"  # Default to PDF if no format specified
+MINIMAL=false # Default to full document
 
-# Check if a format was provided as an argument
-if [ $# -ge 1 ]; then
-    if [ "$1" = "BOOK" ] || [ "$1" = "PDF" ]; then
-        FORMAT="$1"
-    else
-        echo -e "\033[31mError: Invalid format '$1'. Valid formats are BOOK or PDF.\033[0m"
-        echo -e "Usage: $0 [BOOK|PDF]"
-        exit 1
-    fi
-fi
+# Parse command line arguments
+while (( "$#" )); do
+  case "$1" in
+    BOOK|PDF)
+      FORMAT="$1"
+      shift
+      ;;
+    --minimal)
+      MINIMAL=true
+      shift
+      ;;
+    *)
+      echo -e "\033[31mError: Invalid argument '$1'\033[0m"
+      echo -e "Usage: $0 [BOOK|PDF] [--minimal]"
+      exit 1
+      ;;
+  esac
+done
 
 # Constants and configuration
 D="/home/jw/src/iching_cli/book/v2/bin"
@@ -245,49 +258,60 @@ function merge_documents() {
     ICHING="${D}/../includes/iching_${FORMAT}.pdf"
     OUTPUT="${D}/../includes/FINAL_iching_${FORMAT}.pdf"
 
-
-
     if [ "${FORMAT}" = "BOOK" ]; then
         echo -e "\033[33mSkipping cover page for BOOK format\033[0m"
         COVER=""
     fi
 
-
-
-    # Verify all files exist
-    for file in  "${COPYRIGHT}" "${BOOK}" "${Q8}" "${BIN}" "${PATHS}" "${TOC}" "${ICHING}"; do
-        if [ ! -f "$file" ]; then
-            echo -e "\033[31mError: Required file |$file| not found\033[0m"
+    if [ "${MINIMAL}" = true ]; then
+        echo -e "\033[33mUsing minimal format - only including main content\033[0m"
+        # Only verify and use ICHING component
+        if [ ! -f "${ICHING}" ]; then
+            echo -e "\033[31mError: Required file |${ICHING}| not found\033[0m"
             return 1
         else
-            echo -e "\033[32m✓ Found file |$file|\033[0m"
+            echo -e "\033[32m✓ Found file |${ICHING}|\033[0m"
         fi
-    done
 
-
-
-    set -x
-
-
-    # Merge files
-    if pdftk \
-        ${COVER} \
-        ${COPYRIGHT} \
-        ${BOOK} \
-        ${Q8} \
-        ${BIN} \
-        ${PATHS} \
-        ${TOC} \
-        ${ICHING} \
-        cat output "${OUTPUT}"; then
-
-        echo -e "\033[32mSuccessfully created ${OUTPUT}\033[0m"
-        return 0
+        if pdftk "${ICHING}" cat output "${OUTPUT}"; then
+            echo -e "\033[32mSuccessfully created minimal ${OUTPUT}\033[0m"
+            return 0
+        else
+            echo -e "\033[31mFailed to create minimal document\033[0m"
+            return 1
+        fi
     else
-        echo -e "\033[31mFailed to create final document\033[0m"
-        return 1
+        # Verify all files exist
+        for file in "${COPYRIGHT}" "${BOOK}" "${Q8}" "${BIN}" "${PATHS}" "${TOC}" "${ICHING}"; do
+            if [ ! -f "$file" ]; then
+                echo -e "\033[31mError: Required file |$file| not found\033[0m"
+                return 1
+            else
+                echo -e "\033[32m✓ Found file |$file|\033[0m"
+            fi
+        done
+
+        set -x
+        # Merge files
+        if pdftk \
+            ${COVER} \
+            ${COPYRIGHT} \
+            ${BOOK} \
+            ${Q8} \
+            ${BIN} \
+            ${PATHS} \
+            ${TOC} \
+            ${ICHING} \
+            cat output "${OUTPUT}"; then
+
+            echo -e "\033[32mSuccessfully created ${OUTPUT}\033[0m"
+            return 0
+        else
+            echo -e "\033[31mFailed to create final document\033[0m"
+            return 1
+        fi
+        set +x
     fi
-    set +x
 }
 
 # Open the final PDF
@@ -315,7 +339,7 @@ function main() {
 
     # Start processing
     echo -e "\033[1;34mStarting I Ching Book PDF generation\033[0m"
-    echo -e "\033[34mPage size: ${CURRENT_SIZE}, Format: ${FORMAT}\033[0m"
+    echo -e "\033[34mPage size: ${CURRENT_SIZE}, Format: ${FORMAT}, Minimal: ${MINIMAL}\033[0m"
 
     # Clean up previous files
     cleanup_previous_files

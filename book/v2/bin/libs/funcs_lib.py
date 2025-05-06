@@ -73,7 +73,8 @@ import json
 from pprint import pprint
 import traceback
 import argparse
-from vertexai.language_models import ChatModel
+# Only import vertexai when actually needed for Google API
+# from vertexai.language_models import ChatModel
 import re
 from dotenv import load_dotenv
 
@@ -213,12 +214,15 @@ def call_ai_api(prompt, system_message="You are an expert assistant.", model=Non
             sys.exit(1)
 
         try:
-            # Import Google API client
-            from vertexai.language_models import ChatModel
-
-            chat_model = ChatModel.from_pretrained(model)
-            response = chat_model.predict(prompt, temperature=0.7)
-            return response.text
+            # Import Google API client dynamically to avoid initialization issues
+            try:
+                from vertexai.language_models import ChatModel
+                chat_model = ChatModel.from_pretrained(model)
+                response = chat_model.predict(prompt, temperature=0.7)
+                return response.text
+            except ImportError:
+                print(Fore.YELLOW + "Warning: vertexai module not available. Skipping Google API call." + Style.RESET_ALL)
+                return f"ERROR: vertexai module not available. Please install it with 'pip install google-cloud-aiplatform'"
 
         except Exception as e:
             print(Fore.RED + f"Error calling Google API: {e}" + Style.RESET_ALL)
