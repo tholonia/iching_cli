@@ -124,6 +124,7 @@ cp ${D}/../includes/iching_nopage.css /home/jw/.config/Typora/themes/iching_nopa
 
 # Pass the test flag to makeallmd.py if present
 #./makeallmd.py --content pages ${TEST_FLAG}
+echo "./make_all_docs.py --content pages ${TEST_FLAG}"
 ./make_all_docs.py --content pages ${TEST_FLAG}
 
 typora ${D}/../includes/iching.md

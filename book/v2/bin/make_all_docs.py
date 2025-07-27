@@ -434,7 +434,12 @@ def main():
     # Load the version string
     json_version = get_json_version(f"{ROOT}/includes/VER_JSON.txt")
 
+    print(f"ROOT = {ROOT}")
+    print(f"json_version = {json_version}")
+
+
     for sfnum in HEXAGRAMS:
+        print(f"sfnum = {sfnum}")
         filename = f"{ROOT}/{json_version}/{sfnum}.json"
         print(Fore.YELLOW + "Reading " + filename + Style.RESET_ALL)
         try:
