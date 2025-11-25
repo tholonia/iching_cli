@@ -6,7 +6,7 @@
 <span style="font-size:2em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;">10 ䷉</span><span style="font-size:1em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;vertical-align:text-bottom;"> 59 </span><span style="font-size:2em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;">&nbsp; Potential</span>
 </div>
 ## The dynamic state of unrealized power. Like a tiger observing its surroundings before acting, this represents latent energy awaiting the right moment for expression.
-<img src="/home/jw/store/src/iching_cli/book/v2/prod/10.png">
+<img src="/home/jw/src/iching_cli/book/v2/prod/10.png">
 <span style="margin-bottom: 8px;"> &nbsp; </span>
 ### *"Potential" is visually embodied through the intricate interplay between latent energy and disciplined restraint. The central motif of a dynamic, yet contained, structure seeks to represent the abstract concepts of unrealized power awaiting the correct circumstances for action. The triadic relationship between the fiery flames symbolizing possibility, the structural elements signifying order, and the fluid, chaotic clouds stands for the balance that underpins emergence. The overall composition captures the hexagram's core theme of how awareness guides force, tying together the ideas of emergence from chaos and progress governed by restrained power.*
 <p/>
@@ -34,7 +34,7 @@
 **Negotiation**: The hexagram represents the negotiation between powerful force (Heaven) and joyful expression (Lake). This creates a dynamic balance between strength and restraint. **Limitation**: Structure is provided by heaven above, indicating that power must be guided by higher principles. The lake below suggests that expression must be contained. **Contribution**: This pattern contributes to evolution by demonstrating how controlled power leads to sustainable progress. It shows how awareness guides force.
 
 #### ***Tholon 5 of 32: "Balance Path"***
-#### The *dynamic* path is creates "Modesty" (15 <sub>*4*</sub>) and "Treading" (10 <sub>*59*</sub>).  This pair-path represents the dynamic interplay between humility and careful advancement. Modesty (Hexagram 15) ascends by grounding actions in humility, promoting harmony and balance. Treading (Hexagram 10) descends by navigating life's challenges with caution and awareness. Together, they illustrate the cyclical journey of maintaining equilibrium through both inward reflection and outward action.
+#### This hexagram is within the *dynamic* path of "Balance Path" formed by "Modesty" (15䷎<sub>*4*</sub>) and "Treading" (10䷉<sub>*59*</sub>).  This pair-path represents the dynamic interplay between humility and careful advancement. Modesty (Hexagram 15) ascends by grounding actions in humility, promoting harmony and balance. Treading (Hexagram 10) descends by navigating life's challenges with caution and awareness. Together, they illustrate the cyclical journey of maintaining equilibrium through both inward reflection and outward action.
 
 
 
@@ -44,13 +44,13 @@
 ##### The Forge of Potential (Man vs. Man)
 ### *In the style of George Eliot*
 
-#### In the industrious town of Thamesford, where the hum of factories synchronized with the pulse of commerce, lived an unassuming craftsman named Geoffrey Holloway. His workshop was a modest enclave, filled with the primordial sounds of potential—wood creaking under constraint, metal singing as it sought form. Geoffrey understood his place in the world as the alchemist of raw materials. Each day he summoned inspiration from the chaos, transforming rudimentary components into wonders that could grace palaces.
+#### In the industrious town of Thamesford, where the hum of factories synchronized with the pulse of commerce, lived an unassuming craftsman named Geoffrey Holloway. His workshop was a modest enclave, filled with the primordial sounds of potential, wood creaking under constraint, metal singing as it sought form. Geoffrey understood his place in the world as the alchemist of raw materials. Each day he summoned inspiration from the chaos, transforming rudimentary components into wonders that could grace palaces.
 
-Yet, Geoffrey's heart carried a burden of unsung ambition. Hidden amidst his creations was an invention unlike any other—a mechanism designed to harness the town's latent energy, converting it into boundless productivity. The townspeople, steeped in pragmatic pursuits, paid his endeavors little regard.
+Yet, Geoffrey's heart carried a burden of unsung ambition. Hidden amidst his creations was an invention unlike any other, a mechanism designed to harness the town's latent energy, converting it into boundless productivity. The townspeople, steeped in pragmatic pursuits, paid his endeavors little regard.
 
-One afternoon, as the sun cast long, shadowy fingers across the workshop, Geoffrey's conviction wavered. He contemplated the risks of manifesting his grand design. If the machine failed, it might squander the scarce respect he'd accrued, reducing his life’s work to forgotten rubble. Yet, within this existential turmoil, he found clarity—a recognition that true innovation required the courage to embrace uncertainty, to blend restraint with daring.
+One afternoon, as the sun cast long, shadowy fingers across the workshop, Geoffrey's conviction wavered. He contemplated the risks of manifesting his grand design. If the machine failed, it might squander the scarce respect he'd accrued, reducing his life’s work to forgotten rubble. Yet, within this existential turmoil, he found clarity, a recognition that true innovation required the courage to embrace uncertainty, to blend restraint with daring.
 
-The unveiling ignited a fervor. His contraption danced with the town's industrial rhythm, transforming potential into realized strength. It became a beacon for the community, a testament to the power of unbounded possibility harmonized with prudent action. In that union, Geoffrey found his legacy—not in material success, but in the collective awakening of his neighbors to their own depths of untapped potential.
+The unveiling ignited a fervor. His contraption danced with the town's industrial rhythm, transforming potential into realized strength. It became a beacon for the community, a testament to the power of unbounded possibility harmonized with prudent action. In that union, Geoffrey found his legacy, not in material success, but in the collective awakening of his neighbors to their own depths of untapped potential.
 
 #### ***Lines in Context:***
 <ul><li><B>1</B> (yang) <i>Emergent Possibility</i> - Like a seed held beneath fertile soil, Geoffrey's latent creative force begins to stir, awaiting its moment to break free. <i>Moving line</i> - If Yang changes to Yin, initial hesitance could stifle this emergence, yet also prompt Geoffrey to seek new, more harmonious methods for realizing his vision.</li></ul>
@@ -67,11 +67,11 @@ The unveiling ignited a fervor. His contraption danced with the town's industria
 
 Lucinda was drawn to a mysterious grove where a patriarchal oak presided, its roots sprawling like ancient veins through the fabric of time. Beneath its shadowy canopy, she felt the tug of unformed energy, and day after day, she gathered inspiration vibrant and raw, sketching the essence of potential resting in her mind's eye.
 
-But as these sketches piled up, a gloom settled in her heart, a hesitation brought by the fear of failure—a testament to the tension between her yearning to create and the stern laws of nature that demanded tribute of skill, time, and unimagined discovery.
+But as these sketches piled up, a gloom settled in her heart, a hesitation brought by the fear of failure, a testament to the tension between her yearning to create and the stern laws of nature that demanded tribute of skill, time, and unimagined discovery.
 
 One dusk, as autumn's breath stole warmth from the dusk, Lucinda surrendered to the grove's call. Her hands worked tirelessly, shaping the clay beneath her touch. Each stroke channeled her raw creative force, turning uncertainty into sublime form. At dawn, she unveiled her creation to the grove, and there stood a figure echoing with an immutable beauty, harmonized with nature's wild rhythms.
 
-The villagers, attracted by the grove's newfound radiance, gathered in awe. They saw in Lucinda's work not only the blending of artist and nature but also the dance of restraint and liberty—an eternal narrative told in fleeting moments. Here, they found that the key to realization was within reach, and potential, once hidden, was now eternally blossoming.
+The villagers, attracted by the grove's newfound radiance, gathered in awe. They saw in Lucinda's work not only the blending of artist and nature but also the dance of restraint and liberty, an eternal narrative told in fleeting moments. Here, they found that the key to realization was within reach, and potential, once hidden, was now eternally blossoming.
 
 #### ***Lines in Context:***
 <ul><li><B>1</B> (yang) <i>Emergence of Inspiration</i> - Inspired energy begins to stir within Lucinda, awakening the drive to create. <i>Moving line</i> - As Yang changes to Yin, initial enthusiasm may falter, risking the stifling of creative impulses. However, this pause allows her to consciously deepen her connection with her art, fostering more profound future expressions.</li></ul>
@@ -90,7 +90,7 @@ One day, as he catalogued lost secrets, Victor stumbled upon a manuscript, a com
 
 Yet, alchemy was not forgiving. He confronted the duality of transformation, where every failure weighed down his spirit, challenging his resolve to continue. At times, he despaired, his work devolving into the dust of unreachable goals.
 
-But on a fateful evening, driven to revelation by the inertia of his failures, Victor understood: the manuscript was not about the result, but the journey of becoming. Laboring anew, he infused each page with awareness. In that practice, he found liberation—the alchemy of his soul, transmuting himself into the embodiment of all he once observed but never became.
+But on a fateful evening, driven to revelation by the inertia of his failures, Victor understood: the manuscript was not about the result, but the journey of becoming. Laboring anew, he infused each page with awareness. In that practice, he found liberation, the alchemy of his soul, transmuting himself into the embodiment of all he once observed but never became.
 
 Through his awakening, the library awoke; writings began to glow with possibility. Townsfolk, aware of the subtle illumination from within, gathered, drawn by the transformation. Victor had not altered the world with gold, but he had sculpted its foundation from the clay of potential, nurturing seeds of mindful intent into existence.
 
@@ -108,7 +108,7 @@ Through his awakening, the library awoke; writings began to glow with possibilit
 
 ##### *The Spark of the Industrial Revolution*
 
-#### In the late 18th century, the world witnessed a transformation that would redefine civilization: the Industrial Revolution. It all began with a spark—a confluence of scientific curiosity, societal demand, and visionary possibility. The age was ripe for invention as humanity stood on the brink of unprecedented change. In the bustling city of Manchester, a mill owner named Samuel Watt harnessed the burgeoning power of steam. Amid clattering looms and the rhythmic beats of machines, Watt envisioned something greater. The dormant energy of coal and the transformative potential of steam engines became the lifeblood of an industrial society. Yet, as machines roared to life, challenges abounded. Labor unrest simmered, pollution cloaked the skies, and social structures strained under the new pressures of mechanization. But with adversity came opportunity. The Industrial Revolution was a testament to the raw, unrestrained potential of human ingenuity. It taught the world that progress required balance—harnessing power while confronting the challenges it created. A new epoch was birthed from the chaos, highlighting that within the core of every human initiative lies the potential for profound change.
+#### In the late 18th century, the world witnessed a transformation that would redefine civilization: the Industrial Revolution. It all began with a spark, a confluence of scientific curiosity, societal demand, and visionary possibility. The age was ripe for invention as humanity stood on the brink of unprecedented change. In the bustling city of Manchester, a mill owner named Samuel Watt harnessed the burgeoning power of steam. Amid clattering looms and the rhythmic beats of machines, Watt envisioned something greater. The dormant energy of coal and the transformative potential of steam engines became the lifeblood of an industrial society. Yet, as machines roared to life, challenges abounded. Labor unrest simmered, pollution cloaked the skies, and social structures strained under the new pressures of mechanization. But with adversity came opportunity. The Industrial Revolution was a testament to the raw, unrestrained potential of human ingenuity. It taught the world that progress required balance, harnessing power while confronting the challenges it created. A new epoch was birthed from the chaos, highlighting that within the core of every human initiative lies the potential for profound change.
 
 <div style="font-size: 8pt;font-style:italic">Source: The Industrial Revolution: History, Documents, and Key Questions (2020), Steam Engines of the Revolution by John P. Rafferty (2011)</div>
 
@@ -123,11 +123,6 @@ Through his awakening, the library awoke; writings began to glow with possibilit
 
 ###### *Notes*
 ### **King Wen**: 10 ䷉ <sub>*59*</sub> Treading; 1 ☰ <sub>*7*</sub> The Creative,  Heaven *over* 8 ☱ <sub>*4*</sub> The Joyous, Lake/Marsh;
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 <br/>
 <br/>
 <br/>

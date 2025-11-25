@@ -6,7 +6,7 @@
 <span style="font-size:2em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;">4 ䷃</span><span style="font-size:1em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;vertical-align:text-bottom;"> 34 </span><span style="font-size:2em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;">&nbsp; Guidance</span>
 </div>
 ## The process of learning through experience and mentorship. Like spring rain nurturing seedlings, this represents the power of supportive development and patient instruction.
-<img src="/home/jw/store/src/iching_cli/book/v2/prod/04.png">
+<img src="/home/jw/src/iching_cli/book/v2/prod/04.png">
 <span style="margin-bottom: 8px;"> &nbsp; </span>
 ### *"Guidance" is impeccably represented in the image of a single pawn set against a grand, elaborate backdrop. The pawn indicates yet-to-be-shaped energy, echoing the hexagram's theme of nurtured growth. The precise lines and intricate details of the pen and ink style, reminiscent of Albrecht Dürer's work, echo the tholonic principle of limitation, demonstrating potentiality constrained and informed by the parameters of form and discipline. The permanence of the ink represents the transformative power of raw potential solidifying into a purpose-driven form under patient guidance, just as unrefined potential is moulded by wisdom and structure in the hexagram "Guidance".*
 <p/>
@@ -34,7 +34,7 @@
 **Negotiation**: The hexagram represents the negotiation between stable wisdom (Mountain) and flowing uncertainty (Water). This creates learning through structured experience. **Limitation**: Structure is provided by mountain above, indicating that learning requires boundaries. Water below suggests that understanding must flow naturally. **Contribution**: This pattern contributes to evolution by showing how knowledge transfers between generations. It demonstrates how guidance shapes development.
 
 #### ***Tholon 30 of 32: "Transformation Cycle"***
-#### The *dynamic* path is creates "Revolution" (49 <sub>*29*</sub>) and "Youthful Folly" (4 <sub>*34*</sub>).  This pair-path represents the cyclical nature of transformation and learning. "Revolution" (49) speaks to the ascending energy of change and renewal, while "Youthful Folly" (4) represents the descending journey into the unformed potential and the need for guidance. Together, they illustrate the dynamic balance between innovation and the wisdom gained through experience.
+#### This hexagram is within the *dynamic* path of "Transformation Cycle" formed by "Revolution" (49䷰<sub>*29*</sub>) and "Youthful Folly" (4䷃<sub>*34*</sub>).  This pair-path represents the cyclical nature of transformation and learning. "Revolution" (49) speaks to the ascending energy of change and renewal, while "Youthful Folly" (4) represents the descending journey into the unformed potential and the need for guidance. Together, they illustrate the dynamic balance between innovation and the wisdom gained through experience.
 
 
 
@@ -44,15 +44,15 @@
 ##### The Forging of a Vision (Man vs. Man)
 ### *In the style of Hermann Hesse*
 
-#### Amidst the cacophonous streets of medieval Florence, young Leonardo stood at the threshold of his master's bustling workshop. He was a mere apprentice, yet his soul brimmed with visions yearning to breach the canvas. Despite the clamor around him, he felt the silent symphony of potential coiling within. His master, the venerable Maurizio, a renowned sculptor, recognized this raw potential but cautioned patience—a lesson carried on the wings of charcoal-smeared brushes and clay-dusted fingers.
+#### Amidst the cacophonous streets of medieval Florence, young Leonardo stood at the threshold of his master's bustling workshop. He was a mere apprentice, yet his soul brimmed with visions yearning to breach the canvas. Despite the clamor around him, he felt the silent symphony of potential coiling within. His master, the venerable Maurizio, a renowned sculptor, recognized this raw potential but cautioned patience, a lesson carried on the wings of charcoal-smeared brushes and clay-dusted fingers.
 
-As Leonardo toiled under Maurizio's guidance, each stroke, each molded figure, whispered lessons of balance. Yet, within his heart lingered a yearning—a vision yet unrealized, singing its tune to the cadence of old masters and daring him to paint against tradition.
+As Leonardo toiled under Maurizio's guidance, each stroke, each molded figure, whispered lessons of balance. Yet, within his heart lingered a yearning, a vision yet unrealized, singing its tune to the cadence of old masters and daring him to paint against tradition.
 
 A fateful day brought forth a noble patron commissioning a mural. Leonardo labored meticulously, his innermost imaginings slowly unfurling through the flickering wick of inspiration. But doubt sprouted alongside his dreams, intertwining with the vines of his burgeoning creation. He wavered between the bold rush of his mind and the cautious hands of his tutor.
 
 Despite whispered tendencies of restraint, at the mural's unveiling, Leonardo's creation emerged not as a mere representation but as a soul-baring testament to inner conflict embraced and convergence celebrated. Maurizio, observing the chaotically beautiful assembly of colors and form, acknowledged the apprentice's transcendence.
 
-In the hallowed play of shadow and light, Leonardo glimpsed mastery—not perfection, but an embracing of the unknown's cradle. To the world, it was a testament of brilliance unfurled; to him, the symphony had only just begun.
+In the hallowed play of shadow and light, Leonardo glimpsed mastery, not perfection, but an embracing of the unknown's cradle. To the world, it was a testament of brilliance unfurled; to him, the symphony had only just begun.
 
 #### ***Lines in Context:***
 <ul><li><B>1</B> (yin) <i>The Awakening</i> - Leonardo's latent creativity bursts forth from nascent form. <i>Moving line</i> - Changing from yang to yin, Leonardo confronts the initial challenges of raw energy channeling into shape. This disruption demands measured patience, but also gifts him with profound insight into potentialities, fostering an emerging maturity guiding his artistic journey.</li></ul>
@@ -86,7 +86,7 @@ With time and the cycles of the seasons, Aya stood tall and mighty, her branches
 ##### The Unseen Artist (Man vs. Self)
 ### *In the style of Haruki Murakami*
 
-#### In the quiet recesses of a painter's studio, Aiko sat surrounded by blank canvases, each whispering secrets of unformed worlds. The artist's journey began with the first stroke—a tentative swipe of cerulean blue against the virgin white. Her heart hummed with the resonance of potential, yet a shadow of doubt hovered just beyond the reach of her brush.
+#### In the quiet recesses of a painter's studio, Aiko sat surrounded by blank canvases, each whispering secrets of unformed worlds. The artist's journey began with the first stroke, a tentative swipe of cerulean blue against the virgin white. Her heart hummed with the resonance of potential, yet a shadow of doubt hovered just beyond the reach of her brush.
 
 Aiko's world was a delicate weave of vibrancy and introspection. Her artistic visions danced between the realms of tangible strokes and ethereal dreams. In each line she painted, she sought the balance between the chaos of her mind and the serenity of her craft. She wove colors as an artisan would weave tapestries, with each thread holding the weight of her aspirations.
 
@@ -94,7 +94,7 @@ But the artist's path was not without its struggles; conflict lurked within ever
 
 As weeks turned to months, her magnum opus gradually materialized under layered hues. The canvas transformed into a vivid symphony of her soul, manifesting her unseen emotions into visible form. Each hue harmonized into a masterpiece, representing not just an image, but an exploration of her inner world.
 
-Finally, the day came when Aiko stepped back from the easel, gazing at the culmination of her efforts—a creation that transcended her original vision. Her work resonated with a mysterious allure, inviting viewers to embark on journeys within their own thoughts. Through manifesting her inner narrative onto the canvas, Aiko had captured the essence of creativity itself. The masterpiece spoke not only of her personal journey but became a bridge connecting her to countless others who perceived art as an expression of life's profound mysteries.
+Finally, the day came when Aiko stepped back from the easel, gazing at the culmination of her efforts, a creation that transcended her original vision. Her work resonated with a mysterious allure, inviting viewers to embark on journeys within their own thoughts. Through manifesting her inner narrative onto the canvas, Aiko had captured the essence of creativity itself. The masterpiece spoke not only of her personal journey but became a bridge connecting her to countless others who perceived art as an expression of life's profound mysteries.
 
 #### ***Lines in Context:***
 <ul><li><B>1</B> (yin) <i>Emergence</i> - Aiko initiates her creative process, driven by a blend of inspiration and nascent uncertainty. <i>Moving line</i> - A change from yin to yang stirs a kinetic charge of confidence in Aiko, enhancing her initial attempts. The alteration propels her forward, opening doors to new creative vistas, albeit requiring careful navigation to transform raw potential into refined execution.</li></ul>
@@ -110,7 +110,7 @@ Finally, the day came when Aiko stepped back from the easel, gazing at the culmi
 
 ##### *Shakespeare's Flourishing Vision*
 
-#### In the late 16th century, London became the vibrant stage for one of history's greatest playwrights—William Shakespeare. His emergence marked a new dawn for theatre and literature, bringing unprecedented insights into the human psyche. As he honed his craft, Shakespeare's works began to reflect the social and political complexities of his time. The process of trial and error led him to refine his narratives and characters, blending eloquent poetry with profound themes of conflict and resolution, such as in 'Hamlet' and 'Macbeth.' Through mentorship and collaboration, Shakespeare manifested his vision in the Globe Theatre, where his plays resonated with audiences, transcending the boundaries of language and culture. Mastery was achieved as his influence spread far beyond the confines of the Elizabethan era, laying the foundation for countless interpretations and adaptations. His legacy continued to evolve, challenging future generations of writers. Transcendence occurred as his works became a universal mirror, reflecting the enduring nature of human ambition, love, and folly, demonstrating that true art evolves from a profound understanding of life's intricacies.
+#### In the late 16th century, London became the vibrant stage for one of history's greatest playwrights, William Shakespeare. His emergence marked a new dawn for theatre and literature, bringing unprecedented insights into the human psyche. As he honed his craft, Shakespeare's works began to reflect the social and political complexities of his time. The process of trial and error led him to refine his narratives and characters, blending eloquent poetry with profound themes of conflict and resolution, such as in 'Hamlet' and 'Macbeth.' Through mentorship and collaboration, Shakespeare manifested his vision in the Globe Theatre, where his plays resonated with audiences, transcending the boundaries of language and culture. Mastery was achieved as his influence spread far beyond the confines of the Elizabethan era, laying the foundation for countless interpretations and adaptations. His legacy continued to evolve, challenging future generations of writers. Transcendence occurred as his works became a universal mirror, reflecting the enduring nature of human ambition, love, and folly, demonstrating that true art evolves from a profound understanding of life's intricacies.
 
 <div style="font-size: 8pt;font-style:italic">Source: Shakespeare: The Biography by Peter Ackroyd, Shakespeare and Modern Culture by Marjorie Garber</div>
 
@@ -125,11 +125,6 @@ Finally, the day came when Aiko stepped back from the easel, gazing at the culmi
 
 ###### *Notes*
 ### **King Wen**: 4 ䷃ <sub>*34*</sub> Youthful Folly; 3 ☶ <sub>*3*</sub> The Still,  Mountain *over* 6 ☵ <sub>*2*</sub> The Abysmal, Water;
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 <br/>
 <br/>
 <br/>

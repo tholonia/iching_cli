@@ -10,12 +10,14 @@
 #     document assembly.
 #
 # Usage:
-#     ./post.sh [BOOK|PDF] [--small] [--no-gui] # default: BOOK
+#     ./post.sh [BOOK|PDF] [--small] [--no-gui] [--paperback|--hardcover] # default: BOOK
 #
 # Options:
 #     BOOK|PDF   - Output format (defaults to PDF if not specified)
 #     --small    - Use small image version (iching_intro_sm.md) as input
 #     --no-gui   - Skip document preview
+#     --paperback - Use paperback page size (6.69x9.61) - default
+#     --hardcover - Use hardcover page size (7.0x10.0)
 #
 # Process:
 #     1. HTML Cleaning - Removes calc() lines that might cause issues
@@ -48,9 +50,10 @@
 # =============================================================================
 
 # Parse command line arguments
-FORMAT="BOOK"  # Default to PDF if no format specified
+FORMAT="PDF"  # Default to PDF if no format specified
 SMALL=false    # Default to standard version
 SHOW_GUI=true  # Default to showing GUI
+PAGE_TYPE="paperback"  # Default to paperback
 
 # Parse all arguments
 for arg in "$@"; do
@@ -64,9 +67,15 @@ for arg in "$@"; do
     --no-gui)
       SHOW_GUI=false
       ;;
+    --paperback)
+      PAGE_TYPE="paperback"
+      ;;
+    --hardcover)
+      PAGE_TYPE="hardcover"
+      ;;
     *)
-      echo -e "\033[31mError: Invalid argument '$arg'. Valid formats are BOOK or PDF with optional --small or --no-gui.\033[0m"
-      echo -e "Usage: $0 [BOOK|PDF] [--small] [--no-gui]"
+      echo -e "\033[31mError: Invalid argument '$arg'. Valid formats are BOOK or PDF with optional --small, --no-gui, --paperback, or --hardcover.\033[0m"
+      echo -e "Usage: $0 [BOOK|PDF] [--small] [--no-gui] [--paperback|--hardcover]"
       exit 1
       ;;
   esac
@@ -82,9 +91,18 @@ fi
 
 # Constants and configuration
 
-#! the size is just for file names, the actual size is 6.69x9.61
-#! Only change size in LESS file to change output size
-PROD_PAGE_SIZE="6.69x9.61"
+# Set page size based on page type
+if [ "$PAGE_TYPE" = "hardcover" ]; then
+    PROD_PAGE_SIZE="7.0x10.0"
+    PRINCE_PAGE_SIZE="7in 10in"
+#    PROD_PAGE_SIZE="6.69x9.61"
+#    PRINCE_PAGE_SIZE="6.69in 9.61in"
+    echo -e "\033[34mUsing hardcover page size: ${PROD_PAGE_SIZE}\033[0m"
+else
+    PROD_PAGE_SIZE="6.69x9.61"
+    PRINCE_PAGE_SIZE="6.69in 9.61in"
+    echo -e "\033[34mUsing paperback page size: ${PROD_PAGE_SIZE}\033[0m"
+fi
 
 PAGE_SIZE="${PROD_PAGE_SIZE}"
 BASE_DIR="/home/jw/src/iching_cli/book/intro"
@@ -93,9 +111,9 @@ CONTENT_DIR="${BASE_DIR}/content"
 LATEST_DIR="${BASE_DIR}/Latest"
 STYLES_DIR="${BASE_DIR}/Styles"
 BLANK_PAGE="${CONTENT_DIR}/blank_${PAGE_SIZE}.pdf"
-OUTPUT_NAME="FINAL_iching_intro"
+OUTPUT_NAME="FINAL_iching_intro_${PAGE_TYPE}_${FORMAT}"
 if [ "$SMALL" = true ]; then
-  OUTPUT_NAME="FINAL_iching_intro_sm"
+  OUTPUT_NAME="FINAL_iching_intro_sm_${PAGE_TYPE}_${FORMAT}"
 fi
 TEMP_DIR="/tmp"
 
@@ -136,6 +154,14 @@ function process_document() {
     # set -x
     local DOCUMENT="$1"
     local CSS_FILE="${2:-iching_intro.css}"
+    
+    # Use different CSS file based on format
+    if [ "$FORMAT" = "BOOK" ]; then
+        CSS_FILE="iching_intro_book.css"
+    else
+        CSS_FILE="iching_intro_pdf.css"
+    fi
+    
     local INPUT_HTML="${LATEST_DIR}/${DOCUMENT}.html"
     local OUTPUT_PDF="${LATEST_DIR}/${DOCUMENT}.pdf"
     local TEMP_HTML="${TEMP_DIR}/html.tmp"
@@ -219,6 +245,7 @@ function process_document() {
         --input=html \
         --style="${STYLES_DIR}/${CSS_FILE}" \
         --media=print \
+        --page-size="${PRINCE_PAGE_SIZE}" \
         -o "${OUTPUT_PDF}" \
         "${INPUT_HTML}"
 
@@ -269,13 +296,21 @@ function process_documents_for_format() {
 
 # Set file references based on format
 function set_format_files() {
+    echo -e "\033[33mFORMAT = ${FORMAT}\033[0m"
+
     if [ "$FORMAT" = "BOOK" ]; then
         COVER=""
         COPYRIGHT="${LATEST_DIR}/FINAL_COPYRIGHT_${FORMAT}.pdf"
     else
-        COVER="${CONTENT_DIR}/COVER_${PAGE_SIZE}.pdf"
+        # COVER="${CONTENT_DIR}/COVER_${PAGE_SIZE}.pdf"
+        COVER="/home/jw/src/iching_cli/book/intro/publish/PAPERBACK/COVER_6.69x9.61.pdf"
         COPYRIGHT="${LATEST_DIR}/FINAL_COPYRIGHT_${FORMAT}.pdf"
     fi
+
+    echo -e "\033[33mCOVER =${COVER}\033[0m"
+    echo -e "\033[33mCOPYRIGHT =${CONTENT_DIR}/\033[0m"
+    echo -e "\033[33mICHING =${LATEST_DIR}/${INPUT_BASE}_${FORMAT}.pdf\033[0m"
+    
 }
 
 # Merge all documents into final PDF
@@ -286,7 +321,7 @@ function merge_documents() {
     # TOC=""
 
     ICHING="${LATEST_DIR}/${INPUT_BASE}_${FORMAT}.pdf"
-    OUTPUT="${LATEST_DIR}/${OUTPUT_NAME}_${FORMAT}.pdf"
+    OUTPUT="${LATEST_DIR}/${OUTPUT_NAME}.pdf"
 
     echo -e "\033[33m +++OUTPUT TO: ${COVER}\033[0m"
     echo -e "\033[33m +++OUTPUT TO: ${COPYRIGHT}\033[0m"
@@ -320,7 +355,7 @@ function content_only() {
     TOC=""
 
     ICHING="${LATEST_DIR}/${INPUT_BASE}_${FORMAT}.pdf"
-    OUTPUT="${LATEST_DIR}/${OUTPUT_NAME}_${FORMAT}.pdf"
+    OUTPUT="${LATEST_DIR}/${OUTPUT_NAME}.pdf"
 
     pdftk ${ICHING} cat output "${OUTPUT}"
 
@@ -329,11 +364,15 @@ function content_only() {
 
 # Display the final document
 function display_document() {
+    local OUTPUT_FILE="${LATEST_DIR}/${OUTPUT_NAME}.pdf"
+    
     if [ "$SHOW_GUI" = true ]; then
         echo -e "\033[33mOpening document for preview...\033[0m"
-        okular "${LATEST_DIR}/${OUTPUT_NAME}_${FORMAT}.pdf"
+        echo -e "\033[33mOpening: ${OUTPUT_FILE}\033[0m"
+        okular "${OUTPUT_FILE}"
     else
         echo -e "\033[33mSkipping document preview (--no-gui mode)...\033[0m"
+        echo -e "\033[33mFinal document: ${OUTPUT_FILE}\033[0m"
     fi
 }
 

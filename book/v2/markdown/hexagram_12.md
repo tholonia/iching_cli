@@ -6,7 +6,7 @@
 <span style="font-size:2em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;">12 ䷋</span><span style="font-size:1em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;vertical-align:text-bottom;"> 56 </span><span style="font-size:2em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;">&nbsp; Stagnation</span>
 </div>
 ## The state of blockage that arises when expansion meets resistance. Like heaven's energy blocked by earth, this represents the temporary cessation of flow that precedes necessary transformation.
-<img src="/home/jw/store/src/iching_cli/book/v2/prod/12.png">
+<img src="/home/jw/src/iching_cli/book/v2/prod/12.png">
 <span style="margin-bottom: 8px;"> &nbsp; </span>
 ### *"Stagnation" is perfectly encapsulated through the imagery of a dammed river, drawn in an evocative ink-on-vellum illustration. This image symbolizes the blockage and temporary cessation of flow which embodies the key concept of Hexagram 12. The choice of the still, reflective water underscores the theme of limitation, while the intricate details of the dam suggest the inherent complexities of this seemingly static state. The famous Neo-Impressionist Edgar Degas' style, with its hallmark subtlety and introspective quality, adds profound depth and nuance to this representation of the critical phase of stillness before renewal.*
 <p/>
@@ -34,7 +34,7 @@
 **Negotiation**: The hexagram represents the negotiation between containing forces (Earth) and expansive energy (Heaven). This creates a dynamic tension between movement and resistance, like pressure building in a closed system. **Limitation**: Structure is provided by the earth above, indicating complete but temporary containment. The heaven below suggests that creative force remains active but currently constrained. **Contribution**: This pattern contributes to evolution by demonstrating how periods of apparent stagnation can lead to transformation. It shows how resistance can build pressure for breakthrough.
 
 #### ***Tholon 8 of 32: "Harmony-Disharmony"***
-#### The *stable* path is creates "Peace" (11 <sub>*7*</sub>) and "Standstill" (12 <sub>*56*</sub>).  This pair-path represents the dynamic cycle between harmony and disharmony. Ascending from Standstill, where communication and progress are blocked, to Peace, where balance and cooperation thrive, the path illustrates the natural ebb and flow between unity and division in life.
+#### This hexagram is within the *stable* path of "Harmony-Disharmony" formed by "Peace" (11䷊<sub>*7*</sub>) and "Standstill" (12䷋<sub>*56*</sub>).  This pair-path represents the dynamic cycle between harmony and disharmony. Ascending from Standstill, where communication and progress are blocked, to Peace, where balance and cooperation thrive, the path illustrates the natural ebb and flow between unity and division in life.
 
 
 
@@ -46,7 +46,7 @@
 
 #### Amidst a sprawling metropolis where steel skyscrapers paunched the sky, Isaac was the unacknowledged mastermind behind corporate empire Imperium Industries. Daily, he navigated a labyrinth of conference rooms and board meetings, invariably veering between inspiration and inertia, as the vision he held for the company clashed with political subtleties and financial realities.
 
-Inside the concrete hallways of power, Isaac harbored an idea—a revolution within the industry—that subsisted in whispers among his thoughts. This concept, however, fell prey to the stifling compliance infecting the corporate ecosystem like a creeping ivy. His colleagues, preoccupied by routine validation, balked at the audicity Isaac needed to implant his innovation into the heart of the system.
+Inside the concrete hallways of power, Isaac harbored an idea, a revolution within the industry, that subsisted in whispers among his thoughts. This concept, however, fell prey to the stifling compliance infecting the corporate ecosystem like a creeping ivy. His colleagues, preoccupied by routine validation, balked at the audicity Isaac needed to implant his innovation into the heart of the system.
 
 Increasingly restless, Isaac plunged into the belly of conflict, as detractors emerged like shadows in the boardroom, vetoing reforms by obscuring rational arguments with legacy practices. For each creative impulse he ignited, an unseen counsel doused it under torrents of bureaucracy.
 
@@ -55,7 +55,7 @@ Yet, in the midst of standstill, Isaac forged alliances with those who possessed
 Emboldened by this coalition, Isaac dared to mount a campaign against the sluggish entropy encasing his domain. The ensuing change ushered fresh vigor and a purifying wind through the corridors of power, expunging outdated norms and manifesting new principles that realigned Imperium's arc from tradition toward a luminous, untethered horizon.
 
 #### ***Lines in Context:***
-<ul><li><B>1</B> (yin) <i>Emergence</i> - Isaac's latent potential leans toward forming a foundation upon which revolutionary concepts may be structured. <i>Moving line</i> - Internal revolution ignites the external—transformational unknowns encapsulate possibility, yielding powerful, novel trajectories in creative dynamics.</li></ul>
+<ul><li><B>1</B> (yin) <i>Emergence</i> - Isaac's latent potential leans toward forming a foundation upon which revolutionary concepts may be structured. <i>Moving line</i> - Internal revolution ignites the external, transformational unknowns encapsulate possibility, yielding powerful, novel trajectories in creative dynamics.</li></ul>
 <ul><li><B>2</B> (yin) <i>Formation</i> - The early readers of Isaac's new ideas are ideating within the rigid boundaries of current essential protocol, innovatively synchronizing original strategies. <i>Moving line</i> - Upon achieving internal resolution, innovative temptations bias linear traditions, transforming dormancy into progressive vitality.</li></ul>
 <ul><li><B>3</B> (yin) <i>Conflict</i> - Isaac faces immense opposition from entrenched interests, whose overt and covert dissent pressures every initiative. <i>Moving line</i> - Collision unlocks novelty, with Isaac drawing profound insight from conflict, transforming into robust reflectivity that advances the corporation beyond its shackled stage.</li></ul>
 <ul><li><B>4</B> (yang) <i>Manifestation</i> - Manifestation of Isaac's ambition affects both policy and cultural change within the corporation, marking a definitive shift from tin rule to innovation. <i>Moving line</i> - Flexibility existing within novelty might dissolve into sloppy practices if stability doesn't match ambition, possibly causing the unrealized potential to squander.</li></ul>
@@ -67,9 +67,9 @@ Emboldened by this coalition, Isaac dared to mount a campaign against the sluggi
 
 #### In the vast desert of shifting sands stood a lone oasis, a green breath amidst the barren landscape. At its heart, a single acacia tree leaned over a crystalline pool, its branches reaching for the sky, yearning to transcend its surroundings. This oasis was an anomaly of life in a sea of desolation, where every grain of sand whispered stories of endurance and resilience.
 
-The oasis had persisted through countless tempests and quakes, yet a drought unlike any before began to encroach, drying the pool and wilting its heart (Emergence). As the sun's relentless glare beat down, the oasis' guardian—a wise old tortoise named Tao—began his trek to uncover the hidden sources of the water's diminishment, a journey into the heart of adversity (Formation).
+The oasis had persisted through countless tempests and quakes, yet a drought unlike any before began to encroach, drying the pool and wilting its heart (Emergence). As the sun's relentless glare beat down, the oasis' guardian, a wise old tortoise named Tao, began his trek to uncover the hidden sources of the water's diminishment, a journey into the heart of adversity (Formation).
 
-Tao ventured deep into the parched land, where fractures in the earth breathed hot, dusty breaths. Here, he met with obstacles—crumbling sand dunes and deceptive mirages that challenged his resolve (Conflict). With unwavering intention, Tao unearthed an ancient subterranean spring, its rediscovery realigning the flow of water back toward the oasis (Manifestation).
+Tao ventured deep into the parched land, where fractures in the earth breathed hot, dusty breaths. Here, he met with obstacles, crumbling sand dunes and deceptive mirages that challenged his resolve (Conflict). With unwavering intention, Tao unearthed an ancient subterranean spring, its rediscovery realigning the flow of water back toward the oasis (Manifestation).
 
 Upon his return, the acacia tree flourished once more, its roots deepened by the renewed stream of life-giving water. Under Tao's watchful eye, it bore fruit unlike any seen before, sustenance for wanderers of the desert (Mastery). As night folded upon the land, the oasis stood tranquil and abundant under the celestial canopy, a beacon of endurance made manifest, embracing harmony within the interplay of existence (Transcendence).
 
@@ -123,11 +123,6 @@ As generations of scribes toiled in candlelit cells, their hands danced tireless
 
 ###### *Notes*
 ### **King Wen**: 12 ䷋ <sub>*56*</sub> Standstill; 1 ☰ <sub>*7*</sub> The Creative,  Heaven *over* 2 ☷ <sub>*0*</sub> The Receptive, Earth;
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 <br/>
 <br/>
 <br/>

@@ -3,12 +3,12 @@
 # &nbsp;
 
 <div style="margin: 0 auto; text-align: center;border-bottom:1px solid #c5c5c5;padding-bottom:1em;">
-<span style="font-size:2em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;">64 ䷿</span><span style="font-size:1em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;vertical-align:text-bottom;"> 42 </span><span style="font-size:2em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;">&nbsp; Imminence</span>
+<span style="font-size:2em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;">64 ䷿</span><span style="font-size:1em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;vertical-align:text-bottom;"> 42 </span><span style="font-size:2em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;">&nbsp; Emergent Chaos</span>
 </div>
 ## A moment of dynamic tension where all is in motion, yet resolution remains just beyond reach. Transformation is imminent; embrace uncertainty, for within it lies the potential for renewal and new beginnings.
-<img src="/home/jw/store/src/iching_cli/book/v2/prod/64.png">
+<img src="/home/jw/src/iching_cli/book/v2/prod/64.png">
 <span style="margin-bottom: 8px;"> &nbsp; </span>
-### *"Sustainable Order" is elegantly portrayed in the image elements to symbolize stability, completion, and renewal. The choice of a gyroscope signifies the sustainable order's theme, symbolizing balance and continuity in a constantly shifting environment. The realistic style serves to convey this idea with tangible precision, while the graphite medium further emphasizes the return to primordial fundamentals. The iconic Leonardo da Vinci is selected as the artist since his mastery in integrating art, science, and awareness mirrors the Tholonic Model's principles. Together, these elements represent the complex, ever-adapting interconnections in reality, as conceptualized in "Sustainable Order."*
+### *"Emergent Order" is elegantly portrayed in the image elements to symbolize stability, completion, and renewal. The choice of a gyroscope signifies the sustainable order's theme, symbolizing balance and continuity in a constantly shifting environment. The realistic style serves to convey this idea with tangible precision, while the graphite medium further emphasizes the return to primordial fundamentals. The iconic Leonardo da Vinci is selected as the artist since his mastery in integrating art, science, and awareness mirrors the Tholonic Model's principles. Together, these elements represent the complex, ever-adapting interconnections in reality, as conceptualized in "Emergent Order."*
 <p/>
 
 #### "Final Integration" is the archetype of completion and a turning point. It represents the culmination of a cycle, the end of an era, and the brink of a new one. In the universe, we see this in the life cycle of stars, where they evolve and eventually collapse or explode, seeding the universe with elements for new star formation. In the world, we see it in the turning of seasons, each ending laying the groundwork for the next. In our personal lives, we experience "Final Integration" in the completion of significant projects or life stages, such as graduation, retirement, or reaching a long-sought goal. This moment of completion is both an end and a beginning, a moment of transition where past experiences coalesce into wisdom that will inform future endeavors.
@@ -34,11 +34,11 @@
 **Negotiation**: The hexagram represents the balance between clarity (Fire) and depth (Water). This interaction creates dynamic equilibrium between understanding and experience, showing how wisdom emerges from integrated knowledge. **Limitation**: Structure is provided by the natural tension between opposing forces. It establishes how completion must maintain balance between insight and action, showing that integration requires proper relationship between elements. **Contribution**: This configuration contributes to systemic evolution by demonstrating how completion leads to new beginnings. It shows how integrated understanding becomes foundation for future growth.
 
 #### ***Tholon 22 of 32: "Completion Cycle"***
-#### The *stable* path is creates "After Completion" (63 <sub>*21*</sub>) and "Before Completion" (64 <sub>*42*</sub>).  This pair-path represents the cyclical nature of completion and renewal. 'After Completion' signifies the order and stability achieved after a task's fulfillment, while 'Before Completion' embodies the anticipation and potential of what is yet to be finished. Together, they illustrate the endless loop of endings leading to new beginnings.
+#### This hexagram is within the *stable* path of "Completion Cycle" formed by "After Completion" (63䷾<sub>*21*</sub>) and "Before Completion" (64䷿<sub>*42*</sub>).  This pair-path represents the cyclical nature of completion and renewal. 'After Completion' signifies the order and stability achieved after a task's fulfillment, while 'Before Completion' embodies the anticipation and potential of what is yet to be finished. Together, they illustrate the endless loop of endings leading to new beginnings.
 
 
 
-###### Three Tales of "Final Integration"
+###### Three Tales of "Emergent Chaos"
 
 
 ##### A Clash of Visions (Man vs. Man)
@@ -100,7 +100,7 @@ The stars whispered serenity, guiding him back to shore. Julian found solace in 
 
 
 
-###### 'Imminence' in History
+###### 'Emergent Chaos' in History
 
 ##### *The Dawn of Quantum Computing*
 
@@ -119,11 +119,6 @@ The stars whispered serenity, guiding him back to shore. Julian found solace in 
 
 ###### *Notes*
 ### **King Wen**: 64 ䷿ <sub>*42*</sub> Before Completion; 7 ☲ <sub>*5*</sub> Bright and Radiant,  Fire *over* 6 ☵ <sub>*2*</sub> The Abysmal, Water;
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 <br/>
 <br/>
 <br/>

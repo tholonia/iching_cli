@@ -6,7 +6,7 @@
 <span style="font-size:2em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;">19 ䷒</span><span style="font-size:1em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;vertical-align:text-bottom;"> 3 </span><span style="font-size:2em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;">&nbsp; Approach</span>
 </div>
 ## The period when potential transforms into manifestation. Like dawn approaching, this represents the threshold where new possibilities begin to take tangible form through receptive conditions.
-<img src="/home/jw/store/src/iching_cli/book/v2/prod/19.png">
+<img src="/home/jw/src/iching_cli/book/v2/prod/19.png">
 <span style="margin-bottom: 8px;"> &nbsp; </span>
 ### *"Emergence" is beautifully encapsulated in this image through the delicate interplay of ethereal hues and gentle light, symbolizing the unfolding of wisdom and clarity. The artist Sesshū Tōyō's use of watercolor and ink wash, creating a borderless transition between darkness and light, aligns with the hexagram's principle of 'negotiation', representing the balance and harmony that guides growth. The dawn light softly caressing the earth exemplifies the hexagram's energy of patient nurturing and natural development, mirroring the transformation from potential into reality, a key principle of the Tholonic system. The image's profound simplicity mirrors the subtlety of insights emerging through Tholonic awareness.*
 <p/>
@@ -33,8 +33,8 @@
 #### ***Tholonic Analysis***
 **Negotiation**: The hexagram represents the negotiation between grounding receptivity (Earth) and expressive joy (Lake). This creates a dynamic balance between containing form and allowing expansion, like a garden bed supporting new growth. **Limitation**: Structure is provided by the earth above, suggesting that emergence must occur within defined contexts and boundaries. The lake below indicates that growth, while joyful and expansive, must remain grounded in reality. **Contribution**: This pattern contributes to evolution by demonstrating how new forms and possibilities can manifest when properly supported. It shows how receptive conditions and joyful expression combine to birth new realities.
 
-#### ***Tholon 4 of 32: "Approach-Withdrawal"***
-#### The *dynamic* path is creates "Approach" (19 <sub>*3*</sub>) and "Retreat" (33 <sub>*60*</sub>).  This pair-path represents the cyclical movement between advancing towards a goal or situation and strategically withdrawing from it. It embodies the natural rhythm of engagement and disengagement, highlighting the importance of timing and balance in interactions and endeavors.
+#### ***Tholon 4 of 32: "Advance-Retreat"***
+#### This hexagram is within the *dynamic* path of "Advance-Retreat" formed by "Approach" (19䷒<sub>*3*</sub>) and "Retreat" (33䷠<sub>*60*</sub>).  This pair-path represents the cyclical movement between advancing towards a goal or situation and strategically withdrawing from it. It embodies the natural rhythm of engagement and disengagement, highlighting the importance of timing and balance in interactions and endeavors.
 
 
 
@@ -48,9 +48,9 @@
 
 The theater world, fierce and merciless, presented a stage where only the most compelling narratives thrived. Critics loomed like specters, ready to dissect or dismiss. Yet, Charles pressed on, driven by a vision that danced just beyond the edge of reality. In midnight solitude, he wrestled with his craft, shaping characters that could whisper to the souls of strangers. 
 
-But creation bore its tensions—a relentless tug of war between his ideals and the brute practicality of production logistics. Lines blurred, and clarity waned under the intensity of expectation.
+But creation bore its tensions, a relentless tug of war between his ideals and the brute practicality of production logistics. Lines blurred, and clarity waned under the intensity of expectation.
 
-Through countless drafts and disenchanted whispers, Charles found his narrative. It was not perfection he sought, but a pulse—a resonance with human experiences. As opening night approached, anxiety morphed into anticipation. The curtain rose, and so did his hopes. Within each pause and crescendo, his spirit emerged—boundless, tender, and finally heard among the multitude. 
+Through countless drafts and disenchanted whispers, Charles found his narrative. It was not perfection he sought, but a pulse, a resonance with human experiences. As opening night approached, anxiety morphed into anticipation. The curtain rose, and so did his hopes. Within each pause and crescendo, his spirit emerged, boundless, tender, and finally heard among the multitude. 
 
 Charles knew that even if the world faltered in understanding, his own journey toward self-realization had already begun.
 
@@ -65,13 +65,13 @@ Charles knew that even if the world faltered in understanding, his own journey t
 ##### Echoes of Emergence (Man vs. Nature)
 ### *In the style of Herman Hesse*
 
-#### At the serene boundaries of a lush forest, a young scholar named Elio embarked on a solitary journey of discovery, yearning to unravel the mysteries hidden within nature’s verdant depths. As dawn whispered along the leaf-strewn paths, he felt a stirring within his heart—a prelude to the untapped potential waiting to be realized.
+#### At the serene boundaries of a lush forest, a young scholar named Elio embarked on a solitary journey of discovery, yearning to unravel the mysteries hidden within nature’s verdant depths. As dawn whispered along the leaf-strewn paths, he felt a stirring within his heart, a prelude to the untapped potential waiting to be realized.
 
 With each step, Elio embraced the dichotomy between his intellectual yearnings and the earthy wisdom that the forest offered him. He marveled at how ancient trees unfolded their secrets in the wind, while silently nurturing his inner thoughts. This forest was more than a mere backdrop; it was a symphony of creation and silence, waiting for an attentive soul to partake in its quiet revelations.
 
 The journey demanded resolve as Elio encountered thickets and winding streams, each snag and murmur testing his perseverance. Conflict brewed as doubts shadowed the path ahead, yet his spirit surged with the forest’s pulse, urging him towards clarity and insight.
 
-In a moment of profound connection, the forest’s mysteries unfurled within his consciousness, melding with his own burgeoning insights. By dusk, he stood transformed, the forest’s wisdom echoing in harmony with his soul. Elio had traversed the winding path of enlightenment, emerging into a realm where boundaries between self and nature blurred—each moment shimmering with the promise of realization.
+In a moment of profound connection, the forest’s mysteries unfurled within his consciousness, melding with his own burgeoning insights. By dusk, he stood transformed, the forest’s wisdom echoing in harmony with his soul. Elio had traversed the winding path of enlightenment, emerging into a realm where boundaries between self and nature blurred, each moment shimmering with the promise of realization.
 
 As the twilight enveloped the world, Elio understood that his journey was far from over. The wisdom gleaned from this mystical communion with nature now rooted his steps forward, grounding his ongoing quest for understanding with a promise of continuous growth and renewal.
 
@@ -86,7 +86,7 @@ As the twilight enveloped the world, Elio understood that his journey was far fr
 ##### The Awakening (Man vs. Self)
 ### *In the style of Virginia Woolf*
 
-#### In the heart of a languid summer, beneath the whisper of the seashore, Evelyn, a contemplative woman, embarked on a journey of self-discovery. As she strolled along the beach, the gentle lapping of waves against her feet mirrored the faint stirrings within her mind—a budding awareness yearning to surface.
+#### In the heart of a languid summer, beneath the whisper of the seashore, Evelyn, a contemplative woman, embarked on a journey of self-discovery. As she strolled along the beach, the gentle lapping of waves against her feet mirrored the faint stirrings within her mind, a budding awareness yearning to surface.
 
 Days extended into languid moments where time seemed to stretch thin, and Evelyn found herself immersed in the quiet solitude of her soul. Each footfall on the golden sand became a note in the symphony of her burgeoning reflections, weaving a tapestry of internal dialogues and nascent realizations.
 
@@ -110,7 +110,7 @@ As twilight draped the horizon, Evelyn realized that her awakening was not a con
 
 ##### *Creation of the English Novel*
 
-#### In the early 18th century, a new literary form began to take shape in England—a narrative constructed from layers of imagination, detail, and human experience—the novel. At its heart was Daniel Defoe, a journalist who dared to blend fact with fiction and capture the complexities of human life in prose. 'Robinson Crusoe,' published in 1719, marked an era of literary emergence. Defoe's tale of survival and self-discovery struck a chord with readers, combining engaging storytelling with philosophical exploration. Over time, as the tradition evolved, Samuel Richardson's 'Pamela' emphasized emotional depth and social commentary, enriching the novel’s form. With 'Clarissa', Richardson's mastery over intricate character psychology elevated the genre to new heights. The novel emerged as a space where the interior world of human experience could manifest in dialogue with outward reality. It offered a canvas for emotional exploration and moral inquiry, capturing the zeitgeist of an era defined by change. England's novelists, through gradual refinement and innovation, transcended mere storytelling to forge a cultural legacy that resonates through the corridors of literary history.
+#### In the early 18th century, a new literary form began to take shape in England, a narrative constructed from layers of imagination, detail, and human experience, the novel. At its heart was Daniel Defoe, a journalist who dared to blend fact with fiction and capture the complexities of human life in prose. 'Robinson Crusoe,' published in 1719, marked an era of literary emergence. Defoe's tale of survival and self-discovery struck a chord with readers, combining engaging storytelling with philosophical exploration. Over time, as the tradition evolved, Samuel Richardson's 'Pamela' emphasized emotional depth and social commentary, enriching the novel’s form. With 'Clarissa', Richardson's mastery over intricate character psychology elevated the genre to new heights. The novel emerged as a space where the interior world of human experience could manifest in dialogue with outward reality. It offered a canvas for emotional exploration and moral inquiry, capturing the zeitgeist of an era defined by change. England's novelists, through gradual refinement and innovation, transcended mere storytelling to forge a cultural legacy that resonates through the corridors of literary history.
 
 <div style="font-size: 8pt;font-style:italic">Source: The Rise of the Novel by Ian Watt (1957), Daniel Defoe: His Life by Paula R. Backscheider (1989), The Origins of the English Novel, 1600-1740 by Michael McKeon (1987)</div>
 
@@ -125,11 +125,6 @@ As twilight draped the horizon, Evelyn realized that her awakening was not a con
 
 ###### *Notes*
 ### **King Wen**: 19 ䷒ <sub>*3*</sub> Approach; 2 ☷ <sub>*0*</sub> The Receptive,  Earth *over* 8 ☱ <sub>*4*</sub> The Joyous, Lake/Marsh;
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 <br/>
 <br/>
 <br/>

@@ -6,7 +6,7 @@
 <span style="font-size:2em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;">48 ䷯</span><span style="font-size:1em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;vertical-align:text-bottom;"> 22 </span><span style="font-size:2em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;">&nbsp; Restoration</span>
 </div>
 ## The process of renewal and replenishment after depletion. Like a well being refilled or an ecosystem recovering after disruption, this represents the natural cycle of restoration and the return of vitality.
-<img src="/home/jw/store/src/iching_cli/book/v2/prod/48.png">
+<img src="/home/jw/src/iching_cli/book/v2/prod/48.png">
 <span style="margin-bottom: 8px;"> &nbsp; </span>
 ### *"Restoration" is reflected through the chosen image of an underwater coral nursery, an embodiment of renewal after depletion. The elements speak to the hexagram's themes of replenishment and maintenance; the coral symbolizes resource conservation, the nurturing water represents the gentle wind principle, and the sunlight highlights the energy cycle's ascendancy. The triadic relationship among these elements signifies the balance essential for the hexagram's representation. The image perfectly captures its restorative and nourishing nature, reminding us of the important and delicate balance between structure and fluidity necessary for life and evolution within any system.*
 <p/>
@@ -34,7 +34,7 @@
 **Negotiation**: The hexagram represents the balance between giving and receiving nourishment. The gentle wind below supports the movement of water above, showing how subtle forces can maintain essential resources when properly channeled. **Limitation**: The structure defines boundaries between sustainable use and depletion. It establishes how resources must be maintained within natural cycles, showing that ongoing restoration requires consistent care. **Contribution**: This configuration contributes to systemic evolution by demonstrating how resources can be sustainably maintained. It shows how proper stewardship ensures continuing availability of essential elements.
 
 #### ***Tholon 23 of 32: "Resolution"***
-#### The *stable* path is creates "The Well" (48 <sub>*22*</sub>) and "Biting Through" (21 <sub>*41*</sub>).  This pair-path represents the duality of nourishment and resolution. The Well (Hexagram 48) signifies the ascending aspect of drawing sustenance and wisdom from a deep source, emphasizing renewal and the continuity of life. Biting Through (Hexagram 21), the descending aspect, involves confronting obstacles and resolving issues with decisiveness and clarity. Together, they illustrate a cycle of internal nourishment leading to external resolution.
+#### This hexagram is within the *stable* path of "Resolution" formed by "The Well" (48䷯<sub>*22*</sub>) and "Biting Through" (21䷔<sub>*41*</sub>).  This pair-path represents the duality of nourishment and resolution. The Well (Hexagram 48) signifies the ascending aspect of drawing sustenance and wisdom from a deep source, emphasizing renewal and the continuity of life. Biting Through (Hexagram 21), the descending aspect, involves confronting obstacles and resolving issues with decisiveness and clarity. Together, they illustrate a cycle of internal nourishment leading to external resolution.
 
 
 
@@ -44,7 +44,7 @@
 ##### The Catalyst of Creation (Man vs. Man)
 ### *In the style of Inspired by Jules Verne*
 
-#### In a bustling metropolis where human ambition reached fervent heights, an architect named Marcel stood at the precipice of innovation. Amidst the towering structures, his dream of crafting a revolutionary skyscraper—a tribute to nature's beauty—sparked intrigue and skepticism alike.
+#### In a bustling metropolis where human ambition reached fervent heights, an architect named Marcel stood at the precipice of innovation. Amidst the towering structures, his dream of crafting a revolutionary skyscraper, a tribute to nature's beauty, sparked intrigue and skepticism alike.
 
 Upon receiving approval for the project, Marcel felt the weight of expectation. He envisioned a building that would merge seamlessly with the sky, featuring living walls and organic forms. As the groundbreaking ceremony approached, Marcel's excitement was met with the harsh realities of logistics and unforeseen challenges.
 
@@ -88,7 +88,7 @@ Emerging victorious and enlightened, Isabela became the village's new guide, her
 
 #### In the heart of a secluded forest, an artist named Shun found himself lost in a haze of creative stagnation. His canvases lay bare, untouched by the brush that once danced with inspiration. One day, wandering aimlessly, Shun stumbled upon an ancient well, hidden beneath a canopy of whispering leaves. The well exuded a silent profundity that resonated with the mysteries of the universe. Intrigued, Shun drew closer, feeling a pull towards its depths.
 
-As he gazed into the well, a vision emerged—a vibrant interplay of colors and shapes that stirred the dormant energy within him. Inspired, he rushed back to his studio, the image from the well emblazoned in his mind. His brush moved with newfound fervor, each stroke a testament to the creative force that flowed through him.
+As he gazed into the well, a vision emerged, a vibrant interplay of colors and shapes that stirred the dormant energy within him. Inspired, he rushed back to his studio, the image from the well emblazoned in his mind. His brush moved with newfound fervor, each stroke a testament to the creative force that flowed through him.
 
 But as his painting took form, shadows of doubt crept into his thoughts. Was this truly his creation, or did the well impose its vision upon him? In moments of hesitation, he felt the burden of that question weighing heavily on his consciousness.
 
@@ -110,7 +110,7 @@ With the storm's end came a tranquil dawn. Shun's painting glowed with vitality,
 
 ##### *The Marshall Plan: A Framework for European Renewal*
 
-#### In the devastation following World War II, Europe faced a monumental task of rebuilding from the ruins. Cities were shattered, families displaced, and economies in freefall. Amidst this chaos, U.S. Secretary of State George Marshall envisioned a bold initiative—the Marshall Plan. Announced in 1947, the plan offered unprecedented economic assistance, aiming not just to repair infrastructure, but to foster a sustainable recovery. It required European nations to collaborate, paving a path toward economic integration. Over four years, $13 billion was allocated to revitalize industry, boost agriculture, and strengthen economic ties. Marshall's strategy required coordination, self-reliance, and shared goals. By 1952, Western Europe's industrial output soared, agricultural industries flourished, and trade increased significantly. The plan's success was its ability to inspire cooperation and innovation, laying the foundation for the European Economic Community. The Marshall Plan is a testament to the transformative power of renewal through supportive structures and collective effort, embodying the essence of "Restoration" as described in Hexagram 48.
+#### In the devastation following World War II, Europe faced a monumental task of rebuilding from the ruins. Cities were shattered, families displaced, and economies in freefall. Amidst this chaos, U.S. Secretary of State George Marshall envisioned a bold initiative, the Marshall Plan. Announced in 1947, the plan offered unprecedented economic assistance, aiming not just to repair infrastructure, but to foster a sustainable recovery. It required European nations to collaborate, paving a path toward economic integration. Over four years, $13 billion was allocated to revitalize industry, boost agriculture, and strengthen economic ties. Marshall's strategy required coordination, self-reliance, and shared goals. By 1952, Western Europe's industrial output soared, agricultural industries flourished, and trade increased significantly. The plan's success was its ability to inspire cooperation and innovation, laying the foundation for the European Economic Community. The Marshall Plan is a testament to the transformative power of renewal through supportive structures and collective effort, embodying the essence of "Restoration" as described in Hexagram 48.
 
 <div style="font-size: 8pt;font-style:italic">Source: "The Marshall Plan: Dawn of the Cold War" by Benn Steil (Simon & Schuster, 2018)</div>
 
@@ -125,11 +125,6 @@ With the storm's end came a tranquil dawn. Shun's painting glowed with vitality,
 
 ###### *Notes*
 ### **King Wen**: 48 ䷯ <sub>*22*</sub> ; 6 ☵ <sub>*2*</sub> The Abysmal,  Water *over* 5 ☴ <sub>*6*</sub> The Gentle, Wind/Wood;
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 <br/>
 <br/>
 <br/>

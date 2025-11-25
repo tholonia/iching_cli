@@ -6,7 +6,7 @@
 <span style="font-size:2em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;">2 ䷁</span><span style="font-size:1em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;vertical-align:text-bottom;"> 0 </span><span style="font-size:2em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;">&nbsp; Receptivity</span>
 </div>
 ## The power of open acceptance and responsive capacity. Like fertile earth receiving seeds, this represents the creative potential of yielding awareness.
-<img src="/home/jw/store/src/iching_cli/book/v2/prod/02.png">
+<img src="/home/jw/src/iching_cli/book/v2/prod/02.png">
 <span style="margin-bottom: 8px;"> &nbsp; </span>
 ### *"Receptivity" is embodied in an unassuming landscape depicting harmony between earth and sky. The choice of rolling hills represents earthy openness, underscoring the overall essence of nurturing awareness and acceptance. The hovering sky interlocks with the undulating earth, reflecting the interconnectedness and influences of elements in a recursive, interconnected structure, i.e., the Thologram. This landscape design elegantly encapsulates the nurturing and sustaining processes suggested by the action of the hexagram through its integration of light and shadow. Subtle infusions of growth patterns and natural boundaries manifest the hexagram's primordial energy, making this depiction a perfect expression of "Receptivity."
 *
@@ -35,7 +35,7 @@
 **Negotiation**: The hexagram represents pure receptivity, with both trigrams being Earth. This creates complete openness to receiving and nurturing energy. **Limitation**: Structure is provided by earth above and below, indicating that receptivity must maintain form. The doubled earth suggests containment through natural boundaries. **Contribution**: This pattern contributes to evolution by providing the space for growth. It shows how receptivity enables manifestation.
 
 #### ***Tholon 1 of 32: "Primordial Duality"***
-#### The *dynamic* path is creates "The Receptive" (2 <sub>*0*</sub>) and "The Creative" (1 <sub>*63*</sub>).  This pair-path embodies the fundamental duality of existence, where "The Creative" (Hexagram 1) represents the active, initiating force of creation, and "The Receptive" (Hexagram 2) symbolizes the passive, nurturing aspect that allows creation to manifest. Together, they reflect the cyclical nature of beginnings and the balance of opposing forces.
+#### This hexagram is within the *dynamic* path of "Primordial Duality" formed by "The Receptive" (2䷁<sub>*0*</sub>) and "The Creative" (1䷀<sub>*63*</sub>).  This pair-path embodies the fundamental duality of existence, where "The Creative" (Hexagram 1) represents the active, initiating force of creation, and "The Receptive" (Hexagram 2) symbolizes the passive, nurturing aspect that allows creation to manifest. Together, they reflect the cyclical nature of beginnings and the balance of opposing forces.
 
 
 
@@ -45,13 +45,13 @@
 ##### The Receptive Force (Man vs. Man)
 ### *In the style of Haruki Murakami Style*
 
-#### In the labyrinthine alleys of Tokyo, amidst the ceaseless hum of neon and night's mystery, Reiko found herself at the confluence of modern ambition and ancient whispers. Her art gallery, nestled between two nondescript buildings, was an oasis of calm in a city that never slept. Here, Reiko nurtured a dream—a vision of art that bridged worlds.
+#### In the labyrinthine alleys of Tokyo, amidst the ceaseless hum of neon and night's mystery, Reiko found herself at the confluence of modern ambition and ancient whispers. Her art gallery, nestled between two nondescript buildings, was an oasis of calm in a city that never slept. Here, Reiko nurtured a dream, a vision of art that bridged worlds.
 
 Reiko's gallery, ‘Echoes of the Unseen,’ was an enigma. Every painting spoke of a deeper truth, a narrative hidden beneath layers of brushstrokes and color. Visitors wandered through its halls caught in a trance, drawn as much by the silent call of the canvases as by Reiko's quiet presence.
 
 The arrival of a new artist, Kazuo, disrupted this delicate balance. His bold, chaotic pieces clashed violently with the gallery's serene aesthetic. Reiko felt a storm brewing, not just within her gallery walls but also within her own heart. The calm harmony she had so delicately nurtured now seemed on the brink of dissolution.
 
-Yet Kazuo's art spoke to a part of the world Reiko had overlooked—a raw, unrestrained vitality yearning for recognition. She realized that embracing Kazuo’s unorthodox vision required she traverse a path from passive acceptance to active understanding.
+Yet Kazuo's art spoke to a part of the world Reiko had overlooked, a raw, unrestrained vitality yearning for recognition. She realized that embracing Kazuo’s unorthodox vision required she traverse a path from passive acceptance to active understanding.
 
 As the gallery transformed, so did Reiko. Her willingness to integrate chaos with order heralded a new chapter. The interplay between calm and chaos forged an unexpected unity, a narrative shift that breathed life into every corner of the gallery.
 
@@ -72,7 +72,7 @@ In the end, Reiko understood that her role as a curator was not to impose order 
 
 Gaia’s essence thrived, silently overseeing generations of flora and fauna taking form, reaching out towards the sun. Her gentle, forgiving nature sheltered the fragile and nurtured the robust, weaving a tapestry of interdependence and harmony that bound all inhabitants with invisible threads.
 
-However, as seasons wore on, whispers of change rustled through the trees. A new presence, driven by ambition and restlessness, emerged—an explorer seeking to unearth Gaia’s mysteries. Intent on cultivating the forest’s untapped potential, he began to alter the delicate balance.
+However, as seasons wore on, whispers of change rustled through the trees. A new presence, driven by ambition and restlessness, emerged, an explorer seeking to unearth Gaia’s mysteries. Intent on cultivating the forest’s untapped potential, he began to alter the delicate balance.
 
 This intrusion sparked internal conflict. Gaia, while inherently nurturing, felt her rhythms disrupted. Nature’s intricate dance faltered as its flow encountered the explorer’s assertive strides. The once unwavering harmony teetered on the brink, threatened by the looming chaos of unchecked ambition.
 
@@ -95,15 +95,15 @@ This tale reflects the timeless dance of receptivity and action, where the art o
 
 #### In the maze of Tokyo's forgotten districts, where the city murmurs in tones of concrete gray and neon glow, Miki wandered as if in search of forgotten echoes. A translator by profession, she was a wanderer by nature, whose soul danced restlessly on the edge of stories untold. Her apartment was a sanctuary of books, where sentences intertwined like old friends finding their way back to each other, offering solace from the world's ceaseless noise.
 
-Miki found herself on the cusp of change, as the weight of unwritten translations gathered like storm clouds over her mind. The narratives seemed hesitant at first, as though waiting for the right constellation to ignite the canvas of her introspective sky. She felt this shift as the emergence from tranquil depths, a signal to dive deeper—into herself and the stories longing to be born.
+Miki found herself on the cusp of change, as the weight of unwritten translations gathered like storm clouds over her mind. The narratives seemed hesitant at first, as though waiting for the right constellation to ignite the canvas of her introspective sky. She felt this shift as the emergence from tranquil depths, a signal to dive deeper, into herself and the stories longing to be born.
 
-Her workroom became a space of quiet metamorphosis. Each dawn broke with the promise of new perspectives, forming a bastion of words that would hold against the tides of uncertainty. Yet, there lay a tension—between her profound attraction to solitude and the pull of the world outside that threatened to destabilize her inner harmony.
+Her workroom became a space of quiet metamorphosis. Each dawn broke with the promise of new perspectives, forming a bastion of words that would hold against the tides of uncertainty. Yet, there lay a tension, between her profound attraction to solitude and the pull of the world outside that threatened to destabilize her inner harmony.
 
 In moments of stillness, Miki confronted the hidden struggles within her, where the awareness of raw creative potential clawed at the borders of realization. As she battled the specters of doubt, the evidence of possibility unfurled, urging her heart to accept the imbalances she once feared.
 
-Embracing the discomfort, Miki allowed the stronger currents of inspiration to illuminate new pathways, realizing that every whisper of apprehension was a vessel for growth. She began to weave tales of startling clarity, where each thread bore an intricate narrative of integrity and truth—surrender and creation.
+Embracing the discomfort, Miki allowed the stronger currents of inspiration to illuminate new pathways, realizing that every whisper of apprehension was a vessel for growth. She began to weave tales of startling clarity, where each thread bore an intricate narrative of integrity and truth, surrender and creation.
 
-As the lines of her life interwove into the narratives she translated, Miki reached transcendence like breath bridging worlds—a place where the unstrung notes of her past resonated with new meaning. The dance of language now carried hints of fragile strength, and she knew she had merely begun the eternal cycle of creation and receiving. Her enduring quest for truth, with all its imperfections, was an offering to the universe, and a reflection of her undulating heart.
+As the lines of her life interwove into the narratives she translated, Miki reached transcendence like breath bridging worlds, a place where the unstrung notes of her past resonated with new meaning. The dance of language now carried hints of fragile strength, and she knew she had merely begun the eternal cycle of creation and receiving. Her enduring quest for truth, with all its imperfections, was an offering to the universe, and a reflection of her undulating heart.
 
 #### ***Lines in Context:***
 <ul><li><B>1</B> (yin) <i>Emergence</i> - Emergence is depicted through Miki's initial stirrings of creative intent, establishing the seeds of transformation. <i>Moving line</i> - When yin changes to yang, initial reflections may be thrust into realization prematurely, challenging Miki but also unlocking potential she had not previously considered.</li></ul>
@@ -134,11 +134,6 @@ As the lines of her life interwove into the narratives she translated, Miki reac
 
 ###### *Notes*
 ### **King Wen**: 2 ䷁ <sub>*0*</sub> The Receptive; 2 ☷ <sub>*0*</sub> The Receptive,  Earth *over* 2 ☷ <sub>*0*</sub> The Receptive, Earth;
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 <br/>
 <br/>
 <br/>

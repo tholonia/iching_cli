@@ -10,7 +10,7 @@ header.title {
 /* Font Smoothing */
 /* === Global Styles === */
 html {
-  font-size: 0.6875em !important;
+  font-size: 8pt !important;
   -webkit-font-smoothing: antialiased !important;
   -moz-osx-font-smoothing: grayscale !important;
   text-rendering: optimizeLegibility !important;
@@ -41,6 +41,15 @@ body {
   @bottom-center {
     content: "Page " counter(page) " of " counter(pages);
   }
+}
+/* Book format: alternating gutters for left and right pages */
+@page :left {
+  margin-left: 1in;
+  margin-right: 0.5in;
+}
+@page :right {
+  margin-left: 0.5in;
+  margin-right: 1in;
 }
 @media print {
   body {
@@ -123,7 +132,7 @@ h1 {
   font-weight: normal !important;
   font-family: 'LinLibertine' !important;
   display: block !important;
-  font-size: 2em !important;
+  font-size: 20pt !important;
   color: #000 !important;
   border-bottom: 1px solid #c5c5c5 !important;
   padding-bottom: 0.2em !important;
@@ -138,7 +147,7 @@ h2 {
   display: block !important;
   font-size: 18pt !important;
   color: #222 !important;
-  line-height: 1.2em !important;
+  line-height: 21.6pt !important;
   max-width: 88% !important;
   margin: 0 auto !important;
   /*padding: 0 0 35px !important;*/
@@ -150,7 +159,7 @@ h3 {
   display: block !important;
   font-size: 14pt !important;
   color: #444 !important;
-  line-height: 1em !important;
+  line-height: 16.8pt !important;
   text-align: left !important;
 }
 h4,
@@ -161,19 +170,18 @@ h4,
   display: block !important;
   font-size: 15pt !important;
   color: #555 !important;
-  line-height: 1.2em !important;
+  line-height: 18pt !important;
 }
 h5,
 #write h5 {
   text-align: center !important;
-  font-size: 1.2em !important;
+  font-size: 11pt !important;
   color: #444 !important;
   text-align: left !important;
   font-weight: normal !important;
   font-style: italic;
   font-family: 'LinLibertine' !important;
   display: block !important;
-  font-size: 11pt !important;
   margin-left: 20pt;
 }
 h6 {
@@ -181,7 +189,7 @@ h6 {
   font-weight: normal !important;
   font-family: 'LinLibertine' !important;
   display: block !important;
-  font-size: 1.7em !important;
+  font-size: 16pt !important;
   color: #777 !important;
   border-bottom: 1px solid #c5c5c5 !important;
   padding-bottom: 0.2em !important;
@@ -193,9 +201,9 @@ ul li {
   list-style-type: none !important;
   font-family: 'LinLibertine' !important;
   color: #444 !important;
-  font-size: 1em !important;
+  font-size: 11pt !important;
   font-weight: normal !important;
-  line-height: 1.2em !important;
+  line-height: 13.2pt !important;
   page-break-inside: auto !important;
   margin-left: -24px !important;
 }
@@ -208,20 +216,25 @@ img {
   /*    border-radius: 17px;*/
   page-break-inside: auto !important;
 }
-pre {
-  display: inline;
-  font-family: monospace;
-  /* Ensures monospaced font remains */
-  background: none;
-  /* Remove default background */
-  border: none;
-  /* Remove any border */
-  padding: 0;
-  /* Remove padding */
-  margin: 0;
-  /* Remove margin */
-  white-space: pre-wrap;
-  /* Allows wrapping if needed */
+pre,
+code,
+tt {
+  display: block;
+  font-family: "Courier New", monospace;
+  font-size: 8pt;
+  line-height: 1.6;
+  background-color: #f4f4f4;
+  padding: 0.5em 1em;
+  border-radius: 4px;
+  overflow-x: auto;
+  white-space: pre;
+}
+.md-fences {
+  background-color: #f4f4f4;
+  margin: 1em 0;
+  padding: 0.5em 1em;
+  border-radius: 4px;
+  overflow-x: auto;
 }
 /* === Preventing Large White Space Issues === */
 body {

@@ -6,7 +6,7 @@
 <span style="font-size:2em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;">22 ䷕</span><span style="font-size:1em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;vertical-align:text-bottom;"> 37 </span><span style="font-size:2em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;">&nbsp; Authentic Expression</span>
 </div>
 ## Inner truth radiating outward through conscious refinement and sincere presentation. Like a mountain illuminated by fire, this represents the authentic self shining through carefully cultivated form.
-<img src="/home/jw/store/src/iching_cli/book/v2/prod/22.png">
+<img src="/home/jw/src/iching_cli/book/v2/prod/22.png">
 <span style="margin-bottom: 8px;"> &nbsp; </span>
 ### *"Authentic Expression" is beautifully articulated through the careful selection of elements and artistic style for the image. The mask symbolizes the intricate interplay between unveiling one's inner authenticity while navigating public expectations. The choice of Leonardo da Vinci, esteemed for his profound exploration of human anatomy and emotion, personifies the perpetual refinement integral to the theme. The realistic style reinforces the depth of self-discovery, making the abstract process of inner development tangible. Lastly, ink as a medium signifies permanence and clear intention, echoing the indelible journey of self-awareness. Thus, the interconnectedness of mask, artist, style, and medium encapsulates the Thologram's recursive nature, illustrating the harmonious interaction of awareness and intention.*
 <p/>
@@ -34,7 +34,7 @@
 **Negotiation**: The hexagram represents the negotiation between inner essence (Mountain) and outer expression (Fire). This creates a dynamic balance between being and seeming, substance and style. The mountain represents our solid foundation of truth, while fire represents how we consciously shape and share that truth. **Limitation**: Structure is provided by the mountain base, suggesting that authentic expression must be grounded in reality and truth. The fire above indicates that our expressions are naturally limited by our inner substance - we can only genuinely express what we truly are or have cultivated within. **Contribution**: This pattern contributes to evolution by demonstrating how conscious refinement can elevate raw truth into meaningful expression. It shows how form and substance can work together to create something greater than either alone.
 
 #### ***Tholon 27 of 32: "Constraint and Grace"***
-#### The *stable* path is creates "Oppression" (47 <sub>*26*</sub>) and "Grace" (22 <sub>*37*</sub>).  This pair-path explores the dynamic interplay between the experience of constraint and the expression of elegance. Ascending from Oppression (47), one moves through the trials of limitation and pressure, seeking inner resilience and endurance. Descending into Grace (22), the path reveals the beauty and refinement that emerge when external appearances harmonize with inner truth. Together, they represent the journey from inner struggle to outward elegance, highlighting how adversity can refine and beautify the spirit.
+#### This hexagram is within the *stable* path of "Constraint and Grace" formed by "Oppression" (47䷮<sub>*26*</sub>) and "Grace" (22䷕<sub>*37*</sub>).  This pair-path explores the dynamic interplay between the experience of constraint and the expression of elegance. Ascending from Oppression (47), one moves through the trials of limitation and pressure, seeking inner resilience and endurance. Descending into Grace (22), the path reveals the beauty and refinement that emerge when external appearances harmonize with inner truth. Together, they represent the journey from inner struggle to outward elegance, highlighting how adversity can refine and beautify the spirit.
 
 
 
@@ -48,11 +48,11 @@
 
 The outside world, filled with expectations and judgments, loomed beyond the walls of his sanctuary, a presence that gnawed at his creative spirit. The pressure to conform, to create by the standards set by those who understood little of his profound quest, tethered him closer to doubt. Yet, the marble stood resolute, reflecting not only his fears but also the unspoken potential of creation waiting to be realized.
 
-As Heinrich chipped away, the essence of the sculpture began to emerge, transcending the confines of the block, whispering the allure of nascent beauty. Yet, the more the figure took form, the more Heinrich felt the pull of doubt—was it truly his vision or a reflection of the world’s demands?
+As Heinrich chipped away, the essence of the sculpture began to emerge, transcending the confines of the block, whispering the allure of nascent beauty. Yet, the more the figure took form, the more Heinrich felt the pull of doubt, was it truly his vision or a reflection of the world’s demands?
 
 In a profound moment of surrender to his deepest instincts, Heinrich allowed the imperfections of the marble to guide him, permitting the piece to evolve beyond expectation. Suddenly, the figure that emerged was not a replica of the world’s desires but a testament to his spirit woven into the stone. It was an embodiment of his struggle, the push and pull between external pressure and internal truth, standing now as a beacon of authentic expression amidst the cacophony of silence.
 
-With the sculpture’s revelation, Heinrich found something more profound than mere artistic completion—a resonance with his own self. The air in the studio grew still as he stepped back, viewing not only the culmination of his labor but a reflection of his journey—a dance between limitation and liberation, beautifully carved into the enduring silence.
+With the sculpture’s revelation, Heinrich found something more profound than mere artistic completion, a resonance with his own self. The air in the studio grew still as he stepped back, viewing not only the culmination of his labor but a reflection of his journey, a dance between limitation and liberation, beautifully carved into the enduring silence.
 
 #### ***Lines in Context:***
 <ul><li><B>1</B> (yang) <i>Silent Beginning</i> - In the quietude of the studio, Heinrich's initial idea stirs gently within the stone, waiting to be unveiled. <i>Moving line</i> - When yang changes to yin, early enthusiasm may turn into hesitation, causing delays and introducing doubt into the first strokes that define his creative journey.</li></ul>
@@ -71,7 +71,7 @@ Eleanor began her work with fervor, her brush dancing across the blank expanse, 
 
 Yet there loomed the shadow of doubt, a familiar force that questioned if her efforts could ever truly embody the ocean’s vastness. The sea, both adversary and muse, challenged her perceptions and nudged her toward deeper understanding.
 
-As Eleanor wrestled with direction and form, she realized the true subject was not the ocean's outward form but its soul—a lesson in mastery over one's craft and self.
+As Eleanor wrestled with direction and form, she realized the true subject was not the ocean's outward form but its soul, a lesson in mastery over one's craft and self.
 
 In surrendering to the sea’s lessons, Eleanor's canvas blossomed into a symphony of blues and greys, capturing the ocean’s eternal dance. Her struggles yielded a masterpiece of transcendence, echoing the sea’s essence and her own journey of self-discovery.
 
@@ -90,7 +90,7 @@ In surrendering to the sea’s lessons, Eleanor's canvas blossomed into a sympho
 
 Cecilia wrestled with the intricacies of her own soul, struggling to manifest her deepest truths while the shadows of her past hesitated along the edges of her vision. Day by day, her brush followed the curves of her evolving understanding, each stroke uncovering a new layer, bridging the gap between the internal conflicts and external realities.
 
-A subtle shift in the evening light infused her work with warmth, reflecting the dawning clarity of her intent. The hidden intricacies of her heart found their way into the art, emanating a resonance that spoke volumes. Yet, as clarity rose, doubts lingered—a voice reminding Cecilia of the fragility of her discoveries.
+A subtle shift in the evening light infused her work with warmth, reflecting the dawning clarity of her intent. The hidden intricacies of her heart found their way into the art, emanating a resonance that spoke volumes. Yet, as clarity rose, doubts lingered, a voice reminding Cecilia of the fragility of her discoveries.
 
 In a bold moment of liberation, Cecilia embraced this voice, realizing the brilliance of her path lay not in certainty but in the process of seeking itself. Her work became a dance of light and shadow, where her authentic self met the world with grace and certainty.
 
@@ -112,7 +112,7 @@ With every stroke, she transcended the limitations of her craft, reaching a spac
 
 #### In the vibrant city of Florence during the late 15th century, the flourishing arts resonated with the melodies of the Renaissance. Amidst this cultural rebirth, Sandro Botticelli emerged, wielding his brush to birth 'The Birth of Venus,' a masterful representation of aesthetic grace and spiritual depth. This painting captured the ethereal beauty and divine elegance of Venus, emerging from the sea, her translucent form a testament to the delicate intricacies of the human spirit entwined with the divine.
 
-Botticelli's canvas became a veiled narrative of liberation from medieval constraints, offering a harmonious blend of classical mythology and humanistic ideals. The artwork symbolized not only an artistic pinnacle but also the transcendental moment when raw creative energy found eloquent expression—an allegory for humanity's potential to manifest higher truths through form.
+Botticelli's canvas became a veiled narrative of liberation from medieval constraints, offering a harmonious blend of classical mythology and humanistic ideals. The artwork symbolized not only an artistic pinnacle but also the transcendental moment when raw creative energy found eloquent expression, an allegory for humanity's potential to manifest higher truths through form.
 
 As patrons and pilgrims alike marveled at Botticelli's masterpiece, it resonated far beyond Florence, its beauty cascading over generations, inspiring a continual pursuit of truth and elegance in the arts. In capturing the goddess's serene grace, Botticelli exemplified the I Ching's hexagram 22, illustrating how authentic self-expression, born from depth and refinement, can illuminate the world with transcendent brilliance.
 
@@ -129,11 +129,6 @@ As patrons and pilgrims alike marveled at Botticelli's masterpiece, it resonated
 
 ###### *Notes*
 ### **King Wen**: 22 ䷕ <sub>*37*</sub> Grace/Adornment; 3 ☶ <sub>*3*</sub> The Still,  Mountain *over* 7 ☲ <sub>*5*</sub> The Clinging, Fire;
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 <br/>
 <br/>
 <br/>

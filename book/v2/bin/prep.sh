@@ -85,7 +85,7 @@
 # Note:
 # Ensure all input files and dependencies are present and correctly configured before running the script.
 
-D="/home/jw/src/iching_cli/book/v2/bin"
+D="/home/jw/src/iching_cli/book/v2/bin" 
 
 # Get version suffix if provided
 VERSION_SUFFIX=""
@@ -121,6 +121,7 @@ cp ${D}/../includes/iching.css /home/jw/.config/Typora/themes/iching.css
 
 lessc ${D}/../includes/iching_nopage.less ${D}/../includes/iching_nopage.css
 cp ${D}/../includes/iching_nopage.css /home/jw/.config/Typora/themes/iching_nopage.css
+
 
 # Pass the test flag to makeallmd.py if present
 #./makeallmd.py --content pages ${TEST_FLAG}

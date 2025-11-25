@@ -6,7 +6,7 @@
 <span style="font-size:2em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;">36 ䷣</span><span style="font-size:1em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;vertical-align:text-bottom;"> 5 </span><span style="font-size:2em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;">&nbsp; Obscured Light</span>
 </div>
 ## Intelligence and clarity operating under constraints. Like the sun below the earth, this represents inner radiance maintaining its strength despite external darkness.
-<img src="/home/jw/store/src/iching_cli/book/v2/prod/36.png">
+<img src="/home/jw/src/iching_cli/book/v2/prod/36.png">
 <span style="margin-bottom: 8px;"> &nbsp; </span>
 ### *"Obscured Light" is symbolized in the meticulously chosen elements of this image, portraying hidden transformation exemplified by a chameleon. The chameleon embodies the principle of negotiation, seamlessly transitioning between visibility and invisibility, reflecting the constant adaptability inherent in awareness. Rendered in the style of surrealism to transcend the boundaries of conventional perception, the artwork delves into the Thologic model's complex exploration of existence. The influence of Georgia O'Keeffe, known for encapsulating the essence that surpasses the obvious, infuses the piece. The use of gouache brings out the dynamic interplay between the hexagram's traits of contribution and limitation, encouraging a profound understanding of the transformative processes within the physical and abstract realms.*
 <p/>
@@ -34,7 +34,7 @@
 **Negotiation**: Balance between expression and preservation. The hexagram shows how wisdom can thrive even when constrained. Represents negotiation between visibility and protection. **Limitation**: Creates protection through concealment. The earth above contains and protects the fire below, showing how limitation can preserve rather than extinguish. **Contribution**: Contributes by demonstrating how awareness can persist and develop under adverse conditions. Like a seed growing underground, this constraint enables future emergence.
 
 #### ***Tholon 6 of 32: "Conflict's Veil"***
-#### The *dynamic* path is creates "Darkening of the Light" (36 <sub>*5*</sub>) and "Conflict" (6 <sub>*58*</sub>).  This pair-path explores the interplay between concealment and confrontation. As 'Darkening of the Light' ascends, it signifies the need for caution and strategic withdrawal, hiding one's light to preserve inner truth amidst adversity. Conversely, 'Conflict' descends, representing the inevitable clash when differences arise, urging resolution through understanding and patience. Together, they illustrate the cycle of retreat and engagement, teaching the wisdom of knowing when to retreat into shadow and when to face challenges head-on.
+#### This hexagram is within the *dynamic* path of "Conflict's Veil" formed by "Darkening of the Light" (36䷣<sub>*5*</sub>) and "Conflict" (6䷅<sub>*58*</sub>).  This pair-path explores the interplay between concealment and confrontation. As 'Darkening of the Light' ascends, it signifies the need for caution and strategic withdrawal, hiding one's light to preserve inner truth amidst adversity. Conversely, 'Conflict' descends, representing the inevitable clash when differences arise, urging resolution through understanding and patience. Together, they illustrate the cycle of retreat and engagement, teaching the wisdom of knowing when to retreat into shadow and when to face challenges head-on.
 
 
 
@@ -48,13 +48,13 @@
 
 Viktor's resolve was a flickering flame, tempered by idealism yet tested by the harsh realities of governance. He nurtured his ideas in private, cultivating strategies like a gardener tending to seeds in hibernation, waiting for the opportune season to sow them into the soil of politics.
 
-An unexpected alliance with the Chief Minister's daughter became his clandestine glow—a risky partnership in a world where allegiances shifted like the sands of time. She shared his vision of reform, her influence a quiet strength that amplified his muted voice.
+An unexpected alliance with the Chief Minister's daughter became his clandestine glow, a risky partnership in a world where allegiances shifted like the sands of time. She shared his vision of reform, her influence a quiet strength that amplified his muted voice.
 
 As their collaboration grew, so too did the hostility. The council erupted with conflict, each session a battlefield where ambitions clashed with entrenched power. Viktor navigated these treacherous waters with the grace of a dancer, maintaining equilibrium by channeling youthful fervor into measured persuasion.
 
 One fateful evening, Viktor stood at the precipice of revelation. His moment to speak came amidst the chaos of the council chamber, where truth struggled to find its footing. As words spilled from his tongue, the room paused, the undercurrent of resistance momentarily halted.
 
-A new dawn threatened the grips of old paradigms—yet, with too much zeal, the council feared his light would extinguish the status quo. Viktor's voice, a beacon amidst twilight, invited change as shadows recoiled. In his truth lay the power to illuminate not just the chamber, but an entire nation eager for its own awakening.
+A new dawn threatened the grips of old paradigms, yet, with too much zeal, the council feared his light would extinguish the status quo. Viktor's voice, a beacon amidst twilight, invited change as shadows recoiled. In his truth lay the power to illuminate not just the chamber, but an entire nation eager for its own awakening.
 
 #### ***Lines in Context:***
 <ul><li><B>1</B> (yang) <i>Emergence</i> - Viktor's initial sparks of reform take shape in his solitary reflections, nurtured quietly away from prying eyes. <i>Moving line</i> - Moving from seclusion to the public eye may challenge the integrity of his nascent ideas, but it can also bring them into the limelight, attracting support and inspiring collective action.</li></ul>
@@ -67,11 +67,11 @@ A new dawn threatened the grips of old paradigms—yet, with too much zeal, the 
 ##### Wisdom Cloaked in Shadows (Man vs. Nature)
 ### *In the style of Herman Melville*
 
-#### In the heart of the dense, whispering forest, Elias, a young mystic, wandered in search of the elusive Midnight Lily—a flower said to bloom only under the darkest nights, holding the key to ancient wisdom untold. Each step he took was a delicate negotiation with the wilderness that surrounded him, a realm where the sun was but a forgotten memory and the glow of fireflies whispered secrets as ancient as the earth.
+#### In the heart of the dense, whispering forest, Elias, a young mystic, wandered in search of the elusive Midnight Lily, a flower said to bloom only under the darkest nights, holding the key to ancient wisdom untold. Each step he took was a delicate negotiation with the wilderness that surrounded him, a realm where the sun was but a forgotten memory and the glow of fireflies whispered secrets as ancient as the earth.
 
 Elias's journey began with a hopeful emergence from the edge of the village into the veil of trees, each step a burgeoning investment in the promise of the unknown. The forest welcomed him with an initial warmth, its tranquility offering a silent formation of resolve. As days blurred together, the calm shadows morphed into a deceptive play of light, where every rustle and flicker challenged his focus, birthing an inner conflict that pitted doubt against determination.
 
-It was not until the moon rose again, casting ethereal patterns upon the forest floor, that manifestation unfolded—a quiet revelation as Elias stumbled upon a secluded grove. There, amidst the woven silence, the Midnight Lily stood, its luminescence a testament to enduring mastery over the hidden realms.
+It was not until the moon rose again, casting ethereal patterns upon the forest floor, that manifestation unfolded, a quiet revelation as Elias stumbled upon a secluded grove. There, amidst the woven silence, the Midnight Lily stood, its luminescence a testament to enduring mastery over the hidden realms.
 
 Yet, the true mastery came not in the finding, but in the understanding that followed. The lily's glow whispered wisdom that transcended the earthly shadows binding his feet, lifting him to a shared transcendence with the natural world, where the soul danced freely in the embrace of light and darkness. By aligning his heart with the shadows, Elias discovered not just the Lily, but a newfound clarity that echoed beyond the night, guiding him in the eternal dance of shadows and light.
 
@@ -88,13 +88,13 @@ Yet, the true mastery came not in the finding, but in the understanding that fol
 
 #### In the quiet heart of London, under the perpetual murmur of its streets, lived Eleanor, an artist with visions as elusive as the fog that often shrouded the city. Her days were an intricate ballet of shadows and light, in pursuit of a masterpiece that had yet to take shape upon her easel.
 
-Eleanor's studio was her sanctuary, a realm where the outer world's demands gently receded into whispers. The notion of Emergence loomed large in her mind—a fragile ignition meant to cut through obscurity. Yet each stroke of her brush layered more questions than answers, every attempt at clarity veiled by doubt.
+Eleanor's studio was her sanctuary, a realm where the outer world's demands gently receded into whispers. The notion of Emergence loomed large in her mind, a fragile ignition meant to cut through obscurity. Yet each stroke of her brush layered more questions than answers, every attempt at clarity veiled by doubt.
 
 As hours bled into each other, Eleanor felt the stirrings of Formation. There was a rhythm to her solitude that began to take root, a semblance of order arranging the chaos within her mind, crafting structures from the ether of inspiration.
 
 Yet, it was Conflict that haunted Eleanor, a constant duel between her vision and the skepticism that clouded it. In her struggle, she found the seeds of Manifestation, moments when glimpses of truth teased at the edges of her consciousness, urging her to transcend the barriers.
 
-Eleanor understood that true Mastery lay not in perfection but in embracing the imperfections, in revealing the raw beauty that lay beneath her work's surface. As Transcendence approached, the tale of light spiraled into liberation, the consciousness seeking form in the play of shadows finally finding its voice—a vision unbound by the confines of expectation, born from the very darkness that once obscured it.
+Eleanor understood that true Mastery lay not in perfection but in embracing the imperfections, in revealing the raw beauty that lay beneath her work's surface. As Transcendence approached, the tale of light spiraled into liberation, the consciousness seeking form in the play of shadows finally finding its voice, a vision unbound by the confines of expectation, born from the very darkness that once obscured it.
 
 #### ***Lines in Context:***
 <ul><li><B>1</B> (yang) <i>Emergence</i> - Eleanor's initial inspiration stirs within, a tender glimmer seeking form amidst the haze. <i>Moving line</i> - A shift from yang to yin may introduce doubt and diffusiveness into this emergence, yet it also encourages introspection, leading to richer, more grounded creative insights.</li></ul>
@@ -125,11 +125,6 @@ Eleanor understood that true Mastery lay not in perfection but in embracing the 
 
 ###### *Notes*
 ### **King Wen**: 36 ䷣ <sub>*5*</sub> Darkening of the Light; 2 ☷ <sub>*0*</sub> The Receptive,  Earth *over* 7 ☲ <sub>*5*</sub> The Clinging, Fire;
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 <br/>
 <br/>
 <br/>

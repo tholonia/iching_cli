@@ -19,6 +19,36 @@
 @base-font-size: 11pt;
 @base-line-height: 1.4;
 
+// Line height multiplier
+@line-height-multiplier: 1.2;
+
+// Font size variables
+// @html-font-size: 7.56pt;
+// @h1-font-size: 22pt;
+// @h2-font-size: 18pt;
+// @h3-font-size: 14pt;
+// @h4-font-size: 15pt;
+// @h5-font-size: 11pt;
+// @h6-font-size: 18.7pt;
+// @list-font-size: 11pt;
+// @code-font-size: 9.625pt;
+
+@html-font-size: 8pt;
+@h1-font-size: 20pt;
+@h2-font-size: 18pt;
+@h3-font-size: 14pt;
+@h4-font-size: 15pt;
+@h5-font-size: 11pt;
+@h6-font-size: 16pt;
+@list-font-size: 11pt;
+@code-font-size: 8pt;
+
+// Line height variables (multiplier * font size)
+@h2-line-height: (@h2-font-size * @line-height-multiplier);
+@h3-line-height: (@h3-font-size * @line-height-multiplier);
+@h4-line-height: (@h4-font-size * @line-height-multiplier);
+@list-line-height: (@list-font-size * @line-height-multiplier);
+
 @text-color: #1f0909;
 
 @heading-colors: {
@@ -46,7 +76,7 @@ h1.title, h1#title, header.title {
 
 /* === Global Styles === */
 html {
-    font-size: 0.6875em !important;
+    font-size: @html-font-size !important;
     .font-smoothing();
     margin: 0 !important;
     padding: 0 !important;
@@ -76,6 +106,17 @@ body {
     @bottom-center {
         content: "Page " counter(page) " of " counter(pages);
     }
+}
+
+/* Book format: alternating gutters for left and right pages */
+@page :left {
+    margin-left: @margin-gutter;
+    margin-right: @margin-outer;
+}
+
+@page :right {
+    margin-left: @margin-outer;
+    margin-right: @margin-gutter;
 }
 
 @media print {
@@ -174,7 +215,7 @@ body {
 
 h1 {
     .heading-base();
-    font-size: 2em !important;
+    font-size: @h1-font-size !important;
     color: @heading-colors[1] !important;
     border-bottom: 1px solid @border-color !important;
     padding-bottom: 0.2em !important;
@@ -185,9 +226,9 @@ h1 {
 
 h2 {
     .heading-base();
-    font-size: 18pt !important;
+    font-size: @h2-font-size !important;
     color: @heading-colors[2] !important;
-    line-height: 1.2em !important;
+    line-height: @h2-line-height !important;
     max-width: 88% !important;
     margin: 0 auto !important;
     /*padding: 0 0 35px !important;*/
@@ -195,9 +236,9 @@ h2 {
 
 h3 {
     .heading-base();
-    font-size: 14pt !important;
+    font-size: @h3-font-size !important;
     color: @heading-colors[3] !important;
-    line-height: 1em !important;
+    line-height: @h3-line-height !important;
     text-align: left !important;
 }
 
@@ -207,15 +248,15 @@ h4,
     font-weight: normal !important;
     font-family: @base-font-family !important;
     display: block !important;
-    font-size: 15pt !important;
+    font-size: @h4-font-size !important;
     color: @heading-colors[4] !important;
-    line-height: 1.2em !important;
+    line-height: @h4-line-height !important;
 }
 
 h5,
 #write h5 {
     .heading-base();
-    font-size: 1.2em !important;
+    font-size: @h5-font-size !important;
     color: @heading-colors[3] !important;
 
     text-align: left !important;
@@ -223,14 +264,13 @@ h5,
     font-style: italic;
     font-family: 'LinLibertine' !important;
     display: block !important;
-    font-size: 11pt !important;
     margin-left: 20pt;
 }
 
 
 h6 {
     .heading-base();
-    font-size: 1.7em !important;
+    font-size: @h6-font-size !important;
     color: @heading-colors[6] !important;
     border-bottom: 1px solid @border-color !important;
     padding-bottom: 0.2em !important;
@@ -243,9 +283,9 @@ ul li {
     list-style-type: none !important;
     font-family: @base-font-family !important;
     color: @heading-colors[3] !important;
-    font-size: 1.0em !important;
+    font-size: @list-font-size !important;
     font-weight: normal !important;
-    line-height: 1.2em !important;
+    line-height: @list-line-height !important;
     page-break-inside: auto !important;
     margin-left: -24px !important;;
 }
@@ -260,21 +300,43 @@ img {
     page-break-inside: auto !important;
 }
 
-pre {
-    display: inline;
-    font-family: monospace;
-    /* Ensures monospaced font remains */
-    background: none;
-    /* Remove default background */
-    border: none;
-    /* Remove any border */
-    padding: 0;
-    /* Remove padding */
-    margin: 0;
-    /* Remove margin */
-    white-space: pre-wrap;
-    /* Allows wrapping if needed */
+pre,
+code,
+tt {
+  display: block;
+  font-family: "Courier New", monospace;
+  font-size: @code-font-size;
+  line-height: 1.6;
+  background-color: #f4f4f4;
+  padding: 0.5em 1em;
+  border-radius: 4px;
+  overflow-x: auto;
+  white-space: pre;
 }
+
+.md-fences {
+  background-color: #f4f4f4;
+  margin: 1em 0;
+  padding: 0.5em 1em;
+  border-radius: 4px;
+  overflow-x: auto;
+}
+
+// pre {
+//     display: inline;
+//     font-family: monospace;
+//     /* Ensures monospaced font remains */
+//     background: none;
+//     /* Remove default background */
+//     border: none;
+//     /* Remove any border */
+//     padding: 0;
+//     /* Remove padding */
+//     margin: 0;
+//     /* Remove margin */
+//     white-space: pre-wrap;
+//     /* Allows wrapping if needed */
+// }
 
 /* === Preventing Large White Space Issues === */
 body {

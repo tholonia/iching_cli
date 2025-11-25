@@ -6,7 +6,7 @@
 <span style="font-size:2em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;">16 ䷏</span><span style="font-size:1em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;vertical-align:text-bottom;"> 8 </span><span style="font-size:2em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;">&nbsp; Enthusiasm</span>
 </div>
 ## The powerful energy that arises when inspiration meets receptivity. Like thunder rising from the earth, this represents the natural surge of creative force when preparation meets opportunity.
-<img src="/home/jw/store/src/iching_cli/book/v2/prod/16.png">
+<img src="/home/jw/src/iching_cli/book/v2/prod/16.png">
 <span style="margin-bottom: 8px;"> &nbsp; </span>
 ### *"Enthusiasm" is beautifully captured in an image of thunder emerging from the earth, rendered in vivid stained glass. The dynamic interaction of colors and patterns embody the hexagram's core theme of enthusiasm, symbolizing the pulsating energy that incites movement and growth. This artistic medium reflects the intersection of inspiration (the thunder, or the surge of creative force) and the right conditions (the earth, or prepared circumstances), echoing the hexagram's principle of energetic potential manifested through readiness. Crafted by Tiffany, notorious for his proficiency in weaving emotion through light and color, the image compellingly depicts the potential of enthusiasm as it drives progress and unity.*
 <p/>
@@ -34,7 +34,7 @@
 **Negotiation**: The hexagram represents the negotiation between awakening energy (Thunder) and receptive foundation (Earth). This creates a dynamic balance between explosive potential and stable containment, like creative inspiration finding its proper form. **Limitation**: Structure is provided by the earth below, suggesting that enthusiasm must be grounded in reality. The thunder above indicates that energy must be channeled constructively rather than dispersed chaotically. **Contribution**: This pattern contributes to evolution by demonstrating how raw energy can be transformed into productive force. It shows how enthusiasm, when properly directed, can create meaningful change.
 
 #### ***Tholon 9 of 32: "Harmonious Tension"***
-#### The *dynamic* path is creates "Enthusiasm" (16 <sub>*8*</sub>) and "Small Taming" (9 <sub>*55*</sub>).  This pair-path embodies the dynamic interplay between the exuberant rise of energy and the gentle restraint that tempers it. Enthusiasm (Hexagram 16) represents the surge of inspiration and the momentum of collective action, while Small Taming (Hexagram 9) signifies the subtle control and patience required to guide this energy towards constructive outcomes. Together, they illustrate the balance between fervor and moderation, the dance of expansion and containment.
+#### This hexagram is within the *dynamic* path of "Harmonious Tension" formed by "Enthusiasm" (16䷏<sub>*8*</sub>) and "Small Taming" (9䷈<sub>*55*</sub>).  This pair-path embodies the dynamic interplay between the exuberant rise of energy and the gentle restraint that tempers it. Enthusiasm (Hexagram 16) represents the surge of inspiration and the momentum of collective action, while Small Taming (Hexagram 9) signifies the subtle control and patience required to guide this energy towards constructive outcomes. Together, they illustrate the balance between fervor and moderation, the dance of expansion and containment.
 
 
 
@@ -46,11 +46,11 @@
 
 #### In the sprawling town of Riverton, financier Charles Ashton sat at the helm of his empire, possessed by an idea that promised to revolutionize communication. The air was thick with potential as Charles envisioned a network connecting cities and nations through cables under the roaring ocean. This audacious dream consumed him, with each day bringing a surge of creative energy.
 
-As Charles assembled a team of brilliant minds, enthusiasm permeated their plans. Their vision crystallized in bold blueprints and spirited discussions. Yet, the enormity of their task soon sparked whispers of doubt—could they really turn this dream into reality? Charles clung to his belief, rallying his forces with the promise of an innovative future.
+As Charles assembled a team of brilliant minds, enthusiasm permeated their plans. Their vision crystallized in bold blueprints and spirited discussions. Yet, the enormity of their task soon sparked whispers of doubt, could they really turn this dream into reality? Charles clung to his belief, rallying his forces with the promise of an innovative future.
 
 Struggles emerged as obstacles threatened to derail their course. Financial backers wavered, doubting the project's feasibility. Charles, unfazed, doubled down on his vision, a beacon of determination against the rising tide of skepticism. His confidence reinvigorated the team, who saw doubt transform into resilience.
 
-The project approached a pivotal manifestation, with the first cables set to traverse the ocean floor. Just as success seemed assured, the unexpected happened—a technical failure threatened to unravel their work. Charles found himself at a crossroad, forced to seek a new path.
+The project approached a pivotal manifestation, with the first cables set to traverse the ocean floor. Just as success seemed assured, the unexpected happened, a technical failure threatened to unravel their work. Charles found himself at a crossroad, forced to seek a new path.
 
 In a moment of rare vulnerability, Charles embraced collaboration, inviting external experts to steer the project back on course. His willingness to adapt ensured the endeavor's progression, transforming setbacks into stepping stones. As the final connections were made, a network of unity emerged, and Riverton became the heart of an interconnected future.
 
@@ -80,7 +80,7 @@ The audience was enthralled, transported by the fusion of sound and silence, str
 #### ***Lines in Context:***
 <ul><li><B>1</B> (yin) <i>Emergence</i> - Elin's inspiration from the elements ignites her creative quest, setting her on a path of artistic exploration. <i>Moving line</i> - If yin changes to yang, Elin's tranquil inspiration might surge into overwhelming zeal, risking the loss of her centered creative focus.</li></ul>
 <ul><li><B>2</B> (yin) <i>Formation</i> - Elin channels her understanding of nature into the tangible forms of compositions and themes. <i>Moving line</i> - If yin changes to yang, Elin's ambition may drive her too rapidly, compromising the depth and quality of her symphonic vision.</li></ul>
-<ul><li><B>3</B> (yin) <i>Conflict</i> - Elin encounters internal and external challenges—the storm parallels her own struggle to balance chaos and control in her art. <i>Moving line</i> - If yin changes to yang, the initial disarray might lead Elin to discover new patterns, offering unexpected richness to her music.</li></ul>
+<ul><li><B>3</B> (yin) <i>Conflict</i> - Elin encounters internal and external challenges, the storm parallels her own struggle to balance chaos and control in her art. <i>Moving line</i> - If yin changes to yang, the initial disarray might lead Elin to discover new patterns, offering unexpected richness to her music.</li></ul>
 <ul><li><B>4</B> (yang) <i>Manifestation</i> - The symphony harmonizes both nature and humanity, blending the random and the structured into an evocative performance. <i>Moving line</i> - If yang changes to yin, Elin might doubt her creation, preventing the symphony from fully taking form and moving others.</li></ul>
 <ul><li><B>5</B> (yin) <i>Mastery</i> - Elin orchestrates the symphony with a deft touch, her growth reflected in the seamless integration of natural and composed sounds. <i>Moving line</i> - If yin changes to yang, Elin could lose herself in self-congratulation, drifting from the humility that allowed her mastery to blossom.</li></ul>
 <ul><li><B>6</B> (yin) <i>Transcendence</i> - Elin's symphony, born from the whispers of the elements, reaches beyond its composition to inspire a collective harmony and understanding. <i>Moving line</i> - If yin changes to yang, Elin might impose rigid control over her symphony, diminishing its fluidity and the organic influence of nature.</li></ul>
@@ -88,7 +88,7 @@ The audience was enthralled, transported by the fusion of sound and silence, str
 ##### The Alchemist's Awakening (Man vs. Self)
 ### *In the style of Paulo Coelho*
 
-#### In the heart of a bustling city, a young alchemist named Elara worked tirelessly in her dimly lit atelier, surrounded by glass beakers and arcane books. She possessed a unique gift—a vision of transforming common metals into precious gold, not with mere chemicals, but through the sheer force of her will and enthusiasm. Her dreams danced like shadows flickering on the walls, urging her to transcend the mundane limitations of her craft.
+#### In the heart of a bustling city, a young alchemist named Elara worked tirelessly in her dimly lit atelier, surrounded by glass beakers and arcane books. She possessed a unique gift, a vision of transforming common metals into precious gold, not with mere chemicals, but through the sheer force of her will and enthusiasm. Her dreams danced like shadows flickering on the walls, urging her to transcend the mundane limitations of her craft.
 
 Emergence began on a crisp autumn morning, as the first rays of sunlight pierced through the grime-streaked windows, igniting a spark within Elara's heart. With renewed vigor, she crafted intricate designs in her notebooks, the initial blueprint of her grand vision taking form. The air buzzed with potential, each line on paper a whisper of what could be.
 
@@ -118,7 +118,7 @@ Transcendence arrived quietly as she gazed upon her legacy, shimmering gold entw
 
 #### In the fervor of the Italian Renaissance, where art and science danced in a celestial waltz, Leonardo da Vinci stood as a titan of enthusiastic creativity. His Codex Atlanticus, initially a series of scattered notes, sketches, and dreams, was fueled by an insatiable desire to master the intricacies of nature. As Leonardo embarked on his journey, the city of Florence witnessed a deluge of intellect, where curiosity broke free from the shackles of medieval dogma.
 
-Emerging from a tangled labyrinth of ideas, Leonardo's insights coalesced into groundbreaking concepts — from flying machines to anatomical studies. His intimate understanding of the human body resulted not merely from scientific curiosity but from a deep intertwining of artistic endeavor and intellectual pursuit. Yet, trapped in a time that oscillated between enlightenment and ignorance, Leonardo's visions often battled societal constraints, oscillating between triumph and restraint.
+Emerging from a tangled labyrinth of ideas, Leonardo's insights coalesced into groundbreaking concepts ,  from flying machines to anatomical studies. His intimate understanding of the human body resulted not merely from scientific curiosity but from a deep intertwining of artistic endeavor and intellectual pursuit. Yet, trapped in a time that oscillated between enlightenment and ignorance, Leonardo's visions often battled societal constraints, oscillating between triumph and restraint.
 
 Despite the conflicts and missteps, Leonardo's Codex stands as a testament to his genius, a vibrant amalgamation of exploration and discovery that beckoned the future to heed his call. In its transcendence, the Codex did not merely survive; it thrived, immortalized as a beacon of humanity's boundless potential.
 
@@ -135,11 +135,6 @@ Despite the conflicts and missteps, Leonardo's Codex stands as a testament to hi
 
 ###### *Notes*
 ### **King Wen**: 16 ䷏ <sub>*8*</sub> Enthusiasm; 4 ☳ <sub>*1*</sub> The Arousing,  Thunder *over* 2 ☷ <sub>*0*</sub> The Receptive, Earth;
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 <br/>
 <br/>
 <br/>

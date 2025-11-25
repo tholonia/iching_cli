@@ -6,7 +6,7 @@
 <span style="font-size:2em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;">56 ䷷</span><span style="font-size:1em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;vertical-align:text-bottom;"> 44 </span><span style="font-size:2em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;">&nbsp; Transition</span>
 </div>
 ## The process of temporary yet necessary wandering or travel. Like a bird on migration or an explorer in foreign lands, this represents the value of movement through unfamiliar territory as a path to growth and understanding.
-<img src="/home/jw/store/src/iching_cli/book/v2/prod/56.png">
+<img src="/home/jw/src/iching_cli/book/v2/prod/56.png">
 <span style="margin-bottom: 8px;"> &nbsp; </span>
 ### *"Transition" is brilliantly portrayed through the selection of a migratory bird as the central symbol. The style of Impressionism was chosen to capture the fluid movement and temporary nature of such transitions, emphasizing the hexagram's themes of adaptability and impermanence. Photography was the chosen medium to encapsulate the balance between limitation and contribution inherent in the Tholonic principles, freezing the scene in time while bringing together various elements to create a cohesive whole. The atmospheric quality of Ansel Adams' renowned style adds depth to the narrative, reflecting the dynamic interplay of awareness and intention within the context of universal love as a creative force.*
 <p/>
@@ -34,7 +34,7 @@
 **Negotiation**: The hexagram represents the balance between movement and stability. The mountain below provides grounding while fire above brings clarity, showing how transition requires both mobility and centeredness. **Limitation**: The structure defines boundaries between productive and aimless wandering. It establishes how movement must maintain purpose, showing that transition requires direction. **Contribution**: This configuration contributes to systemic evolution by demonstrating how temporary displacement enables growth. It shows how movement through unfamiliar territory creates new understanding.
 
 #### ***Tholon 20 of 32: "Boundaries and Journeys"***
-#### The *stable* path is creates "Limitation" (60 <sub>*19*</sub>) and "The Wanderer" (56 <sub>*44*</sub>).  This pair-path explores the dynamic between setting boundaries and the freedom of exploration. 'Limitation' suggests the necessity of defining limits and structures to create order and focus. In contrast, 'The Wanderer' represents the journey beyond familiar confines, embracing the unknown and the transient nature of existence. Together, they highlight the balance between establishing secure foundations and the courage to venture into new territories.
+#### This hexagram is within the *stable* path of "Boundaries and Journeys" formed by "Limitation" (60䷻<sub>*19*</sub>) and "The Wanderer" (56䷷<sub>*44*</sub>).  This pair-path explores the dynamic between setting boundaries and the freedom of exploration. 'Limitation' suggests the necessity of defining limits and structures to create order and focus. In contrast, 'The Wanderer' represents the journey beyond familiar confines, embracing the unknown and the transient nature of existence. Together, they highlight the balance between establishing secure foundations and the courage to venture into new territories.
 
 
 
@@ -46,11 +46,11 @@
 
 #### In the bustling port town of Galle, Antonio, a seasoned artisan known for his masterful shipbuilding, found himself at a crossroads. His workshop, nestled by the shore where the waves whispered ancient tales, had become both a sanctuary and a cage. Clients came from distant lands, their demands suffocating the creative fire that once burned bright within him. Seeking renewal, Antonio set off on a journey, leaving behind the tools and blueprints that had defined him.
 
-Emerging into the world beyond the familiar docks, he carried with him only the essential instruments of his craft. The journey was a leap into the unknown—a formation of new experiences that would shape him anew. He ventured through bustling marketplaces, where vibrancy clashed with his internal monotony, and onto serene beaches, where the calm mirrored his inner struggle.
+Emerging into the world beyond the familiar docks, he carried with him only the essential instruments of his craft. The journey was a leap into the unknown, a formation of new experiences that would shape him anew. He ventured through bustling marketplaces, where vibrancy clashed with his internal monotony, and onto serene beaches, where the calm mirrored his inner struggle.
 
-Conflict arose within Antonio, a battle between the longing to innovate and the comfort of past successes. Each stroke of his woodworking knife in foreign lands brought unforeseen challenges and unexpected revelations. In the heart of a foreign forest, Antonio discovered a rare wood, unlike anything he had seen—a manifestation of possibility that ignited his creative spirit once more.
+Conflict arose within Antonio, a battle between the longing to innovate and the comfort of past successes. Each stroke of his woodworking knife in foreign lands brought unforeseen challenges and unexpected revelations. In the heart of a foreign forest, Antonio discovered a rare wood, unlike anything he had seen, a manifestation of possibility that ignited his creative spirit once more.
 
-With newfound mastery, Antonio transformed his craft, blending the traditional techniques of his homeland with the fresh perspectives gathered on his travels. His creations became sought after, not just for their craftsmanship but for the stories they told—vessels of cultural fusion that spoke of his journey.
+With newfound mastery, Antonio transformed his craft, blending the traditional techniques of his homeland with the fresh perspectives gathered on his travels. His creations became sought after, not just for their craftsmanship but for the stories they told, vessels of cultural fusion that spoke of his journey.
 
 Despite his accomplishments, the call of transcendence remained a whisper in the wind. Even amidst accolades, he recognized that the true journey lay in the ceaseless pursuit of the horizon. Antonio returned to Galle, not as the master shipbuilder he once was, but as a wanderer ready to forge new paths, acknowledging that realization lies in constant exploration.
 
@@ -69,7 +69,7 @@ Despite his accomplishments, the call of transcendence remained a whisper in the
 
 As the world thawed beneath the sun’s warm embrace, Gareth found himself crafting a narrow path through wild terrain. This Formation of his journey was both an art and a battle, coaxing the wilderness into a dance with his desires. The land responded with resistance, a Conflict of wills, where every misstep could yield discord or harmony.
 
-Gareth met the elements head-on, his will as enduring as the mountains themselves. Yet, in this realm of Manifestation, every breath became a decision, each choice weaving its way through the tapestry of his life. The mastery he gained was evident in his movements—a calculated flow through nature’s chaos, now seen as dance rather than struggle.
+Gareth met the elements head-on, his will as enduring as the mountains themselves. Yet, in this realm of Manifestation, every breath became a decision, each choice weaving its way through the tapestry of his life. The mastery he gained was evident in his movements, a calculated flow through nature’s chaos, now seen as dance rather than struggle.
 
 With each passing season, Gareth’s exploration transcended mere survival. His mastery transformed into a seamless union with the terrain, a testament not to an end, but to an endless journey where Transcendence beckoned from beyond the horizon, inviting perpetual dance with the whims of nature.
 
@@ -90,7 +90,7 @@ Eager to transcend the confines of his reality, Elio embarked on a voyage not ju
 
 Conflict loomed like clouds gathering before a storm, challenging his resolve but also charging the air with a sense of impending transformation. In his struggles, Elio found the catalyst for his creative metamorphosis, as if the elements themselves conspired to craft the perfect storm that would unveil his true mastery.
 
-Elio reached a pinnacle of self-realization, a mastery not of dominance but of union with the pulse of life itself. Yet, he stood on the brink of transcendence, teetering between the allure of newfound knowledge and the comprehension that true enlightenment lay not in conclusions but in the perpetual weaving of questions into the tapestry of existence. He realized that his journey, reflective of the dynamic hexagram, was endless—a dance of light within shadow, exploration within the frame of destiny.
+Elio reached a pinnacle of self-realization, a mastery not of dominance but of union with the pulse of life itself. Yet, he stood on the brink of transcendence, teetering between the allure of newfound knowledge and the comprehension that true enlightenment lay not in conclusions but in the perpetual weaving of questions into the tapestry of existence. He realized that his journey, reflective of the dynamic hexagram, was endless, a dance of light within shadow, exploration within the frame of destiny.
 
 #### ***Lines in Context:***
 <ul><li><B>1</B> (yin) <i>Emergence</i> - Elio awakens to a new dawn of possibility, inspired by the call for exploration and growth. <i>Moving line</i> - As yin evolves into yang, Elio faces the transformative push into action, with challenges of impulsivity bringing potent opportunities for profound advancements and unique self-discovery.</li></ul>
@@ -106,7 +106,7 @@ Elio reached a pinnacle of self-realization, a mastery not of dominance but of u
 
 ##### *The March to Freedom: Harriet Tubman's Courageous Leadership*
 
-#### Harriet Tubman's journeys on the Underground Railroad illuminate the essence of Line 56—Transition. Born into slavery, Tubman became a powerful figure of liberation, embodying the spirit of emergence as she began her escape to freedom. Her initial flight was not just a physical journey but the formation of her new identity as a beacon of hope. With each trip back to the South to guide others, Tubman faced conflict against the profound danger of capture, yet she persevered, using her deep understanding of the land as manifestation of her ingenious strategy. Her leadership, a mastery in navigating perilous paths, emerged naturally, transforming her into a living legend named 'Moses.' Tubman's transcendence lay not only in her rescue missions but in her vision for a world free of bondage, continually pushing the boundaries of what seemed possible. This tale of courage and resolve serves as a testimony to the power of transition, highlighting how movement through daunting territories, governed by unwavering purpose, has the power to transform lives.
+#### Harriet Tubman's journeys on the Underground Railroad illuminate the essence of Line 56, Transition. Born into slavery, Tubman became a powerful figure of liberation, embodying the spirit of emergence as she began her escape to freedom. Her initial flight was not just a physical journey but the formation of her new identity as a beacon of hope. With each trip back to the South to guide others, Tubman faced conflict against the profound danger of capture, yet she persevered, using her deep understanding of the land as manifestation of her ingenious strategy. Her leadership, a mastery in navigating perilous paths, emerged naturally, transforming her into a living legend named 'Moses.' Tubman's transcendence lay not only in her rescue missions but in her vision for a world free of bondage, continually pushing the boundaries of what seemed possible. This tale of courage and resolve serves as a testimony to the power of transition, highlighting how movement through daunting territories, governed by unwavering purpose, has the power to transform lives.
 
 <div style="font-size: 8pt;font-style:italic">Source: "Harriet Tubman: The Road to Freedom" by Catherine Clinton (Little, Brown Company, 2004)</div>
 
@@ -121,11 +121,6 @@ Elio reached a pinnacle of self-realization, a mastery not of dominance but of u
 
 ###### *Notes*
 ### **King Wen**: 56 ䷷ <sub>*44*</sub> ; 7 ☲ <sub>*5*</sub> The Clinging,  Fire *over* 3 ☶ <sub>*3*</sub> The Still, Mountain;
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 <br/>
 <br/>
 <br/>

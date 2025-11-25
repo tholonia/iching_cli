@@ -12,9 +12,19 @@
 @margin-top: 0.5in;
 @margin-bottom: 0.5in;
 
-@base-font-family: 'LinLibertine';
+@base-font-family: 'LinLibertine', 'NotoSerifCJK-Embedded', serif;
 @base-font-size: 11pt;
-@base-line-height: 1.4;
+@line-height-ratio: 1.2;
+@base-line-height: (@base-font-size * @line-height-ratio);
+
+/* Font size variables */
+@h1-font-size: 22pt;
+@h2-font-size: 12pt;
+@h3-font-size: 10pt;
+@h4-font-size: 9pt;
+@h5-font-size: 13pt;
+@h6-font-size: 19pt;
+@li-font-size: 11pt;
 
 @text-color: #1f0909;
 @heading-color-1: #666;
@@ -89,7 +99,7 @@
 
 /* === Global Styles === */
 html {
-    font-size: 0.6875em !important;
+    font-size: 7.56pt !important;
     .font-smoothing();
     margin: 0 !important;
     padding: 0 !important;
@@ -181,74 +191,83 @@ body {
     max-width: (@page-width - @margin-gutter - @margin-outer) !important;
 }
 
-h1 {
-    font-size: 2em !important;
+h1, #write h1 {
+    font-size: @h1-font-size !important;
+    line-height: (@h1-font-size * @line-height-ratio) !important;
     color: @heading-color-1 !important;
     text-align: center !important;
     font-weight: normal !important;
     border-bottom: 1px solid @border-color !important;
-    padding-bottom: 0.2em !important;
+    padding-bottom: 2.2pt !important;
     font-family: @base-font-family !important;
 }
 
-h2 {
+h2, #write h2 {
     color: @heading-color-2 !important;
-    font-size: 1.8em !important;
+    font-size: @h2-font-size !important;
+    line-height: (@h2-font-size * @line-height-ratio) !important;
     text-align: center !important;
     font-weight: normal !important;
     font-family: @base-font-family !important;
-    line-height: 1.2em !important;
     max-width: 88% !important;
     margin: 0 auto !important;
     padding-top: 0px !important;
-    padding-bottom: 35px !important;
+//    padding-bottom: 35px !important;
+    padding-bottom: 0px !important;
 }
 
-h3 {
+h3, #write h3 {
     color: @heading-color-3 !important;
-    font-size: 10pt !important;
+    font-size: @h3-font-size !important;
+    line-height: (@h3-font-size * @line-height-ratio) !important;
     text-align: center !important;
     font-weight: normal !important;
-    line-height: 1em !important;
     font-family: @base-font-family !important;
 }
 
 h4, #write h4 {
     color: @heading-color-4 !important;
-    font-size: 1.0em !important;
+    font-size: @h4-font-size !important;
+    line-height: (@h4-font-size * @line-height-ratio) !important;
     font-weight: normal !important;
-    line-height: 1.2em !important;
     font-family: @base-font-family !important;
 }
 
 h5, #write h5 {
     color: @heading-color-5 !important;
-    font-size: 1.2em !important;
+    font-size: @h5-font-size !important;
+    line-height: (@h5-font-size * @line-height-ratio) !important;
     text-align: center !important;
     font-weight: normal !important;
     font-family: @base-font-family !important;
 }
 
-h6 {
-    font-size: 1.7em !important;
+h6, #write h6 {
+    font-size: @h6-font-size !important;
+    line-height: (@h6-font-size * @line-height-ratio) !important;
     color: @heading-color-6 !important;
     text-align: center !important;
     font-weight: normal !important;
     border-bottom: 1px solid @border-color !important;
-    padding-bottom: 0.2em !important;
+    padding-bottom: 2.2pt !important;
     font-family: @base-font-family !important;
 }
 
 /* === List Formatting === */
+ol, ul {
+    margin-left: 0 !important;
+    padding-left: 1.5em !important;  /* Reasonable indent for nested lists */
+}
+
 ol li,
 ul li {
     list-style-position: inside !important;
     list-style-type: none !important;
     font-family: @base-font-family !important;
     color: @heading-color-3 !important;
-    font-size: 1.0em !important;
+    font-size: @li-font-size !important;
+    line-height: (@li-font-size * @line-height-ratio) !important;
     font-weight: normal !important;
-    line-height: 1.2em !important;
 }
 
 /* === Image Handling === */

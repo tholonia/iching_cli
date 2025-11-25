@@ -1,5 +1,5 @@
 #!/bin/env python3
-from funcs_lib import wen_values
+from libs.funcs_lib import wen_values
 
 
 # Create dictionary mapping first value to second value from wen_values

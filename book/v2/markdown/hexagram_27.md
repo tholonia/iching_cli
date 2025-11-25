@@ -6,7 +6,7 @@
 <span style="font-size:2em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;">27 ䷚</span><span style="font-size:1em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;vertical-align:text-bottom;"> 33 </span><span style="font-size:2em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;">&nbsp; Regenerative Nourishment</span>
 </div>
 ## The cultivation and provision of sustainable nourishment, both physical and spiritual. Like a mountain's nourishing springs feeding the earth below, this hexagram represents the careful stewardship of resources to sustain and regenerate systems.
-<img src="/home/jw/store/src/iching_cli/book/v2/prod/27.png">
+<img src="/home/jw/src/iching_cli/book/v2/prod/27.png">
 <span style="margin-bottom: 8px;"> &nbsp; </span>
 ### *"Regenerative Nourishment" is impressively represented through the choice of a lush garden, indicating a system thriving due to careful resource management, and aligning with the hexagram's core message of sustainable cultivation. The elements of light and color, depicted through impressionistic style, illustrate the dynamic, ever-changing interactions within sustainable systems. The mosaic medium embodies the concept of interconnected tholons, each contributing to a harmonious, cohesive whole. The inspiration from Georgia O’Keeffe's style emphasizes the vibrancy that emerges from well-maintained, balanced systems. Altogether, the image beautifully mirrors key tholonic principles: awareness, balance, limitation, and contribution, in shaping reality.*
 <p/>
@@ -34,7 +34,7 @@
 **Negotiation**: The hexagram represents negotiation between stillness (Mountain) and movement (Thunder). This interaction produces sustainable systems of nourishment. The lines show progressive stages of understanding how to cultivate and distribute resources effectively. **Limitation**: Mountain above Thunder shows how containing and directing energy creates sustainable nourishment. Like a mountain watershed system, limitations create the channels through which resources can flow effectively. These boundaries ensure sustainable distribution. **Contribution**: This configuration contributes understanding of how systems can be sustainably nourished through conscious cultivation and distribution of resources. It demonstrates how awareness can create regenerative cycles that benefit the whole system.
 
 #### ***Tholon 31 of 32: "Balance Shift"***
-#### The *dynamic* path is creates "Great Exceeding" (28 <sub>*30*</sub>) and "Nourishment" (27 <sub>*33*</sub>).  This pair-path reflects the dynamic tension between surpassing limits and sustaining oneself. 'Great Exceeding' represents the phase of moving beyond boundaries, while 'Nourishment' signifies the return to foundational sustenance. Together, they illustrate the cycle of expansion and contraction, highlighting the need to balance growth with stability.
+#### This hexagram is within the *dynamic* path of "Balance Shift" formed by "Great Exceeding" (28䷛<sub>*30*</sub>) and "Nourishment" (27䷚<sub>*33*</sub>).  This pair-path reflects the dynamic tension between surpassing limits and sustaining oneself. 'Great Exceeding' represents the phase of moving beyond boundaries, while 'Nourishment' signifies the return to foundational sustenance. Together, they illustrate the cycle of expansion and contraction, highlighting the need to balance growth with stability.
 
 
 
@@ -50,7 +50,7 @@ One day, a curious old manuscript landed on Hana's doorstep, filled with cryptic
 
 With the manuscript as her guide, Hana embarked on a journey to rejuvenate a neglected urban park, a space forgotten amid the city's relentless pace. She enlisted the help of her community, inviting them to participate in the transformation. Together, they labored from sunrise to sunset, overcoming each obstacle with determination and creativity.
 
-Hana and her team faced numerous challenges—uncooperative weather, resistant soil, and skeptical onlookers. Yet, with every setback, they discovered new solutions, their collective spirit blossoming alongside the flourishing plants.
+Hana and her team faced numerous challenges, uncooperative weather, resistant soil, and skeptical onlookers. Yet, with every setback, they discovered new solutions, their collective spirit blossoming alongside the flourishing plants.
 
 As the park transformed, it became a refuge for the weary souls of the city, a place where nature's gentle presence soothed the chaos of urban life. For Hana, this garden was not just an act of restoration but a testament to the resilience of the human spirit, a living tapestry woven from hope and collaboration.
 
@@ -69,11 +69,11 @@ In bearing witness to the garden's evolution, Hana understood a profound truth: 
 
 #### On the edge of a lush forest surrounded by formidable cliffs and resonant streams, there lived a solitary artist named Theo. His life was a delicate dance with the natural world, each day marked by the turn of seasons and the movement of sunlight across the land. Theo found the purest joy in painting the vivacious landscapes, forever seeking to capture the unifying harmony of earth, sky, and water on his canvases. 
 
-One evening, amid the chirping of crickets and the gentle rustle of leaves, a sudden realization dawned on Theo as he watched a family of deer delicately picking their way through the underbrush. The richness of life in the forest was not a state but a process—a dynamic cycle of growth, death, and rebirth. This epiphany kindled a fervent urge in Theo to convey the essence of this regenerative cycle in his art. 
+One evening, amid the chirping of crickets and the gentle rustle of leaves, a sudden realization dawned on Theo as he watched a family of deer delicately picking their way through the underbrush. The richness of life in the forest was not a state but a process, a dynamic cycle of growth, death, and rebirth. This epiphany kindled a fervent urge in Theo to convey the essence of this regenerative cycle in his art. 
 
 Driven by renewed purpose, Theo began to innovate his painting techniques, blending natural pigments to mirror the vibrant hues of the world beyond his door. But his work was not without challenge. The elements challenged his commitment, each storm and gust whispering of nature’s ever-changing dance.
 
-As Theo persevered, his paintings evolved. They became more than art—they were extensions of nature itself, breathing with life collected from the earth's whispers. The people of the nearby village, drawn by the magical realism of Theo’s art, began to see in his work a reflection of their own connection with the land. 
+As Theo persevered, his paintings evolved. They became more than art, they were extensions of nature itself, breathing with life collected from the earth's whispers. The people of the nearby village, drawn by the magical realism of Theo’s art, began to see in his work a reflection of their own connection with the land. 
 
 Though the journey was rife with obstacles, Theo discovered a profound truth: the harmony between man and nature was an endless composition, forever unfinished, yet eternally beautiful. And with every brushstroke, he wove his own chapter into the ageless story of regeneration and renewal.
 
@@ -90,7 +90,7 @@ Though the journey was rife with obstacles, Theo discovered a profound truth: th
 
 #### In a secluded cottage nestled between the rolling hills and a shimmering lake, lived a woman named Helen. Surrounded by the tender embrace of nature, she often found herself lost in the gentle symphony of the winds and the whispers of the leaves. 
 
-Helen was an artist, forever in search of the art that lay beyond mere paint and canvas. Her mornings were filled with the soft patter of dew on grass and the melodic dance of sunlight streaming through the canopy. Her garden, a tapestry of vibrant blooms and verdant promises, was the manifestation of her innermost self—a sanctuary where she sought to cultivate beauty and introspection.
+Helen was an artist, forever in search of the art that lay beyond mere paint and canvas. Her mornings were filled with the soft patter of dew on grass and the melodic dance of sunlight streaming through the canopy. Her garden, a tapestry of vibrant blooms and verdant promises, was the manifestation of her innermost self, a sanctuary where she sought to cultivate beauty and introspection.
 
 One day, while tending to her beloved garden, Helen realized that her pursuits mirrored the cycles of nature: the rhythmic ebb and flow of creation, decay, and rebirth. The garden was not a static entity but a living reflection of her trials and triumphs, echoing her soul's journey.
 
@@ -98,7 +98,7 @@ As Helen meticulously pruned, planted, and nurtured, doubts crept into her heart
 
 Through the cloak of uncertainty, inspiration surged. In surrendering to the garden's innate rhythm, Helen discovered a profound truth: the beauty of life lay not in solitary mastery but in the shared dance of harmony and growth. Art became a reflection of this unity, every blossom an extension of her heart's yearnings.
 
-As the seasons painted the land in hues of gold and fire, Helen unveiled her transformed garden to those who wandered through the hills. Emerging into the heart of her creation, they saw more than a garden—they beheld a tapestry that united nature and nurture, reflecting the perennial dance of life and awareness.
+As the seasons painted the land in hues of gold and fire, Helen unveiled her transformed garden to those who wandered through the hills. Emerging into the heart of her creation, they saw more than a garden, they beheld a tapestry that united nature and nurture, reflecting the perennial dance of life and awareness.
 
 In that moment of shared recognition, Helen realized she had succeeded in her quest to craft a masterpiece not in isolation but through a celebration of the interconnected tapestry of existence.
 
@@ -131,11 +131,6 @@ In that moment of shared recognition, Helen realized she had succeeded in her qu
 
 ###### *Notes*
 ### **King Wen**: 27 ䷚ <sub>*33*</sub> Nourishment, Corners of the Mouth; 3 ☶ <sub>*3*</sub> The Still,  Mountain *over* 4 ☳ <sub>*1*</sub> The Arousing, Thunder;
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 <br/>
 <br/>
 <br/>

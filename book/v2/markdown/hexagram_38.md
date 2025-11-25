@@ -6,7 +6,7 @@
 <span style="font-size:2em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;">38 ䷥</span><span style="font-size:1em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;vertical-align:text-bottom;"> 43 </span><span style="font-size:2em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;">&nbsp; Diverging Perspectives</span>
 </div>
 ## Represents opposition, contrast, and the creative tension that arises from differing viewpoints or approaches. Like light separating into a spectrum through a prism, divergence reveals hidden dimensions and possibilities.
-<img src="/home/jw/store/src/iching_cli/book/v2/prod/38.png">
+<img src="/home/jw/src/iching_cli/book/v2/prod/38.png">
 <span style="margin-bottom: 8px;"> &nbsp; </span>
 ### *"Diverging Perspectives" is strikingly embodied in this artwork through the use of a prism refracting light into a spectrum of colors. This image echoes the hexagram's core concept of opposition, separating but also revealing hidden dimensions and possibilities, similar to light transforming into a spectrum via a prism. Surreal artistic elements, inspired by the work of Salvador Dalí, align with the Tholonic model's emphasis on creativity and the manifestation of awareness in complex realities. The chosen fresco medium mirrors the timeless, enduring nature of these principles. Thus, the image's symbolism and style offer a layered perception of this hexagram's profound meaning.*
 <p/>
@@ -34,7 +34,7 @@
 **Negotiation**: Opposition creates dynamic equilibrium through the interaction of contrasting forces. Like wave interference patterns, opposing perspectives create new forms of understanding. The hexagram demonstrates how divergence leads to deeper integration. **Limitation**: Differences define boundaries and contexts, creating structure through contrast. Opposition establishes clear distinctions while revealing interconnections. These boundaries enable clearer perception of underlying unity. **Contribution**: Returns complexity to simplicity through the recognition of complementary opposites. Like a spectrum returning to white light, apparent opposition contributes to wholeness. Demonstrates how diversity enriches unity.
 
 #### ***Tholon 21 of 32: "Opposition Flow"***
-#### The *dynamic* path is creates "Obstruction" (39 <sub>*20*</sub>) and "Opposition" (38 <sub>*43*</sub>).  This pair-path explores the dynamic interplay between encountering obstacles and the inherent tension of opposing forces. It illustrates a journey where challenges are met with perseverance, and harmony is sought amidst discord. The ascending path through Obstruction (39) involves overcoming hindrances, while the descending path through Opposition (38) deals with navigating conflicts and misunderstandings.
+#### This hexagram is within the *dynamic* path of "Opposition Flow" formed by "Obstruction" (39䷦<sub>*20*</sub>) and "Opposition" (38䷥<sub>*43*</sub>).  This pair-path explores the dynamic interplay between encountering obstacles and the inherent tension of opposing forces. It illustrates a journey where challenges are met with perseverance, and harmony is sought amidst discord. The ascending path through Obstruction (39) involves overcoming hindrances, while the descending path through Opposition (38) deals with navigating conflicts and misunderstandings.
 
 
 
@@ -61,7 +61,7 @@
 
 The tale of Zephyr was woven into the whispers of the forest; its presence heralded the coming storms. Yet among the chaos, a young girl named Maeve lived, her spirit as wild and unyielding as the land itself. Maeve had been born in the eye of the storm, and it was said that she held the power to dance with the winds.
 
-On the eve of the great storm, the skies grew dark, and the winds bellowed with a fury unmatched. Seeking harmony amidst the chaos, Maeve climbed to the tallest cliff, her heart a drumbeat of courage. As Zephyr howled through the trees, she began to dance—footsteps tracing the path of the tempest.
+On the eve of the great storm, the skies grew dark, and the winds bellowed with a fury unmatched. Seeking harmony amidst the chaos, Maeve climbed to the tallest cliff, her heart a drumbeat of courage. As Zephyr howled through the trees, she began to dance, footsteps tracing the path of the tempest.
 
 Her dance was a symphony of motion, each step a conversation with the storm. The winds surged and pulled, a dynamic interplay of resistance and grace. Maeve became one with the wild force, her movements taming its fury into an awe-inspiring waltz.
 
@@ -84,7 +84,7 @@ Eventually, the storm began to dissipate, subdued by the delicate dance that rev
 
 In the quietude of twilight, Evelyn embarked on a journey through the labyrinth of her own consciousness. She navigated the winding hallways of her soul, searching for the source of her unrest, seeking the place where discord blossomed into harmony.
 
-As she walked, spectral visions crowded her thoughts—memories of childhood reveries and bold declarations shouted into the wind, their echoes now mere whispers. It was here that her struggle to balance the cacophony of life unfurled, a delicate dance of opposing forces.
+As she walked, spectral visions crowded her thoughts, memories of childhood reveries and bold declarations shouted into the wind, their echoes now mere whispers. It was here that her struggle to balance the cacophony of life unfurled, a delicate dance of opposing forces.
 
 The serenity of introspection gave birth to a symphony of understanding, weaving together the fragmented strands of her being into a single, harmonious entity. Evelyn’s heart swelled with the promise of unity, the torrent of emotions distilled into a singular, crystalline truth.
 
@@ -119,11 +119,6 @@ With the dawn came resolution, and Evelyn emerged anew, embracing the dance of d
 
 ###### *Notes*
 ### **King Wen**: 38 ䷥ <sub>*43*</sub> ; 7 ☲ <sub>*5*</sub> Bright and Radiant,  Fire *over* 8 ☱ <sub>*4*</sub> The Joyous, Lake/Marsh;
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 <br/>
 <br/>
 <br/>

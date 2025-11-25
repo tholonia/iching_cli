@@ -6,7 +6,7 @@
 <span style="font-size:2em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;">24 ䷗</span><span style="font-size:1em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;vertical-align:text-bottom;"> 1 </span><span style="font-size:2em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;">&nbsp; Return</span>
 </div>
 ## The point where energy begins its renewal cycle. Like dawn breaking after night, this represents the natural emergence of new potential.
-<img src="/home/jw/store/src/iching_cli/book/v2/prod/24.png">
+<img src="/home/jw/src/iching_cli/book/v2/prod/24.png">
 <span style="margin-bottom: 8px;"> &nbsp; </span>
 ### *"Return" is artistically brought to life in this image through the powerful portrayal of a phoenix rising from intertwined roots. The phoenix's upward flight symbolizes the renewing energy of the hexagram, embodying new beginnings and potential, while the intricate roots represent a stable base that allows for transformation and growth. The interplay of both elements highlights the balance between chaos and structure. The recurring triadic relationship within the composition signifies the integral principles of negotiation, limitation, and contribution that permeate Hexagram 24. Thus, this depiction underscores the inevitable cycle of rebirth that comes from embracing the ebb and flow of existence.*
 <p/>
@@ -34,7 +34,7 @@
 **Negotiation**: The hexagram represents the negotiation between stable ground (Earth) and new movement (Thunder). This creates safe space for emergence. **Limitation**: Structure is provided by earth above, indicating protection for new growth. Thunder below suggests energy naturally seeking expression. **Contribution**: This pattern contributes to evolution by enabling renewal. It shows how cycles maintain vitality through regular return to source.
 
 #### ***Tholon 2 of 32: "Cycle of Influence"***
-#### The *dynamic* path is creates "Return" (24 <sub>*1*</sub>) and "Coming to Meet" (44 <sub>*62*</sub>).  This pair-path represents the cyclical nature of influence and interaction. 'Return' signifies the renewal and resurgence of energy, a time of coming back to one's roots and inner truth. Conversely, 'Coming to Meet' embodies the external influence and unexpected encounters that challenge and inspire growth. Together, they form a dynamic cycle where internal reflection and external engagement continuously shape and transform each other.
+#### This hexagram is within the *dynamic* path of "Cycle of Influence" formed by "Return" (24䷗<sub>*1*</sub>) and "Coming to Meet" (44䷫<sub>*62*</sub>).  This pair-path represents the cyclical nature of influence and interaction. 'Return' signifies the renewal and resurgence of energy, a time of coming back to one's roots and inner truth. Conversely, 'Coming to Meet' embodies the external influence and unexpected encounters that challenge and inspire growth. Together, they form a dynamic cycle where internal reflection and external engagement continuously shape and transform each other.
 
 
 
@@ -46,15 +46,15 @@
 
 #### In a quaint town nestled between hills that whispered secrets to the winds, a young potter named Emilio yearned to transform the ordinary clay of the earth into unparalleled marvels. Every sunrise, he strolled to the edge of town with his wheel and unshaped clay, coaxing silent stories from his craft.
 
-The inception of his vision was delicate. The clay whispered softly, guiding his hands in a dance of emergence. Yet, Emilio’s heart was burdened with doubt—was this creation worthy? Line by line, form took shape, yet the illusions crumbled before the dawn light.
+The inception of his vision was delicate. The clay whispered softly, guiding his hands in a dance of emergence. Yet, Emilio’s heart was burdened with doubt, was this creation worthy? Line by line, form took shape, yet the illusions crumbled before the dawn light.
 
-His pursuit of perfection fostered a conflict within. Townsfolk grew curious, their critiques a mixture of idle gossip and admiration. Emilio wrestled with this discourse, savoring its paradox—a symphony that fueled his creative chaos.
+His pursuit of perfection fostered a conflict within. Townsfolk grew curious, their critiques a mixture of idle gossip and admiration. Emilio wrestled with this discourse, savoring its paradox, a symphony that fueled his creative chaos.
 
 Intuition sparked, transforming hesitation into bold strides. Emilio’s hands found rhythm, a swift, synchronizing force that sculpted tales into tangible beauty, an essence that resonated with childhood whispers and moonlit dreams.
 
 As the clay birthed a form reminiscent of mythical gods, Emilio felt the limitations of mastery loosen. The clay sang beneath his fingers, a hymn of surrender to its primordial self, weaving past mistakes into strokes of genius. And finally, when he placed his work at the heart of the town during the harvest festival, the sculpture became not just a testament to Emilio’s artistry but also to a power transcending the known constraints of clay and earth.
 
-The townsfolk gathered, enchanted by this clay phoenix—an emblem of their whispers, their dreams, and their possibilities. Emilio knew then that transcendence lay not in his hands alone but in an unseen force nurturing the clay’s rebirth, and his heart beat in time with the pulse of the living world.
+The townsfolk gathered, enchanted by this clay phoenix, an emblem of their whispers, their dreams, and their possibilities. Emilio knew then that transcendence lay not in his hands alone but in an unseen force nurturing the clay’s rebirth, and his heart beat in time with the pulse of the living world.
 
 #### ***Lines in Context:***
 <ul><li><B>1</B> (yang) <i>Emergence</i> - From raw clay, Emilio envisions and begins the intricate work of molding ideas into tangible reality, filled with potential. <i>Moving line</i> - If yang changes to yin, the flow of creative energy may be dampened by uncertainty and doubt, delaying the realization of form.</li></ul>
@@ -71,9 +71,9 @@ The townsfolk gathered, enchanted by this clay phoenix—an emblem of their whis
 
 Its journey began with the tender push of the seedling through the darkness, a measured emergence into the realm of light. With every inch, it claimed its shape against the winds of self-doubt. Here, the earth itself shaped its will, guiding roots in a labyrinthine dance through uncertain paths.
 
-The seedling’s ascent was halted by an unforeseen barrier—a stubborn stone, vast and immovable, daring the sprout to find another route. Conflict sharpened its resolve, coaxing the tender green into a steely tendril that sought the path less traveled.
+The seedling’s ascent was halted by an unforeseen barrier, a stubborn stone, vast and immovable, daring the sprout to find another route. Conflict sharpened its resolve, coaxing the tender green into a steely tendril that sought the path less traveled.
 
-With patience, the seedling grew, its first leaves unfurling like ancient scrolls under the watchful gaze of the sun. In the pondering light, it found a voice—a harmony with the wind's soft argument, a mastery of its own purpose.
+With patience, the seedling grew, its first leaves unfurling like ancient scrolls under the watchful gaze of the sun. In the pondering light, it found a voice, a harmony with the wind's soft argument, a mastery of its own purpose.
 
 Finally, as it blossomed into a sapling, transcending the limits of its form, it joined the towering chorus of the forest, whispering ancient truths to the sky. Its story was one of transformation, a testament to the cycles that nurture new beginnings, inviting each to rise from the fertile darkness into the pulsating light of existence.
 
@@ -88,13 +88,13 @@ Finally, as it blossomed into a sapling, transcending the limits of its form, it
 ##### The Sculptor's Awakening (Man vs. Self)
 ### *In the style of Gabriel García Márquez*
 
-#### In a vibrant town forgotten by time, a solitary sculptor named Elio toiled endlessly in search of his magnum opus. The whispers of his mastery danced like echoes among the sunlit bricks and whimsical markets. Yet, Elio's heart was tethered to an unfulfilled vision—a sculpture that lived only within his dreams.
+#### In a vibrant town forgotten by time, a solitary sculptor named Elio toiled endlessly in search of his magnum opus. The whispers of his mastery danced like echoes among the sunlit bricks and whimsical markets. Yet, Elio's heart was tethered to an unfulfilled vision, a sculpture that lived only within his dreams.
 
 The dawn marked Elio's daily ritual: clay-streaked hands cradling unyielding stone, chiseling away fragments to reveal an unknown longing. This emergence brimmed with promise, but lurking shadows of doubt dimmed his aspirations. When the sun painted the sky with swirls of gold, the stone received Elio's hesitant touch, a formation of harmony yet to be defined.
 
-Amidst the cacophony of life, Elio faced a conflict of cacophonous voices clashing with his interior certainty. Spirals of clay rose and fell, wavering between intention and execution. In a moment when anticipation eclipsed fear, conflict transmuted into impulsive creation—symbols previously hidden came alive under touch renewed by urgency.
+Amidst the cacophony of life, Elio faced a conflict of cacophonous voices clashing with his interior certainty. Spirals of clay rose and fell, wavering between intention and execution. In a moment when anticipation eclipsed fear, conflict transmuted into impulsive creation, symbols previously hidden came alive under touch renewed by urgency.
 
-As moonlight played on his creation, Elio saw manifestation emerge—a form conjuring primordial memories of life and echoes of universes unseen. His muscles ached not from toil, but from the intensity of realization brushing the proximity of mastery.
+As moonlight played on his creation, Elio saw manifestation emerge, a form conjuring primordial memories of life and echoes of universes unseen. His muscles ached not from toil, but from the intensity of realization brushing the proximity of mastery.
 
 Yet, mastery demanded surrender to forces unseen, a dance between sculptor and stone. Elio abandoned control for partnership and found beauty flourish in imperfections. Finally, the bustling streets received a sculpture that was alive, transcending form to become a whisper of infinity.
 
@@ -129,11 +129,6 @@ In the stillness where day and night converged, Elio understood transcendence, t
 
 ###### *Notes*
 ### **King Wen**: 24 ䷗ <sub>*1*</sub> Return; 2 ☷ <sub>*0*</sub> The Receptive,  Earth *over* 4 ☳ <sub>*1*</sub> The Arousing, Thunder;
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 <br/>
 <br/>
 <br/>

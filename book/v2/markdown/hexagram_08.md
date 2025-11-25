@@ -6,7 +6,7 @@
 <span style="font-size:2em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;">8 ䷇</span><span style="font-size:1em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;vertical-align:text-bottom;"> 16 </span><span style="font-size:2em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;">&nbsp; Unity</span>
 </div>
 ## The state of natural belonging and mutual support. Like water finding its level, this represents the power of aligned connection and shared purpose.
-<img src="/home/jw/store/src/iching_cli/book/v2/prod/08.png">
+<img src="/home/jw/src/iching_cli/book/v2/prod/08.png">
 <span style="margin-bottom: 8px;"> &nbsp; </span>
 ### *"Unity" is elegantly represented in the selected image, illustrating the harmonious meeting of distinct entities into a greater whole. The image, chosen for its symbolism of merging waters, reflects the concept of integration inherent to the hexagram, where unique parts contribute to form larger patterns. The flowing river and joining tributaries embody the dynamic, unifying nature of this hexagram, highlighting the importance of interconnectedness. The watercolor medium, with its fluid blending of colors, captures the essence of 'Unity', demonstrating the natural flow and balance that emerge when elements align and bond. Lastly, Claude Monet’s impressionist style adds a lyrical quality that underscores the beauty and strength found in unity.*
 <p/>
@@ -34,7 +34,7 @@
 **Negotiation**: The hexagram represents the negotiation between flowing energy (Water) and receptive foundation (Earth). This creates bonds through natural affinity rather than force. **Limitation**: Structure is provided by water above, indicating that unity must flow naturally. The earth below suggests that connections must be grounded in reality. **Contribution**: This pattern contributes to evolution by showing how aligned elements naturally unite. It demonstrates how genuine connection creates sustainable strength.
 
 #### ***Tholon 17 of 32: "Unity-Division"***
-#### The *dynamic* path is creates "Holding Together" (8 <sub>*16*</sub>) and "Possession in Great Measure" (14 <sub>*47*</sub>).  This pair-path embodies the dynamic balance between the forces of unity and division. Holding Together (8) represents the ascent towards cohesion, community, and collective strength, emphasizing the power of unity. In contrast, Possession in Great Measure (14) signifies the descent into individual accumulation, wealth, and the assertion of personal power. Together, they reflect the cyclical interplay between collective unity and individual possession, illustrating the ebb and flow of communal and personal forces.
+#### This hexagram is within the *dynamic* path of "Unity-Division" formed by "Holding Together" (8䷇<sub>*16*</sub>) and "Possession in Great Measure" (14䷍<sub>*47*</sub>).  This pair-path embodies the dynamic balance between the forces of unity and division. Holding Together (8) represents the ascent towards cohesion, community, and collective strength, emphasizing the power of unity. In contrast, Possession in Great Measure (14) signifies the descent into individual accumulation, wealth, and the assertion of personal power. Together, they reflect the cyclical interplay between collective unity and individual possession, illustrating the ebb and flow of communal and personal forces.
 
 
 
@@ -44,11 +44,11 @@
 ##### Rivers of Commerce (Man vs. Man)
 ### *In the style of Arthur Miller*
 
-#### In the pulsating heart of a bustling metropolis, a group of entrepreneurs met regularly to exchange ideas and support one another. Among them was David, a visionary with a talent for transforming potential into reality. His latest project—a revolutionary sustainable housing initiative—promised not only to reshape urban landscapes but also foster community among its residents. However, David faced opposition from influential developers fearing disruption to their profits.
+#### In the pulsating heart of a bustling metropolis, a group of entrepreneurs met regularly to exchange ideas and support one another. Among them was David, a visionary with a talent for transforming potential into reality. His latest project, a revolutionary sustainable housing initiative, promised not only to reshape urban landscapes but also foster community among its residents. However, David faced opposition from influential developers fearing disruption to their profits.
 
 Undeterred, David forged alliances with like-minded individuals, slowly building a coalition that shared his dream. As support for the project grew, so did resistance from established interests. The developers launched campaigns of misinformation, painting his efforts as unrealistic and economically hazardous.
 
-In the eye of this storm, David remained steadfast, honing his strategy, adapting and refining his message. The conflict reached a crescendo as the city council prepared to vote on the project's approval. But at the eleventh hour, a new resource emerged—a state grant earmarked for sustainable initiatives. This unexpected windfall fortified the coalition’s resolve and highlighted the broader economic and social benefits of David's vision.
+In the eye of this storm, David remained steadfast, honing his strategy, adapting and refining his message. The conflict reached a crescendo as the city council prepared to vote on the project's approval. But at the eleventh hour, a new resource emerged, a state grant earmarked for sustainable initiatives. This unexpected windfall fortified the coalition’s resolve and highlighted the broader economic and social benefits of David's vision.
 
 As the council cast their votes, the significance of his work transcended personal ambition, becoming a beacon of innovation and unity for the community. The vote passed, and the city took its first steps toward a greener future, one connected by the undercurrents of shared purpose and mutual respect.
 
@@ -75,7 +75,7 @@ As he returned to the village with newfound insights, he set about digging irrig
 
 Led by Javier's newfound knowledge and the cooperative spirit of the villagers, the cycles of feast and famine began to even out. The village found its rhythm, a harmony transcending the predictable rise and fall of the seasons.
 
-In the end, the village thrived as a testament to the raw power of unity, where each individual's potential connected to a greater whole—not through force, but through understanding and respect for the process of creation.
+In the end, the village thrived as a testament to the raw power of unity, where each individual's potential connected to a greater whole, not through force, but through understanding and respect for the process of creation.
 
 #### ***Lines in Context:***
 <ul><li><B>1</B> (yin) <i>Emergence of Vision</i> - Javier's awakening to his potential marked the birth of his aspiration to harmonize with nature for the village’s benefit. <i>Moving line</i> - If Yin changes to Yang, Javier risks rushing into untested endeavors. Yet, this zealous determination may ignite inspiration, propelling substantial progress and innovation.</li></ul>
@@ -88,11 +88,11 @@ In the end, the village thrived as a testament to the raw power of unity, where 
 ##### The Quiet Unraveling (Man vs. Self)
 ### *In the style of Virginia Woolf*
 
-#### In the heart of a secluded countryside, Evelyn, a renowned painter, found herself embroiled in an unspoken war against her own creative forces. Her studio, strewn with incomplete canvases, bore witness to the quiet turmoil of her soul. From the onset, there was a silent promise of becoming, a stir within that hinted at new beginnings. Yet, with each brushstroke, the emergence of form was tinged with the weight of potential unrealized. Evelyn delved deeper into her art, the shadows of doubt casting longer as she struggled to grasp the elusive clarity that danced before her. As days turned to weeks, the promise of formation was disrupted by conflict—a struggle not against the canvas, but within her mind. Every stroke painted revealed the cacophony of ideas striving for dominance, each compelling, yet incomplete.
+#### In the heart of a secluded countryside, Evelyn, a renowned painter, found herself embroiled in an unspoken war against her own creative forces. Her studio, strewn with incomplete canvases, bore witness to the quiet turmoil of her soul. From the onset, there was a silent promise of becoming, a stir within that hinted at new beginnings. Yet, with each brushstroke, the emergence of form was tinged with the weight of potential unrealized. Evelyn delved deeper into her art, the shadows of doubt casting longer as she struggled to grasp the elusive clarity that danced before her. As days turned to weeks, the promise of formation was disrupted by conflict, a struggle not against the canvas, but within her mind. Every stroke painted revealed the cacophony of ideas striving for dominance, each compelling, yet incomplete.
 
 In moments of solitude, beneath the gentle murmur of autumn leaves, Evelyn glimpsed the possibility of manifesting her vision. Yet, the more she strained against the traditional forms and conventions, the more the rigidity of her expectations unraveled. Her mastery of the medium, once a comfort, now seemed to imprison her, each attempt failing to capture the essence she now realized could not be forced, but only discovered.
 
-Then came the quiet breakthrough, an unexpected surrender to the unknown. She understood the transcendent nature of creation—to let go, to allow intuition to guide the flow of colors and shapes, free from the shackles of predetermined outcomes. What emerged was not only a painting but a reflection of her deepest self, a testament to the dance of unity between what is felt, imagined, and finally, what is seen. In that quiet moment, Evelyn discovered that the true art lay in the journey itself.
+Then came the quiet breakthrough, an unexpected surrender to the unknown. She understood the transcendent nature of creation, to let go, to allow intuition to guide the flow of colors and shapes, free from the shackles of predetermined outcomes. What emerged was not only a painting but a reflection of her deepest self, a testament to the dance of unity between what is felt, imagined, and finally, what is seen. In that quiet moment, Evelyn discovered that the true art lay in the journey itself.
 
 #### ***Lines in Context:***
 <ul><li><B>1</B> (yin) <i>Emergence of Potential</i> - Evelyn senses the quiet stirrings of new ideas, marking the inception of an artistic journey. <i>Moving line</i> - If Yin changes to Yang, spontaneity might overshadow the subtlety of initial inspiration, jeopardizing its development. Yet, this energy can also propel her to explore innovative paths, invigorating her artistic vision.</li></ul>
@@ -123,11 +123,6 @@ Then came the quiet breakthrough, an unexpected surrender to the unknown. She un
 
 ###### *Notes*
 ### **King Wen**: 8 ䷇ <sub>*16*</sub> Holding Together; 6 ☵ <sub>*2*</sub> The Abysmal,  Water *over* 2 ☷ <sub>*0*</sub> The Receptive, Earth;
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 <br/>
 <br/>
 <br/>

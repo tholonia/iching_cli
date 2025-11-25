@@ -6,7 +6,7 @@
 <span style="font-size:2em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;">60 ䷻</span><span style="font-size:1em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;vertical-align:text-bottom;"> 19 </span><span style="font-size:2em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;">&nbsp; Boundaries</span>
 </div>
 ## The establishment and maintenance of appropriate limits. Like a river contained by its banks or a society guided by ethical principles, this represents the power of conscious limitation to create meaningful structure and sustainable progress.
-<img src="/home/jw/store/src/iching_cli/book/v2/prod/60.png">
+<img src="/home/jw/src/iching_cli/book/v2/prod/60.png">
 <span style="margin-bottom: 8px;"> &nbsp; </span>
 ### *"Boundaries" is depicted by the choice of a dam as the image to match the hexagram's themes of maintaining appropriate constraints and the cyclical nature of completion and renewal. Taken by Ansel Adams, known for his heightened sense of awareness-reflective photography, the dam embodies the final boundary where water is both contained and released back to its source. The image captures the profound symbolism of the cyclical relationship between water, containment, and freedom - key themes tied to the hexagram. The rich symbolism of the dam, not merely as a physical barrier but as a metaphor for the critical dynamics of negotiation, limitation, and contribution, uniquely portrays the core essence of this hexagram.*
 <p/>
@@ -34,7 +34,7 @@
 **Negotiation**: The hexagram represents the balance between freedom and constraint. The water above finds its natural level with the lake below, showing how proper boundaries create sustainable systems. **Limitation**: The structure defines boundaries between productive and restrictive limits. It establishes how constraints must serve growth, showing that true freedom requires appropriate structure. **Contribution**: This configuration contributes to systemic evolution by demonstrating how proper boundaries enable development. It shows how limitations create the context for meaningful progress.
 
 #### ***Tholon 20 of 32: "Boundaries and Journeys"***
-#### The *stable* path is creates "Limitation" (60 <sub>*19*</sub>) and "The Wanderer" (56 <sub>*44*</sub>).  This pair-path explores the dynamic between setting boundaries and the freedom of exploration. 'Limitation' suggests the necessity of defining limits and structures to create order and focus. In contrast, 'The Wanderer' represents the journey beyond familiar confines, embracing the unknown and the transient nature of existence. Together, they highlight the balance between establishing secure foundations and the courage to venture into new territories.
+#### This hexagram is within the *stable* path of "Boundaries and Journeys" formed by "Limitation" (60䷻<sub>*19*</sub>) and "The Wanderer" (56䷷<sub>*44*</sub>).  This pair-path explores the dynamic between setting boundaries and the freedom of exploration. 'Limitation' suggests the necessity of defining limits and structures to create order and focus. In contrast, 'The Wanderer' represents the journey beyond familiar confines, embracing the unknown and the transient nature of existence. Together, they highlight the balance between establishing secure foundations and the courage to venture into new territories.
 
 
 
@@ -44,13 +44,13 @@
 ##### Breaking the Chains (Man vs. Man)
 ### *In the style of George Orwell*
 
-#### In a world where bureaucratic red tape held sway, James, a tenacious young civil servant, found himself amidst piles of papers and endless regulations. These walls of rules constricted him, yet there lingered a burning will to break free. As James navigated this labyrinthine system, he perceived a chance for transformation—a place within the hierarchy where change could be initiated.
+#### In a world where bureaucratic red tape held sway, James, a tenacious young civil servant, found himself amidst piles of papers and endless regulations. These walls of rules constricted him, yet there lingered a burning will to break free. As James navigated this labyrinthine system, he perceived a chance for transformation, a place within the hierarchy where change could be initiated.
 
 The corridors of power were cold and unyielding, with superiors enforcing strict adherence to protocol. Yet, James saw the cracks within this rigid structure where new ideas could seed change. With each meeting, he introduced the notion of streamlining processes, suggesting flexibility could enhance productivity.
 
 His ideas sparked conflict. Colleagues either resisted or sabotaged his attempts, fearing that change might threaten their positions. This opposition grew, yet it forced James to reconsider his approach. Instead of pushing back, he embraced the obstruction, using it to forge alliances with those secretly yearning for reform.
 
-As these alliances formed, a new manifesto emerged—one that accommodated the old while nurturing the new. James's persistence paid off when, one day, he found himself invited to a pivotal policy meeting. There, his proposals finally took root among skeptical elders, shifting from rigid intransigence to a fresh, adaptive framework. The system, once a bastion of stagnation, now lit a path towards progressive action, reshaping established boundaries into a dynamic new order that served both past ideals and future possibilities.
+As these alliances formed, a new manifesto emerged, one that accommodated the old while nurturing the new. James's persistence paid off when, one day, he found himself invited to a pivotal policy meeting. There, his proposals finally took root among skeptical elders, shifting from rigid intransigence to a fresh, adaptive framework. The system, once a bastion of stagnation, now lit a path towards progressive action, reshaping established boundaries into a dynamic new order that served both past ideals and future possibilities.
 
 Through endurance and cunning, he seized the moment, transcending personal ambitions toward a collective vision. As echoes of change reverberated through the hallowed halls of governance, it became clear that the boundaries James challenged had been not walls, but doors waiting to be opened.
 
@@ -88,13 +88,13 @@ By honoring nature’s laws, Caleb transcended his initial vision, transforming 
 
 #### Margaret stood at the brink of a metaphorical river, her life coursing between two banks defined by her choices. In the intimate quiet of her thoughts, she pondered where her boundaries began and ended. The world outside pulsated with the chaos of city life, yet within her heart lay a serene landscape of introspection and possibility.
 
-She often visited the old bookstore, a sanctuary nestled in a bustling corner, where time seemed to pause. Its dusty aisles offered refuge, and among the shelves, she found an unwritten manuscript—a tale of unfinished dreams longing to be articulated.
+She often visited the old bookstore, a sanctuary nestled in a bustling corner, where time seemed to pause. Its dusty aisles offered refuge, and among the shelves, she found an unwritten manuscript, a tale of unfinished dreams longing to be articulated.
 
 Driven by a desire to pen something profound, Margaret wrestled with doubts, her pen hesitating above the paper like a tentative artist before a blank canvas. In each line she crafted, she found a paradox, a dance between constraint and freedom.
 
-As the pages filled, she realized her life and her writing were intertwined. Each limit she imposed was a boundary she'd chosen to explore rather than confine. The lines moved, and with them, her soul journeyed—a flow of thoughts seeking a form, a story waiting to be told.
+As the pages filled, she realized her life and her writing were intertwined. Each limit she imposed was a boundary she'd chosen to explore rather than confine. The lines moved, and with them, her soul journeyed, a flow of thoughts seeking a form, a story waiting to be told.
 
-In her moments of doubt, Margaret understood that to transcend her limitations, she needed to embrace them as stepping stones rather than obstacles. As her narrative unfolded, each boundary she embraced became a key to unlocking new paths—each one an open door through which her creativity, nascent and vibrant, could flourish beyond imagined confines.
+In her moments of doubt, Margaret understood that to transcend her limitations, she needed to embrace them as stepping stones rather than obstacles. As her narrative unfolded, each boundary she embraced became a key to unlocking new paths, each one an open door through which her creativity, nascent and vibrant, could flourish beyond imagined confines.
 
 #### ***Lines in Context:***
 <ul><li><B>1</B> (yang) <i>Initial Emergence</i> - The story begins its journey within Margaret’s mind, marked by unrealized potential ripe for articulation. <i>Moving line</i> - Yang transforming to yin sees initial creativity wane, potentially causing doubt to overshadow nascent ideas.</li></ul>
@@ -125,11 +125,6 @@ In her moments of doubt, Margaret understood that to transcend her limitations, 
 
 ###### *Notes*
 ### **King Wen**: 60 ䷻ <sub>*19*</sub> ; 6 ☵ <sub>*2*</sub> The Abysmal,  Water *over* 8 ☱ <sub>*4*</sub> The Joyous, Lake/Marsh;
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 <br/>
 <br/>
 <br/>

@@ -6,7 +6,7 @@
 <span style="font-size:2em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;">14 ䷍</span><span style="font-size:1em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;vertical-align:text-bottom;"> 47 </span><span style="font-size:2em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;">&nbsp; Radiance</span>
 </div>
 ## The illuminating power of conscious awareness joined with creative force. Like sunlight filling the sky, this represents the expansive influence of clear understanding combined with powerful action.
-<img src="/home/jw/store/src/iching_cli/book/v2/prod/14.png">
+<img src="/home/jw/src/iching_cli/book/v2/prod/14.png">
 <span style="margin-bottom: 8px;"> &nbsp; </span>
 ### *"Radiance" is illustrated through a striking image marked by a shining central light source, intricate swirling patterns, and vast encompassing space. This image was chosen to encapsulate the core essence of the hexagram - the intermingling of conscious awareness and creative force, akin to sunlight illuminating the sky. The art's triadic composition signifies the outcome born from the union of these two elements, emerging as order. With balance portrayed through the harmonious blend of distinct forms within a fluid expanse, this aptly supports the notion of dynamic equilibrium fundamental to the hexagram. This visual representation elegantly elucidates the transformative potential of the conscious mind to enlighten and harmonize existence.*
 <p/>
@@ -34,7 +34,7 @@
 **Negotiation**: The hexagram represents the negotiation between illuminating awareness (Fire) and creative power (Heaven). This creates a dynamic balance between understanding and action, like consciousness guided by clear purpose. **Limitation**: Structure is provided by the fire above, indicating that power must be guided by wisdom. The heaven below suggests that creative force must serve higher understanding. **Contribution**: This pattern contributes to evolution by demonstrating how consciousness can guide creative force. It shows how clarity of understanding can direct and amplify power.
 
 #### ***Tholon 17 of 32: "Unity-Division"***
-#### The *dynamic* path is creates "Holding Together" (8 <sub>*16*</sub>) and "Possession in Great Measure" (14 <sub>*47*</sub>).  This pair-path embodies the dynamic balance between the forces of unity and division. Holding Together (8) represents the ascent towards cohesion, community, and collective strength, emphasizing the power of unity. In contrast, Possession in Great Measure (14) signifies the descent into individual accumulation, wealth, and the assertion of personal power. Together, they reflect the cyclical interplay between collective unity and individual possession, illustrating the ebb and flow of communal and personal forces.
+#### This hexagram is within the *dynamic* path of "Unity-Division" formed by "Holding Together" (8䷇<sub>*16*</sub>) and "Possession in Great Measure" (14䷍<sub>*47*</sub>).  This pair-path embodies the dynamic balance between the forces of unity and division. Holding Together (8) represents the ascent towards cohesion, community, and collective strength, emphasizing the power of unity. In contrast, Possession in Great Measure (14) signifies the descent into individual accumulation, wealth, and the assertion of personal power. Together, they reflect the cyclical interplay between collective unity and individual possession, illustrating the ebb and flow of communal and personal forces.
 
 
 
@@ -46,7 +46,7 @@
 
 #### In the bustling heart of a sprawling metropolis, Alexander found himself emboldened by a vision for change. As dawn broke over the city's jagged skyline, he saw not just steel and concrete, but a tapestry of potential waiting to be woven into prosperity. His ambition burned like a beacon, lighting a path towards an emerging future.
 
-Alexander's venture—a cutting-edge tech start-up—promised to revolutionize urban connectivity. Gathering a motley crew of dreamers, doers, and doubters, he sought to forge their collective energy into something formidable. The rhythm of the city thrummed beneath their feet, a ceaseless reminder of the clockwork urgency propelling them forward.
+Alexander's venture, a cutting-edge tech start-up, promised to revolutionize urban connectivity. Gathering a motley crew of dreamers, doers, and doubters, he sought to forge their collective energy into something formidable. The rhythm of the city thrummed beneath their feet, a ceaseless reminder of the clockwork urgency propelling them forward.
 
 Yet, as weeks turned into months, the initial fervor began to wane. The men and women who stood shoulder to shoulder at the start now found themselves standing apart, doubts gnawing at the edges of their enthusiasm. Alexander, sensing the shift, knew the time had come to rally his team or risk losing everything.
 
@@ -67,7 +67,7 @@ As the momentum swung back in their favor, Alexander recognized the delicate bal
 
 #### In the heart of a secluded mountain range, whispered into legend, a craftsman named Alden labored within the embrace of towering trees and singing rivers. His heart yearned to capture the elusive music of the natural world, forging it into works that spoke of the sublime harmony of life.
 
-In his sanctuary, nature's vitality surrounded him, its intricate dance mirrored in every careful strike of Alden’s hammer. His latest endeavor, a grand sculpture of crystalline elegance, aspired to reflect the confluence of earth and sky—a tribute to the realm of dragons that roamed beyond mortal eyes.
+In his sanctuary, nature's vitality surrounded him, its intricate dance mirrored in every careful strike of Alden’s hammer. His latest endeavor, a grand sculpture of crystalline elegance, aspired to reflect the confluence of earth and sky, a tribute to the realm of dragons that roamed beyond mortal eyes.
 
 Each day the project unfolded, nature tested Alden's resolve. Obsidian clouds gathered, challenged by sunlight piercing through with blazing brilliance. Yet, within this struggle, Alden found a steadfast rhythm, guided by intuitive connection with the earth's voice.
 
@@ -88,15 +88,15 @@ Standing at the threshold of completion, Alden recognized the journey was as vit
 
 #### In the quaint village of Estrella, nestled among emerald hills and under a sky that seemed to cradle the universe, lived an artist by the name of Lucia. Her soul burned with an unquenchable desire to capture on canvas the light that danced through her world. Each dawn, as the skies painted themselves anew with the hues of dreams, she stood entranced by the whisper of colors, her heart a mirror to the cosmic ballet unfolding above. 
 
-Her journey began with the stroke of a brush, tracing the ethereal outlines of stars bound in their eternal waltz. Her hands moved as if possessed by the spirit of the heavens, instinctively guided by the pull of the universe's tender embrace. The initial sketches hinted at the potential beyond form—an emergence unravelling like dawn breaking night. 
+Her journey began with the stroke of a brush, tracing the ethereal outlines of stars bound in their eternal waltz. Her hands moved as if possessed by the spirit of the heavens, instinctively guided by the pull of the universe's tender embrace. The initial sketches hinted at the potential beyond form, an emergence unravelling like dawn breaking night. 
 
 Yet, as the masterpiece began to take shape, a shadow loomed over Lucia's heart. Doubt crept, uninvited, like a thief of ambition. What if her vision was nothing but folly? She battled these tempestuous thoughts, her spirit weathered but unyielding. The luminous tendrils of her dream entwined with doubt, a celestial conflict shaping the contours of her quest.
 
-With time, the colors bled from her brush with radiant clarity, manifestation birthed from struggle. The art before her eyes revealed more than pigment on canvas—it was a reflection of her journey, marked by tenacity and grace. Each sunrise witnessed this metamorphosis, as her raw creativity entwined with the essence of her being, rooting her soul in the landscape of Aetheria—a world both painted and real.
+With time, the colors bled from her brush with radiant clarity, manifestation birthed from struggle. The art before her eyes revealed more than pigment on canvas, it was a reflection of her journey, marked by tenacity and grace. Each sunrise witnessed this metamorphosis, as her raw creativity entwined with the essence of her being, rooting her soul in the landscape of Aetheria, a world both painted and real.
 
 As Lucia's work neared completion, she embraced the climax of her struggles, the mastery of her reality unfolding in an orchestration of light. It was a testament to her perseverance, a beacon not just for herself, but a guiding star for those who dared to chase dreams against turbulent skies.
 
-One evening, as the setting sun bathed the world in a transient veil of gilded light, Lucia stood before her creation. The canvas shimmered with a life beyond life, reflecting the purest form of ascension—a transcendent dance between shadow and light. With this final stroke, she realized the true path was not merely the creation of art but the reflection of her own soul's journey.
+One evening, as the setting sun bathed the world in a transient veil of gilded light, Lucia stood before her creation. The canvas shimmered with a life beyond life, reflecting the purest form of ascension, a transcendent dance between shadow and light. With this final stroke, she realized the true path was not merely the creation of art but the reflection of her own soul's journey.
 
 #### ***Lines in Context:***
 <ul><li><B>1</B> (yang) <i>Initial Spark</i> - Lucia's awakening to the potential within her, propelled by an unfolding vision that beckons her to creation. <i>Moving line</i> - The change from yang to yin introduces the risk of hesitation, threatening momentum. However, it offers the gift of introspection, grounding her emergent aspirations with thoughtful consideration.</li></ul>
@@ -114,7 +114,7 @@ One evening, as the setting sun bathed the world in a transient veil of gilded l
 
 #### In the later years of the 19th century, amid the burgeoning era of technological transformation, Thomas Edison stood at the forefront of invention. As the gaslight flickered in the streets, Edison dared to dream of a world illuminated by a stable and safe electric glow. His laboratory in Menlo Park became a beacon for the curious and inventive, housing a team united by the relentless pursuit of innovation.
 
-Edison's vision culminated in the creation of the incandescent light bulb, a marvel that promised to transform night into day. This radiant achievement was not without trial—countless filaments were tested, burnt, and discarded. It was a process of emergence, formation, and conflict, each step meticulously guiding the path from mere conception to tangible reality.
+Edison's vision culminated in the creation of the incandescent light bulb, a marvel that promised to transform night into day. This radiant achievement was not without trial, countless filaments were tested, burnt, and discarded. It was a process of emergence, formation, and conflict, each step meticulously guiding the path from mere conception to tangible reality.
 
 When at last the filament held its glow, Edison not only illuminated rooms but ignited a revolution in industry and culture. Communities slowly transitioned from shadowy nocturnes to vibrant tenements of activity, their economies surging with newfound potential.
 
@@ -133,11 +133,6 @@ Edison's mastery of electrical illumination transcended into a profound legacy o
 
 ###### *Notes*
 ### **King Wen**: 14 ䷍ <sub>*47*</sub> Great Possessions; 7 ☲ <sub>*5*</sub> The Clinging,  Fire *over* 1 ☰ <sub>*7*</sub> The Creative, Heaven;
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 <br/>
 <br/>
 <br/>

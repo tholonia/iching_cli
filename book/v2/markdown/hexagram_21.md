@@ -6,7 +6,7 @@
 <span style="font-size:2em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;">21 ䷔</span><span style="font-size:1em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;vertical-align:text-bottom;"> 41 </span><span style="font-size:2em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;">&nbsp; Breakthrough</span>
 </div>
 ## The forceful clarity that breaks through obstacles and illuminates new paths. Like lightning piercing darkness, this represents the moment when awareness cuts through confusion to reveal essential truth.
-<img src="/home/jw/store/src/iching_cli/book/v2/prod/21.png">
+<img src="/home/jw/src/iching_cli/book/v2/prod/21.png">
 <span style="margin-bottom: 8px;"> &nbsp; </span>
 ### *"Breakthrough" is powerfully encapsulated in this piece, translating the hexagram's forceful clarity with an image of lightning piercing through the skyline. The tholonic concept of awareness instigating dynamic change is emulated by the transformative loftiness of lightning, sporting its potential to break barriers and illuminate new paths. The surrealistic blend of reality and imagination further symbolizes an emerging consciousness, akin to a Tholon evolving beyond its bounds. The digital nature of the painting mirrors the precision and decisiveness of the hexagram, symbolizing how intention shapes form and then structures reality, encapsulating the essence of Tholonic energy.*
 <p/>
@@ -34,7 +34,7 @@
 **Negotiation**: The hexagram represents the negotiation between illuminating awareness (Fire) and transformative action (Thunder). This creates a dynamic balance between insight and implementation, vision and execution. The thunder provides the force while fire provides the direction. **Limitation**: Structure is provided by the necessity for precise, targeted action. Not all barriers can or should be broken - discernment is required. The fire above indicates that action must be guided by clear understanding and wisdom rather than blind force. **Contribution**: This pattern contributes to evolution by demonstrating how consciousness can actively reshape reality through focused intervention. It shows how clarity of perception combined with decisive action can transform existing structures.
 
 #### ***Tholon 23 of 32: "Resolution"***
-#### The *stable* path is creates "The Well" (48 <sub>*22*</sub>) and "Biting Through" (21 <sub>*41*</sub>).  This pair-path represents the duality of nourishment and resolution. The Well (Hexagram 48) signifies the ascending aspect of drawing sustenance and wisdom from a deep source, emphasizing renewal and the continuity of life. Biting Through (Hexagram 21), the descending aspect, involves confronting obstacles and resolving issues with decisiveness and clarity. Together, they illustrate a cycle of internal nourishment leading to external resolution.
+#### This hexagram is within the *stable* path of "Resolution" formed by "The Well" (48䷯<sub>*22*</sub>) and "Biting Through" (21䷔<sub>*41*</sub>).  This pair-path represents the duality of nourishment and resolution. The Well (Hexagram 48) signifies the ascending aspect of drawing sustenance and wisdom from a deep source, emphasizing renewal and the continuity of life. Biting Through (Hexagram 21), the descending aspect, involves confronting obstacles and resolving issues with decisiveness and clarity. Together, they illustrate a cycle of internal nourishment leading to external resolution.
 
 
 
@@ -50,9 +50,9 @@ Driven by an unquenchable thirst for creation, Ethan defied the rigid norms of h
 
 His preparations were meticulous, his enthusiasm infectious. Yet the flamboyant circles Ethan navigated contrasted starkly with his vision, sowing dissonance. Rivals scoffed, patrons hesitated, doubting the merit of his radical approach.
 
-Defiant, Ethan pressed forward. The gala opened under a shroud of skepticism—a confrontation that transformed into awe as the paintings ignited, revealing landscapes that transcended reality. The guests succumbed to the spell, their initial resistance unraveling into enchantment.
+Defiant, Ethan pressed forward. The gala opened under a shroud of skepticism, a confrontation that transformed into awe as the paintings ignited, revealing landscapes that transcended reality. The guests succumbed to the spell, their initial resistance unraveling into enchantment.
 
-Despite emerging triumphantly, Ethan's success chafed against his solitude. He discovered mastery in merging art and ambition, yet confronted the existential weight of his visionary quest. As he gazed at the evolving canvases, he saw a transcendence all its own—a testament to the radiant potential of realization.
+Despite emerging triumphantly, Ethan's success chafed against his solitude. He discovered mastery in merging art and ambition, yet confronted the existential weight of his visionary quest. As he gazed at the evolving canvases, he saw a transcendence all its own, a testament to the radiant potential of realization.
 
 #### ***Lines in Context:***
 <ul><li><B>1</B> (yang) <i>Emergence</i> - Ethan's idea of an unconventional art show begins to take form in his mind, signaling the initial stage of creation. <i>Moving line</i> - When Ethan's raw and bold ambition slows to inward reflection, it encourages the assessment of strategic risks, refining the raw energy into methodical progression, leading toward thoughtful mastery.</li></ul>
@@ -71,7 +71,7 @@ Rafael's quest took him deep into the jungle, his path obscured by the whisperin
 
 As the days stretched into weeks, Rafael found himself at a crossroads when he stumbled upon an ancient tree, its roots entangled with the earth's heart. The tree, known in local legends as the 'Tree of Lumina,' pulsated with an unearthly glow. Here, at the cradle of creation, Rafael paused, sensing a profound symphony of existence echoing through time.
 
-In the dawning light of realization, Rafael understood that the light was not just a physical phenomenon but a metaphor for wisdom itself—an insight as radiant as the sun breaking through the jungle mist. The forest, in its enigmatic embrace, offered him both revelation and peace.
+In the dawning light of realization, Rafael understood that the light was not just a physical phenomenon but a metaphor for wisdom itself, an insight as radiant as the sun breaking through the jungle mist. The forest, in its enigmatic embrace, offered him both revelation and peace.
 
 Yet, as he reached the zenith of his discovery, Rafael faced the ultimate challenge: the forest's raw power shifting from ally to adversary. Torrential rains unleashed their fury, testing his resolve to maintain the delicate balance between dreams and reality.
 
@@ -88,7 +88,7 @@ As the waters receded, Rafael emerged transformed, his heart beating in harmony 
 ##### The Horizon Beyond (Man vs. Self)
 ### *In the style of Virginia Woolf*
 
-#### In the stillness of the early morning, Elara stood at the edge of the vast sea that mirrored the pale sky. Each wave whispered secrets of ancient truths. Her life's quest had led her here, to a moment suspended between the known and the unknown. She sought something intangible yet profoundly real—a beacon of humanity's infinite potential waiting to be realized. Her vision was clear, a shimmering thread of light weaving through the tapestry of her thoughts.
+#### In the stillness of the early morning, Elara stood at the edge of the vast sea that mirrored the pale sky. Each wave whispered secrets of ancient truths. Her life's quest had led her here, to a moment suspended between the known and the unknown. She sought something intangible yet profoundly real, a beacon of humanity's infinite potential waiting to be realized. Her vision was clear, a shimmering thread of light weaving through the tapestry of her thoughts.
 
 As the hues of dawn deepened, so did Elara's resolve. She understood that true creation was an act of both will and surrender, requiring a delicate balance between control and freedom. In this magical space of emergence, ideas blossomed like wildflowers in a sun-drenched meadow.
 
@@ -96,14 +96,14 @@ Yet within this symphony of creativity lay the seed of conflict, a tension betwe
 
 The moment of manifestation came like the first breath of spring, a gentle yet profound awakening. Her vision took form, not as she had planned, but in an unexpected symmetry that brought a quiet satisfaction. Completeness was a fleeting illusion, yet one that whispered of perfection in its imperfection.
 
-Standing at the precipice of transcendence, Elara embraced the transformative power within her grasp. An unanticipated calm descended as the realization settled that only through this ebb and flow could true enlightenment be reached—beyond the tangible, into the boundless horizon of the self.
+Standing at the precipice of transcendence, Elara embraced the transformative power within her grasp. An unanticipated calm descended as the realization settled that only through this ebb and flow could true enlightenment be reached, beyond the tangible, into the boundless horizon of the self.
 
 #### ***Lines in Context:***
 <ul><li><B>1</B> (yang) <i>Emergence</i> - A spark of inspiration ignites within Elara, signaling a new beginning, a tender exploration of uncharted territory. <i>Moving line</i> - As the vibrant energy of emergence folds into introspection, the drive for action tempers into strategic contemplation, fostering a calculated yet inspired approach to new endeavors.</li></ul>
 <ul><li><B>2</B> (yin) <i>Formation</i> - Elara nurtures the seedlings of her vision, weaving intention and intuition into a cohesive plan. <i>Moving line</i> - As the quiet stirrings coalesce into a bold expression of vision, the challenge lies in maintaining equilibrium, balancing drive with thoughtful reflection amidst energetic momentum.</li></ul>
 <ul><li><B>3</B> (yin) <i>Conflict</i> - Elara's burgeoning ideas clash with the realities of implementation, creating a dynamic tension ripe with potential. <i>Moving line</i> - As the tempest of internal discord resolves into clarity, new collaborative opportunities emerge, demanding vigilance to navigate intricacies without diminishing self-driven insight.</li></ul>
 <ul><li><B>4</B> (yang) <i>Manifestation</i> - In the crucible of realization, Elara's vision unfurls from the abstract into tangible form, a milestone on her journey. <i>Moving line</i> - When manifestation wraps into complexity, it introduces a tapestry of challenges, yet also illuminates paths of adaptation and understanding, cultivating resilience and depth.</li></ul>
-<ul><li><B>5</B> (yin) <i>Mastery</i> - Elara's journey through the labyrinth of thought and creation culminates in the mastery of both self and craft—a harmony between vision and reality. <i>Moving line</i> - As the contemplative process ignites into proactive expression, new realms of insight open, though the lure of detachment from simpler joys remains, guiding her toward a balanced appreciation of both personal achievement and collective experience.</li></ul>
+<ul><li><B>5</B> (yin) <i>Mastery</i> - Elara's journey through the labyrinth of thought and creation culminates in the mastery of both self and craft, a harmony between vision and reality. <i>Moving line</i> - As the contemplative process ignites into proactive expression, new realms of insight open, though the lure of detachment from simpler joys remains, guiding her toward a balanced appreciation of both personal achievement and collective experience.</li></ul>
 <ul><li><B>6</B> (yang) <i>Transcendence</i> - Elara reaches a zenith of self-realization where her creative and internal exploration transcends material limits, blending seamlessly into universal harmony. <i>Moving line</i> - As the pinnacle of her creative journey merges into reflective tranquility, the perceived boundaries of potential stretch further, offering nuanced perspectives and fostering gratitude for the interconnected dance of creation and self-awareness.</li></ul>
 
 
@@ -112,7 +112,7 @@ Standing at the precipice of transcendence, Elara embraced the transformative po
 
 ##### *The Dawn of the Nuclear Age*
 
-#### On July 16, 1945, as the morning light barely touched the horizon of the New Mexico desert, the Trinity test forever changed the course of history. Scientists from the Manhattan Project had gathered to witness the detonation of the world’s first atomic bomb, an experiment that embodied human ingenuity and the perilous potentials of technology. The device known as "the Gadget" symbolized the zenith of years of fervent research and development, fueled by the pressing demands of World War II. At precisely 5:29 a.m., the bomb exploded with a blinding flash, releasing a power that rivaled the sun itself. In that moment of overwhelming force and radiance, the age of nuclear energy dawned, unveiling mankind's ability to harness the fundamental forces of the universe. Yet, the success of the Trinity test also heralded profound ethical and existential dilemmas that would shape geopolitical landscapes for decades. As the shockwave rippled across the desert and faded into a foreboding silence, humanity stood at the brink of a new era—one defined by both unprecedented power and the weighty responsibility to wield it wisely.
+#### On July 16, 1945, as the morning light barely touched the horizon of the New Mexico desert, the Trinity test forever changed the course of history. Scientists from the Manhattan Project had gathered to witness the detonation of the world’s first atomic bomb, an experiment that embodied human ingenuity and the perilous potentials of technology. The device known as "the Gadget" symbolized the zenith of years of fervent research and development, fueled by the pressing demands of World War II. At precisely 5:29 a.m., the bomb exploded with a blinding flash, releasing a power that rivaled the sun itself. In that moment of overwhelming force and radiance, the age of nuclear energy dawned, unveiling mankind's ability to harness the fundamental forces of the universe. Yet, the success of the Trinity test also heralded profound ethical and existential dilemmas that would shape geopolitical landscapes for decades. As the shockwave rippled across the desert and faded into a foreboding silence, humanity stood at the brink of a new era, one defined by both unprecedented power and the weighty responsibility to wield it wisely.
 
 <div style="font-size: 8pt;font-style:italic">Source: Richard Rhodes, "The Making of the Atomic Bomb" (1986), The Manhattan Project National Historical Park</div>
 
@@ -127,11 +127,6 @@ Standing at the precipice of transcendence, Elara embraced the transformative po
 
 ###### *Notes*
 ### **King Wen**: 21 ䷔ <sub>*41*</sub> Biting Through; 7 ☲ <sub>*5*</sub> The Clinging,  Fire *over* 4 ☳ <sub>*1*</sub> The Arousing, Thunder;
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 <br/>
 <br/>
 <br/>

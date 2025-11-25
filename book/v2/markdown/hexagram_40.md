@@ -6,7 +6,7 @@
 <span style="font-size:2em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;">40 ䷧</span><span style="font-size:1em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;vertical-align:text-bottom;"> 10 </span><span style="font-size:2em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;">&nbsp; Liberation From Burden</span>
 </div>
 ## Represents release from difficulty and the restoration of free movement. Like a thunderstorm clearing stagnant air, it marks the moment when obstacles dissolve.
-<img src="/home/jw/store/src/iching_cli/book/v2/prod/40.png">
+<img src="/home/jw/src/iching_cli/book/v2/prod/40.png">
 <span style="margin-bottom: 8px;"> &nbsp; </span>
 ### *"Liberation From Burden" is elegantly conveyed through the visual metaphor of butterflies emerging from a cocoon-like formation, symbolizing the freeing from constraints and the promise of transformation. This visualization captures the universal patterns of emergence, where the intrinsic play between structure and disruption leads to renewal. The ascension of the butterflies embodies freedom and the dissolution of obstacles, illustrating the triadic relationship between confinement, release, and newfound potential. Their upward flight suggests a cycle of ascending energy, which is in line with the theme of surmounting hardships. The surreal landscape, with its fluid forms and celestial occurrences, signifies the harmony between stability and metamorphosis, carrying out the transformation within a structured yet fluid environment. This artistic choice underscores the moment when order blossoms from chaos, reverberating the hexagram's essence of timely disengagement and dynamic release.*
 <p/>
@@ -34,7 +34,7 @@
 **Negotiation**: Balance between restraint and release creates optimal timing. Like water finding breakthrough point, liberation requires discernment. Shows how tension resolves through proper timing. **Limitation**: Freedom paradoxically requires boundaries. Release must be controlled to be constructive. Creates structure through managed liberation. **Contribution**: Returns restricted energy to fluid movement. Like lightning releasing atmospheric tension, liberation enables new potential. Demonstrates how release generates renewal.
 
 #### ***Tholon 11 of 32: "Liberation-Unity"***
-#### The *dynamic* path is creates "Liberation" (40 <sub>*10*</sub>) and "The Family" (37 <sub>*53*</sub>).  This pair-path represents the dynamic balance between the release of constraints and the cohesion of familial or communal bonds. It explores how liberation from difficulties can lead to the establishment of harmonious and structured relationships, and vice versa, how unity within a group can facilitate personal freedom.
+#### This hexagram is within the *dynamic* path of "Liberation-Unity" formed by "Liberation" (40䷧<sub>*10*</sub>) and "The Family" (37䷤<sub>*53*</sub>).  This pair-path represents the dynamic balance between the release of constraints and the cohesion of familial or communal bonds. It explores how liberation from difficulties can lead to the establishment of harmonious and structured relationships, and vice versa, how unity within a group can facilitate personal freedom.
 
 
 
@@ -67,9 +67,9 @@ Ultimately, the Liberation Code transformed not only the industry but also Emily
 
 #### In the heart of a humid jungle, where the dense canopy laced the sky with greenery and obscured the whisper of the sun, there lay a forgotten river known to local myths as the River of Awakening. This river, said to possess the essence of unbridled potential, intrigued an artist named Amaru who had grown weary of the sterile studios of the city.
 
-As Amaru ventured deeper into the foliage, guided by whispered legends and the faint promise of discovery, he felt the jungle pulse with life around him. He intuitively set up his canvas beside the riverbank, believing that here, amidst age-old mysteries, his brush would speak in colors untainted by urbanity. Yet, amidst the lush tranquility, his mind battled with doubts—the river's murmur echoing the discord within his soul.
+As Amaru ventured deeper into the foliage, guided by whispered legends and the faint promise of discovery, he felt the jungle pulse with life around him. He intuitively set up his canvas beside the riverbank, believing that here, amidst age-old mysteries, his brush would speak in colors untainted by urbanity. Yet, amidst the lush tranquility, his mind battled with doubts, the river's murmur echoing the discord within his soul.
 
-The river, enfolded by the delicate touch of the wind, inspired Amaru to embrace spontaneity. Yet as he painted, the vibrant hues on the canvas began to shift and blend into a chaotic dance—an embodiment of his internal conflict. Dissatisfied and frustrated, he hurled the brush aside, only for the river to lap at the colors with its gentle embrace, weaving new shades into a masterpiece of raw emotion.
+The river, enfolded by the delicate touch of the wind, inspired Amaru to embrace spontaneity. Yet as he painted, the vibrant hues on the canvas began to shift and blend into a chaotic dance, an embodiment of his internal conflict. Dissatisfied and frustrated, he hurled the brush aside, only for the river to lap at the colors with its gentle embrace, weaving new shades into a masterpiece of raw emotion.
 
 Awestruck by the river's interference, Amaru realized that the true artistry lay not in domination but in unraveling control's tight grasp. Inspired, he seized the brush anew, ready to collaborate with the river's ebb and flow. As dawn broke, the river and artist emerged as one, the painting a testament to their shared journey into unfolding potential, the river teaching Amaru that true awakening came from synergy rather than rivalry.
 
@@ -90,9 +90,9 @@ According to whispered tales, the well was hidden deep within the forest's heart
 
 As he walked, each step unshackled years of self-doubt, transforming trepidation into a pulse of potential. Calder ventured deeper into the sylvan tapestry, crafting symphonies of color through the weaving boughs, until dawn unveiled the Well's pristine surface.
 
-Kneeling, Calder whispered the truth he had discovered—that true art is forged not from escape, but from understanding and transforming one's own shadows. The waters shimmered, granting him visions of boundless canvases teeming with life and freedom.
+Kneeling, Calder whispered the truth he had discovered, that true art is forged not from escape, but from understanding and transforming one's own shadows. The waters shimmered, granting him visions of boundless canvases teeming with life and freedom.
 
-Returning home, Calder painted with an unrestrained vigor that flowed like the well's waters, embracing the chaos within to release a vibrant harmony, his artwork capturing the village's heart—a reminder that liberation is found in the embrace of one’s authentic self.
+Returning home, Calder painted with an unrestrained vigor that flowed like the well's waters, embracing the chaos within to release a vibrant harmony, his artwork capturing the village's heart, a reminder that liberation is found in the embrace of one’s authentic self.
 
 #### ***Lines in Context:***
 <ul><li><B>1</B> (yin) <i>Emergence of Potential</i> - The spark of newfound hope ignites Calder's journey towards creative renewal, setting the stage for transformation. <i>Moving line</i> - Yin turning to yang imbues Calder with fresh determination but challenges his balance, yet this energy lays the groundwork for profound artistic shifts, readying him for breakthrough.</li></ul>
@@ -123,11 +123,6 @@ Returning home, Calder painted with an unrestrained vigor that flowed like the w
 
 ###### *Notes*
 ### **King Wen**: 40 ䷧ <sub>*10*</sub> ; 4 ☳ <sub>*1*</sub> The Arousing,  Thunder *over* 6 ☵ <sub>*2*</sub> The Abysmal, Water;
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 <br/>
 <br/>
 <br/>

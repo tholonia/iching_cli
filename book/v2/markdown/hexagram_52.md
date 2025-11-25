@@ -6,7 +6,7 @@
 <span style="font-size:2em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;">52 ䷳</span><span style="font-size:1em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;vertical-align:text-bottom;"> 36 </span><span style="font-size:2em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;">&nbsp; Stillness</span>
 </div>
 ## The power of conscious non-action and inner quietude. Like a mountain's unshakeable presence or a deep lake's surface at dawn, this represents the strength found in stillness and the clarity that emerges from peaceful observation.
-<img src="/home/jw/store/src/iching_cli/book/v2/prod/52.png">
+<img src="/home/jw/src/iching_cli/book/v2/prod/52.png">
 <span style="margin-bottom: 8px;"> &nbsp; </span>
 ### *"Stillness" is powerfully embodied in Ansel Adams' minimalist photography of a mountain, as selected in the Tholonic Model. The theme of STILLNESS resonates through the mountain's enduring presence and stability, exemplifying the FINAL INTEGRATION where awareness converts into form. Minimalism complements the elegance of the tholonic structure, spotlighting the essential elements and the interplay of light and darkness - akin to awareness interacting with itself. Photography's immediacy links the primal point of awareness and tholonic energy manifestation in a tangible form. Adams' acclaimed work expresses the guiding principles of universal love and balance, mirroring the holistic integration of elements—an ode to the intrinsic emergent properties of nature and artistic expression.*
 <p/>
@@ -34,7 +34,7 @@
 **Negotiation**: The hexagram represents the balance between movement and stillness. The doubled mountain shows how non-action can be the most powerful action, demonstrating that observation creates understanding. **Limitation**: The structure defines boundaries between productive stillness and stagnation. It establishes how non-action must remain alert and aware, showing that true stillness is dynamic. **Contribution**: This configuration contributes to systemic evolution by demonstrating how observation leads to understanding. It shows how stillness creates space for clarity and wisdom to emerge.
 
 #### ***Tholon 28 of 32: "Dynamic Equilibrium"***
-#### The *dynamic* path is creates "Joyous" (58 <sub>*27*</sub>) and "Keeping Still" (52 <sub>*36*</sub>).  This pair-path represents the dynamic balance between movement and stillness, highlighting how joy and interaction (58 Joyous) ascend towards a state of serene stability (52 Keeping Still), and vice versa. It emphasizes the interplay between active engagement and contemplative rest, fostering a harmonious existence.
+#### This hexagram is within the *dynamic* path of "Dynamic Equilibrium" formed by "Joyous" (58䷹<sub>*27*</sub>) and "Keeping Still" (52䷳<sub>*36*</sub>).  This pair-path represents the dynamic balance between movement and stillness, highlighting how joy and interaction (58 Joyous) ascend towards a state of serene stability (52 Keeping Still), and vice versa. It emphasizes the interplay between active engagement and contemplative rest, fostering a harmonious existence.
 
 
 
@@ -65,7 +65,7 @@ Suzuki returned to his village transformed, his music now a mirror of the tranqu
 
 #### In a secluded valley, nestled amidst towering peaks whose summits vanished into the heavens, there resided an artist named Fernanda. Renowned for her vibrant murals that resonated with the life of the bustling village below, she was celebrated among her peers. Yet, deep within her soul lay a yearning to capture the essence of the stillness that the mountains silently communicated.
 
-Fernanda set out on an expedition into the heart of these ancient monoliths, seeking the silence that their shadows promised. As she traversed through dense forests and whispered valleys, she found herself in a clearing where the world seemed to stand still—a sacred space of timelessness. Here, the air hummed with a silence so profound it was palpable. 
+Fernanda set out on an expedition into the heart of these ancient monoliths, seeking the silence that their shadows promised. As she traversed through dense forests and whispered valleys, she found herself in a clearing where the world seemed to stand still, a sacred space of timelessness. Here, the air hummed with a silence so profound it was palpable. 
 
 In this hushed sanctuary, Fernanda allowed the mountain's quietude to seep into her being, each moment of stillness sketching on the canvas of her mind. Days turned to weeks, and her hands moved with an unhurried grace, transferring the mountain's silent serenity onto the canvas. Her art transformed, taking on a quality of solitude and tranquility that it had never before known.
 
@@ -119,11 +119,6 @@ The villagers who came to see his work felt the calm and collected energy that K
 
 ###### *Notes*
 ### **King Wen**: 52 ䷳ <sub>*36*</sub> ; 3 ☶ <sub>*3*</sub> The Still,  Mountain *over* 3 ☶ <sub>*3*</sub> The Still, Mountain;
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 <br/>
 <br/>
 <br/>

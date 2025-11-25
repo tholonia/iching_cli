@@ -6,7 +6,7 @@
 <span style="font-size:2em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;">59 ䷺</span><span style="font-size:1em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;vertical-align:text-bottom;"> 50 </span><span style="font-size:2em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;">&nbsp; Dissolution</span>
 </div>
 ## The process of breaking down barriers and dissolving separation. Like ice melting into water or rigid structures becoming flexible, this represents the transformation from solid to fluid states and the resulting potential for new connections.
-<img src="/home/jw/store/src/iching_cli/book/v2/prod/59.png">
+<img src="/home/jw/src/iching_cli/book/v2/prod/59.png">
 <span style="margin-bottom: 8px;"> &nbsp; </span>
 ### *"Dissolution" is portrayed through an imagery that beautifully captures the transformation from solid to fluid states. The merging of solid and liquid forms in the image signifies the transformative nature of dissolution, while also portraying how structure evolves into new possibilities, akin to ice melting into water. The freely flowing water represents the creation of new paths, reflecting the hexagram's attribute of breaking down barriers. The harmonious interaction of land, water, and sky brings forth the interconnected nature of the Thologram, underlining dissolution as a critical process in evolution. This image encapsulates the dynamic interrelationship between different elements as guided by the principle of emergent dynamics.*
 <p/>
@@ -34,7 +34,7 @@
 **Negotiation**: The hexagram represents the balance between structure and fluidity. The wind above affects water below, showing how subtle influence can transform rigid patterns into fluid movement. **Limitation**: The structure defines boundaries between productive and chaotic dissolution. It establishes how transformation must maintain coherence, showing that even dissolution requires order. **Contribution**: This configuration contributes to systemic evolution by demonstrating how breaking down barriers enables new connections. It shows how dissolution can lead to higher forms of organization.
 
 #### ***Tholon 14 of 32: "Expansion-Contraction"***
-#### The *stable* path is creates "Abundance" (55 <sub>*13*</sub>) and "Dispersion" (59 <sub>*50*</sub>).  This pair-path represents the dynamic cycle of growth and dispersal. Abundance (Hexagram 55) signifies a period of flourishing and expansion, where energies are at their peak and possibilities multiply. Dispersion (Hexagram 59) follows as a natural descent, where accumulated energies are released and scattered, leading to a necessary dissolution that clears the way for renewal. Together, they illustrate the perpetual rhythm of increase and decrease, emphasizing balance in the cyclical nature of life.
+#### This hexagram is within the *stable* path of "Expansion-Contraction" formed by "Abundance" (55䷶<sub>*13*</sub>) and "Dispersion" (59䷺<sub>*50*</sub>).  This pair-path represents the dynamic cycle of growth and dispersal. Abundance (Hexagram 55) signifies a period of flourishing and expansion, where energies are at their peak and possibilities multiply. Dispersion (Hexagram 59) follows as a natural descent, where accumulated energies are released and scattered, leading to a necessary dissolution that clears the way for renewal. Together, they illustrate the perpetual rhythm of increase and decrease, emphasizing balance in the cyclical nature of life.
 
 
 
@@ -90,11 +90,11 @@ By the end, though the verdict was bittersweet, the trial had ripped open the ti
 
 One evening, while wandering through the town's timeless plazas, a sudden breeze unnerved her. It was as if the air whispered secrets, compelling her to seek the untold tales of her existence. With resolute determination, Alba set out to transform her ephemeral inspirations into art that breathed life.
 
-Her journey of self-discovery felt like traversing an endless dream. The moonlit nights echoed with songs of transformation, and the stars glittered as if celebrating her quest. As days turned into nights, and nights into days, her paintings began to defy the boundaries of form, embodying the paradox of creation and destruction—each stroke a dissolution and a reinvention.
+Her journey of self-discovery felt like traversing an endless dream. The moonlit nights echoed with songs of transformation, and the stars glittered as if celebrating her quest. As days turned into nights, and nights into days, her paintings began to defy the boundaries of form, embodying the paradox of creation and destruction, each stroke a dissolution and a reinvention.
 
 In every stroke and shade, Alba found herself dissolving into her art, becoming one with the infinite dance of light and shadow. By relinquishing her fears, she unearthed primal truths that lay dormant within her. Her brush painted not only landscapes but the contours of her soul, tracing the leitmotif of a spirit unabated.
 
-As the vibrant hues merged and separated on the canvas, Alba realized that dissolution was not an end, but a beginning—a boundless journey into her own depths. Embracing the chaos, she emerged renewed, her spirit buoyed by the discovery of an alchemical truth: that creation lay not merely in the tangible, but in the dissolution of self into the vast, unseen depths of potential.
+As the vibrant hues merged and separated on the canvas, Alba realized that dissolution was not an end, but a beginning, a boundless journey into her own depths. Embracing the chaos, she emerged renewed, her spirit buoyed by the discovery of an alchemical truth: that creation lay not merely in the tangible, but in the dissolution of self into the vast, unseen depths of potential.
 
 #### ***Lines in Context:***
 <ul><li><B>1</B> (yin) <i>Emergence of Insight</i> - Alba experiences the stirring of a new perspective, an initial flicker that beckons her toward transformation. <i>Moving line</i> - A shift from yin to yang brings challenges of restlessness but also unlocks unexplored creative potential, propelling Alba's journey of self-discovery forward.</li></ul>
@@ -125,11 +125,6 @@ As the vibrant hues merged and separated on the canvas, Alba realized that disso
 
 ###### *Notes*
 ### **King Wen**: 59 ䷺ <sub>*50*</sub> Dissolution; 7 ☲ <sub>*5*</sub> The Clinging,  Fire *over* 6 ☵ <sub>*2*</sub> The Abysmal, Water;
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 <br/>
 <br/>
 <br/>

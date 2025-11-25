@@ -6,7 +6,7 @@
 <span style="font-size:2em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;">45 ䷬</span><span style="font-size:1em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;vertical-align:text-bottom;"> 24 </span><span style="font-size:2em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;">&nbsp; Convergence</span>
 </div>
 ## The gathering and unification of diverse elements toward a common purpose. Like tributaries flowing into a river or communities coming together for a shared goal, this represents the power of collective focus and mutual support in achieving significant aims.
-<img src="/home/jw/store/src/iching_cli/book/v2/prod/45.png">
+<img src="/home/jw/src/iching_cli/book/v2/prod/45.png">
 <span style="margin-bottom: 8px;"> &nbsp; </span>
 ### *"Convergence" is richly embodied through elements and styles that mirror its core principles. The image portrays a river joining varied paths, paralleling the tholonic concept of interconnected awareness. The negotiation force is represented by the harmonious merging of the different elements of the landscape, analogous to how tholonic energy assimilates diverse dimensions of awareness. Impressionist techniques underscore the dynamic, evolving nature inherent in the tholonic model. The integration of Picasso's abstraction into mosaic art mirrors Holarchy's structure, reflecting the principle of unity amidst diversity. The fusion of these elements manifests the journey towards completion central to the theme of "Convergence."*
 <p/>
@@ -34,7 +34,7 @@
 **Negotiation**: The hexagram represents the balance between individual identity and collective purpose. The strong yin base (Earth) provides grounding while the yang movement above (Lake) creates dynamic interaction, showing how diverse elements can maintain identity while serving a greater whole. **Limitation**: The structure defines boundaries between productive unity and forced conformity. It establishes how gathering must occur within natural limits and authentic connections, showing that true convergence cannot be artificially imposed. **Contribution**: This configuration contributes to systemic evolution by demonstrating how individual elements can combine to create greater capabilities. It shows how coordinated effort multiplies effectiveness and creates new possibilities.
 
 #### ***Tholon 25 of 32: "Gathering Forces"***
-#### The *dynamic* path is creates "Gathering Together" (45 <sub>*24*</sub>) and "Taming Power of the Great" (26 <sub>*39*</sub>).  This pair-path represents the dynamic balance between collective unity and disciplined strength. Ascending through Gathering Together (45), there is a call for cohesion and unity to achieve a common goal. Descending through Taming Power of the Great (26), it emphasizes harnessing and directing inner strength with discipline. Together, they illustrate the cyclical process of assembling resources and focusing power to achieve greatness.
+#### This hexagram is within the *dynamic* path of "Gathering Forces" formed by "Gathering Together" (45䷬<sub>*24*</sub>) and "Taming Power of the Great" (26䷙<sub>*39*</sub>).  This pair-path represents the dynamic balance between collective unity and disciplined strength. Ascending through Gathering Together (45), there is a call for cohesion and unity to achieve a common goal. Descending through Taming Power of the Great (26), it emphasizes harnessing and directing inner strength with discipline. Together, they illustrate the cyclical process of assembling resources and focusing power to achieve greatness.
 
 
 
@@ -67,7 +67,7 @@ Thus, Hiroshi learned that true convergence arises not from forcing order but fr
 
 #### In the heart of an untamed jungle, Antonio, a visionary engineer, yearned to harness the river’s boundless energy. The river burst forth from the mountains with a wild, exuberant force, weaving through the dense foliage and whispering alluring secrets of its potential. Antonio’s dream was to build a grand dam, a masterpiece of human ingenuity that would transform the land and empower the people.
 
-Antonio spent years studying the river’s rhythms, sketching plans beneath the mosquito-riddled canopy’s tendrils. His thoughts were consumed by the pulse of water, imagining how each drop could be a note in his symphonic creation. However, Nature had a different design—unpredictable floods and shifting earth challenged Antonio, forcing him to adapt his aspirations.
+Antonio spent years studying the river’s rhythms, sketching plans beneath the mosquito-riddled canopy’s tendrils. His thoughts were consumed by the pulse of water, imagining how each drop could be a note in his symphonic creation. However, Nature had a different design, unpredictable floods and shifting earth challenged Antonio, forcing him to adapt his aspirations.
 
 As the dam rose, tension grew between Antonio's model of control and the river’s innate wildness. Despite his efforts to anchor it, the river pushed back with elemental defiance. Yet, Antonio realized the river’s rebellion was not opposition but a dance of creation, urging partnership rather than conquest.
 
@@ -92,7 +92,7 @@ One evening, beneath the cloak of twilight, as fireflies performed their luminou
 
 A struggle unfolded within the alchemist, as doubt wrapped itself around his heart like the fog that blanketed his garden. He fought against his limitations, shaping each failure into a stepping stone. His soul, once a cacophony of desire and despair, began to harmonize with the rhythm of nature.
 
-Finally, after many moons had passed, Luca found himself at a precipice—a crux where ambition intertwined with realization. He discovered that true alchemy was not in the transformation of lead into gold but in the awakening of his spirit, wherein lay the real treasure. Thus, by surrendering to the process, Luca achieved the impossible: the creation of an essence that renewed not just material but the very soul of the village, uniting the community in a shared vision of hope.
+Finally, after many moons had passed, Luca found himself at a precipice, a crux where ambition intertwined with realization. He discovered that true alchemy was not in the transformation of lead into gold but in the awakening of his spirit, wherein lay the real treasure. Thus, by surrendering to the process, Luca achieved the impossible: the creation of an essence that renewed not just material but the very soul of the village, uniting the community in a shared vision of hope.
 
 #### ***Lines in Context:***
 <ul><li><B>1</B> (yin) <i>Emergence of Potential</i> - In the stillness, Luca feels a spark of inspiration guiding his first tentative steps toward enlightenment. <i>Moving line</i> - As yin changes to yang, Luca's latent ideas burst forth into decisive action, driving the initial surge of his transformative journey with renewed vigor.</li></ul>
@@ -123,11 +123,6 @@ Finally, after many moons had passed, Luca found himself at a precipice—a crux
 
 ###### *Notes*
 ### **King Wen**: 45 ䷬ <sub>*24*</sub> ; 8 ☱ <sub>*4*</sub> The Joyous,  Lake/Marsh *over* 2 ☷ <sub>*0*</sub> The Receptive, Earth;
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 <br/>
 <br/>
 <br/>

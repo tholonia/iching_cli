@@ -6,7 +6,7 @@
 <span style="font-size:2em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;">53 ䷴</span><span style="font-size:1em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;vertical-align:text-bottom;"> 52 </span><span style="font-size:2em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;">&nbsp; Progression</span>
 </div>
 ## The steady, natural development of systems and situations. Like a tree growing or a civilization developing, this represents the gradual, organic advancement that creates lasting change and sustainable growth.
-<img src="/home/jw/store/src/iching_cli/book/v2/prod/53.png">
+<img src="/home/jw/src/iching_cli/book/v2/prod/53.png">
 <span style="margin-bottom: 8px;"> &nbsp; </span>
 ### *"'Progression' is aptly represented through an artistic image featuring an oak tree, portrayed in the realism style and medium of oil painting, attributed to Vincent Van Gogh. The oak tree symbolizes gradual and strong growth, reflecting the tholonic principle of awareness manifesting in steady development. The realism style encapsulates the tangible aspect of growth signifying the fine balance within a Thologram. Oil paintings' enduring nature alludes to the timelessness of progression, while Van Gogh's style resonates with the emotional depth of organic growth, embodying universal love's creative energy in the Tholonic Model. Together, these elements paint an evocative picture of steady, natural progression.*
 <p/>
@@ -34,7 +34,7 @@
 **Negotiation**: The hexagram represents the balance between stability and movement. The mountain below provides foundation while the wind above enables adaptation, showing how progress requires both grounding and flexibility. **Limitation**: The structure defines boundaries between sustainable and forced growth. It establishes how advancement must occur within natural rhythms, showing that true progress cannot be rushed. **Contribution**: This configuration contributes to systemic evolution by demonstrating how stable growth creates lasting change. It shows how patient development leads to sustainable transformation.
 
 #### ***Tholon 12 of 32: "Gradual Progress"***
-#### The *stable* path is creates "The Marrying Maiden" (54 <sub>*11*</sub>) and "Development" (53 <sub>*52*</sub>).  This pair-path explores the dynamic balance between sudden commitments and gradual maturation. The Marrying Maiden (54) represents a sudden engagement or commitment, often with constraints and dependencies, while Development (53) signifies a steady, patient progression towards maturity and fulfillment. Together, they illustrate the journey from impulsive beginnings to gradual, deliberate growth.
+#### This hexagram is within the *stable* path of "Gradual Progress" formed by "The Marrying Maiden" (54䷵<sub>*11*</sub>) and "Development" (53䷴<sub>*52*</sub>).  This pair-path explores the dynamic balance between sudden commitments and gradual maturation. The Marrying Maiden (54) represents a sudden engagement or commitment, often with constraints and dependencies, while Development (53) signifies a steady, patient progression towards maturity and fulfillment. Together, they illustrate the journey from impulsive beginnings to gradual, deliberate growth.
 
 
 
@@ -48,7 +48,7 @@
 
 Determined to carve out his unique path, Emilio painted with the rhythm of nature, each stroke a gentle evolution from concept to creation. His work, much like a tree growing quietly in a forest, required time to be appreciated. Yet, around him, there was a clamor for rapid success, a demand to conform and produce, which tested his resolve.
 
-One evening, while observing the play of lights across the city skyline, Emilio felt the silent pull of his calling grow stronger. He embraced the subtleties of his practice, finding that his steady hand could indeed guide him towards places others failed to envision. With each completed piece, he wove stories that whispered of time's gentle power—a narrative that ultimately drew the eyes of those who valued a different kind of spectacle. Here, within the dynamics of this concrete jungle, Emilio learned the language of gradual progression, creating art that spoke to the heart of human experience while touching upon realms of imagination yet to be fully realized.
+One evening, while observing the play of lights across the city skyline, Emilio felt the silent pull of his calling grow stronger. He embraced the subtleties of his practice, finding that his steady hand could indeed guide him towards places others failed to envision. With each completed piece, he wove stories that whispered of time's gentle power, a narrative that ultimately drew the eyes of those who valued a different kind of spectacle. Here, within the dynamics of this concrete jungle, Emilio learned the language of gradual progression, creating art that spoke to the heart of human experience while touching upon realms of imagination yet to be fully realized.
 
 #### ***Lines in Context:***
 <ul><li><B>1</B> (yin) <i>Initial Impulse</i> - Emilio's innovative ideas begin to take root, pushing against the constraints of conventional art. <i>Moving line</i> - The shift from yin to yang signals an internal stir, empowering Emilio to embrace bold beginnings and face early resistance, leading to unforeseen growth and understanding.</li></ul>
@@ -63,7 +63,7 @@ One evening, while observing the play of lights across the city skyline, Emilio 
 
 #### In an ancient forest, where shadows and light danced between towering oaks and whispering pines, lived a solitary craftsman named Alden. Armed with only his senses and simple tools, Alden took inspiration from the world around him, fashioning wood and stone into shapes echoing the natural beauty that surrounded him.
 
-In the early days, Alden struggled against the capriciousness of nature. The rain would ruin his drying wood, while the wind scattered his plans across the forest floor. Frustration threatened to overtake his spirit, but there was resilience in Alden’s heart. He observed the symphony of life around him—the river’s unhurried flow, the slow migration of deer—and realized that all things yielded and adapted to the world’s rhythms.
+In the early days, Alden struggled against the capriciousness of nature. The rain would ruin his drying wood, while the wind scattered his plans across the forest floor. Frustration threatened to overtake his spirit, but there was resilience in Alden’s heart. He observed the symphony of life around him, the river’s unhurried flow, the slow migration of deer, and realized that all things yielded and adapted to the world’s rhythms.
 
 By shifting his mindset, Alden learned to flow with the world’s rhythms. His hands began to move with intuitive grace, and his creations emerged unforced, harmonizing with the earth’s pulse. As his skills matured, so did his creations, drawing creatures and fellow artisans alike to marvel at the blend of nature and craft.
 
@@ -117,11 +117,6 @@ Jin's devotion deepened, and he discovered that transformation did not necessita
 
 ###### *Notes*
 ### **King Wen**: 53 ䷴ <sub>*52*</sub> ; 5 ☴ <sub>*6*</sub> The Gentle,  Wind/Wood *over* 3 ☶ <sub>*3*</sub> The Still, Mountain;
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 <br/>
 <br/>
 <br/>

@@ -6,7 +6,7 @@
 <span style="font-size:2em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;">7 ䷆</span><span style="font-size:1em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;vertical-align:text-bottom;"> 2 </span><span style="font-size:2em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;">&nbsp; Organization</span>
 </div>
 ## The coordination of forces toward collective purpose. Like an army moving as one, this represents the power of disciplined unity and structured cooperation.
-<img src="/home/jw/store/src/iching_cli/book/v2/prod/07.png">
+<img src="/home/jw/src/iching_cli/book/v2/prod/07.png">
 <span style="margin-bottom: 8px;"> &nbsp; </span>
 ### *"'Organization' is captured through the image of an army marching in perfect unison, symbolizing disciplined unity and structured cooperation. The image reflects the tholonic principles of integration and harmony, as individual soldiers merge seamlessly into a formidable whole. The depicted soldiers, moving with synchronized purpose, represent the coordination and collective purpose that forms the core of the hexagram. Their disciplined formation echoes the tholonic concept of integration, where individual contributions join into a cohesive system. The digital painting medium, narrative style, and sense of depth amplify these themes, encapsulating the organized direction integral to the hexagram's essence.*
 <p/>
@@ -34,7 +34,7 @@
 **Negotiation**: The hexagram represents the negotiation between containing structure (Earth) and fluid movement (Water). This creates organized flow within defined parameters. **Limitation**: Structure is provided by earth above, indicating that organization must serve larger purposes. The water below suggests that movement must be channeled effectively. **Contribution**: This pattern contributes to evolution by demonstrating how coordinated effort multiplies effectiveness. It shows how structure enables collective achievement.
 
 #### ***Tholon 3 of 32: "Unified Forces"***
-#### The *dynamic* path is creates "The Army" (7 <sub>*2*</sub>) and "Fellowship with Men" (13 <sub>*61*</sub>).  This pair-path explores the dynamics between collective strength and communal unity. The ascending path of Hexagram 7, The Army, represents the disciplined mobilization of resources and strategic unity to achieve a common goal. The descending path of Hexagram 13, Fellowship with Men, emphasizes the importance of open communication, shared vision, and mutual trust in maintaining harmony and achieving success. Together, they illustrate the balance between structured organization and cooperative fellowship.
+#### This hexagram is within the *dynamic* path of "Unified Forces" formed by "The Army" (7䷆<sub>*2*</sub>) and "Fellowship with Men" (13䷌<sub>*61*</sub>).  This pair-path explores the dynamics between collective strength and communal unity. The ascending path of Hexagram 7, The Army, represents the disciplined mobilization of resources and strategic unity to achieve a common goal. The descending path of Hexagram 13, Fellowship with Men, emphasizes the importance of open communication, shared vision, and mutual trust in maintaining harmony and achieving success. Together, they illustrate the balance between structured organization and cooperative fellowship.
 
 
 
@@ -48,7 +48,7 @@
 
 As the factory gears turned, so did the wheels of Mr. Kelsey's mind. Under his watchful eye, the factory thrived, weaving together the talents of artisans, machinists, and laborers into a seamless mechanized opera. Yet the demand for steel was insatiable, pushing the workers to their limits.
 
-Below the surface, tensions simmered. Hours stretched longer, conflicts arose, and amidst the cacophony, a song of dissent began to rise—a dissonant note in Kelsey's well-oiled machine. It was Jeb, a steely-eyed foreman, who spearheaded the workers’ cry for better conditions.
+Below the surface, tensions simmered. Hours stretched longer, conflicts arose, and amidst the cacophony, a song of dissent began to rise, a dissonant note in Kelsey's well-oiled machine. It was Jeb, a steely-eyed foreman, who spearheaded the workers’ cry for better conditions.
 
 The confrontation came to a head beneath the factory's looming structures. Kelsey grappled with the clamor not only within his domain but within himself. Against the backdrop of a rising workers' tide, Kelsey saw his industrial symphony threatened with discord.
 
@@ -100,7 +100,7 @@ In moments of Manifestation, when the dissonance became music, Mara found solace
 
 As weeks turned to months, Mara approached Mastery, her confidence rekindled. Her studio became a sanctuary of evolving vision, where each canvas was a dialogue between her inner world and the universe beyond.
 
-Ultimately, in the sublime crescendo of creativity, Mara embraced Transcendence. Her soul, rejuvenated, knew none of these transformations were isolated. They were the culmination of a dance between light and shadow, form and void—a timeless symphony of souls seeking realization.
+Ultimately, in the sublime crescendo of creativity, Mara embraced Transcendence. Her soul, rejuvenated, knew none of these transformations were isolated. They were the culmination of a dance between light and shadow, form and void, a timeless symphony of souls seeking realization.
 
 #### ***Lines in Context:***
 <ul><li><B>1</B> (yin) <i>Awakening Insight</i> - Initial glimmers of inspiration surface as Mara rediscovers the world with new eyes. <i>Moving line</i> - When yin becomes yang, these inklings of creativity ignite into full-blown energy, propelling Mara towards exploration and experimentation, nurturing her transformation into a wellspring of innovation.</li></ul>
@@ -131,11 +131,6 @@ Ultimately, in the sublime crescendo of creativity, Mara embraced Transcendence.
 
 ###### *Notes*
 ### **King Wen**: 7 ䷆ <sub>*2*</sub> The Army; 2 ☷ <sub>*0*</sub> The Receptive,  Earth *over* 6 ☵ <sub>*2*</sub> The Abysmal, Water;
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 <br/>
 <br/>
 <br/>

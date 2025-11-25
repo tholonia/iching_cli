@@ -6,7 +6,7 @@
 <span style="font-size:2em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;">32 ䷟</span><span style="font-size:1em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;vertical-align:text-bottom;"> 14 </span><span style="font-size:2em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;">&nbsp; Sustainable Momentum</span>
 </div>
 ## The maintenance of consistent, enduring progress through balanced action and awareness. Like a planet in stable orbit, this hexagram represents the achievement of sustainable cycles that can persist indefinitely through self-reinforcing patterns.
-<img src="/home/jw/store/src/iching_cli/book/v2/prod/32.png">
+<img src="/home/jw/src/iching_cli/book/v2/prod/32.png">
 <span style="margin-bottom: 8px;"> &nbsp; </span>
 ### *"Sustainable Momentum" is embodied through an evocative image of a steadfast tree, deeply rooted and unwavering amidst ever-changing surroundings. This choice of object symbolizes the essence of enduring and self-renewing systems, blending the notion of challenges and unwavering determination. The artwork, designed in realism with meticulous watercolor details, mirrors the natural rhythm and gradation prevalent in the concept of tholonic energy. Renowned artist Katsushika Hokusai's embodiment of art emphasizes universal love and intention, aligning with the creative expressions of awareness, inextricably linking the Tholonic Model's principles. The carefully juxtaposed artistic and symbolic elements culminate in an authentic representation of the hexagram.*
 <p/>
@@ -34,7 +34,7 @@
 **Negotiation**: The hexagram represents negotiation between decisive action (Thunder) and gentle persistence (Wind). This interaction produces sustainable progress through balanced movement. The lines show progressive stages of maintaining enduring momentum. **Limitation**: Thunder above Wind shows how directed energy creates sustainable patterns. Like a weather system that maintains itself through natural cycles, limitations create the structure for enduring processes. **Contribution**: This configuration contributes understanding of how systems maintain sustainable momentum. It demonstrates how awareness can guide the development of self-reinforcing cycles that support long-term evolution.
 
 #### ***Tholon 15 of 32: "Growth Cycle"***
-#### The *stable* path is creates "Duration" (32 <sub>*14*</sub>) and "Increase" (42 <sub>*49*</sub>).  The pair-path of Duration and Increase represents the cyclical nature of growth and sustainability. Duration embodies steadfastness and the maintenance of what has been established, while Increase signifies expansion and the fruitful addition to what exists. Together, they illustrate a dynamic equilibrium between sustaining what is and fostering new growth.
+#### This hexagram is within the *stable* path of "Growth Cycle" formed by "Duration" (32䷟<sub>*14*</sub>) and "Increase" (42䷩<sub>*49*</sub>).  The pair-path of Duration and Increase represents the cyclical nature of growth and sustainability. Duration embodies steadfastness and the maintenance of what has been established, while Increase signifies expansion and the fruitful addition to what exists. Together, they illustrate a dynamic equilibrium between sustaining what is and fostering new growth.
 
 
 
@@ -48,7 +48,7 @@
 
 Mariela’s shop was nestled between a noisy market and a tranquil park. The dualities of life surrounded her, seeping into her creative process. Her tapestries were renowned for their vivid colors and intricate designs, earning her praise and patrons from far and wide. Yet, Mariela felt a growing unrest, a yearning to capture not just the beauty but the struggle inherent in existence.
 
-One evening, as she sat by the river that flowed through her town, Mariela was struck by the significance of balance—the harmony between movement and stillness, sound and silence. This revelation inspired a new tapestry, one that reflected her awakening.
+One evening, as she sat by the river that flowed through her town, Mariela was struck by the significance of balance, the harmony between movement and stillness, sound and silence. This revelation inspired a new tapestry, one that reflected her awakening.
 
 When she unveiled her new creation, the townspeople were captivated by its depth and poignancy. Mariela had woven not just a tapestry but a legacy of equilibrium, leaving an indelible mark on her craft and community. Her journey taught her that true mastery lay in embracing both the seen and unseen, in harmonizing vigor with tranquility.
 
@@ -65,11 +65,11 @@ When she unveiled her new creation, the townspeople were captivated by its depth
 
 #### In a world where mountains touch the sky and rivers carve their path through the earth, there resided a solitary figure named Elias. The wild expanse of land stretched before him like an unwritten page, inviting him to inscribe his story upon it.
 
-Elias was driven by an insatiable curiosity—a desire to harness the elements, to understand their fundamental rhythms and timeless patterns. With rudimentary tools and boundless ambition, he set out to conquer the forces that surrounded him. The sun became his ally, providing warmth and guidance, while the winds tested his resolve, whipping against his aging frame.
+Elias was driven by an insatiable curiosity, a desire to harness the elements, to understand their fundamental rhythms and timeless patterns. With rudimentary tools and boundless ambition, he set out to conquer the forces that surrounded him. The sun became his ally, providing warmth and guidance, while the winds tested his resolve, whipping against his aging frame.
 
 Every day, Elias stood at the brink of a sweeping river, a behemoth of nature's silent fury and tranquil grace. He dreamt of building a bridge to traverse this flowing body, a symbol of man's conquest over nature. Yet, each attempt was met with failure, as the river's waters swallowed his structures whole.
 
-In the end, it was not brute strength but patient observation that yielded results. Elias realized that to endure meant to adapt, to blend with the very essence of the river's flow. His bridge rose from the depths, a testament to the harmony between man and nature—a lasting monument to sustainable momentum, carved not from force but from understanding.
+In the end, it was not brute strength but patient observation that yielded results. Elias realized that to endure meant to adapt, to blend with the very essence of the river's flow. His bridge rose from the depths, a testament to the harmony between man and nature, a lasting monument to sustainable momentum, carved not from force but from understanding.
 
 #### ***Lines in Context:***
 <ul><li><B>1</B> (yin) <i>Emergence of Potential</i> - Elias begins his journey with a vision fueled by hope and determination, the river a canvas for his imagination. <i>Moving line</i> - As yin becomes yang, his latent ideas spark into actionable strategies, a transformative shift that propels his venture from thought to tangible plan.</li></ul>
@@ -82,13 +82,13 @@ In the end, it was not brute strength but patient observation that yielded resul
 ##### The Symphony of Endurance (Man vs. Self)
 ### *In the style of Virginia Woolf*
 
-#### In the heart of an ancient city, surrounded by timeworn structures and whispering winds, lived a musician named Elara. She was an artist lost in the relentless pursuit of creating a symphony that encapsulated the eternal flow of life. Her inspiration came from the hum of the city and the rustle of leaves—nature's own music.
+#### In the heart of an ancient city, surrounded by timeworn structures and whispering winds, lived a musician named Elara. She was an artist lost in the relentless pursuit of creating a symphony that encapsulated the eternal flow of life. Her inspiration came from the hum of the city and the rustle of leaves, nature's own music.
 
 Elara's process was meticulous, a dance between instinct and intellect. Each note she penned resonated with the pulse of the city, echoing its silent yearnings and unwritten tales. Yet, the symphony remained incomplete, a mirror to her restless spirit.
 
 One autumn day, as golden light filtered through the leaves, Elara sensed a shift. The sounds she captured began to weave themselves into a harmonious pattern, transcending their cacophony. Her notes danced fluidly, embodying both gentleness and power, capturing the essence of sustainable momentum.
 
-As Elara played the final movement, a profound stillness settled, signaling the symphony's completion. Her work was not just a collection of sounds, but a tapestry of existence, a testament to the enduring cycles of creation. In this work, Elara found herself—her struggles, her triumphs—and left a legacy of harmony woven into the fabric of time.
+As Elara played the final movement, a profound stillness settled, signaling the symphony's completion. Her work was not just a collection of sounds, but a tapestry of existence, a testament to the enduring cycles of creation. In this work, Elara found herself, her struggles, her triumphs, and left a legacy of harmony woven into the fabric of time.
 
 #### ***Lines in Context:***
 <ul><li><B>1</B> (yin) <i>Musical Genesis</i> - At the nascent stage, Elara's symphony begins with a whisper of inspiration, the initial spark of potential. <i>Moving line</i> - As yin transforms into yang, the quiet promise of her music surges into activity, courageously embracing the creative process and laying the foundation for her symphony.</li></ul>
@@ -106,7 +106,7 @@ As Elara played the final movement, a profound stillness settled, signaling the 
 
 #### In the late 18th century, Britain stood on the brink of transformation. Industrial centers hummed with new machines powered by steam engines, each stroke echoing a new era. The revolution did not sprint from a single innovation but built upon generations of incremental advances, each one a subtle push against inertia. Textile manufacturing saw looms interwoven by the hands of artisans and revolutionaries alike, while the rise of railways threaded the nation’s towns and cities, linking communities and commerce.
 
-Behind this harmonious momentum was a vision—a world moved not by muscle but by mechanism, a living testament to endurance and progress. The change was not without struggle; tension brewed in the shadows, workers clashing against the relentless pace of mechanization, demanding better conditions and fair laws. Yet, through these conflicts emerged regulation, a new equilibrium fostering sustainable growth.
+Behind this harmonious momentum was a vision, a world moved not by muscle but by mechanism, a living testament to endurance and progress. The change was not without struggle; tension brewed in the shadows, workers clashing against the relentless pace of mechanization, demanding better conditions and fair laws. Yet, through these conflicts emerged regulation, a new equilibrium fostering sustainable growth.
 
 This era’s lasting legacy was a global reenvisioning of productivity, a new blueprint of progress intertwined with the human spirit’s unwavering momentum. The Industrial Revolution exemplified how deliberate, systemic innovation could yield enduring transformations that transcend its epoch, setting new paths for generations within the ever-twining cycle of creation and renewal.
 
@@ -123,11 +123,6 @@ This era’s lasting legacy was a global reenvisioning of productivity, a new bl
 
 ###### *Notes*
 ### **King Wen**: 32 ䷟ <sub>*14*</sub> Duration; 4 ☳ <sub>*1*</sub> The Arousing,  Thunder *over* 5 ☴ <sub>*6*</sub> The Gentle, Wind/Wood;
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 <br/>
 <br/>
 <br/>

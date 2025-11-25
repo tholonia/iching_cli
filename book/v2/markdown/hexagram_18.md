@@ -6,7 +6,7 @@
 <span style="font-size:2em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;">18 ䷑</span><span style="font-size:1em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;vertical-align:text-bottom;"> 38 </span><span style="font-size:2em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;">&nbsp; Restoration</span>
 </div>
 ## The process of renewing what has been corrupted or degraded. Like wind gradually wearing away mountain stones to reveal fresh surfaces, this represents the careful work of addressing root causes to restore original integrity.
-<img src="/home/jw/store/src/iching_cli/book/v2/prod/18.png">
+<img src="/home/jw/src/iching_cli/book/v2/prod/18.png">
 <span style="margin-bottom: 8px;"> &nbsp; </span>
 ### *"Restoration" is skillfully embodied in the artwork chosen for this hexagram, making use of detailed patterns and a consistent flow, much like the wind gently erodes the surface of a mountain to expose fresh layers. The image is designed to echo the Tholonic principle of limitation, with change unfolding steadily through persistence, symbolized by the repetitive and detailed texture patterns. The woodblock printing method used reflects timelessness, mirroring the enduring process of renewal. Consequently, this illustration tactfully epitomizes the steady, measured transformation integral to restoration, thereby capturing the essence of Hexagram 18.*
 <p/>
@@ -34,7 +34,7 @@
 **Negotiation**: The hexagram represents the negotiation between stable foundation (Mountain) and penetrating action (Wind). This creates a dynamic balance between maintaining structure while allowing necessary change, like renovation that preserves essential form. **Limitation**: Structure is provided by the mountain above, indicating that restoration must work within existing frameworks. The wind below suggests that change comes through persistent, gentle action rather than forceful intervention. **Contribution**: This pattern contributes to evolution by demonstrating how systems can be renewed without being destroyed. It shows how careful attention to fundamentals can restore harmony and function.
 
 #### ***Tholon 26 of 32: "Adaptation Cycle"***
-#### The *stable* path is creates "Following" (17 <sub>*25*</sub>) and "Work on What Has Been Spoiled" (18 <sub>*38*</sub>).  This pair-path illustrates the dynamic interplay between aligning oneself with the natural flow and addressing past imbalances. 'Following' represents the ascent through harmony and adaptability, while 'Work on What Has Been Spoiled' signifies the descent into rectification and renewal. Together, they embody a cycle of adapting to circumstances and correcting misalignments.
+#### This hexagram is within the *stable* path of "Adaptation Cycle" formed by "Following" (17䷐<sub>*25*</sub>) and "Work on What Has Been Spoiled" (18䷑<sub>*38*</sub>).  This pair-path illustrates the dynamic interplay between aligning oneself with the natural flow and addressing past imbalances. 'Following' represents the ascent through harmony and adaptability, while 'Work on What Has Been Spoiled' signifies the descent into rectification and renewal. Together, they embody a cycle of adapting to circumstances and correcting misalignments.
 
 
 
@@ -71,13 +71,13 @@ In the end, transcendence was achieved not in the monument itself, but in the qu
 
 This storm, with its reckless fury, unearthed a raw creative force within Emory. Driven by this energy, he began inscribing symbols upon the rocks with newfound urgency. The storm had marked a necessity for change, urging him to see beyond his comfortable solitude. His hands, adept in the art of patience, now pressed forward with determination, his mind keen to realize the emerging potential.
 
-With each stone, his technique evolved, shaping symbols that harmonized with the land’s vibrant pulse. Yet, as Emory worked tirelessly, his dedication wavered, haunted by echoes of failure—a shadow of conflict that threatened to overshadow his newfound inspiration.
+With each stone, his technique evolved, shaping symbols that harmonized with the land’s vibrant pulse. Yet, as Emory worked tirelessly, his dedication wavered, haunted by echoes of failure, a shadow of conflict that threatened to overshadow his newfound inspiration.
 
 But the valley held mysteries of its own. The land, in its boundless wisdom, spoke through the trickle of streams and the rustle of leaves, encouraging Emory's heart to listen deeper. As his understanding deepened, the lines on the stones began to narrate not only their past but foretold a future that intertwined with nature's enduring spirit.
 
-The runes became a testament to his mastery—a bridge between man and nature, articulated through the enduring strength of the land and the subtle power of the wind.
+The runes became a testament to his mastery, a bridge between man and nature, articulated through the enduring strength of the land and the subtle power of the wind.
 
-Finally, the valley stood transformed—not in appearance, but in essence. The stones bore witness to a cycle renewed, a narrative of renewal heralding nature and consciousness, melded in silent accord. Thus, Emory, the hermit, became a keeper of stories, his solitude no longer a retreat but a sanctuary of enlightenment.
+Finally, the valley stood transformed, not in appearance, but in essence. The stones bore witness to a cycle renewed, a narrative of renewal heralding nature and consciousness, melded in silent accord. Thus, Emory, the hermit, became a keeper of stories, his solitude no longer a retreat but a sanctuary of enlightenment.
 
 #### ***Lines in Context:***
 <ul><li><B>1</B> (yin) <i>Emergence</i> - A powerful storm awakens dormant creativity within Emory, igniting a spirit of innovation and transformation. <i>Moving line</i> - When yin shifts to yang, Emory's imaginative zeal might overrun reasoned planning, creating chaos rather than clarity in his artistic endeavors.</li></ul>
@@ -90,17 +90,17 @@ Finally, the valley stood transformed—not in appearance, but in essence. The s
 ##### The Whisper of the Renewal (Man vs. Self)
 ### *In the style of Haruki Murakami*
 
-#### In the heart of an ancient city, where cobblestones held the memory of a thousand stories, lived a man named Daichi. For years, his life had unfolded with the gentle predictability of tides, each day a repetition of the last, a subtle dance of tasks performed without thought or passion. Yet, beneath the surface, something stirred—a whisper within his soul, a call from the depths of his imagination.
+#### In the heart of an ancient city, where cobblestones held the memory of a thousand stories, lived a man named Daichi. For years, his life had unfolded with the gentle predictability of tides, each day a repetition of the last, a subtle dance of tasks performed without thought or passion. Yet, beneath the surface, something stirred, a whisper within his soul, a call from the depths of his imagination.
 
 The noise began as delicate murmurs, barely audible, urging Daichi to seek beyond the confines of his well-worn routine. This emergence of potential was akin to the first light of dawn creeping across the horizon, hinting at possibilities that lay beyond the edge of his world. As Daichi dared to listen, he discovered a realm where imagination ran wild, a place untouched by the weight of his past and the fear of the unknown.
 
-He hesitated at first, unsure of how to translate this inner awakening into the fabric of his daily life. The formation of this new vision required both courage and patience, crafting a delicate balance between dreams and the reality of his existence. The whispers grew louder, demanding more than simply imagining—they required action.
+He hesitated at first, unsure of how to translate this inner awakening into the fabric of his daily life. The formation of this new vision required both courage and patience, crafting a delicate balance between dreams and the reality of his existence. The whispers grew louder, demanding more than simply imagining, they required action.
 
 But conflict arose, as it always does, when dreams collide with the demands of the familiar world. Daichi wrestled with doubt and fear, his heart torn between the safety of the known and the allure of the uncharted. The inner terrain bristled with tension, a landscape of opposing forces straining against each other. Yet, through this struggle, something remarkable began to manifest.
 
 Each tentative step forward was a testament to Daichi's resolve, each small act a brick laid in the foundation of what was to come. This process of manifestation was not solely about creation but the realization of an inner truth, awakening a deep-seated mastery of self he had long buried under layers of complacency. He found joy in the process, not just in the crafting of his vision, but in the way it reshaped him in return.
 
-Finally, there came a moment of transcendence, a clearing where Daichi stood poised between his past and an expansive future. The boundaries of his former life crumbled like sandcastles meeting the tide, leaving him unburdened by the limits he once feared. Here, among the unfolding landscapes of possibility, Daichi found peace—not merely in the act of creation but in the continuous dance of renewal sunlight revealed, the potential never ceased.
+Finally, there came a moment of transcendence, a clearing where Daichi stood poised between his past and an expansive future. The boundaries of his former life crumbled like sandcastles meeting the tide, leaving him unburdened by the limits he once feared. Here, among the unfolding landscapes of possibility, Daichi found peace, not merely in the act of creation but in the continuous dance of renewal sunlight revealed, the potential never ceased.
 
 #### ***Lines in Context:***
 <ul><li><B>1</B> (yin) <i>Emergence</i> - The initial whisper of creativity signals the dawning of new potential within Daichi's soul. <i>Moving line</i> - When yin shifts to yang, Daichi experiences a surge of creative energy, but it could overwhelm him, leading to chaotic outcomes rather than structured growth.</li></ul>
@@ -118,7 +118,7 @@ Finally, there came a moment of transcendence, a clearing where Daichi stood poi
 
 #### In the mid-19th century, Japan faced the profound challenge of opening its doors after centuries of isolation under Tokugawa rule. The Meiji Restoration of 1868 marked a critical pivot point, as leaders like Emperor Meiji recognized the urgent need to modernize and unify a divided nation. The process began not through radical rebuke of tradition but through harmonious synthesis of Western innovations with deep-rooted Japanese values. Key figures orchestrated a sweeping reassessment of Japan's feudal order, striving for a balance that respected the past while embracing necessary change.
 
-Initially chaotic, the emergence of a new political structure represented the dormant potential within the Japanese spirit. As the formation of new institutions took shape, they navigated the initial turbulence of conflicting ideologies. The following years were characterized by conflict—internally as leaders and citizens grappled with the pace of Westernization, and externally as Japan sought to assert itself on the global stage.
+Initially chaotic, the emergence of a new political structure represented the dormant potential within the Japanese spirit. As the formation of new institutions took shape, they navigated the initial turbulence of conflicting ideologies. The following years were characterized by conflict, internally as leaders and citizens grappled with the pace of Westernization, and externally as Japan sought to assert itself on the global stage.
 
 The manifestation of a strong, centralized government and a modern infrastructure was a testament to the enduring spirit of adaptation and reconciliation. Ultimately, mastery was achieved as Japan became a global power, transcending its past limitations and envisioning a new era of cultural and technological advancement.
 
@@ -135,11 +135,6 @@ The manifestation of a strong, centralized government and a modern infrastructur
 
 ###### *Notes*
 ### **King Wen**: 18 ䷑ <sub>*38*</sub> Work on What Has Been Spoiled; 3 ☶ <sub>*3*</sub> The Still,  Mountain *over* 5 ☴ <sub>*6*</sub> The Gentle, Wind/Wood;
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 <br/>
 <br/>
 <br/>

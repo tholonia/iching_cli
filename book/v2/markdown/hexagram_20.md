@@ -6,7 +6,7 @@
 <span style="font-size:2em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;">20 ䷓</span><span style="font-size:1em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;vertical-align:text-bottom;"> 48 </span><span style="font-size:2em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;">&nbsp; Contemplation</span>
 </div>
 ## The quiet observation that leads to deep understanding. Like wind moving over the earth, this represents the power of patient perception to reveal hidden truths and patterns.
-<img src="/home/jw/store/src/iching_cli/book/v2/prod/20.png">
+<img src="/home/jw/src/iching_cli/book/v2/prod/20.png">
 <span style="margin-bottom: 8px;"> &nbsp; </span>
 ### *"Contemplation" is depicted through an image of a forest, symbolizing the rich network of interconnected tholons that exist within the Thologram structure. The realism of the artwork suggests a deep insight into the nature of awareness and contemplation. The use of a pencil medium reflects the purity and simplicity of observing reality as it is, while subtly revealing the shades and nuances of internal growth. This setting mirrors Henri Cartier-Bresson's technique of capturing decisive moments in time, aligning with the concept of deliberate contemplation to bring about reality. The award-winning nature of the artwork reaffirms its capacity to symbolize profound concepts in the hexagram.*
 <p/>
@@ -34,7 +34,7 @@
 **Negotiation**: The hexagram represents the negotiation between penetrating awareness (Wind) and receptive ground (Earth). This creates a dynamic balance between active perception and passive reception, allowing for deep understanding to emerge naturally. **Limitation**: Structure is provided by the need for sustained attention and the boundaries of perception. The wind above indicates that understanding comes through gentle but persistent inquiry rather than forceful investigation. **Contribution**: This pattern contributes to evolution by demonstrating how conscious observation leads to genuine understanding. It shows how patient attention can reveal the deeper patterns and relationships that govern reality.
 
 #### ***Tholon 16 of 32: "Power and Vision"***
-#### The *dynamic* path is creates "The Power of the Great" (34 <sub>*15*</sub>) and "Contemplation" (20 <sub>*48*</sub>).  The pair-path of Power and Vision represents the dynamic interplay between the exertion of strength and the clarity of insight. As power ascends, it seeks to manifest and influence, while vision descends to provide perspective and understanding. This path emphasizes the balance between action and reflection, urging the integration of forceful energy with mindful observation.
+#### This hexagram is within the *dynamic* path of "Power and Vision" formed by "The Power of the Great" (34䷡<sub>*15*</sub>) and "Contemplation" (20䷓<sub>*48*</sub>).  The pair-path of Power and Vision represents the dynamic interplay between the exertion of strength and the clarity of insight. As power ascends, it seeks to manifest and influence, while vision descends to provide perspective and understanding. This path emphasizes the balance between action and reflection, urging the integration of forceful energy with mindful observation.
 
 
 
@@ -44,7 +44,7 @@
 ##### The Sculptor’s Awakening (Man vs. Man)
 ### *In the style of Haruki Murakami*
 
-#### In a bustling city, a reclusive sculptor named Keiji lived on the top floor of a derelict apartment building. His life was a continual struggle against the mundane pressures of urban existence, yet his heart was set on one quiet ambition—to sculpt a masterpiece that reflected the essence of life itself. Keiji’s studio was filled with stones of potential, each whispering possibilities that only he could discern.
+#### In a bustling city, a reclusive sculptor named Keiji lived on the top floor of a derelict apartment building. His life was a continual struggle against the mundane pressures of urban existence, yet his heart was set on one quiet ambition, to sculpt a masterpiece that reflected the essence of life itself. Keiji’s studio was filled with stones of potential, each whispering possibilities that only he could discern.
 
 The essential quality of Emergence revealed itself as Keiji stood before a raw stone, the embodiment of infinite potential. The vision of creation lay dormant within, awaiting the whisper of his chisel. Watching the shadows dance across its surface, Keiji felt an awakening stir within him, promising a form yet to be realized. In that moment of clarity, he sensed that shifting energies within would demand that inspiration moved seamlessly into creation.
 
@@ -56,7 +56,7 @@ Despite these conflicts, the essence of Manifestation took shape. Each strike of
 
 Nearing the zenith of Mastery, Keiji had honed his craft to encapsulate the symphony of life in stone, embodying a truth laying at the intersection of his intent and material reality. Yet mastery is capricious, destabilized by doubt creeping into his mind. As acclaim came knocking, so too did the fear of falling short linger.
 
-Transcendence was realized in a fleeting, sublime moment when Keiji stood back to observe his completed sculpture beneath the pale light of a new dawn. For a breathless instant, the artwork seemed to breathe—a divine interplay where silence met creation. Then the glamour faded, leaving an echo of a universe captured momentarily in stone. In accepting this impermanence, Keiji recognized the power of his hands as vessels of something greater, harmonizing the dance of creation and surrender.
+Transcendence was realized in a fleeting, sublime moment when Keiji stood back to observe his completed sculpture beneath the pale light of a new dawn. For a breathless instant, the artwork seemed to breathe, a divine interplay where silence met creation. Then the glamour faded, leaving an echo of a universe captured momentarily in stone. In accepting this impermanence, Keiji recognized the power of his hands as vessels of something greater, harmonizing the dance of creation and surrender.
 
 #### ***Lines in Context:***
 <ul><li><B>1</B> (yin) <i>Emergence</i> - The initial creative spark signals the start of bringing an abstract vision into reality. <i>Moving line</i> - As yin changes to yang, Keiji moves from contemplation to action, overcoming inertia to breathe life into inchoate ideas, sparking tangible evolution toward an unexplored path.</li></ul>
@@ -79,7 +79,7 @@ Yet with creation came Conflict. One evening, a fierce storm descended upon Eldo
 
 As the air stilled, Tarian found his resolve. He rebuilt what was lost, Manifestation taking root anew, his hands weaving the chaos into a more resilient beauty. His labor became legend, a testament to the strength found in embracing challenges.
 
-Upon mastering his craft, Tarian understood that his garden was more than a sanctuary—it was an offering to the world, a reflection of universal harmony. His Mastery allowed him to dance with the elements rather than oppose them, creating a legacy of peace.
+Upon mastering his craft, Tarian understood that his garden was more than a sanctuary, it was an offering to the world, a reflection of universal harmony. His Mastery allowed him to dance with the elements rather than oppose them, creating a legacy of peace.
 
 Eventually, Tarian's garden became a place of pilgrimage for those seeking wisdom and solace. In achieving Transcendence, his creation surpassed its origins, weaving itself into the fabric of Eldoria, a testament to man's potential when attuned to the rhythm of nature.
 
@@ -98,13 +98,13 @@ Eventually, Tarian's garden became a place of pilgrimage for those seeking wisdo
 
 Amidst incessant rains and gentle dawns, the essential quality of Emergence made itself known. Standing by her window, she witnessed the city's pulse; a meditative backdrop as faint consciousness thrilled awake, tentatively stepping towards clarity. An unseen hand it seemed had lifted the curtain of slumber, allowing nascent ideas to frolic.
 
-The subsequent season bestowed the Formation, a harmonic dance within her mind—a labyrinth weaving thoughts into cohesive textures as raindrops pounded a steady, binding rhythm on the rooftops. In these moments of synchrony, stillness, her reflections transformed, achieving a firm reality.
+The subsequent season bestowed the Formation, a harmonic dance within her mind, a labyrinth weaving thoughts into cohesive textures as raindrops pounded a steady, binding rhythm on the rooftops. In these moments of synchrony, stillness, her reflections transformed, achieving a firm reality.
 
 But Conflict would not be kept at bay. As an unexpected gale swept through Vespera, scattering Elise's composure with its furious winds, internal havoc turned relentless. Doubts clawed into her conscience, threatening her newfound convictions, rendering the tranquility of thought into frenzy.
 
 Yet resilience followed; Manifestation surfaced as a courageous resolve. Using the quiet after the storm, Elise meticulously reassembled fragments scattered, piecing her internal universe into a radiant expression of intent. Understanding found a roar in its previously muffled heartbeats.
 
-With time, Mastery claimed its throne, as Elise sculpted her reflections, dispersing them through writing—a balm conversing with the city's chorus. Her narrative matured, a tapestry of guidance and sharing.
+With time, Mastery claimed its throne, as Elise sculpted her reflections, dispersing them through writing, a balm conversing with the city's chorus. Her narrative matured, a tapestry of guidance and sharing.
 
 Finally, Elise met Transcendence, where the thread of personal insight wove into the vast tapestry of cosmic understanding. Echoes of rain and wind, now merely hushed companions, shaped symphonies with her whispering prose. Her consciousness expanded beyond herself, into the fabric of the world, entwined with the timeless dance of nature and thought.
 
@@ -141,11 +141,6 @@ The ripple effects of his work were immense, challenging established views and i
 
 ###### *Notes*
 ### **King Wen**: 20 ䷓ <sub>*48*</sub> Contemplation/View; 5 ☴ <sub>*6*</sub> The Gentle,  Wind/Wood *over* 2 ☷ <sub>*0*</sub> The Receptive, Earth;
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 <br/>
 <br/>
 <br/>

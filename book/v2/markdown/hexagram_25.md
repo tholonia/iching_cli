@@ -6,7 +6,7 @@
 <span style="font-size:2em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;">25 ䷘</span><span style="font-size:1em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;vertical-align:text-bottom;"> 57 </span><span style="font-size:2em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;">&nbsp; Spontaneity</span>
 </div>
 ## The state of natural, uncontrived action. Like lightning in clear sky, this represents pure, instinctive response unfiltered by calculation.
-<img src="/home/jw/store/src/iching_cli/book/v2/prod/25.png">
+<img src="/home/jw/src/iching_cli/book/v2/prod/25.png">
 <span style="margin-bottom: 8px;"> &nbsp; </span>
 ### *"Spontaneity" is vividly depicted through the selected imagery, encapsulating the interplay between spontaneity and structure, embodying the essence of natural, unfiltered action akin to lightning in a clear sky. The image showcases a dynamic character, suggestive of the fluidity and immediacy behind instinctive responses unencumbered by calculation. The swirling backdrop of natural elements and vibrant energy translates the concept of an intuitive, authentic response that aligns with universal patterns. This reminds us of the principle that genuine response contributes to systemic harmony and authenticity, echoing the Tholonic principle governing the hexagram. The image breathes life into the ideas of unexpected wisdom emerging naturally out of spontaneity, becoming a visual representation of direct, unmediated expression of awareness.*
 <p/>
@@ -34,7 +34,7 @@
 **Negotiation**: The hexagram represents the negotiation between creative force (Heaven) and awakening energy (Thunder). This creates immediate, authentic expression. **Limitation**: Structure is provided by heaven above, indicating that spontaneity serves higher purpose. Thunder below suggests that action arises naturally. **Contribution**: This pattern contributes to evolution by showing how unfiltered response can be wise. It demonstrates how consciousness can act purely.
 
 #### ***Tholon 7 of 32: "Natural Progress"***
-#### The *dynamic* path is creates "Pushing Upward" (46 <sub>*6*</sub>) and "Innocence" (25 <sub>*57*</sub>).  This pair-path represents the balance between effortful progress and natural authenticity. Ascending through diligent effort and perseverance, while descending embodies a return to simplicity and purity. Together, they illustrate the dynamic interplay between striving for growth and maintaining a state of uncorrupted being.
+#### This hexagram is within the *dynamic* path of "Natural Progress" formed by "Pushing Upward" (46䷭<sub>*6*</sub>) and "Innocence" (25䷘<sub>*57*</sub>).  This pair-path represents the balance between effortful progress and natural authenticity. Ascending through diligent effort and perseverance, while descending embodies a return to simplicity and purity. Together, they illustrate the dynamic interplay between striving for growth and maintaining a state of uncorrupted being.
 
 
 
@@ -46,11 +46,11 @@
 
 #### In the storied realm of Jefferson, where time sluggishly wove its tapestry around old mansions and dirt paths, a gathering of townsfolk erupted in inevitable discord beneath the sluggish Southern sun. The venerable Carmichael brothers owned the sole cotton gin, their strained civility barely masking a tension as palpable as the cloying humidity. The elder, Jeremiah, saw himself a man of progress, urging the ancient machinery into the maelstrom of modernity, while Ezekiel, burdened with nostalgia, clung to tradition like a priest tending sacred ritual.
 
-It was amidst the clatter of shuttles and clashing ideals that their mother, Eliza, who had seen decades roll by like the river, watched them battle for the soul of their inheritance. She understood the inexorable march of time’s progress—a relentless tide against which she too had long ceased to fight. Yet it was a letter from a distant, unyielding past that tipped the scales: a letter from a man who’d walked away from the family with naught but a seed of faith and a whisper of dreams unshackled.
+It was amidst the clatter of shuttles and clashing ideals that their mother, Eliza, who had seen decades roll by like the river, watched them battle for the soul of their inheritance. She understood the inexorable march of time’s progress, a relentless tide against which she too had long ceased to fight. Yet it was a letter from a distant, unyielding past that tipped the scales: a letter from a man who’d walked away from the family with naught but a seed of faith and a whisper of dreams unshackled.
 
-The townspeople, drawn into this unfolding drama, gathered silently around the whitewashed gin as evening descended. The sun’s waning glow silhouetted the brothers in their respective corners—one a figure of force, poised to rend and reshape; the other a sentinel of constancy, whispering against the storm. As the machines exhaled their final breath of the day, a quiet dawn of understanding began its inexorable ascent. Jeremiah, the firebrand, found himself irretrievably bound to Ezekiel beyond earth and air, not by blood alone, but by the fibers of possibility and lineage.
+The townspeople, drawn into this unfolding drama, gathered silently around the whitewashed gin as evening descended. The sun’s waning glow silhouetted the brothers in their respective corners, one a figure of force, poised to rend and reshape; the other a sentinel of constancy, whispering against the storm. As the machines exhaled their final breath of the day, a quiet dawn of understanding began its inexorable ascent. Jeremiah, the firebrand, found himself irretrievably bound to Ezekiel beyond earth and air, not by blood alone, but by the fibers of possibility and lineage.
 
-And it was here, at this ephemeral cusp of dusk and dawn, that the world paused—a composite symphony of discord and unity, where each man, unburdened by precedent, glimpsed the faint silhouette of tomorrow etched against the vast, silent night.
+And it was here, at this ephemeral cusp of dusk and dawn, that the world paused, a composite symphony of discord and unity, where each man, unburdened by precedent, glimpsed the faint silhouette of tomorrow etched against the vast, silent night.
 
 #### ***Lines in Context:***
 <ul><li><B>1</B> (yang) <i>Emergence of Potential</i> - The brothers' initial confrontation reveals the latent potential for a renewed partnership. <i>Moving line</i> - If the potential for collaboration is stifled, it could provoke further division, yet also encourage deeper self-exploration.</li></ul>
@@ -65,11 +65,11 @@ And it was here, at this ephemeral cusp of dusk and dawn, that the world paused�
 
 #### Up in the highlands where clouds kissed the ancient peaks, a lone wanderer named Elara journeyed with the elements as her sole companions. Drawn by the whisper of the wind and the allure of untouched wilderness, she carried a solitude brimming with earnest curiosity. As dawn broke over the craggy horizons, she marveled at the regal mountains, standing testament to eons of untold stories. With each step, Elara felt the ground pulse beneath her feet, resonating with an energy as raw as the westerly gales.
 
-The terrain, unforgiving yet marvelously vivid, challenged her at every turn. Jagged cliffs and covert trails spoke in riddles, testing her resolve and nudging her spirits toward discovery. Yet, amid nature's apparent disdain, Elara discerned a pattern. She began to forge a symbiosis with the land—her heartbeat synchronizing with the mountain's subtle cadence.
+The terrain, unforgiving yet marvelously vivid, challenged her at every turn. Jagged cliffs and covert trails spoke in riddles, testing her resolve and nudging her spirits toward discovery. Yet, amid nature's apparent disdain, Elara discerned a pattern. She began to forge a symbiosis with the land, her heartbeat synchronizing with the mountain's subtle cadence.
 
-On an afternoon when the light danced through the clouds, Elara stumbled upon an outcrop, unveiling a hidden waterfall cascading into an emerald pool. Still and reflecting, it mirrored the mountain's heart—as fiercely untamed as it was softly inviting. In that moment, she grasped a truth; mastery lay not in overcoming the surrounding wildness but in aligning with its untamed essence. Her journey had led her to the mountain's secret, there at that tranquil fall, where she understood the boundless dance of spontaneous creation.
+On an afternoon when the light danced through the clouds, Elara stumbled upon an outcrop, unveiling a hidden waterfall cascading into an emerald pool. Still and reflecting, it mirrored the mountain's heart, as fiercely untamed as it was softly inviting. In that moment, she grasped a truth; mastery lay not in overcoming the surrounding wildness but in aligning with its untamed essence. Her journey had led her to the mountain's secret, there at that tranquil fall, where she understood the boundless dance of spontaneous creation.
 
-And thus, Elara sat, cradled by the Earth's majesty, entranced not by visions of conquest, but by the epiphany of coalescence—of becoming one with the mountain’s eternal, unfettered song.
+And thus, Elara sat, cradled by the Earth's majesty, entranced not by visions of conquest, but by the epiphany of coalescence, of becoming one with the mountain’s eternal, unfettered song.
 
 #### ***Lines in Context:***
 <ul><li><B>1</B> (yang) <i>The Spark of Exploration</i> - The first step on her journey is driven by a spontaneous impulse to explore the unknown. <i>Moving line</i> - Changing course from exploration to stagnation might offer safety but could prevent the emergence of profound realizations inherent in adventure.</li></ul>
@@ -117,11 +117,6 @@ It was in the crescendo of this unwritten symphony that Gregory discovered the t
 
 ###### *Notes*
 ### **King Wen**: 25 ䷘ <sub>*57*</sub> Innocence; 3 ☶ <sub>*3*</sub> The Still,  Mountain *over* 7 ☲ <sub>*5*</sub> The Clinging, Fire;
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 <br/>
 <br/>
 <br/>

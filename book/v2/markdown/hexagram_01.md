@@ -6,7 +6,7 @@
 <span style="font-size:2em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;">1 ䷀</span><span style="font-size:1em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;vertical-align:text-bottom;"> 63 </span><span style="font-size:2em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;">&nbsp; Creation</span>
 </div>
 ## The pure force of origination and initiative. Like heaven generating existence, this represents the primary creative impulse that initiates all manifestation.
-<img src="/home/jw/store/src/iching_cli/book/v2/prod/01.png">
+<img src="/home/jw/src/iching_cli/book/v2/prod/01.png">
 <span style="margin-bottom: 8px;"> &nbsp; </span>
 ### *"Creation" is vividly symbolized by a swirling dragon, a universal icon for primal, unrestrained power. The tholonic concept of free energy shaping new realities is captured through the artists' choice of impressionistic style, which communicates the unbound and constantly evolving nature of creativity. The unpredictability of watercolor, mirroring the spontaneity and transformative quality of origination, along with it's the capability for blending and layering imbues the image with depth. This representation is amplified by the inspiration drawn from J. M. W. Turner's mastery of light and motion, encapsulating the surging energy and emergence of form from chaos, quintessential of pure, dynamic creation.*
 <p/>
@@ -34,7 +34,7 @@
 **Negotiation**: The doubled Heaven signifies a state of pure potential without resistance, where creative force flows freely, unopposed by opposition. Without external constraints, negotiation occurs internally, balancing limitless expansion with the need for directed manifestation. This results in unimpeded generative power, where creation arises from self-harmonization rather than external influence. **Limitation**: Creation is bound by fundamental cosmic principles that shape how existence unfolds. These include physical laws (entropy, symmetry, energy flow), metaphysical structures (synchronicity, resonance, duality), and Tholonic awareness constraints (negotiation, definition, and integration). The doubled Heaven amplifies these structuring forces, ensuring that creativity follows an ordered, intelligible pattern rather than arising from formless chaos. **Contribution**: The doubled Heaven signifies not only outward creative force but also inward self-refinement, illustrating that directed will operates both externally, shaping reality, and internally, refining awareness. This dual movement fosters both expansion and deepened understanding, ensuring that creation is not just projection but also self-integration. Through this, consciousness evolves by both manifesting reality and realizing itself.
 
 #### ***Tholon 1 of 32: "Primordial Duality"***
-#### The *dynamic* path is creates "The Receptive" (2 <sub>*0*</sub>) and "The Creative" (1 <sub>*63*</sub>).  This pair-path embodies the fundamental duality of existence, where The Creative (Hexagram 1) represents the active, initiating force of creation, and The Receptive (Hexagram 2) symbolizes the passive, nurturing aspect that allows creation to manifest. Together, they reflect the cyclical nature of beginnings and the balance of opposing forces.
+#### This hexagram is within the *dynamic* path of "Primordial Duality" formed by "The Receptive" (2䷁<sub>*0*</sub>) and "The Creative" (1䷀<sub>*63*</sub>).  This pair-path embodies the fundamental duality of existence, where The Creative (Hexagram 1) represents the active, initiating force of creation, and The Receptive (Hexagram 2) symbolizes the passive, nurturing aspect that allows creation to manifest. Together, they reflect the cyclical nature of beginnings and the balance of opposing forces.
 
 
 
@@ -50,7 +50,7 @@ Alexander worked tirelessly with his team, drafting plans that echoed the harmon
 
 Yet, amidst conflicts and controversy, Alexander's unwavering dedication to his craft persisted. He navigated the chaos, finding balance between aesthetic and pragmatism, a testament to his mastery.
 
-On the day the project completed, the city awoke to a marvel—Alexander's tower, a radiant masterpiece that played with light and shadow. As sunlight kissed the pinnacle of the skyscraper, it transcended its physical bounds, becoming a beacon of hope and innovation.
+On the day the project completed, the city awoke to a marvel, Alexander's tower, a radiant masterpiece that played with light and shadow. As sunlight kissed the pinnacle of the skyscraper, it transcended its physical bounds, becoming a beacon of hope and innovation.
 
 Alexander stood below, witnessing his vision realized beyond expectations, a monumental testament to the power of creation.
 
@@ -71,7 +71,7 @@ With tools forged from intention and vision, he began his endeavor, guiding ston
 
 Yet balance was elusive. As seasons passed, the fervor of his creation threatened to dislodge the equilibrium of nature. Storms brewed, passionate and wild like a tempestuous sea, testing the integrity of Lysander's vision. But from chaos arose clarity; a revelation that true creation lay not in force but in harmony.
 
-Finally, Lysander stepped back, acknowledging that his masterpiece was both the valley and the understanding of its ebbs and flows. The sun set upon his creation, a kaleidoscope of reflection and brilliance—a tapestry of life woven from the core of existence, vibrant in the evening glow.
+Finally, Lysander stepped back, acknowledging that his masterpiece was both the valley and the understanding of its ebbs and flows. The sun set upon his creation, a kaleidoscope of reflection and brilliance, a tapestry of life woven from the core of existence, vibrant in the evening glow.
 
 #### ***Lines in Context:***
 <ul><li><B>1</B> (yang) <i>Primordial Spark</i> - The primordial spark ignites Lysander's emergence into creative consciousness, birthing a new world through imagination. <i>Moving line</i> - Should yang transition to yin, stagnation threatens emergence. Yet, introspection offers reflective pause, a tide of innovation born from stillness over impetuous action.</li></ul>
@@ -84,13 +84,13 @@ Finally, Lysander stepped back, acknowledging that his masterpiece was both the 
 ##### The Alchemist's Journey (Man vs. Self)
 ### *In the style of J.R.R. Tolkien*
 
-#### In a quaint village cradled by lofty, serene mountains, there lived an alchemist named Elandor. His heart burned with an unyielding desire to transform ordinary stones into precious gold—an aspiration both ambitious and perilous. Surrounded by ancient tomes and curious instruments, Elandor spent his days stirring elixirs and scribbling notes, striving to unlock nature's deepest secrets.
+#### In a quaint village cradled by lofty, serene mountains, there lived an alchemist named Elandor. His heart burned with an unyielding desire to transform ordinary stones into precious gold, an aspiration both ambitious and perilous. Surrounded by ancient tomes and curious instruments, Elandor spent his days stirring elixirs and scribbling notes, striving to unlock nature's deepest secrets.
 
-One evening, as the twilight painted the sky with a mystic hue, an idea sparked within him—a formula that might hold the key to his quest. Emboldened by this dawn of realization, Elandor devoted every thought and movement to manifesting it, his every breath feeding the burgeoning blaze of creativity.
+One evening, as the twilight painted the sky with a mystic hue, an idea sparked within him, a formula that might hold the key to his quest. Emboldened by this dawn of realization, Elandor devoted every thought and movement to manifesting it, his every breath feeding the burgeoning blaze of creativity.
 
 However, balance is a delicate dance, and Elandor soon found himself ensnared by doubt. As the elementals rebelled against his ambitious attempts, chaos threatened to unravel his meticulous plans. Seeking solace, Elandor retreated to the forest, where nature whispered the secrets of harmony. From the rustling leaves, he gleaned clarity, understanding that innovation must be in tune with the universe's gentle rhythms.
 
-Renewed and resolute, Elandor returned to his study. With each careful act, he constructed an alchemical masterpiece—a shining testament to perseverance and the art of creation, bridging the realm of dreams and reality. It was more than gold; it was a fusion of spirit and substance, crafted through humility, insight, and the ceaseless dance of creation.
+Renewed and resolute, Elandor returned to his study. With each careful act, he constructed an alchemical masterpiece, a shining testament to perseverance and the art of creation, bridging the realm of dreams and reality. It was more than gold; it was a fusion of spirit and substance, crafted through humility, insight, and the ceaseless dance of creation.
 
 #### ***Lines in Context:***
 <ul><li><B>1</B> (yang) <i>Primordial Spark</i> - The initial inspiration ignites Elandor’s pursuit, guiding him toward the mysteries of transformation. <i>Moving line</i> - If yang changes to yin, doubt and hesitation might eclipse his vision, impeding progress. Reflection could rekindle insight, leading to renewed creative fervor.</li></ul>
@@ -106,7 +106,7 @@ Renewed and resolute, Elandor returned to his study. With each careful act, he c
 
 ##### *The Birth of the Internet*
 
-#### In the late 1960s, amidst the revolutionary fervor of technology's golden age, a visionary project quietly unfurled—the creation of the ARPANET, the precursor to today's Internet. Conceived by scientists and engineers, this network aimed to transcend the limitations of distance and connect diverse computing systems. The project's emergence was a burst of creativity, echoing through research labs worldwide. As engineers laid the groundwork, glimmers of a connected future began to crystallize. 1969 marked the successful transmission of data between UCLA and Stanford, the primordial spark in a long chain of connectivity. Each step of creation demanded persistent growth and adaptation, echoing the hexagram's elements of formation and conflict. With every packet of information sent, the world drew closer to a new reality. By overcoming technical conflicts and constraints, the project evolved rapidly, morphing into the robust network infrastructure we know today. As the Internet emerged, it was no longer just a string of connections, but a dynamic realm of endless potential. This technological transcendence reshaped our world, illustrating the hexagram's promise of creation and the inexhaustible strength within innovative force.
+#### In the late 1960s, amidst the revolutionary fervor of technology's golden age, a visionary project quietly unfurled, the creation of the ARPANET, the precursor to today's Internet. Conceived by scientists and engineers, this network aimed to transcend the limitations of distance and connect diverse computing systems. The project's emergence was a burst of creativity, echoing through research labs worldwide. As engineers laid the groundwork, glimmers of a connected future began to crystallize. 1969 marked the successful transmission of data between UCLA and Stanford, the primordial spark in a long chain of connectivity. Each step of creation demanded persistent growth and adaptation, echoing the hexagram's elements of formation and conflict. With every packet of information sent, the world drew closer to a new reality. By overcoming technical conflicts and constraints, the project evolved rapidly, morphing into the robust network infrastructure we know today. As the Internet emerged, it was no longer just a string of connections, but a dynamic realm of endless potential. This technological transcendence reshaped our world, illustrating the hexagram's promise of creation and the inexhaustible strength within innovative force.
 
 <div style="font-size: 8pt;font-style:italic">Source: "Where Wizards Stay Up Late: The Origins of the Internet" by Katie Hafner and Matthew Lyon (1996), "The Innovators: How a Group of Hackers, Geniuses, and Geeks Created the Digital Revolution" by Walter Isaacson (2014)</div>
 
@@ -121,11 +121,6 @@ Renewed and resolute, Elandor returned to his study. With each careful act, he c
 
 ###### *Notes*
 ### **King Wen**: 1 ䷀ <sub>*63*</sub> The Creative; 1 ☰ <sub>*7*</sub> The Creative,  Heaven *over* 1 ☰ <sub>*7*</sub> The Creative, Heaven;
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 <br/>
 <br/>
 <br/>

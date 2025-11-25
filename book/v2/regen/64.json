@@ -5,7 +5,7 @@
     "date": "Sun Mar 02 01:06:27 AM  2025",
     "notes": "",
     "hexagram_code": "\u4dff",
-    "name": "Imminence",
+    "name": "Emergent Chaos",
     "description": "A moment of dynamic tension where all is in motion, yet resolution remains just beyond reach. Transformation is imminent; embrace uncertainty, for within it lies the potential for renewal and new beginnings.",
     "king_wen": {
         "sequence": 64,
@@ -102,7 +102,7 @@
     },
     "energy_cycle": "descending",
     "stories": {
-        "title": "Three Tales of \"Final Integration\"",
+        "title": "Three Tales of \"Emergent Chaos\"",
         "entries": [
             {
                 "title": "A Clash of Visions (Man vs. Man)",
@@ -219,7 +219,7 @@
     },
     "history": {
         "title": "The Dawn of Quantum Computing",
-        "subtitle": "\"Imminence\" in History",
+        "subtitle": "\"Emergent Chaos\" in History",
         "short_story": "In the quantum realm, complexity and uncertainty shroud the vast potential awaiting realization. October 23, 2019, marked a breakthrough as Google declared 'Quantum Supremacy,' indicating quantum computers completed calculations inconceivable for classical systems. This announcement was akin to humanity glimpsing the boundless horizon of computation, where quantum bits (qubits) danced in probabilistic harmony. Challenges loomed large; coherence and error rates posed serious barriers. However, the promise of solving previously intractable problems spurred scientists worldwide to scrutinize and refine this nascent technology. As algorithms developed in complexity, a network of research unfolded, showing a path from conceptual initiation towards pragmatic fruition. Quantum computers offered insights into nature's underlying patterns, embodying the tension and synergy between divergent states of potential. Just like the anticipation in a hexagram awaiting completion, this achievement signaled the transient moment where foundational understanding transforms into the fabric of future innovations.",
         "source": [
             "Article: 'Quantum Supremacy Using a Programmable Superconducting Processor' by F. Arute et al., Nature, 2019",

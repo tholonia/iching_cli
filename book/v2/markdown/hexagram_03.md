@@ -6,7 +6,7 @@
 <span style="font-size:2em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;">3 ䷂</span><span style="font-size:1em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;vertical-align:text-bottom;"> 17 </span><span style="font-size:2em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;">&nbsp; Initiation</span>
 </div>
 ## The challenging beginning of new growth. Like plants breaking through soil, this represents the difficult but necessary start of any significant endeavor.
-<img src="/home/jw/store/src/iching_cli/book/v2/prod/03.png">
+<img src="/home/jw/src/iching_cli/book/v2/prod/03.png">
 <span style="margin-bottom: 8px;"> &nbsp; </span>
 ### *"Initiation" is visualized through the portrayal of sprouting seeds that mirror the concept of grueling beginnings. The seeds breaking through soil act as a metaphor for the complex interaction between water and thunder, depicting the tension between movement and obstacle that is essential to the Tholonic Model. The vivid colors and intense textures portray the primal force and vivacity that chart the course of initial endeavors, aligning harmoniously with the holistic structure and interconnectedness of the Tholonic systems. Ultimately, the artwork captures the notion of awareness giving birth to innovative pathways and overcoming resistance, encapsulating the essence of "Initiation."*
 <p/>
@@ -34,7 +34,7 @@
 **Negotiation**: The hexagram represents the negotiation between flowing resistance (Water) and awakening force (Thunder). This creates dynamic tension between movement and obstacle. **Limitation**: Structure is provided by water above, indicating that growth faces resistance. Thunder below suggests that energy must break through barriers. **Contribution**: This pattern contributes to evolution by showing how new developments emerge. It demonstrates how initiative overcomes inertia.
 
 #### ***Tholon 18 of 32: "Transformation Cycle"***
-#### The *dynamic* path is creates "Difficulty at the Beginning" (3 <sub>*17*</sub>) and "The Cauldron" (50 <sub>*46*</sub>).  This pair-path represents the journey from initial struggles and challenges to the maturation and transformation of potential into reality. It is a cycle of growth, where difficulties are the raw materials that, through perseverance and transformation, lead to the creation of something valuable and nourishing.
+#### This hexagram is within the *dynamic* path of "Transformation Cycle" formed by "Difficulty at the Beginning" (3䷂<sub>*17*</sub>) and "The Cauldron" (50䷱<sub>*46*</sub>).  This pair-path represents the journey from initial struggles and challenges to the maturation and transformation of potential into reality. It is a cycle of growth, where difficulties are the raw materials that, through perseverance and transformation, lead to the creation of something valuable and nourishing.
 
 
 
@@ -71,7 +71,7 @@ In that moment, the conservatory became more than a building; it transformed int
 
 With time, a tender sprout broke the soil, tentative yet relentless in its quest for the sun. The forest, dense and imposing, stood as both sanctuary and adversary. Ancient oaks cast sprawling shadows, and the wind sang warnings through the boughs.
 
-As the sprout grew into a sapling, it faced the trials of nature's whimsy—the sun was harsh, the rains torrential, yet the sapling embraced the onslaught as lessons of strength. Slowly, it learned to dance with the wind rather than resist it and to bask in the fleeting sun.
+As the sprout grew into a sapling, it faced the trials of nature's whimsy, the sun was harsh, the rains torrential, yet the sapling embraced the onslaught as lessons of strength. Slowly, it learned to dance with the wind rather than resist it and to bask in the fleeting sun.
 
 Realizing profound truths, the sapling prepared to claim its place among the towering elders. Each new branch was a testament to its resilience, each leaf a flag of victory. In harmony with the forest rhythms, it transformed, not just surviving but flourishing.
 
@@ -90,7 +90,7 @@ Through years etched into rings, the sapling matured into a majestic tree, its b
 
 #### In a secluded village, nestled at the edge of a vast forest, lived a reclusive lantern maker named Satoshi. Known for his intricate designs and radiant lanterns, Satoshi's creations were said to illuminate not just spaces but also the spirit within. Yet, his life was shrouded in solitude, a choice made under the weight of past regrets and forgotten dreams.
 
-One evening, as the pale moonlight bathed his workshop, Satoshi began crafting his masterpiece—a lantern that could capture the essence of sunlight. It was an endeavor born from a flickering idea during twilight, a moment when the mundane and the magical intertwined.
+One evening, as the pale moonlight bathed his workshop, Satoshi began crafting his masterpiece, a lantern that could capture the essence of sunlight. It was an endeavor born from a flickering idea during twilight, a moment when the mundane and the magical intertwined.
 
 As he worked, the boundaries of his world shifted. Mysterious encounters with the forest creatures stirred his imagination, blurring the lines between reality and the dreams he once held dear. He found solace in the quiet emergence of dawn and the whispered secrets of the woods, each a gentle nudge toward self-discovery.
 
@@ -129,11 +129,6 @@ As light spilled from his workshop into the village, curiosity replaced the vill
 
 ###### *Notes*
 ### **King Wen**: 3 ䷂ <sub>*17*</sub> Difficulty at the Beginning; 6 ☵ <sub>*2*</sub> The Abysmal,  Water *over* 4 ☳ <sub>*1*</sub> The Arousing, Thunder;
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 <br/>
 <br/>
 <br/>

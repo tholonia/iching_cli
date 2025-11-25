@@ -6,7 +6,7 @@
 <span style="font-size:2em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;">50 ䷱</span><span style="font-size:1em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;vertical-align:text-bottom;"> 46 </span><span style="font-size:2em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;">&nbsp; Transformation</span>
 </div>
 ## The sacred vessel that enables transformation and renewal. Like a crucible that transforms base metals or a ritual space that transforms consciousness, this represents the container or context that makes profound change possible.
-<img src="/home/jw/store/src/iching_cli/book/v2/prod/50.png">
+<img src="/home/jw/src/iching_cli/book/v2/prod/50.png">
 <span style="margin-bottom: 8px;"> &nbsp; </span>
 ### *"Transformation" is compellingly portrayed through the selected elements and styles of the artwork. The retort, embodying the idea of integration and higher-order emergence, symbolizes the transformational vessel, mirroring the theme of the hexagram. The surrealist style signifies the Tholonic principle of awareness forming complex structures. The inclusion of Leonardo da Vinci, an epitome of universal love and creativity, adds multiple layers of dimensional awareness. The medium of ink, reflecting the principles of limitation and contribution, symbolizes the definition and integration of emergent structures. Together, these elements encapsulate the essence of transformation according to the Tholonic Model.*
 <p/>
@@ -34,7 +34,7 @@
 **Negotiation**: The hexagram represents the balance between container and contained. The gentle wind below feeds the fire above, showing how supportive conditions enable transformation. **Limitation**: The structure defines boundaries necessary for safe transformation. It establishes how change must occur within protected space, showing that transformation requires proper containment. **Contribution**: This configuration contributes to systemic evolution by demonstrating how structured environments enable transformation. It shows how proper vessels facilitate sustainable change.
 
 #### ***Tholon 18 of 32: "Transformation Cycle"***
-#### The *dynamic* path is creates "Difficulty at the Beginning" (3 <sub>*17*</sub>) and "The Cauldron" (50 <sub>*46*</sub>).  This pair-path represents the journey from initial struggles and challenges to the maturation and transformation of potential into reality. It is a cycle of growth, where difficulties are the raw materials that, through perseverance and transformation, lead to the creation of something valuable and nourishing.
+#### This hexagram is within the *dynamic* path of "Transformation Cycle" formed by "Difficulty at the Beginning" (3䷂<sub>*17*</sub>) and "The Cauldron" (50䷱<sub>*46*</sub>).  This pair-path represents the journey from initial struggles and challenges to the maturation and transformation of potential into reality. It is a cycle of growth, where difficulties are the raw materials that, through perseverance and transformation, lead to the creation of something valuable and nourishing.
 
 
 
@@ -44,13 +44,13 @@
 ##### The Crucible's Edge (Man vs. Man)
 ### *In the style of Inspired by Fyodor Dostoevsky*
 
-#### In the heart of a city teetering on the brink of modernization, Alina, a young engineer, found herself entangled in the intricate web of industrial politics. Her task was monumental—a groundbreaking project to harness renewable energy amidst a landscape marred by antiquated infrastructures and resistant leaders. Her vision of solar-powered cities hovered like an elusive specter over the polluted skyline.
+#### In the heart of a city teetering on the brink of modernization, Alina, a young engineer, found herself entangled in the intricate web of industrial politics. Her task was monumental, a groundbreaking project to harness renewable energy amidst a landscape marred by antiquated infrastructures and resistant leaders. Her vision of solar-powered cities hovered like an elusive specter over the polluted skyline.
 
 The resistance she faced, both from bureaucratic red tape and from her own doubts, was relentless. Each meeting with the city officials was a taut negotiation between her dreams and their skepticism. Some mocked her ambitions, seeing them as naïve folly amidst their quests for immediate profits. Yet, Alina persisted, her resolve ignited by the quiet fury of her conviction.
 
-After months of grueling advocacy, Alina's project was finally approved. However, the path to realization was fraught with complexities. Implementation required delicate coordination of resources and personnel, each element needing precision. Unexpected setbacks arose—political sabotage, supply shortages—yet each was met with Alina’s unwavering perseverance.
+After months of grueling advocacy, Alina's project was finally approved. However, the path to realization was fraught with complexities. Implementation required delicate coordination of resources and personnel, each element needing precision. Unexpected setbacks arose, political sabotage, supply shortages, yet each was met with Alina’s unwavering perseverance.
 
-As the first solar panels began to capture the dawn’s light, a new chapter unfolded; the city slowly embraced its transformation. The subtle rhythms of progress played an undeniable melody across its spaces, hinting at a future reimagined. It was in the shadows of these towering panels, amidst her triumphs and tribulations, that Alina saw the emergence of a new equilibrium—a testament to the transformative power of vision and will.
+As the first solar panels began to capture the dawn’s light, a new chapter unfolded; the city slowly embraced its transformation. The subtle rhythms of progress played an undeniable melody across its spaces, hinting at a future reimagined. It was in the shadows of these towering panels, amidst her triumphs and tribulations, that Alina saw the emergence of a new equilibrium, a testament to the transformative power of vision and will.
 
 Through this crucible of change, she realized that true mastery lay not in the undisturbed execution of plans, but in the dance with adversity. The city she had reshaped was not just a testament to technological advancement but a beacon of hope that revealed what could be achieved through relentless dedication and insight.
 
@@ -65,15 +65,15 @@ Through this crucible of change, she realized that true mastery lay not in the u
 ##### The Alchemy of Dawn (Man vs. Nature)
 ### *In the style of Paulo Coelho*
 
-#### In a remote village nestled amidst verdant hills and whispering streams, a young herbalist named Lina embarked on a journey to create an elixir capable of healing the most deep-seated wounds. Her heart brimmed with an untapped potential that mirrored the virgin morning light—a promise of transformation lingering in the fragrant air.
+#### In a remote village nestled amidst verdant hills and whispering streams, a young herbalist named Lina embarked on a journey to create an elixir capable of healing the most deep-seated wounds. Her heart brimmed with an untapped potential that mirrored the virgin morning light, a promise of transformation lingering in the fragrant air.
 
 Lina's quest began with the gathering of rare herbs, each linked to the mysteries of the earth and sky. Despite the initial struggle to decode their enigmatic properties, Lina's laboratory was a sanctuary where the alchemical dance between mystery and understanding unfolded. Days blurred into nights as she sought the perfect blend, her endeavors shadowed by both doubt and inspiration.
 
 The village, long burdened by a sense of stagnation, watched Lina's efforts with wary hope. Conflict brewed in her experiments, as sudden bursts of transformation threatened to destabilize her meticulous work. Yet, amid setbacks, Lina discovered truths buried within failures, learning to embrace the rhythm of nature’s lessons.
 
-As dawn broke one miraculous day, Lina's elixir materialized—a golden liquid radiating warmth and vitality. She offered it to her people, a testament to their shared journey through the crucible of uncertainty to the realization of potential. The village flourished, forged anew by the gift of healing.
+As dawn broke one miraculous day, Lina's elixir materialized, a golden liquid radiating warmth and vitality. She offered it to her people, a testament to their shared journey through the crucible of uncertainty to the realization of potential. The village flourished, forged anew by the gift of healing.
 
-Lina's story had transcended mere alchemy; it became a tale of unity, resilience, and the endless cycle of creation—a dance of light and shadow that celebrated the art of balancing change with wisdom.
+Lina's story had transcended mere alchemy; it became a tale of unity, resilience, and the endless cycle of creation, a dance of light and shadow that celebrated the art of balancing change with wisdom.
 
 #### ***Lines in Context:***
 <ul><li><B>1</B> (yin) <i>Emergence of Potential</i> - The nascent potential within Lina's early efforts begins to take form, heralding the inception of her journey. <i>Moving line</i> - If yin changes to yang, Lina's initial hesitance transforms into assertive action, propelling her forward, though it risks overwhelming delicate processes should haste obscure the nuanced path of growth.</li></ul>
@@ -88,11 +88,11 @@ Lina's story had transcended mere alchemy; it became a tale of unity, resilience
 
 #### In the quaint village of Westerham, where the gentle hum of life clashed quietly with introspection, lived Beatrice, a woman of profound solitude and dreams unspoken. Her cottage, nestled between the whispers of old oaks and the murmurs of a brook, held the echo of aspirations and the scent of ink on paper. Here, Beatrice battled the silent tides of her soul, seeking the spark that could illuminate the shadows looming within.
 
-Her journey began in the solitude of thought—a landscape of unbridled potential that fluttered like autumn leaves, endlessly promising yet frustratingly elusive. Each day, she wrestled with the enigma of creation, her vision clouded by self-doubt. Yet, beneath this tumultuous sea of introspection, a determination quietly simmered.
+Her journey began in the solitude of thought, a landscape of unbridled potential that fluttered like autumn leaves, endlessly promising yet frustratingly elusive. Each day, she wrestled with the enigma of creation, her vision clouded by self-doubt. Yet, beneath this tumultuous sea of introspection, a determination quietly simmered.
 
 Through endless hours of solitary reflection, Beatrice found her moments of clarity, weaving them delicately into a tapestry of purpose. Her writing desk became a theatre where inner drama unfolded, each page a testament to the struggle between potential and realization.
 
-On a fateful evening, as a tender moonlight bathed her in tranquility, Beatrice's words flowed freely, capturing the elusive essence of her dreams. She had given life to her silent yearnings, crafting a tale resonant with the universal dance of potential and manifestation—a narrative of elegance born from chaos.
+On a fateful evening, as a tender moonlight bathed her in tranquility, Beatrice's words flowed freely, capturing the elusive essence of her dreams. She had given life to her silent yearnings, crafting a tale resonant with the universal dance of potential and manifestation, a narrative of elegance born from chaos.
 
 This newfound clarity was not an end but a beginning, a catalyst for further exploration and growth. Beatrice emerged from her internal crucible transformed, her inner world now a mosaic of vibrant dreams realized. In her retreat, she had discovered the depth of her existence, transcending the boundaries of her own making. Her story was a tribute to the introspective journey, revealing how solitude and reflection could lead to the profound awakening of the soul.
 
@@ -110,7 +110,7 @@ This newfound clarity was not an end but a beginning, a catalyst for further exp
 
 ##### *The Birth of a New Era at the Trinity Site*
 
-#### In the predawn stillness of July 16, 1945, a gathering of profound intellect and intention coalesced in the isolated desert plains of New Mexico, a site chosen for its austere solitude and formidable remoteness. Under the watchful gaze of esteemed scientists, the world's first atomic bomb awaited its inaugural detonation—an event that would transcend mere scientific endeavor to alter the narrative of human history. As the countdown reached its fateful conclusion, the detonation created a radiant dawn, unmasking a powerful force long considered impossible to wield. This cataclysmic birth of the atomic age was both a culmination of meticulous exploration and a venture into the realm of unprecedented responsibility and power. Amidst the spectacle of light, fear and awe melded, each pulse of energy a testament to the limitless potentials of transformation awakened. The scientists, led by J. Robert Oppenheimer, stood as witnesses to unequivocal metamorphosis, forever altering the trajectory of both conflict and peace. The Trinity Site itself became sacred ground—a vessel for the chaotic dance of creation and destruction, its legacy echoing through the annals of time.
+#### In the predawn stillness of July 16, 1945, a gathering of profound intellect and intention coalesced in the isolated desert plains of New Mexico, a site chosen for its austere solitude and formidable remoteness. Under the watchful gaze of esteemed scientists, the world's first atomic bomb awaited its inaugural detonation, an event that would transcend mere scientific endeavor to alter the narrative of human history. As the countdown reached its fateful conclusion, the detonation created a radiant dawn, unmasking a powerful force long considered impossible to wield. This cataclysmic birth of the atomic age was both a culmination of meticulous exploration and a venture into the realm of unprecedented responsibility and power. Amidst the spectacle of light, fear and awe melded, each pulse of energy a testament to the limitless potentials of transformation awakened. The scientists, led by J. Robert Oppenheimer, stood as witnesses to unequivocal metamorphosis, forever altering the trajectory of both conflict and peace. The Trinity Site itself became sacred ground, a vessel for the chaotic dance of creation and destruction, its legacy echoing through the annals of time.
 
 <div style="font-size: 8pt;font-style:italic">Source: "American Prometheus: The Triumph and Tragedy of J. Robert Oppenheimer" by Kai Bird and Martin J. Sherwin (Vintage Books, 2006)</div>
 
@@ -125,11 +125,6 @@ This newfound clarity was not an end but a beginning, a catalyst for further exp
 
 ###### *Notes*
 ### **King Wen**: 50 ䷱ <sub>*46*</sub> ; 7 ☲ <sub>*5*</sub> The Clinging,  Fire *over* 5 ☴ <sub>*6*</sub> The Gentle, Wind/Wood;
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 <br/>
 <br/>
 <br/>

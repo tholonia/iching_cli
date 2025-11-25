@@ -6,7 +6,7 @@
 <span style="font-size:2em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;">58 ䷹</span><span style="font-size:1em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;vertical-align:text-bottom;"> 27 </span><span style="font-size:2em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;">&nbsp; Resonance</span>
 </div>
 ## The joyful exchange of energy and ideas between compatible elements. Like harmonious music or synchronized oscillators, this represents the natural alignment of complementary forces and the pleasure of mutual enhancement.
-<img src="/home/jw/store/src/iching_cli/book/v2/prod/58.png">
+<img src="/home/jw/src/iching_cli/book/v2/prod/58.png">
 <span style="margin-bottom: 8px;"> &nbsp; </span>
 ### *"Resonance" is evocatively depicted through the chosen elements and styles of this image, which reflect the principles of completion, dynamic harmony, and creative spontaneity. The jazz ensemble embodies the concept of resonance, as musicians engage in harmonious interaction by responding to each other's notes, creating a transcendent whole. The style of Impressionism captures evanescent moments of joy and fulfillment, resonating with the notion of actualized joy and renewal. The image of Picasso's spontaneous creative expression symbolizes universal love, driving continuous renewal in the Thologram. Furthermore, the musical medium enhances the abstract yet consequential aspects of resonance, echoing tholonic energy's influence in shaping experiences and connections.*
 <p/>
@@ -34,7 +34,7 @@
 **Negotiation**: The hexagram represents the balance between giving and receiving. The doubled lake shows how joy multiplies through sharing, demonstrating that mutual exchange creates abundance. **Limitation**: The structure defines boundaries between genuine and superficial connection. It establishes how sharing must maintain authenticity, showing that true resonance requires honesty. **Contribution**: This configuration contributes to systemic evolution by demonstrating how harmonious interaction enhances all participants. It shows how aligned energies create greater effects than isolated ones.
 
 #### ***Tholon 28 of 32: "Dynamic Equilibrium"***
-#### The *dynamic* path is creates "Joyous" (58 <sub>*27*</sub>) and "Keeping Still" (52 <sub>*36*</sub>).  This pair-path represents the dynamic balance between movement and stillness, highlighting how joy and interaction (58 Joyous) ascend towards a state of serene stability (52 Keeping Still), and vice versa. It emphasizes the interplay between active engagement and contemplative rest, fostering a harmonious existence.
+#### This hexagram is within the *dynamic* path of "Dynamic Equilibrium" formed by "Joyous" (58䷹<sub>*27*</sub>) and "Keeping Still" (52䷳<sub>*36*</sub>).  This pair-path represents the dynamic balance between movement and stillness, highlighting how joy and interaction (58 Joyous) ascend towards a state of serene stability (52 Keeping Still), and vice versa. It emphasizes the interplay between active engagement and contemplative rest, fostering a harmonious existence.
 
 
 
@@ -46,9 +46,9 @@
 
 #### In the crowded streets of Istanbul, where past and present intertwine in a dance of contradiction, Maestro Orhan stood as an icon of musical prestige. His symphonies were celebrated for their raw passion and unrestrained genius, a testament to the city's vibrant cultural tapestry. Yet beneath the acclaim, Orhan grappled with the cacophony of his own unfulfilled potential. As he prepared for the city's grand music festival, a place where dreams met reality, his creations fought against the confinement of expectations.
 
-Orhan's orchestra, a motley ensemble hailing from diverse backgrounds, was a reflection of the city's complexity. Each rehearsal was a microcosm of humanity's beautiful chaos, filled with notes striving for resolution amid a sea of dissonance. The Maestro sought to shape this cacophony into harmony, much like Istanbul itself—a fusion of opposites striving for a fragile balance.
+Orhan's orchestra, a motley ensemble hailing from diverse backgrounds, was a reflection of the city's complexity. Each rehearsal was a microcosm of humanity's beautiful chaos, filled with notes striving for resolution amid a sea of dissonance. The Maestro sought to shape this cacophony into harmony, much like Istanbul itself, a fusion of opposites striving for a fragile balance.
 
-One fateful evening, as the sun faded behind the Bosphorus, Orhan faced his greatest test. The ensemble, swayed by personal conflicts and disparate visions, threatened to fracture. Orhan, however, saw opportunity in the struggle—a chance to transcend beyond mere notes and reach for the city's spirit that pulsated beneath. By embracing vulnerability and relinquishing control, he led the musicians not just with his baton but his heart, and thus they emerged anew.
+One fateful evening, as the sun faded behind the Bosphorus, Orhan faced his greatest test. The ensemble, swayed by personal conflicts and disparate visions, threatened to fracture. Orhan, however, saw opportunity in the struggle, a chance to transcend beyond mere notes and reach for the city's spirit that pulsated beneath. By embracing vulnerability and relinquishing control, he led the musicians not just with his baton but his heart, and thus they emerged anew.
 
 The concert was a triumph of unity and transformation. As the final note lingered in the air, Orhan realized the true symphony lay not in perfection but in the willingness to embrace and integrate each discordant voice. The audience rose in shared revelation, understanding that in the collective endeavor, they found resonance reflecting their own lives and the endless renewal of city and soul.
 
@@ -84,13 +84,13 @@ What emerged was a work that vibrated with life, reflecting the vibrant core of 
 ##### The Spectrum Within (Man vs. Self)
 ### *In the style of Inspired by Haruki Murakami*
 
-#### In the quiet, dim chambers of a bustling city, Renji, an artist, found himself gazing at the bare canvas before him, seeking the vibrant spectrum of his inner world. There was a beckoning—a whisper from the depths of his consciousness, urging him to unravel the kaleidoscope of his mind onto the unmarked surface. His journey was one of solitude, a man against the essence of his restless spirit.
+#### In the quiet, dim chambers of a bustling city, Renji, an artist, found himself gazing at the bare canvas before him, seeking the vibrant spectrum of his inner world. There was a beckoning, a whisper from the depths of his consciousness, urging him to unravel the kaleidoscope of his mind onto the unmarked surface. His journey was one of solitude, a man against the essence of his restless spirit.
 
-With each paint stroke, Renji attempted to transpose the unseen—raw emotions that ebbed within him like the tides. His hand moved cautiously, for each color he chose became a dialogue between his soul and the material realm. Like a melody searching for its chords, the void on his canvas echoed back frustration, the struggle for harmony in the cacophony of thoughts.
+With each paint stroke, Renji attempted to transpose the unseen, raw emotions that ebbed within him like the tides. His hand moved cautiously, for each color he chose became a dialogue between his soul and the material realm. Like a melody searching for its chords, the void on his canvas echoed back frustration, the struggle for harmony in the cacophony of thoughts.
 
 As days passed, the city around him became a distant hum. Renji's studio transformed into a sanctuary of contemplation, where he confronted the chiaroscuro of his psyche. In moments of doubt, when his frustrations threatened to consume him, a subtle shift occurred. He allowed his hands to guide, instinctively surrendering to the inevitable chaos of creation.
 
-The once distinct boundaries blurred, colors fused, and the abstract forms on canvas began to speak a language of their own. In relinquishing control, Renji discovered that his work sang of a truth he had long craved to articulate—a resonance akin to the silent crescendos found in the space between stars.
+The once distinct boundaries blurred, colors fused, and the abstract forms on canvas began to speak a language of their own. In relinquishing control, Renji discovered that his work sang of a truth he had long craved to articulate, a resonance akin to the silent crescendos found in the space between stars.
 
 The journey that commenced from a place of doubt culminated in a masterpiece that reflected the ineffable convergence of his spirit with the universe's endless possibilities. In the silence that enveloped him, Renji realized that in the vibrancy of his art, he had found not only his place within himself but also the voice that linked him with the cosmos.
 
@@ -123,11 +123,6 @@ The journey that commenced from a place of doubt culminated in a masterpiece tha
 
 ###### *Notes*
 ### **King Wen**: 58 ䷹ <sub>*27*</sub> ; 8 ☱ <sub>*4*</sub> The Joyous,  Lake/Marsh *over* 8 ☱ <sub>*4*</sub> The Joyous, Lake/Marsh;
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 <br/>
 <br/>
 <br/>

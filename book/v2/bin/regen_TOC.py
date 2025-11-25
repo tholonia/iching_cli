@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-import fitz  # PyMuPDF
+import pymupdf as fitz  # PyMuPDF
 import re
 import glob
 import os

@@ -6,7 +6,7 @@
 <span style="font-size:2em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;">30 ䷝</span><span style="font-size:1em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;vertical-align:text-bottom;"> 45 </span><span style="font-size:2em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;">&nbsp; Radiant Awareness</span>
 </div>
 ## The illumination of consciousness and its ability to bring clarity and understanding. Like the sun that sustains life on Earth, this hexagram represents the coherent emanation of awareness that nurtures growth and transformation through clarity and insight.
-<img src="/home/jw/store/src/iching_cli/book/v2/prod/30.png">
+<img src="/home/jw/src/iching_cli/book/v2/prod/30.png">
 <span style="margin-bottom: 8px;"> &nbsp; </span>
 ### *"Radiant Awareness" is captured in the imagery chosen for hexagram 30. Drawing inspiration from Impressionism, this representation illuminates the ephemeral quality of consciousness, while the solar motif echoes the transformative power associated with radiant awareness. The use of ink provides permanence and contrast, reflecting the enduring influences of awareness. Infused with Ansel Adams' dramatic compositions, the image demonstrates how structured limitations can drive profound awareness, aligning with Tholonic principles. The composition personifies resilience through universal love in its adaptation and overcoming of challenges, embodying the essence of radiant awareness in its capacity for illumination, growth, and transformation.*
 <p/>
@@ -34,7 +34,7 @@
 **Negotiation**: The doubled Fire trigrams represent negotiation between awareness and its object. This interaction produces clear understanding through conscious attention. The lines show progressive stages of developing and directing awareness. **Limitation**: Double Fire shows how focused attention creates clarity. Like a lens concentrating sunlight, limitations direct awareness to create understanding. These boundaries ensure effective illumination. **Contribution**: This configuration contributes understanding of how consciousness illuminates reality. It demonstrates how awareness can be cultivated and directed to create clarity and insight in any domain.
 
 #### ***Tholon 19 of 32: "Flow and Clarity"***
-#### The *dynamic* path is creates "The Abysmal" (29 <sub>*18*</sub>) and "The Clinging" (30 <sub>*45*</sub>).  This pair-path represents the dynamic interplay between the depths of uncertainty and the illumination of clarity. It embodies the journey from navigating through challenges and unknowns (The Abysmal) to reaching a state of understanding and insight (The Clinging). The path suggests that through embracing and moving through difficulties, one can achieve enlightenment and purpose.
+#### This hexagram is within the *dynamic* path of "Flow and Clarity" formed by "The Abysmal" (29䷜<sub>*18*</sub>) and "The Clinging" (30䷝<sub>*45*</sub>).  This pair-path represents the dynamic interplay between the depths of uncertainty and the illumination of clarity. It embodies the journey from navigating through challenges and unknowns (The Abysmal) to reaching a state of understanding and insight (The Clinging). The path suggests that through embracing and moving through difficulties, one can achieve enlightenment and purpose.
 
 
 
@@ -44,13 +44,13 @@
 ##### Radiant Conflict (Man vs. Man)
 ### *In the style of Ray Bradbury*
 
-#### In the bustling city of Veridian, where glass towers reached for the heavens, a humble inventor named Elliott labored in his cluttered workshop. He was consumed by a vision—a device that could harness the sun's energy and illuminate every corner of the earth. Every morning, he woke with the first light, ideas spinning faster than his heart could manage.
+#### In the bustling city of Veridian, where glass towers reached for the heavens, a humble inventor named Elliott labored in his cluttered workshop. He was consumed by a vision, a device that could harness the sun's energy and illuminate every corner of the earth. Every morning, he woke with the first light, ideas spinning faster than his heart could manage.
 
 Elliott's creation began with a spark of genius, a simple contraption that channeled the sun's potential into a reservoir of light. As the days stretched on, Elliott shaped and reshaped his device, each iteration a study in the balance between simplicity and revolutionary power. But with each success came a new challenge, the shadows of doubt whispering through his resolve.
 
-The competition among fellow inventors was fierce; all craved the same brilliance. As Elliott's invention neared completion, tensions boiled over—spurred by rivals fearful of his impending triumph. A moment's hesitation, a blink, and Elliott faced a devastating setback. His device lay in pieces, ambition undone.
+The competition among fellow inventors was fierce; all craved the same brilliance. As Elliott's invention neared completion, tensions boiled over, spurred by rivals fearful of his impending triumph. A moment's hesitation, a blink, and Elliott faced a devastating setback. His device lay in pieces, ambition undone.
 
-But from the wreckage, Elliott grasped a revelation. In the debris, he saw not the end, but a new beginning—a chance to engineer a device that transcended individual glory, embodying resilience and communal renewal. Inspired, Elliott returned to his blueprints with renewed fervor. Where others saw destruction, he perceived the dawn of creation's infinite cycle, a testament to ingenuity and the radiant path of human ambition.
+But from the wreckage, Elliott grasped a revelation. In the debris, he saw not the end, but a new beginning, a chance to engineer a device that transcended individual glory, embodying resilience and communal renewal. Inspired, Elliott returned to his blueprints with renewed fervor. Where others saw destruction, he perceived the dawn of creation's infinite cycle, a testament to ingenuity and the radiant path of human ambition.
 
 #### ***Lines in Context:***
 <ul><li><B>1</B> (yang) <i>Emergence</i> - Elliott begins his endeavor as a simple idea emerges from his imagination, igniting the journey of invention. <i>Moving line</i> - As the initial audacity transitions into contemplative reflection, Elliott gains clearer insights to guide his creative process forward.</li></ul>
@@ -67,9 +67,9 @@ But from the wreckage, Elliott grasped a revelation. In the debris, he saw not t
 
 The day dawned with the sun's first blush against towering peaks, its promise of a new creation echoing in Ewan's heart. Within his forge, amid the crackle and glow of coals, Ewan conjured visions of possibilities. Each hammer strike was a heartbeat, each spark a glimmer of potential. The metals sang under his touch as he melded strength into form.
 
-Yet, Ewan's path was not devoid of shadows. The relentless march of nature tested his resolve—a storm turned river to torrent, sweeping away his dreams of mastery. But in the destruction lay revelation; the fragments of ambition became seeds for innovation. With fierce determination, Ewan rebuilt his forge and spirit, drawing from the earth's bounty new insights imbued with resilience.
+Yet, Ewan's path was not devoid of shadows. The relentless march of nature tested his resolve, a storm turned river to torrent, sweeping away his dreams of mastery. But in the destruction lay revelation; the fragments of ambition became seeds for innovation. With fierce determination, Ewan rebuilt his forge and spirit, drawing from the earth's bounty new insights imbued with resilience.
 
-When Ewan emerged, his creations reflected the harmonies of the natural world—tools forged not to conquer, but to coexist. As the skies cleared, Ewan stood at the forge's entrance, eyes fixed on the horizon aglow with the promise of dawns yet unwritten, his heart echoing the endless dance between man and nature.
+When Ewan emerged, his creations reflected the harmonies of the natural world, tools forged not to conquer, but to coexist. As the skies cleared, Ewan stood at the forge's entrance, eyes fixed on the horizon aglow with the promise of dawns yet unwritten, his heart echoing the endless dance between man and nature.
 
 #### ***Lines in Context:***
 <ul><li><B>1</B> (yang) <i>Igniting Possibility</i> - The first flicker of Ewan’s vision awakens in the morning’s glow, a whisper of countless potentials yet to be forged. <i>Moving line</i> - Initial excitement gives way to cautious reflection, revealing vulnerabilities in the nascent phase yet also carving a path for softer, emergent growth.</li></ul>
@@ -84,7 +84,7 @@ When Ewan emerged, his creations reflected the harmonies of the natural world—
 
 #### Beneath the shadowy canopy of the ancient forest lay the hidden retreat where Miriam came each year to seek the solitude of the spirit. This forest was a place of whispers, of secrets guarded by ancient trees that reached skyward, their roots embedded deep within the earth's embrace. Miriam arrived, carrying but a single candle and a heart heavy with unresolved thoughts.
 
-In the quiet, she struck a match, igniting her solitary flame—the flicker of a beginning. The forest watched on with silent eyes as she laid the foundation of a small fire, the warmth gradually dispelling the gloom around her, reflecting a tentative dance of shadows upon her inward gaze.
+In the quiet, she struck a match, igniting her solitary flame, the flicker of a beginning. The forest watched on with silent eyes as she laid the foundation of a small fire, the warmth gradually dispelling the gloom around her, reflecting a tentative dance of shadows upon her inward gaze.
 
 Days blurred into nights, where sparks from her growing fire mimicked the conflict within her heart. Visions of dreams collided with echoes of doubts, battles waged solemnly in the crackling silence of the wood. Yet, with each carefully stoked log, the light grew, transforming conflict into clarity.
 
@@ -92,7 +92,7 @@ Miriam's path was not free of struggle. Rumors of the wind carried both encourag
 
 As the days unfolded, Miriam reached a place of mastery, her fire an emblem of the inner light she had cultivated. The forest, now a familiar companion, shifted from indifferent witness to mighty ally, her work acknowledged in the dance of branches above.
 
-Finally, there came the moment of transcendence—a realization both tender and profound. Miriam extinguished the flame, carrying its essence within her heart. As she left the sacred forest, the sun rose over the horizon, illuminating the path of her return, each step echoing the light of clarity she had kindled within.
+Finally, there came the moment of transcendence, a realization both tender and profound. Miriam extinguished the flame, carrying its essence within her heart. As she left the sacred forest, the sun rose over the horizon, illuminating the path of her return, each step echoing the light of clarity she had kindled within.
 
 #### ***Lines in Context:***
 <ul><li><B>1</B> (yang) <i>Emergence</i> - The initial spark of a solitary flame set against the backdrop of Miriam's inner wilderness. <i>Moving line</i> - As initial brightness becomes introspective, moments of doubt may cloud the journey, yet this transformation opens a path to richer, more deliberate enlightenment.</li></ul>
@@ -108,7 +108,7 @@ Finally, there came the moment of transcendence—a realization both tender and 
 
 ##### *Edison's Dawn of Illumination*
 
-#### In the late 1870s, Thomas Edison, against the backdrop of a world steeped in gaslight, envisioned the incandescent lamp. With a mind ceaselessly in pursuit, he delved into a marathon of trials, testing filament materials ranging from carbonized bamboo to platinum. Each iteration brought challenges much like kindling a fire in the damp fog of industrial doubt. Yet, Edison's resolve cut through the haze, guiding him toward the eventual spark of success. The day when his carbon filament glowed, steady and bright, marked a transformative moment not just in his workshop but for civilization. It was the birth of a new era, one where the night could be banished with the flick of a switch—a moment of transcendent clarity. His invention flickered to life as a beacon of human ingenuity, casting a glow that bridged the old world and the new, lighting paths both literal and metaphorical. In that glow, one could discern the essence of innovation and potential realized, a testament to the raw creative force that defied the night.
+#### In the late 1870s, Thomas Edison, against the backdrop of a world steeped in gaslight, envisioned the incandescent lamp. With a mind ceaselessly in pursuit, he delved into a marathon of trials, testing filament materials ranging from carbonized bamboo to platinum. Each iteration brought challenges much like kindling a fire in the damp fog of industrial doubt. Yet, Edison's resolve cut through the haze, guiding him toward the eventual spark of success. The day when his carbon filament glowed, steady and bright, marked a transformative moment not just in his workshop but for civilization. It was the birth of a new era, one where the night could be banished with the flick of a switch, a moment of transcendent clarity. His invention flickered to life as a beacon of human ingenuity, casting a glow that bridged the old world and the new, lighting paths both literal and metaphorical. In that glow, one could discern the essence of innovation and potential realized, a testament to the raw creative force that defied the night.
 
 <div style="font-size: 8pt;font-style:italic">Source: Edison: Inventing the Century by Neil Baldwin, Empires of Light: Edison, Tesla, Westinghouse, and the Race to Electrify the World by Jill Jonnes</div>
 
@@ -123,11 +123,6 @@ Finally, there came the moment of transcendence—a realization both tender and 
 
 ###### *Notes*
 ### **King Wen**: 30 ䷝ <sub>*45*</sub> The Clinging, Fire; 7 ☲ <sub>*5*</sub> Bright and Radiant,  Fire *over* 7 ☲ <sub>*5*</sub> Bright and Radiant, Fire;
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 <br/>
 <br/>
 <br/>

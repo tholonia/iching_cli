@@ -6,7 +6,7 @@
 <span style="font-size:2em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;">29 ䷜</span><span style="font-size:1em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;vertical-align:text-bottom;"> 18 </span><span style="font-size:2em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;">&nbsp; Mastering Flow</span>
 </div>
 ## The deep understanding and skilled navigation of cyclical patterns. Like water finding its inevitable path, this hexagram represents gaining mastery through repeatedly engaging with challenge, developing competence through practice and persistence.
-<img src="/home/jw/store/src/iching_cli/book/v2/prod/29.png">
+<img src="/home/jw/src/iching_cli/book/v2/prod/29.png">
 <span style="margin-bottom: 8px;"> &nbsp; </span>
 ### *"Mastering Flow" is aptly illustrated through the image of a river— a symbol of raw power, relentless force, and dynamic negotiation, embodying the Tholonic principles of awareness continually manifesting in changing forms. The artist, Hokusai, applies an impressionistic style to underline the mutable, fluid essence of the river, in keeping with the Tholonic Model's emphasis on the ever-evolving nature of awareness. The ink medium reflects the delicate balance between strength and vulnerability inherent in navigating life's challenging depths, echoing the implications of the Thologram's principles of limitation and contribution. All elements unite to convey the hexagram's core message of resilience and adaptability in the face of persisting challenges.*
 <p/>
@@ -34,7 +34,7 @@
 **Negotiation**: The doubled Water trigrams represent negotiation between flow and resistance. This interaction produces mastery through repeated engagement. The lines show progressive stages of understanding and navigating recurring patterns. **Limitation**: Double Water shows how constraints create the channel for effective flow. Like a river's banks shape its course, limitations define the path through which mastery can develop. These boundaries ensure focused development. **Contribution**: This configuration contributes understanding of how systems develop mastery through repeated engagement with challenges. It demonstrates how awareness can transform difficulty into opportunity through persistent, intelligent engagement.
 
 #### ***Tholon 19 of 32: "Flow and Clarity"***
-#### The *dynamic* path is creates "The Abysmal" (29 <sub>*18*</sub>) and "The Clinging" (30 <sub>*45*</sub>).  This pair-path represents the dynamic interplay between the depths of uncertainty and the illumination of clarity. It embodies the journey from navigating through challenges and unknowns (The Abysmal) to reaching a state of understanding and insight (The Clinging). The path suggests that through embracing and moving through difficulties, one can achieve enlightenment and purpose.
+#### This hexagram is within the *dynamic* path of "Flow and Clarity" formed by "The Abysmal" (29䷜<sub>*18*</sub>) and "The Clinging" (30䷝<sub>*45*</sub>).  This pair-path represents the dynamic interplay between the depths of uncertainty and the illumination of clarity. It embodies the journey from navigating through challenges and unknowns (The Abysmal) to reaching a state of understanding and insight (The Clinging). The path suggests that through embracing and moving through difficulties, one can achieve enlightenment and purpose.
 
 
 
@@ -44,13 +44,13 @@
 ##### The Flow of Innovation (Man vs. Man)
 ### *In the style of Ray Bradbury*
 
-#### In a sprawling metropolis where technology reigned supreme, there lived a young inventor named Ethan. His workshop, a chaotic blend of wires, gears, and blinking lights, was where he nurtured his most daring dream—a device that could transform thoughts into reality. Despite skepticism from the city's elite, Ethan believed his invention could revolutionize life as they knew it.
+#### In a sprawling metropolis where technology reigned supreme, there lived a young inventor named Ethan. His workshop, a chaotic blend of wires, gears, and blinking lights, was where he nurtured his most daring dream, a device that could transform thoughts into reality. Despite skepticism from the city's elite, Ethan believed his invention could revolutionize life as they knew it.
 
 Ethan began with a series of prototypes, each more ambitious than the last. His early attempts were fraught with setbacks, as circuitry sparked and numerous mechanisms failed to align. Yet, within these trials, Ethan found insights, understanding the delicate balance needed to channel raw potential into something tangible.
 
 As he worked tirelessly, the city's demand for technological advancements grew. Investors, intrigued by Ethan's unwavering resolve, offered support, pushing him to refine his invention to meet their lofty expectations.
 
-The day finally came when Ethan unveiled his creation at an exhibition. As the crowd watched in awe, thoughts materialized into captivating projections, each a testimony to his perseverance and vision. Yet in the midst of success, Ethan felt a subtle shift—a challenge to stay true to his purpose amidst the clamoring voices eager to redirect his path.
+The day finally came when Ethan unveiled his creation at an exhibition. As the crowd watched in awe, thoughts materialized into captivating projections, each a testimony to his perseverance and vision. Yet in the midst of success, Ethan felt a subtle shift, a challenge to stay true to his purpose amidst the clamoring voices eager to redirect his path.
 
 Ultimately, Ethan realized that his true victory lay not merely in the culmination of his work, but in his steadfast journey and the wisdom gained from obstacles. Embracing this flow, he danced gracefully with the tide of creativity, shaping not only the world around him but his own spirit.
 
@@ -75,7 +75,7 @@ A sudden storm descended, torrents challenging her course with relentless might.
 
 As the storm subsided and the river revealed an open expanse, Clara reached an epiphany. Her journey wasn't about conquering the river, but harmonizing with it. The river, in its unwavering flow, had imparted its greatest lesson: mastery is achieved not in the destination, but in the endless journey of self-discovery and perseverance.
 
-Clara disembarked on the sunlit shore, carrying within her the essence of the river—a profound awareness that the river's call was not a challenge to be overcome, but an invitation to grow with each ebb and flow.
+Clara disembarked on the sunlit shore, carrying within her the essence of the river, a profound awareness that the river's call was not a challenge to be overcome, but an invitation to grow with each ebb and flow.
 
 #### ***Lines in Context:***
 <ul><li><B>1</B> (yin) <i>Emergence</i> - A nascent drive stirs within Clara; she sets her journey with raw potential and untapped resolve. <i>Moving line</i> - As energy turns active, new possibilities ignite enthusiasm, bringing challenges that spark growth and innovation.</li></ul>
@@ -90,13 +90,13 @@ Clara disembarked on the sunlit shore, carrying within her the essence of the ri
 
 #### In the tranquil village of Elderglen, where time meandered like the gentle streams, there lived Olivia, a painter of quiet renown. Her days were a seamless tapestry of colors and brushstrokes, each painting a meditation on existence itself. Her heart bore the whispers of an unseen river, an undercurrent guiding her art and life.
 
-One morning, as dawn cast a golden veil across her studio, Olivia felt an electric stir within her soul—a nascent urge to capture the essence of the river's flow. Her canvas awaited, a void yearning for expression. Each brushstroke was deliberate, embodying the subtle dance between what was known and what waited to be discovered.
+One morning, as dawn cast a golden veil across her studio, Olivia felt an electric stir within her soul, a nascent urge to capture the essence of the river's flow. Her canvas awaited, a void yearning for expression. Each brushstroke was deliberate, embodying the subtle dance between what was known and what waited to be discovered.
 
 Yet, as the painting evolved, conflict infiltrated her muse. Doubt seeped in, questioning her vision, challenging her resolve. Was the image an echo of reality, or a mere illusion crafted by her restless mind? Olivia surrendered to this internal tempest, allowing tension to sculpt her art, driving her deeper into the whirlpool of creation.
 
-The painting took form, an ethereal depiction of the river's mystery—a dance of light and shadow, harmony and discord. In its manifestation, Olivia embraced the continuous cycle of exploration and understanding. Her mastery was not in the completed work but the journey it represented—a melding of form and spirit.
+The painting took form, an ethereal depiction of the river's mystery, a dance of light and shadow, harmony and discord. In its manifestation, Olivia embraced the continuous cycle of exploration and understanding. Her mastery was not in the completed work but the journey it represented, a melding of form and spirit.
 
-As the day faded, Olivia stood before her creation, a reflection of the river and her consciousness intertwined. It was enough to know that the river's whisper had found its voice through her art, transcending the boundaries of canvas and soul—a testament to the eternal flow within the heart of creation.
+As the day faded, Olivia stood before her creation, a reflection of the river and her consciousness intertwined. It was enough to know that the river's whisper had found its voice through her art, transcending the boundaries of canvas and soul, a testament to the eternal flow within the heart of creation.
 
 #### ***Lines in Context:***
 <ul><li><B>1</B> (yin) <i>Emergence</i> - The initial spark of inspiration ignites within Olivia, propelling her into the flow of creative exploration. <i>Moving line</i> - As yin changes to yang, a surge of energy enhances Olivia's momentum, unveiling new paths of artistic discovery and growth.</li></ul>
@@ -127,11 +127,6 @@ As the day faded, Olivia stood before her creation, a reflection of the river an
 
 ###### *Notes*
 ### **King Wen**: 29 ䷜ <sub>*18*</sub> The Abysmal, Water; 6 ☵ <sub>*2*</sub> The Abysmal,  Water *over* 6 ☵ <sub>*2*</sub> Deep and Mysterious, The Abysmal;
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 <br/>
 <br/>
 <br/>

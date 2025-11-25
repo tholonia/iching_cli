@@ -6,7 +6,7 @@
 <span style="font-size:2em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;">44 ䷫</span><span style="font-size:1em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;vertical-align:text-bottom;"> 62 </span><span style="font-size:2em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;">&nbsp; Anticipation</span>
 </div>
 ## The state of heightened awareness that precedes significant change. Like a coiled spring or a gathering storm, it represents the pregnant moment before action where potential energy has reached its peak and transformation becomes inevitable.
-<img src="/home/jw/store/src/iching_cli/book/v2/prod/44.png">
+<img src="/home/jw/src/iching_cli/book/v2/prod/44.png">
 <span style="margin-bottom: 8px;"> &nbsp; </span>
 ### *"Anticipation" is compellingly reflected in the art selection for this hexagram. The choice of a coiled spring symbolizes the accumulation of potential energy, a key thematic thread of anticipation, reflecting the delicate negotiation and balance within the Thologram. The surrealistic style captures the abstract nature of awareness as it merges intentions and realities. Medium selection also plays a part, with ink signifying the interplay of limitation and contribution—defining and integrating elements within an artwork. To capture these intricate interactions, the artist selected is Qi Baishi, known for his intuitive, symbolic work. This combined approach makes the artwork resonate deeply with the viewer, aligning with the Tholonic Model's emphasis on awareness as a fundamental creative force.*
 <p/>
@@ -34,7 +34,7 @@
 **Negotiation**: This hexagram represents the delicate balance between preparation and action. The strong yang energy (5 yang lines) building up must be balanced with the single yin line at the bottom, suggesting the importance of proper foundation and timing. **Limitation**: The structure defines boundaries between premature and timely action. It establishes the difference between useful anticipation and anxious expectation, showing how potential must build within appropriate constraints. **Contribution**: This configuration contributes to systemic evolution by demonstrating how energy accumulates before manifestation. It shows the importance of the preparatory phase in any significant change or transformation.
 
 #### ***Tholon 2 of 32: "Cycle of Influence"***
-#### The *dynamic* path is creates "Return" (24 <sub>*1*</sub>) and "Coming to Meet" (44 <sub>*62*</sub>).  This pair-path represents the cyclical nature of influence and interaction. 'Return' signifies the renewal and resurgence of energy, a time of coming back to one's roots and inner truth. Conversely, 'Coming to Meet' embodies the external influence and unexpected encounters that challenge and inspire growth. Together, they form a dynamic cycle where internal reflection and external engagement continuously shape and transform each other.
+#### This hexagram is within the *dynamic* path of "Cycle of Influence" formed by "Return" (24䷗<sub>*1*</sub>) and "Coming to Meet" (44䷫<sub>*62*</sub>).  This pair-path represents the cyclical nature of influence and interaction. 'Return' signifies the renewal and resurgence of energy, a time of coming back to one's roots and inner truth. Conversely, 'Coming to Meet' embodies the external influence and unexpected encounters that challenge and inspire growth. Together, they form a dynamic cycle where internal reflection and external engagement continuously shape and transform each other.
 
 
 
@@ -58,7 +58,7 @@ Then comes Ivan, whose performance blurs the lines between music and madness. Hi
 
 Both performances resonate with brilliance and flaw, each composer transforming the stage into an echo of their soul's internal battle. The final chords tell not the tale of a singular victor, but of a shared triumph over self-doubt.
 
-Dmitri and Ivan find their rivalry transcended by mutual respect, understanding that it is precisely their differences that enrich their art. In each other's music, they hear the harmony of conflict—a symphony of contrasts that binds them to the same, unyielding pursuit of truth.
+Dmitri and Ivan find their rivalry transcended by mutual respect, understanding that it is precisely their differences that enrich their art. In each other's music, they hear the harmony of conflict, a symphony of contrasts that binds them to the same, unyielding pursuit of truth.
 
 #### ***Lines in Context:***
 <ul><li><B>1</B> (yin) <i>Emergence of Inspiration</i> - The rivalry sparks initial inspiration, setting Dmitri and Ivan on their paths to realization. <i>Moving line</i> - As yin changes to yang, their burgeoning rivalry invigorates both composers, enhancing their drive and creativity, propelling them toward unprecedented innovation.</li></ul>
@@ -133,11 +133,6 @@ This transformative period embodied the very essence of Hexagram 44, where dorma
 
 ###### *Notes*
 ### **King Wen**: 44 ䷫ <sub>*62*</sub> ; 1 ☰ <sub>*7*</sub> The Creative,  Heaven *over* 5 ☴ <sub>*6*</sub> Gentle and Penetrating, Wind/Wood;
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 <br/>
 <br/>
 <br/>

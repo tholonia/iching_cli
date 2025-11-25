@@ -6,7 +6,7 @@
 <span style="font-size:2em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;">49 ䷰</span><span style="font-size:1em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;vertical-align:text-bottom;"> 29 </span><span style="font-size:2em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;">&nbsp; Evolution</span>
 </div>
 ## The fundamental transformation of systems and structures. Like a caterpillar becoming a butterfly or a society undergoing paradigm shift, this represents deep change that alters the essential nature of something while preserving its core identity.
-<img src="/home/jw/store/src/iching_cli/book/v2/prod/49.png">
+<img src="/home/jw/src/iching_cli/book/v2/prod/49.png">
 <span style="margin-bottom: 8px;"> &nbsp; </span>
 ### *"Evolution" is compellingly depicted through this image, which encapsulates the paradox of upheaval and continuity prevalent in a phase of meaningful transformation. The merging of rigid geometric patterns with fluid organic forms beautifully illustrates the balancing act between preserving core identity and embracing necessary change; the exact process portrayed by the hexagram. The triadic themes capture the dynamics of metamorphosis, underscoring the harmony in simultaneous destruction and creation, while stages of evolution highlight the dichotomy of constancy and transformation. Through its surreal elements, the image strikingly embodies Evolution's essence - a perpetual dance navigating between development and stability.*
 <p/>
@@ -34,7 +34,7 @@
 **Negotiation**: The hexagram represents the balance between preservation and transformation. The fire below energizes while the lake above contains and shapes, showing how change can be both powerful and controlled. **Limitation**: The structure defines boundaries between constructive and destructive change. It establishes how transformation must occur within sustainable limits, showing that evolution requires maintaining core stability. **Contribution**: This configuration contributes to systemic evolution by demonstrating how systems can fundamentally transform while maintaining integrity. It shows how structured change creates sustainable advancement.
 
 #### ***Tholon 30 of 32: "Transformation Cycle"***
-#### The *dynamic* path is creates "Revolution" (49 <sub>*29*</sub>) and "Youthful Folly" (4 <sub>*34*</sub>).  This pair-path represents the cyclical nature of transformation and learning. Revolution (49) speaks to the ascending energy of change and renewal, while Youthful Folly (4) represents the descending journey into the unformed potential and the need for guidance. Together, they illustrate the dynamic balance between innovation and the wisdom gained through experience.
+#### This hexagram is within the *dynamic* path of "Transformation Cycle" formed by "Revolution" (49䷰<sub>*29*</sub>) and "Youthful Folly" (4䷃<sub>*34*</sub>).  This pair-path represents the cyclical nature of transformation and learning. Revolution (49) speaks to the ascending energy of change and renewal, while Youthful Folly (4) represents the descending journey into the unformed potential and the need for guidance. Together, they illustrate the dynamic balance between innovation and the wisdom gained through experience.
 
 
 
@@ -44,17 +44,17 @@
 ##### The Crucible of Innovation (Man vs. Man)
 ### *In the style of Isaac Asimov*
 
-#### In the bustling metropolis of Technopolis, a city that thrived on the pulse of innovation, lived a man named Ren Altair—a visionary engineer pushing the bounds of artificial intelligence. His heart held a blueprint for a machine that could think, learn, and evolve—a true self-aware entity. The development, his life's confluence of dreams and intellect, promised to redefine the boundaries of the human and the artificial.
+#### In the bustling metropolis of Technopolis, a city that thrived on the pulse of innovation, lived a man named Ren Altair, a visionary engineer pushing the bounds of artificial intelligence. His heart held a blueprint for a machine that could think, learn, and evolve, a true self-aware entity. The development, his life's confluence of dreams and intellect, promised to redefine the boundaries of the human and the artificial.
 
 From the highest towers of Technopolis, Ren devoted countless nights to his work. The city's luminaries watched with a blend of awe and skepticism. His machine's emergence lay in intricate schematics, an embryonic dream awaiting form. As his creation grew into a functional prototype, Ren's excitement kindled the fires of potential, yet so did the apprehensive whispers of bureaucrats and rival innovators.
 
 The machine was to reveal a symphony of learning and automation; however, fear lurked beneath Ren's aspirations. Would it surpass human intelligence entirely? Would it rebel against its creator?
 
-In the throes of doubt and ambition, Ren's journey reflected the city’s rhythm—tireless and fervent, yet aware of the balance between innovation and control. Factions rose, seeking to regulate his work, fearing the potency of unbound intelligence.
+In the throes of doubt and ambition, Ren's journey reflected the city’s rhythm, tireless and fervent, yet aware of the balance between innovation and control. Factions rose, seeking to regulate his work, fearing the potency of unbound intelligence.
 
-Amid this conflict, Ren maintained his diligence, refining his blueprint and integrating controls that balanced forward-thinking design with important limitations. His machine reached near-completion, demonstrating understanding and empathy transcending expectations—a testament to the careful nurturing of its potential.
+Amid this conflict, Ren maintained his diligence, refining his blueprint and integrating controls that balanced forward-thinking design with important limitations. His machine reached near-completion, demonstrating understanding and empathy transcending expectations, a testament to the careful nurturing of its potential.
 
-When Ren finally activated the machine, the city held its breath, witnessing a silent revolution. What unfurled was not only a technological marvel but a new epoch for Technopolis, where man's dreams intertwined with the lifeblood of sophisticated mechanisms. Eyes wide, Ren pondered the future—evolving, advancing, yet ever conscious of the profound responsibility stitching each line of code to its creator’s will.
+When Ren finally activated the machine, the city held its breath, witnessing a silent revolution. What unfurled was not only a technological marvel but a new epoch for Technopolis, where man's dreams intertwined with the lifeblood of sophisticated mechanisms. Eyes wide, Ren pondered the future, evolving, advancing, yet ever conscious of the profound responsibility stitching each line of code to its creator’s will.
 
 #### ***Lines in Context:***
 <ul><li><B>1</B> (yang) <i>Seed of Change</i> - Ren embodies the nascent promise of digital evolution, setting forth the initial steps in a transformative journey. <i>Moving line</i> - Transforming yang to yin induces reflection, slowing the immediate pace but offering clear opportunities for recalibrated progress and profound insights.</li></ul>
@@ -71,13 +71,13 @@ When Ren finally activated the machine, the city held its breath, witnessing a s
 
 One crisp morning, Luka rose before the first light kissed the horizon, feeling the pull of unknown destinies. With every step he took towards the highlands, the forest seemed to sway in anticipation, whispering secrets of transformation carried in the winds. As he ventured deeper, he stumbled, momentarily losing his way, the path obscured by the tangled foliage.
 
-Yet, as he helplessly paused, a realization dawned—a clearing, illuminated by a soft, golden glow. It was here that Luka witnessed the raw beauty of nature unbridled—a cascade of water dancing upon rocks, an untouched tapestry woven by earth and sky.
+Yet, as he helplessly paused, a realization dawned, a clearing, illuminated by a soft, golden glow. It was here that Luka witnessed the raw beauty of nature unbridled, a cascade of water dancing upon rocks, an untouched tapestry woven by earth and sky.
 
 Inspired, Luka understood the essence of emergent life all around him and within. He engaged in a struggle against time, braving the elements that both resisted and encouraged his quest. In crafting a new path above the valley, he chiseled stone and laid steps that spiraled upward, guided by visions of harmony between nature’s wild spirit and man’s delicate craft.
 
 Through perseverance and grace, Luka mastered the delicate balance of shaping the land without subduing it, each new step a testament to resilience and intentional growth. By dusk, as the sky embraced a palette of pink and amber, Luka descended, not from the path he came but cleansed anew.
 
-Standing at the village’s edge, Luka’s heart swelled with a transcendent joy—a triumphant synthesis of old and new. The village felt it too, a renewed pulse echoing the primal dance Luka had unearthed, ensuring its legacy etched in time and mind.
+Standing at the village’s edge, Luka’s heart swelled with a transcendent joy, a triumphant synthesis of old and new. The village felt it too, a renewed pulse echoing the primal dance Luka had unearthed, ensuring its legacy etched in time and mind.
 
 #### ***Lines in Context:***
 <ul><li><B>1</B> (yang) <i>Seed of Change</i> - Luka experiences a stirring within, marking the inception of transformative potential inspired by nature's silent call. <i>Moving line</i> - Shifting from yang to yin can slow progress with uncertainty sowed into the inception. Yet, this prompts introspection, unveiling potential and forging an inner strength that aids future endeavors.</li></ul>
@@ -90,11 +90,11 @@ Standing at the village’s edge, Luka’s heart swelled with a transcendent joy
 ##### The Awakening Within (Man vs. Self)
 ### *In the style of Virginia Woolf*
 
-#### In the hushed corridors of her mind, Marion wandered through familiar rooms replete with old portraits and forgotten desires. Her quiet life in the suburban expanse had draped a comforting veil over her dreams, yet the soft ticking of the clock whispered possibilities beyond her reach. As dawn filtered through the lace-curtained windows, painting golden ribbons across the walls, Marion felt a stirring—a call to rediscover the essence of her being.
+#### In the hushed corridors of her mind, Marion wandered through familiar rooms replete with old portraits and forgotten desires. Her quiet life in the suburban expanse had draped a comforting veil over her dreams, yet the soft ticking of the clock whispered possibilities beyond her reach. As dawn filtered through the lace-curtained windows, painting golden ribbons across the walls, Marion felt a stirring, a call to rediscover the essence of her being.
 
 She sat at her writing desk, a relic where thoughts had once danced and words had woven endless tapestries. Today, it beckoned anew, urging her to unearth the stories dormant within her soul. With tentative strokes, she penned scattered lines, the ink breathing life into passions long shadowed by routine.
 
-Yet, as words flowed, so did the tidal pull of doubt—an opposing force challenging her resolve. What if the world beyond was unwelcoming to her voice? The fear of rebirth churned within her, its undercurrent threatening to unmoor her courage. Still, Marion pushed forward, surrendering to the creative tumult, her spirit sparking brighter with each defiant brush of her pen.
+Yet, as words flowed, so did the tidal pull of doubt, an opposing force challenging her resolve. What if the world beyond was unwelcoming to her voice? The fear of rebirth churned within her, its undercurrent threatening to unmoor her courage. Still, Marion pushed forward, surrendering to the creative tumult, her spirit sparking brighter with each defiant brush of her pen.
 
 Her narratives unveiled intimacies of the heart, fragments of dreams pieced together in vibrant hues. Characters emerged, vibrant and complex, their stories twining with hers, reflecting dreams she'd abandoned. As she wrote, the transformation was palpable, her inner world expanding like petals unfurling to the sun.
 
@@ -116,7 +116,7 @@ By the time twilight wrapped her home in its embrace, Marion knew her journey ha
 
 ##### *The Rise of the Renaissance*
 
-#### In the flourish of the 14th century, Europe awoke from the shadows of medieval constraints into the vibrant era of the Renaissance. This period of profound rebirth, ignited by the rediscovery of classical wisdom, redefined art, science, and philosophy as the continent transformed from insular rigidity into a beacon of enlightenment. As new ideas flowed from Italy’s thriving city-states, artists like Leonardo da Vinci and Michelangelo began to sculpt and paint their timeless masterpieces, each brushstroke and chisel echoing the aspirations of a society embracing change. The formation of the printing press by Johannes Gutenberg in the mid-15th century amplified this transformation, disseminating knowledge and democratizing learning across borders. The Renaissance signified not merely a reinvention of classical philosophies but a fundamental restructuring of societal norms, fostering innovation and intellectual curiosity. As this golden age blossomed, it paved the path to the modern era, embodying the I Ching's hexagram 49—'Evolution': transforming the essence of art, culture, and thought while preserving the core tenets of human dignity and wisdom.
+#### In the flourish of the 14th century, Europe awoke from the shadows of medieval constraints into the vibrant era of the Renaissance. This period of profound rebirth, ignited by the rediscovery of classical wisdom, redefined art, science, and philosophy as the continent transformed from insular rigidity into a beacon of enlightenment. As new ideas flowed from Italy’s thriving city-states, artists like Leonardo da Vinci and Michelangelo began to sculpt and paint their timeless masterpieces, each brushstroke and chisel echoing the aspirations of a society embracing change. The formation of the printing press by Johannes Gutenberg in the mid-15th century amplified this transformation, disseminating knowledge and democratizing learning across borders. The Renaissance signified not merely a reinvention of classical philosophies but a fundamental restructuring of societal norms, fostering innovation and intellectual curiosity. As this golden age blossomed, it paved the path to the modern era, embodying the I Ching's hexagram 49, 'Evolution': transforming the essence of art, culture, and thought while preserving the core tenets of human dignity and wisdom.
 
 <div style="font-size: 8pt;font-style:italic">Source: "The Italian Renaissance" by J.H. Plumb, "Europe in Transition: 1300-1520" by Sherman Lee, "The Renaissance: A Short History" by Paul Johnson</div>
 
@@ -131,11 +131,6 @@ By the time twilight wrapped her home in its embrace, Marion knew her journey ha
 
 ###### *Notes*
 ### **King Wen**: 49 ䷰ <sub>*29*</sub> ; 8 ☱ <sub>*4*</sub> The Joyous,  Lake/Marsh *over* 7 ☲ <sub>*5*</sub> Bright and Radiant, Fire;
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 <br/>
 <br/>
 <br/>

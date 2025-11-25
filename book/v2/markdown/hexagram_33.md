@@ -6,7 +6,7 @@
 <span style="font-size:2em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;">33 ䷠</span><span style="font-size:1em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;vertical-align:text-bottom;"> 60 </span><span style="font-size:2em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;">&nbsp; Strategic Retreat</span>
 </div>
 ## A conscious withdrawal from activity to gather strength and clarity. Like a lake resting atop a mountain, this represents the wisdom of knowing when to step back and regroup before moving forward again.
-<img src="/home/jw/store/src/iching_cli/book/v2/prod/33.png">
+<img src="/home/jw/src/iching_cli/book/v2/prod/33.png">
 <span style="margin-bottom: 8px;"> &nbsp; </span>
 ### *"Strategic Retreat" is beautifully symbolized through the chosen image of a tranquil lake atop a tall mountain, capturing the essence of considered withdrawal. The image utilizes a romantic, slightly surreal style in harmony with the transformative nature of conscious retreat. The digital medium serves as a modern nod to strategic adaptability, blending time-honored wisdom with innovative thoughts. Reflective of universal love, the image encapsulates harmony and stillness, akin to successful strategic retreat. These elements embody the forces within the Thologram, signifying purposeful withdrawal, considered limitation, and effective reintegration, just as a retreat contributes to a grander strategy.*
 <p/>
@@ -33,8 +33,8 @@
 #### ***Tholonic Analysis***
 **Negotiation**: The balance between engagement and withdrawal is key here. The hexagram demonstrates how stepping back can be an active choice rather than passive resignation. It represents the negotiation between preserving energy and maintaining presence. **Limitation**: Creates boundaries through conscious choice rather than external force. The mountain below provides a stable foundation for the lake above, showing how limitation can create containment that preserves rather than restricts. **Contribution**: Contributes to the larger system by demonstrating how strategic withdrawal can prevent depletion and enable future growth. Like a battery recharging, this retreat enables more effective future contribution.
 
-#### ***Tholon 4 of 32: "Approach-Withdrawal"***
-#### The *dynamic* path is creates "Approach" (19 <sub>*3*</sub>) and "Retreat" (33 <sub>*60*</sub>).  This pair-path represents the cyclical movement between advancing towards a goal or situation and strategically withdrawing from it. It embodies the natural rhythm of engagement and disengagement, highlighting the importance of timing and balance in interactions and endeavors.
+#### ***Tholon 4 of 32: "Advance-Retreat"***
+#### This hexagram is within the *dynamic* path of "Advance-Retreat" formed by "Approach" (19䷒<sub>*3*</sub>) and "Retreat" (33䷠<sub>*60*</sub>).  This pair-path represents the cyclical movement between advancing towards a goal or situation and strategically withdrawing from it. It embodies the natural rhythm of engagement and disengagement, highlighting the importance of timing and balance in interactions and endeavors.
 
 
 
@@ -46,7 +46,7 @@
 
 #### In the bustling heart of New Tokyo, amidst towering skyscrapers and flickering neon lights, lived Hayato, a shrewd strategist at a leading tech firm. His brilliance in designing groundbreaking strategies was unmatched, yet beneath the surface, the pressures of cutthroat competition loomed heavily over him.
 
-With every triumph came relentless demands from his superiors, pushing Hayato towards constant engagement in a complex web of rivalry and ambition. Despite his success, a dissonance stirred within him—a longing for introspection and recalibration.
+With every triumph came relentless demands from his superiors, pushing Hayato towards constant engagement in a complex web of rivalry and ambition. Despite his success, a dissonance stirred within him, a longing for introspection and recalibration.
 
 Recognizing the strain, Hayato embarked on a deliberate withdrawal from the fray, opting for solitude in a serene retreat. He retreated to a quiet coastal town, where the rhythmic ebb of the ocean waves mirrored the pulse of his reflections.
 
@@ -71,7 +71,7 @@ As Alonso painted, an unrelenting drive to capture the mountain's spirit stirred
 
 In the quiet of his retreat, Alonso's imagination soared, creating images of ancient spirits imbued with the wildness of untamed nature. However, as the days stretched into months, a dissonance formed between his intent and execution. Would his art remain trapped in isolation, or would it rise above the peaks to commune with the souls who wandered below?
 
-A fierce storm broke over the valley, uprooting trees and shattering the silence. As the winds howled, Alonso realized that his retreat had reached beyond isolation—it was an alchemy where nature fed his spirit, and his creations yearned for release.
+A fierce storm broke over the valley, uprooting trees and shattering the silence. As the winds howled, Alonso realized that his retreat had reached beyond isolation, it was an alchemy where nature fed his spirit, and his creations yearned for release.
 
 Driven by newfound clarity, he descended from his solitary seclusion, choosing to share the vibrancy of his visions with the valley's inhabitants, igniting a dialogue as rich and enduring as the mountains themselves.
 
@@ -90,11 +90,11 @@ Driven by newfound clarity, he descended from his solitary seclusion, choosing t
 
 Within his retreat, Takashi wrestled with concepts that weaved through space like whispers in the wind, designs that spoke not just of function, but of life's subtle symphony. His ambitions grew, reflections of an inner landscape aligning with external forms he longed to manifest.
 
-Yet, as days melted into weeks, self-doubt stormed his soul. The lines between reality and aspiration blurred, a turbulent dance of conflict that threatened to unravel his newfound clarity. It was here, amidst uncertainty, that Takashi learned to listen—to the grove's quiet wisdom, to the heartbeats of his dreams.
+Yet, as days melted into weeks, self-doubt stormed his soul. The lines between reality and aspiration blurred, a turbulent dance of conflict that threatened to unravel his newfound clarity. It was here, amidst uncertainty, that Takashi learned to listen, to the grove's quiet wisdom, to the heartbeats of his dreams.
 
 As spring whispered renewal, Takashi emerged from introspection with plans that embraced nature's artistry and their own sense of place. His designs became celebrations of harmony, structures drawing the village into the grove's secret dance.
 
-In weaving his vision, Takashi found not just a completion of forms, but a transcendence—a place where spirit and matter entwined, and new beginnings took root.
+In weaving his vision, Takashi found not just a completion of forms, but a transcendence, a place where spirit and matter entwined, and new beginnings took root.
 
 #### ***Lines in Context:***
 <ul><li><B>1</B> (yin) <i>Emergence of Insight</i> - In his retreat, Takashi realizes the foundational potential of his vision, setting off a journey toward architectural discovery. <i>Moving line</i> - As tentative insights grow bolder, new understandings may challenge the mundane, revealing a vibrant approach yet risking the grounding of nascent concepts.</li></ul>
@@ -110,7 +110,7 @@ In weaving his vision, Takashi found not just a completion of forms, but a trans
 
 ##### *The Long March: A Strategic Turning Point*
 
-#### In October 1934, Mao Zedong and his followers faced overwhelming odds against Nationalist forces. Opting for retreat rather than annihilation, they embarked on The Long March—a harrowing 370-day trek covering over 5,600 miles. Despite severe hardships, the retreat was transformative. Mao emerged as the unquestioned leader, and the Communist Party gained invaluable experience and support from rural populations. The retreat's success laid the foundation for the eventual Communist victory in China, highlighting how strategic withdrawal can lead to unexpected triumphs.
+#### In October 1934, Mao Zedong and his followers faced overwhelming odds against Nationalist forces. Opting for retreat rather than annihilation, they embarked on The Long March, a harrowing 370-day trek covering over 5,600 miles. Despite severe hardships, the retreat was transformative. Mao emerged as the unquestioned leader, and the Communist Party gained invaluable experience and support from rural populations. The retreat's success laid the foundation for the eventual Communist victory in China, highlighting how strategic withdrawal can lead to unexpected triumphs.
 
 <div style="font-size: 8pt;font-style:italic">Source: "The Long March: The True History of Communist China's Founding Myth" by Sun Shuyun (Doubleday, 2006)</div>
 
@@ -125,11 +125,6 @@ In weaving his vision, Takashi found not just a completion of forms, but a trans
 
 ###### *Notes*
 ### **King Wen**: 33 ䷠ <sub>*60*</sub> Retreat; 1 ☰ <sub>*7*</sub> The Creative,  Heaven *over* 3 ☶ <sub>*3*</sub> The Still, Mountain;
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 <br/>
 <br/>
 <br/>

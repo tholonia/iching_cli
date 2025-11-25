@@ -6,7 +6,7 @@
 <span style="font-size:2em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;">23 ䷖</span><span style="font-size:1em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;vertical-align:text-bottom;"> 32 </span><span style="font-size:2em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;">&nbsp; Dissolution</span>
 </div>
 ## Dissolution or deterioration represents the natural process of decay and dissolution that precedes renewal. Like a mountain eroding or a house falling into disrepair, all structures eventually break down. This deterioration is not a catastrophe but a natural phase that clears the way for new growth.
-<img src="/home/jw/store/src/iching_cli/book/v2/prod/23.png">
+<img src="/home/jw/src/iching_cli/book/v2/prod/23.png">
 <span style="margin-bottom: 8px;"> &nbsp; </span>
 ### *"Dissolution" is expressed through a painting of an eroding mountain or deteriorating house, symbolizing the breakdown of rigid structures and the inevitability of change. This artwork is crafted in the style of Expressionism, a movement defined by its raw emotion and exploration of the human condition, reflecting the transformative process intrinsic in dissolution. The use of charcoal emphasizes the subtlety of decay, showcasing the fading strength and impending collapse of the depicted structures. This image is inspired by Vincent van Gogh, renowned for intense emotionality and psychological depth in his work, mirroring the profound personal and systemic changes represented by "Dissolution".*
 <p/>
@@ -34,7 +34,7 @@
 **Negotiation**: This hexagram represents the negotiation between structure and entropy. The mountain (Gen) represents established order while the earth (Kun) below represents the forces of dissolution. The interaction between these forces is inevitable and natural. **Limitation**: The limitations here are defined by natural law - all things must eventually break down. The hexagram shows how this process typically progresses from bottom to top, like a building losing its foundation first. **Contribution**: This hexagram contributes understanding of natural cycles of decay and renewal. It teaches acceptance of impermanence and the wisdom of knowing when to let go rather than resist inevitable change.
 
 #### ***Tholon 32 of 32: "Crisis Resolution"***
-#### The *dynamic* path is creates "Breakthrough" (43 <sub>*31*</sub>) and "Splitting Apart" (23 <sub>*32*</sub>).  This pair-path represents the dynamic between overcoming challenges and the potential for disintegration. It captures the tension between breaking through obstacles and the risks of falling apart. The ascending path of Hexagram 43, Breakthrough, signifies a decisive action to resolve conflict and assert clarity, while the descending path of Hexagram 23, Splitting Apart, warns of the gradual erosion of integrity and structure. Together, they illustrate the cyclical nature of crisis and resolution.
+#### This hexagram is within the *dynamic* path of "Crisis Resolution" formed by "Breakthrough" (43䷪<sub>*31*</sub>) and "Splitting Apart" (23䷖<sub>*32*</sub>).  This pair-path represents the dynamic between overcoming challenges and the potential for disintegration. It captures the tension between breaking through obstacles and the risks of falling apart. The ascending path of Hexagram 43, Breakthrough, signifies a decisive action to resolve conflict and assert clarity, while the descending path of Hexagram 23, Splitting Apart, warns of the gradual erosion of integrity and structure. Together, they illustrate the cyclical nature of crisis and resolution.
 
 
 
@@ -50,7 +50,7 @@ The factory, however, teetered on the brink of dissolution. The looms, once the 
 
 Each day, as Edward walked the factory floor, he sensed the weight of ambition and desperation upon him. His workers, their faces carved by years of labor, shared whispered fears of a future without work. The burden of their hopes and the shadow of failure haunted him, pushing him to the edge of his resolve.
 
-Yet, in this crucible of uncertainty, Edward found clarity—an understanding woven from the threads of his struggles. A partnership with an emerging designer who sought the quality of bygone days seemed to offer a lifeline. Together, they envisioned a line of unique fabrics that honored tradition while embracing the new.
+Yet, in this crucible of uncertainty, Edward found clarity, an understanding woven from the threads of his struggles. A partnership with an emerging designer who sought the quality of bygone days seemed to offer a lifeline. Together, they envisioned a line of unique fabrics that honored tradition while embracing the new.
 
 As they worked, Edward's factory was reborn. The clack of looms became the harmonious percussion of a new era dawning. It was not without sacrifice; many adjustments were made to meet the market's demands. But these changes brought their own kind of growth, a resurgence balanced between time-worn wisdom and modern necessity.
 
@@ -69,7 +69,7 @@ Edward Harland stood as a testament to the enduring spirit of creativity, where 
 
 #### In a vast, ancient forest that had seen the rise and fall of countless creatures, there existed a towering oak, gnarled with age but imbued with a quiet defiance against time's relentless march. Around this ancient sentinel, the elements waged an eternal ballet, the wind bending the branches in its whimsical embrace, while the sun and rain painted the landscape in vibrant hues.
 
-Beneath the tree's expansive canopy, an ancestral clearing thrummed with the promise of renewal. Here, life and decay danced an intricate duet, each entwined with the other in a cycle as old as the forest itself. The creatures of the wood—deer, fox, and myriad songbirds—moved about in rhythm with the laboring earth, their breaths syncopated with the pulse of the natural world.
+Beneath the tree's expansive canopy, an ancestral clearing thrummed with the promise of renewal. Here, life and decay danced an intricate duet, each entwined with the other in a cycle as old as the forest itself. The creatures of the wood, deer, fox, and myriad songbirds, moved about in rhythm with the laboring earth, their breaths syncopated with the pulse of the natural world.
 
 One such creature, a lone wolf named Fenrir, roamed the forest in search of sustenance and wisdom. He was drawn to the ancient oak, sensing within its whispers the seeds of untapped potential. The oak's spiraling roots seemed to crisscross the fabric of his thoughts, coaxing forth a determination to confront the forces that shaped his world.
 
@@ -94,7 +94,7 @@ Emboldened by this alchemy of elements, he let the forces of nature guide him, t
 
 Elias stood at the threshold of an ancient doorway, the woodwork laden with carvings of forgotten lore. It was here that the seeds of renewal began to stir within him, recognizing the need to abandon the safety of stagnation. A tremor of possibility coursed through him, kindling a quiet rebellion against his own inertia.
 
-As he navigated deeper into the maze, the air grew thick with the residue of past choices. Here, the formation of new paths took place—a delicate weaving of intentions and fears, each step a silent affirmation of his hidden resolve. Yet, the specter of conflict loomed large, unveiling the chasm between who he was and who he might become.
+As he navigated deeper into the maze, the air grew thick with the residue of past choices. Here, the formation of new paths took place, a delicate weaving of intentions and fears, each step a silent affirmation of his hidden resolve. Yet, the specter of conflict loomed large, unveiling the chasm between who he was and who he might become.
 
 In the heart of the labyrinth, the essence of manifestation unfolded. The shadows cleared, revealing a kaleidoscope of possibilities, with Elias recognizing his power as both a creator and a product of his choices. His mastery emerged in the quiet acceptance of this duality, as the walls themselves seemed to shimmer with resonance.
 
@@ -114,7 +114,7 @@ At last, Elias reached the pinnacle of his journey. Here, the tapestry of his ex
 
 ##### *The Fall of Constantinople*
 
-#### In 1453, the Byzantine Empire's centuries-old stronghold, Constantinople, fell to the Ottoman Empire, marking the end of an era. For centuries, Byzantium had stood as a bastion of Christianity's glory and the keeper of ancient Roman traditions—a waning power surrounded by rising forces. Sultan Mehmed II's calculated strategies and relentless siege brought new military technologies, including massive cannons that shattered the once-impregnable walls. The city, straining under internal decay and external pressure, witnessed the final breach—a potent symbol of Europe's shift from medieval to early modern times. As Byzantine defenders and citizens faced their fate, they grappled with the dissolving remnants of their world. The Ottoman conquest introduced a vibrant new era under Islam, transforming Constantinople into Istanbul, a bridge between East and West, reflective of renewal amidst decay. The fall of Constantinople, thus, represents not only dissolution but the potential for dynamic rebirth as history's cycles usher in new epochs.
+#### In 1453, the Byzantine Empire's centuries-old stronghold, Constantinople, fell to the Ottoman Empire, marking the end of an era. For centuries, Byzantium had stood as a bastion of Christianity's glory and the keeper of ancient Roman traditions, a waning power surrounded by rising forces. Sultan Mehmed II's calculated strategies and relentless siege brought new military technologies, including massive cannons that shattered the once-impregnable walls. The city, straining under internal decay and external pressure, witnessed the final breach, a potent symbol of Europe's shift from medieval to early modern times. As Byzantine defenders and citizens faced their fate, they grappled with the dissolving remnants of their world. The Ottoman conquest introduced a vibrant new era under Islam, transforming Constantinople into Istanbul, a bridge between East and West, reflective of renewal amidst decay. The fall of Constantinople, thus, represents not only dissolution but the potential for dynamic rebirth as history's cycles usher in new epochs.
 
 <div style="font-size: 8pt;font-style:italic">Source: The Fall of Constantinople 1453 by Steven Runciman, 1453: The Holy War for Constantinople and the Clash of Islam and the West by Roger Crowley</div>
 
@@ -129,11 +129,6 @@ At last, Elias reached the pinnacle of his journey. Here, the tapestry of his ex
 
 ###### *Notes*
 ### **King Wen**: 23 ䷖ <sub>*32*</sub> Splitting Apart; 3 ☶ <sub>*3*</sub> The Still,  Mountain *over* 2 ☷ <sub>*0*</sub> The Receptive, Earth;
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 <br/>
 <br/>
 <br/>

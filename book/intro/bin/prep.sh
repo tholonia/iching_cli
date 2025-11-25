@@ -79,13 +79,13 @@ SMALL=false
 NO_GUI=false
 BUILD=false
 rm -f ../Images
-ln -fs /home/jw/store/src/iching_cli/book/intro/HiRes  /home/jw/store/src/iching_cli/book/intro/Images
+ln -fs /home/jw/src/iching_cli/book/intro/HiRes  /home/jw/src/iching_cli/book/intro/Images
 for arg in "$@"; do
   case $arg in
     --small)
       SMALL=true
       rm -f ../Images
-      ln -fs /home/jw/store/src/iching_cli/book/intro/72  /home/jw/store/src/iching_cli/book/intro/Images
+      ln -fs /home/jw/src/iching_cli/book/intro/72  /home/jw/src/iching_cli/book/intro/Images
 
       shift
       ;;
@@ -115,11 +115,25 @@ fi
 # rm -f ${D}/../intro/iching_intro.html
 
 #! need to copy latest css for typora
+echo -e "\033[36mCompiling LESS files to CSS...\033[0m"
+
+# Compile main CSS files
 lessc ${D}/../Styles/iching_intro.less ${D}/../Styles/iching_intro.css
+lessc ${D}/../Styles/iching_intro_nopage.less ${D}/../Styles/iching_intro_nopage.css
+
+# Compile format-specific CSS files
+lessc ${D}/../Styles/iching_intro_book.less ${D}/../Styles/iching_intro_book.css
+lessc ${D}/../Styles/iching_intro_pdf.less ${D}/../Styles/iching_intro_pdf.css
+
+echo -e "\033[32mCompiled CSS files:\033[0m"
+echo -e "  - iching_intro.css"
+echo -e "  - iching_intro_nopage.css"
+echo -e "  - iching_intro_book.css (alternating gutters for book format)"
+echo -e "  - iching_intro_pdf.css (consistent margins for PDF format)"
+
+# Copy main files to Typora themes directory
 cp ${D}/../Styles/iching_intro.css /home/jw/.config/Typora/themes/iching_intro.css
 cp ${D}/../Styles/iching_intro.less /home/jw/.config/Typora/themes/iching_intro.less
-
-lessc ${D}/../Styles/iching_intro_nopage.less ${D}/../Styles/iching_intro_nopage.css
 cp ${D}/../Styles/iching_intro_nopage.css /home/jw/.config/Typora/themes/iching_intro_nopage.css
 cp ${D}/../Styles/iching_intro_nopage.less /home/jw/.config/Typora/themes/iching_intro_nopage.less
 

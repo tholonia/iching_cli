@@ -6,7 +6,7 @@
 <span style="font-size:2em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;">42 ䷩</span><span style="font-size:1em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;vertical-align:text-bottom;"> 49 </span><span style="font-size:2em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;">&nbsp; Mindful Expansion</span>
 </div>
 ## Represents beneficial increase through conscious growth. Like a well-planned garden, it emphasizes sustainable development that benefits all involved.
-<img src="/home/jw/store/src/iching_cli/book/v2/prod/42.png">
+<img src="/home/jw/src/iching_cli/book/v2/prod/42.png">
 <span style="margin-bottom: 8px;"> &nbsp; </span>
 ### *"'Mindful Expansion' is elegantly reflected through a carefully curated blend of mediums and styles, encapsulating the Tholonic principles of awareness, intention, and universal love. The garden setting mirrors natural progression and beneficial growth, illustrating dynamic expansion which matches the model's essence. An Impressionist style evokes the evolving nature of the sophisticated growth. Meanwhile, the varied textures of collage work represent the harmony and integration of elemental Tholon forces. The influence of Georgia O'Keeffe nods to the importance of nature's forms, acting as a symbol of the hexagram's ethos. The award-winning quality of the artwork demonstrates the successful embodiment of its principles.*
 <p/>
@@ -25,7 +25,7 @@
 <ul><li><B>3</B> (yin) <I>Radiant Exploration</I> - Dynamic forces interplay to spark creative inquiry; this line is an invitation to delve deeper and explore the rich interplay between reflection and action. <i>Moving line</i>: Transform the quietude of introspection into a bold, outward exploration of possibilities.</li></ul>
 <ul><li><B>4</B> (yin) <I>Harmonious Ascension</I> - A balance between inner reflection and external action brings about a rise in personal energy; here, mindful expansion moves towards integration of opposing forces. <i>Moving line</i>: Shift from inner equilibrium to assertive movement, embodying the balance of yin and yang through graceful action.</li></ul>
 <ul><li><B>5</B> (yang) <I>Illuminated Breakthrough</I> - A decisive moment of clarity disrupts the status quo, ushering in an era of vibrant change and renewed purpose; this breakthrough signals the manifest expression of hidden capabilities. <i>Moving line</i>: Convert the once dormant intuitive spark into a dynamic, creative force that redefines boundaries.</li></ul>
-<ul><li><B>6</B> (yang) <I>Transcendent Realization</I> - The final line embodies the ultimate synthesis of mindful expansion—a union of inner calm and vibrant expression that speaks to the attainment of a higher state of being. <i>Moving line</i>: Culminate the transformation by allowing the deep, receptive energy of yin to fully manifest as the proactive, illuminating force of yang.</li></ul>
+<ul><li><B>6</B> (yang) <I>Transcendent Realization</I> - The final line embodies the ultimate synthesis of mindful expansion, a union of inner calm and vibrant expression that speaks to the attainment of a higher state of being. <i>Moving line</i>: Culminate the transformation by allowing the deep, receptive energy of yin to fully manifest as the proactive, illuminating force of yang.</li></ul>
 
 #### **No Moving Lines**: Current growth process requires steady nurturing. Stable increase enables proper development. Maintain balanced approach while expanding.
 #### **All Moving Lines**: Complete transformation through comprehensive growth. All aspects develop simultaneously. Navigate change through holistic expansion.
@@ -34,7 +34,7 @@
 **Negotiation**: Balance between growth and sustainability creates lasting value. Like ecosystem expansion, increase requires harmony. Shows how mindful growth enables flourishing. **Limitation**: Strategic growth defines sustainable boundaries. Increase must be structured to be beneficial. Creates framework for healthy expansion. **Contribution**: Returns individual gain to collective benefit. Like nutrient cycling, increase generates shared prosperity. Demonstrates how growth serves whole system.
 
 #### ***Tholon 15 of 32: "Growth Cycle"***
-#### The *stable* path is creates "Duration" (32 <sub>*14*</sub>) and "Increase" (42 <sub>*49*</sub>).  The pair-path of Duration and Increase represents the cyclical nature of growth and sustainability. Duration embodies steadfastness and the maintenance of what has been established, while Increase signifies expansion and the fruitful addition to what exists. Together, they illustrate a dynamic equilibrium between sustaining what is and fostering new growth.
+#### This hexagram is within the *stable* path of "Growth Cycle" formed by "Duration" (32䷟<sub>*14*</sub>) and "Increase" (42䷩<sub>*49*</sub>).  The pair-path of Duration and Increase represents the cyclical nature of growth and sustainability. Duration embodies steadfastness and the maintenance of what has been established, while Increase signifies expansion and the fruitful addition to what exists. Together, they illustrate a dynamic equilibrium between sustaining what is and fostering new growth.
 
 
 
@@ -50,7 +50,7 @@ At first, Henry's thoughts were only whispers shared among trusted friends in di
 
 Henry's movement faced its descent into complexity when envy and ambition entwined their roots into the hearts of his followers. Disagreements on strategy splintered unity, testing Henry's resolve at every turn. He knew that embracing this complexity, rather than rejecting it, would be key to his movement's survival.
 
-As the spiralling tensions swept through his ranks, Henry found solace in introspection, cultivating the wisdom to navigate his creation through these turbulent waters. His persistence bore fruit when the movement's ideals crystallized into tangible reforms. The city, once resistant, welcomed change—a profound testament to the power of mindful expansion.
+As the spiralling tensions swept through his ranks, Henry found solace in introspection, cultivating the wisdom to navigate his creation through these turbulent waters. His persistence bore fruit when the movement's ideals crystallized into tangible reforms. The city, once resistant, welcomed change, a profound testament to the power of mindful expansion.
 
 In reflecting on his journey, Henry realized that true success lay not in overthrowing the system entirely, but in transforming it to uplift all within. His once quiet dreams now resonated loudly in the corridors of Elderridge, forever altering the city's course towards a future of hope and potential.
 
@@ -67,7 +67,7 @@ In reflecting on his journey, Henry realized that true success lay not in overth
 
 #### In the heart of an ancient forest, where time itself seemed inscribed on the bark of venerable trees, lived Elyas, a hermit whose life intertwined with the dense web of leaves and shadows. Each morning, the forest awoke in a symphony of dawn, with tendrils of mist weaving a tapestry over the earthen floor. Elyas found solace in this world, learning the secrets whispered by the rustling leaves and the murmuring streams.
 
-One day, Elyas discovered a curious growth—a cluster of mushrooms peeking through the mulch near his dwelling. Fascinated, he nurtured them with the same care he bestowed upon the forest. As days passed, the mushrooms grew into a magnificent colony, each cap opened wide like a parasol in flowery revelation.
+One day, Elyas discovered a curious growth, a cluster of mushrooms peeking through the mulch near his dwelling. Fascinated, he nurtured them with the same care he bestowed upon the forest. As days passed, the mushrooms grew into a magnificent colony, each cap opened wide like a parasol in flowery revelation.
 
 However, as the mushrooms thrived, a creeping shadow threatened their delicate ecosystem. A strange vine, tenacious and unruly, began to spread, suffocating the fungi and competing for the scarce light filtering through the canopy.
 
@@ -88,13 +88,13 @@ In time, the mushrooms became a delicate bridge between the forest and the open 
 
 #### In the heart of an ancient forest where shadows played between branches, the young monk Tenzin embarked on a solitary pilgrimage. Seeking unity within the duality of existence, he wandered through the whispering trees. His quest, an inward journey amidst external manifestations, echoed the eternal dance of creation and dissolution.
 
-The forest, a convergence of life unfolding in myriad forms, mirrored Tenzin's inner landscape—a rich tapestry of thoughts and aspirations interwoven with doubt. His days were filled with meditative silence, his nights under the vast cosmos, where stars whispered secrets of the universe into his willing heart.
+The forest, a convergence of life unfolding in myriad forms, mirrored Tenzin's inner landscape, a rich tapestry of thoughts and aspirations interwoven with doubt. His days were filled with meditative silence, his nights under the vast cosmos, where stars whispered secrets of the universe into his willing heart.
 
 Yet, the path of enlightenment was not straight, for Tenzin, too, danced on the edge between aspiration and achievement. Each step ushered him deeper into realms of unknown potential, a journey as much about surrender as discovery.
 
-As seasons shifted, so did the monk's perception. One day, while resting beneath an ancient oak, he glimpsed the interconnectedness of all life—a sudden, profound clarity that arose from the seemingly chaotic dance of shadows and light.
+As seasons shifted, so did the monk's perception. One day, while resting beneath an ancient oak, he glimpsed the interconnectedness of all life, a sudden, profound clarity that arose from the seemingly chaotic dance of shadows and light.
 
-Returning to the world from his forest retreat, Tenzin carried a newfound resolve. He found harmony within and sought to impart the wisdom of balanced expansion—peace and vitality unfurling like the leaves in spring. It was a transformation beyond words, where personal insight blossomed into universal understanding.
+Returning to the world from his forest retreat, Tenzin carried a newfound resolve. He found harmony within and sought to impart the wisdom of balanced expansion, peace and vitality unfurling like the leaves in spring. It was a transformation beyond words, where personal insight blossomed into universal understanding.
 
 #### ***Lines in Context:***
 <ul><li><B>1</B> (yang) <i>Emergence of Potential</i> - Tenzin's journey begins with inner turmoil, a stir of endless potential seeking expression. <i>Moving line</i> - Initial hesitance or misalignment disrupts discovery, yet thoughtful transition births dormant creativity into awareness and initiative.</li></ul>
@@ -125,11 +125,6 @@ Returning to the world from his forest retreat, Tenzin carried a newfound resolv
 
 ###### *Notes*
 ### **King Wen**: 42 ䷩ <sub>*49*</sub> ; 5 ☴ <sub>*6*</sub> The Gentle,  Wind/Wood *over* 4 ☳ <sub>*1*</sub> Dynamic and Exciting, Thunder;
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 <br/>
 <br/>
 <br/>

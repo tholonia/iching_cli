@@ -6,7 +6,7 @@
 <span style="font-size:2em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;">9 ䷈</span><span style="font-size:1em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;vertical-align:text-bottom;"> 55 </span><span style="font-size:2em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;">&nbsp; Refinement</span>
 </div>
 ## The process of careful development through subtle influence. Like wind gathering clouds, this represents the gradual accumulation of small improvements leading to significant change.
-<img src="/home/jw/store/src/iching_cli/book/v2/prod/09.png">
+<img src="/home/jw/src/iching_cli/book/v2/prod/09.png">
 <span style="margin-bottom: 8px;"> &nbsp; </span>
 ### *"Refinement" is beautifully portrayed in the carefully balanced elements of the image of a cloud shepherd directing the rain. The vision of the shepherd softly articulating the flow of nature echoes the tholonic principle of negotiation, underlining the emergence of coherence through balanced dynamism. The minimalist style and ink on parchment medium mirror the subtlety and intentional selectivity of the refinement process. Katsushika Hokusai's illustration reminds us of the steady dedication needed in the patient accumulation of small improvements that leads to meaningful transformation. This image poetically unifies the essence of restrained creation inherent in Hexagram 09.
 *
@@ -35,7 +35,7 @@
 **Negotiation**: The hexagram represents the negotiation between powerful force (Heaven) and gentle penetration (Wind). This creates a dynamic balance between strength and subtlety. **Limitation**: Structure is provided by heaven above, indicating that development serves higher purposes. The wind below suggests that change comes through persistent gentle action. **Contribution**: This pattern contributes to evolution by demonstrating how subtle influences create lasting change. It shows how small improvements accumulate into significant transformation.
 
 #### ***Tholon 9 of 32: "Harmonious Tension"***
-#### The *dynamic* path is creates "Enthusiasm" (16 <sub>*8*</sub>) and "Small Taming" (9 <sub>*55*</sub>).  This pair-path embodies the dynamic interplay between the exuberant rise of energy and the gentle restraint that tempers it. Enthusiasm (Hexagram 16) represents the surge of inspiration and the momentum of collective action, while Small Taming (Hexagram 9) signifies the subtle control and patience required to guide this energy towards constructive outcomes. Together, they illustrate the balance between fervor and moderation, the dance of expansion and containment.
+#### This hexagram is within the *dynamic* path of "Harmonious Tension" formed by "Enthusiasm" (16䷏<sub>*8*</sub>) and "Small Taming" (9䷈<sub>*55*</sub>).  This pair-path embodies the dynamic interplay between the exuberant rise of energy and the gentle restraint that tempers it. Enthusiasm (Hexagram 16) represents the surge of inspiration and the momentum of collective action, while Small Taming (Hexagram 9) signifies the subtle control and patience required to guide this energy towards constructive outcomes. Together, they illustrate the balance between fervor and moderation, the dance of expansion and containment.
 
 
 
@@ -47,13 +47,13 @@
 
 #### In the bustling city of Verens, known for its towering spires and clockwork marvels, lived a humble inventor named Theo. His workshop, nestled in a narrow alley overshadowed by grand façades, was filled with contraptions that defied conventional notions of practicality. He was a dreamer, viewed by many as a man out of sync with the meticulous efficiency of the city.
 
-For years, Theo toiled on a singular project—a perpetual motion machine, defying both the laws of physics and the skepticism of his peers. His passion for creating something revolutionary sustained him despite the pervasive doubt cast by those around him.
+For years, Theo toiled on a singular project, a perpetual motion machine, defying both the laws of physics and the skepticism of his peers. His passion for creating something revolutionary sustained him despite the pervasive doubt cast by those around him.
 
-As time wore on, Theo refined his invention, each failure a stepping stone to greater understanding. Yet, his greatest obstacle was not mechanical but the deep-seated doubt creeping into his heart. His oscillation between self-belief and despair mirrored the tensions within the city—always in motion, but never reaching harmony.
+As time wore on, Theo refined his invention, each failure a stepping stone to greater understanding. Yet, his greatest obstacle was not mechanical but the deep-seated doubt creeping into his heart. His oscillation between self-belief and despair mirrored the tensions within the city, always in motion, but never reaching harmony.
 
 Eventually, Theo reached an epiphany. He realized his pursuit was not merely about overcoming physical limitations but also an exploration of inner balance. This newfound clarity allowed him to view his failures as integral parts of his journey. Though his peers might never appreciate his creation's true nature, Theo embraced the duality of ambition and uncertainty, seeing it as the lifeblood of genuine innovation.
 
-With this acceptance, Theo's machine finally found rhythm—not perpetual in the literal sense, but perpetual in the spirit it ignited within him and those few willing to glimpse beyond the surface. He recognized that true refinement is a journey, punctuated not by definitive success but by the subtle machinations of inspiration and discovery.
+With this acceptance, Theo's machine finally found rhythm, not perpetual in the literal sense, but perpetual in the spirit it ignited within him and those few willing to glimpse beyond the surface. He recognized that true refinement is a journey, punctuated not by definitive success but by the subtle machinations of inspiration and discovery.
 
 #### ***Lines in Context:***
 <ul><li><B>1</B> (yang) <i>Spark of Inspiration</i> - Theo's journey starts with a burst of raw creativity, a flame of potential seeking form. <i>Moving line</i> - If yang changes to yin, initial enthusiasm might flounder, leading him to a reflective pause that deepens his understanding before proceeding.</li></ul>
@@ -97,7 +97,7 @@ One afternoon, as the sky knitted heavy tides and billowed winds, Elara felt a s
 
 Days passed as Elara honed her craft in the shelter of her makeshift studio. The clay, under her intent gaze, transformed from timid molds to bold expressions of the unspoken world within her.
 
-But with new creation came doubt—a tempest not of the sea, but of her soul—questioning, weighing, and nearly undoing her resolve. Yet, amidst this inner turmoil, clarity emerged, linking her spirit and creations in a symphony of profound simplicity. Her work, an unyielding testament to the voyage of creating oneself anew, finally unveiled at the village square, spoke louder than any words she'd withheld.
+But with new creation came doubt, a tempest not of the sea, but of her soul, questioning, weighing, and nearly undoing her resolve. Yet, amidst this inner turmoil, clarity emerged, linking her spirit and creations in a symphony of profound simplicity. Her work, an unyielding testament to the voyage of creating oneself anew, finally unveiled at the village square, spoke louder than any words she'd withheld.
 
 In that moment, Elara understood that her artistry's true touch lay not just in its form, but in the subtle and intricate dance between what could be seen and what was tacitly felt, weaving the unseen potential into the very fabric of their lives.
 
@@ -132,11 +132,6 @@ Initially, these prints were considered mere commercial art, intended for mass p
 
 ###### *Notes*
 ### **King Wen**: 9 ䷈ <sub>*55*</sub> Small Accumulation; 5 ☴ <sub>*6*</sub> The Gentle,  Wind/Wood *over* 1 ☰ <sub>*7*</sub> The Creative, Heaven;
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 <br/>
 <br/>
 <br/>

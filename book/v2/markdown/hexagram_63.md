@@ -3,16 +3,16 @@
 # &nbsp;
 
 <div style="margin: 0 auto; text-align: center;border-bottom:1px solid #c5c5c5;padding-bottom:1em;">
-<span style="font-size:2em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;">63 ䷾</span><span style="font-size:1em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;vertical-align:text-bottom;"> 21 </span><span style="font-size:2em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;">&nbsp; Sustainable Order</span>
+<span style="font-size:2em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;">63 ䷾</span><span style="font-size:1em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;vertical-align:text-bottom;"> 21 </span><span style="font-size:2em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;">&nbsp; Emergent Order</span>
 </div>
 ## A state of perfected balance, where all elements are aligned in harmony. Stability is maintained, yet this very completion signals the inevitability of future change and renewal.
-<img src="/home/jw/store/src/iching_cli/book/v2/prod/63.png">
+<img src="/home/jw/src/iching_cli/book/v2/prod/63.png">
 <span style="margin-bottom: 8px;"> &nbsp; </span>
-### *"Sustainable Order" is artistically rendered with intricate symmetry, embodying the hexagram’s essence of completion and continuous renewal. The interwoven golden framework illustrates the delicate balance of structure and fluidity, while fiery orbs symbolize focal points of transformation. The interplay of deep blues and radiant golds reflects the dynamic tension between Water and Fire, capturing the ever-shifting equilibrium of fulfillment and change. Organic motifs weaving through rigid geometry underscore the necessity of adaptation within order. The image embodies perfection as a fleeting yet essential state, reminding us that true balance is not static but must be actively sustained.
+### *"Emergent Order" is artistically rendered with intricate symmetry, embodying the hexagram's essence of completion and continuous renewal. The interwoven golden framework illustrates the delicate balance of structure and fluidity, while fiery orbs symbolize focal points of transformation. The interplay of deep blues and radiant golds reflects the dynamic tension between Water and Fire, capturing the ever-shifting equilibrium of fulfillment and change. Organic motifs weaving through rigid geometry underscore the necessity of adaptation within order. The image embodies perfection as a fleeting yet essential state, reminding us that true balance is not static but must be actively sustained.
 *
 <p/>
 
-#### "Sustainable Order" is an emblem of fleeting perfection, a state of harmony that, once achieved, must be actively maintained to prevent decline. In the universe, we see this in the precise balance of cosmic forces, where stars burn brightly for eons but eventually exhaust their fuel, requiring renewal. In the world, civilizations and systems reach moments of peak refinement, yet without adaptation, they erode. Within ourselves, moments of clarity and fulfillment arise, but without continuous effort, they fade. This hexagram teaches that true stability is not an unchanging state but a dynamic process that demands vigilance, responsiveness, and renewal.
+#### "Emergent Order" is an emblem of fleeting perfection, a state of harmony that, once achieved, must be actively maintained to prevent decline. In the universe, we see this in the precise balance of cosmic forces, where stars burn brightly for eons but eventually exhaust their fuel, requiring renewal. In the world, civilizations and systems reach moments of peak refinement, yet without adaptation, they erode. Within ourselves, moments of clarity and fulfillment arise, but without continuous effort, they fade. This hexagram teaches that true stability is not an unchanging state but a dynamic process that demands vigilance, responsiveness, and renewal.
 #### Models sustainable systemic stability. Functions as template for dynamic equilibrium. Important for understanding how complex systems maintain order. In Tholonic terms, "After Completion" reflects the interplay of *negotiation*, *limitation*, and *contribution* as the sustaining forces of balance. *Negotiation* ensures that even in moments of harmony, forces remain engaged in a subtle interplay to preserve equilibrium. *Limitation* serves as the boundary that prevents complacency, reminding us that stability requires structure but not stagnation. *Contribution* is the ongoing process of renewal, ensuring that success is not a resting place but a foundation for continued evolution. This hexagram illustrates that completion is never absolute—each cycle of balance contains the seeds of the next transformation.
 
 #### ***Trigrams***
@@ -35,11 +35,11 @@
 **Negotiation**: Fire and Water interact to create steam - transformation through balanced opposition. Represents dynamic equilibrium between opposing forces. Shows how stability emerges from constant negotiation. **Limitation**: Success requires ongoing maintenance within established parameters. Structure emerges from the interaction of limits. Defines sustainable boundaries. **Contribution**: Demonstrates how order emerges from balanced chaos. Like homeostasis in living systems. Returns to source through maintained harmony.
 
 #### ***Tholon 22 of 32: "Completion Cycle"***
-#### The *stable* path is creates "After Completion" (63 <sub>*21*</sub>) and "Before Completion" (64 <sub>*42*</sub>).  This pair-path represents the cyclical nature of completion and renewal. 'After Completion' signifies the order and stability achieved after a task's fulfillment, while 'Before Completion' embodies the anticipation and potential of what is yet to be finished. Together, they illustrate the endless loop of endings leading to new beginnings.
+#### This hexagram is within the *stable* path of "Completion Cycle" formed by "After Completion" (63䷾<sub>*21*</sub>) and "Before Completion" (64䷿<sub>*42*</sub>).  This pair-path represents the cyclical nature of completion and renewal. 'After Completion' signifies the order and stability achieved after a task's fulfillment, while 'Before Completion' embodies the anticipation and potential of what is yet to be finished. Together, they illustrate the endless loop of endings leading to new beginnings.
 
 
 
-###### Three Tales of "Sustainable Order"
+###### Three Tales of "Emergent Order"
 
 
 ##### Clash of Aspirations in the Corporate Jungle (Man vs. Man)
@@ -97,7 +97,7 @@ His journey taught him the importance of surrender, of allowing light to emerge 
 
 
 
-###### 'Sustainable Order' in History
+###### 'Emergent Order' in History
 
 ##### *The Founding of the United Nations: A New Order*
 
@@ -116,11 +116,6 @@ His journey taught him the importance of surrender, of allowing light to emerge 
 
 ###### *Notes*
 ### **King Wen**: 63 ䷾ <sub>*21*</sub> After Completion; 6 ☵ <sub>*2*</sub> The Abysmal,  Water *over* 7 ☲ <sub>*5*</sub> The Clinging, Fire;
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 <br/>
 <br/>
 <br/>

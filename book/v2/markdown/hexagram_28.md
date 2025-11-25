@@ -6,7 +6,7 @@
 <span style="font-size:2em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;">28 ䷛</span><span style="font-size:1em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;vertical-align:text-bottom;"> 30 </span><span style="font-size:2em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;">&nbsp; Critical Mass</span>
 </div>
 ## The point where pressure creates transformation. Like a dam about to overflow, this hexagram represents the moment when accumulated tension leads to breakthrough and necessary change. It describes the dynamics of systems approaching their limits and the wisdom needed to navigate such transitions.
-<img src="/home/jw/store/src/iching_cli/book/v2/prod/28.png">
+<img src="/home/jw/src/iching_cli/book/v2/prod/28.png">
 <span style="margin-bottom: 8px;"> &nbsp; </span>
 ### *"'Critical Mass' embodies the principles of extreme pressure leading to transformative change, beautifully presented in the intricate stylings of Georgia O'Keeffe's lithograph featuring a dam. The dam, representative of the Tholonic forces of negotiation and limitation, manages vast energies akin to human emotions. Surrealistic elements bring to life the overwhelming challenges of handling excess pressure, and the need for tactical strengthening. Lithography's nuanced detailing reflects the Tholonic interaction at play, highlighting the delicate balance of awareness under pressure. As the artist of renowned symbolic expression, O'Keeffe's work mirrors the Tholonic principle of contribution and transformation within a system, perfectly encapsulating the sentiments of 'Critical Mass'.*
 <p/>
@@ -34,7 +34,7 @@
 **Negotiation**: The hexagram represents negotiation between accumulating pressure and structural integrity. This interaction produces transformation through controlled release. The lines show progressive stages of managing systemic pressure until transformation occurs. **Limitation**: Lake above Wind shows how containment creates pressure that leads to change. Like a pressurized system, limitations create the conditions necessary for transformation. These boundaries determine how and when change manifests. **Contribution**: This configuration contributes understanding of how systems transform under pressure. It demonstrates how awareness can guide transformation through careful management of accumulating force, leading to constructive rather than destructive change.
 
 #### ***Tholon 31 of 32: "Balance Shift"***
-#### The *dynamic* path is creates "Great Exceeding" (28 <sub>*30*</sub>) and "Nourishment" (27 <sub>*33*</sub>).  This pair-path reflects the dynamic tension between surpassing limits and sustaining oneself. 'Great Exceeding' represents the phase of moving beyond boundaries, while 'Nourishment' signifies the return to foundational sustenance. Together, they illustrate the cycle of expansion and contraction, highlighting the need to balance growth with stability.
+#### This hexagram is within the *dynamic* path of "Balance Shift" formed by "Great Exceeding" (28䷛<sub>*30*</sub>) and "Nourishment" (27䷚<sub>*33*</sub>).  This pair-path reflects the dynamic tension between surpassing limits and sustaining oneself. 'Great Exceeding' represents the phase of moving beyond boundaries, while 'Nourishment' signifies the return to foundational sustenance. Together, they illustrate the cycle of expansion and contraction, highlighting the need to balance growth with stability.
 
 
 
@@ -54,7 +54,7 @@ His Conflict sharpened during clandestine meetings with likeminded individuals, 
 
 On the brink of Manifestation, Ethan rallied voices to his cause, a movement swarming through the fog-draped alleys, vibrating with the inevitability of change. But the simmering tension invited chaos, as the struggle for freedom threatened to slip into madness.
 
-Yet, at the pinnacle of tumult, his Mastery shone—Ethan navigated the tempest with steadfast grace, coaxing unity from discord. His movement gained coherence, a symphony of intent poised to reshape their world.
+Yet, at the pinnacle of tumult, his Mastery shone, Ethan navigated the tempest with steadfast grace, coaxing unity from discord. His movement gained coherence, a symphony of intent poised to reshape their world.
 
 Finally, Transcendence dawning at the eve of their revolution, the city's unrest thrummed with the promise of renewal. Boundaries fell away as those inspired by Ethan's vision surged forward, leaving the shadows of complacency behind for the brilliance of a new dawn.
 
@@ -94,13 +94,13 @@ The villagers gathered to witness Marisol's stunning tribute to their land. Her 
 
 #### In a city where shadows stretched far beyond the confines of the soul, Leonardo awoke each morning to the slow churning of machines echoing through the alleys. His was a life beset by repetition, entrenched in the rhythm of work, eat, and sleep, yet somewhere within, a flicker of hope awaited ignition. 
 
-The Emergence of this nascent hope was quiet, clandestine—manifesting in Leonardo's dreams where he wandered through landscapes unbound by physics, where he sculpted worlds anew. Each morning, though, the stark walls of his apartment loomed larger, threatening to swallow his dreams whole.
+The Emergence of this nascent hope was quiet, clandestine, manifesting in Leonardo's dreams where he wandered through landscapes unbound by physics, where he sculpted worlds anew. Each morning, though, the stark walls of his apartment loomed larger, threatening to swallow his dreams whole.
 
 In the Formation stage of his inner world, sketchbooks bore witness to his burgeoning visions taking form. Graphic lines and vivid splashes of color dared to disrupt the monochrome of routine. Closer to the heart, however, a creeping doubt sought to unravel these threads of creation.
 
-Conflict arose as Leonardo's dual selves clashed—the conformist and the creator, locked in relentless battle. His art whispered defiance against the tyranny of clock towers, yet faltered, caught in the storm of internal voices demanding conformity.
+Conflict arose as Leonardo's dual selves clashed, the conformist and the creator, locked in relentless battle. His art whispered defiance against the tyranny of clock towers, yet faltered, caught in the storm of internal voices demanding conformity.
 
-Manifestation arrived not in undiluted triumph but in weary perseverance. A painting hung alone in his cramped studio became a testament to struggle—colors alive with angst and yearning. Each stroke, a minor victory against the abyss threatening to eclipse his soul.
+Manifestation arrived not in undiluted triumph but in weary perseverance. A painting hung alone in his cramped studio became a testament to struggle, colors alive with angst and yearning. Each stroke, a minor victory against the abyss threatening to eclipse his soul.
 
 Mastery, elusive and defiant, teased the edges of his awareness. As the city slumbered, Leonardo returned to the canvas, a prisoner of his own need to elevate paint into passion. Yet with each night, he chipped away at this cage, revealing glimpses of harmony within chaos.
 
@@ -120,7 +120,7 @@ In Transcendence, all veils fell. His room, no longer a prison, transformed into
 
 ##### *The Unleashing of Nuclear Potential*
 
-#### On July 16, 1945, in the remote desolation of the Jornada del Muerto desert in New Mexico, the world transformed in a blinding flash. The Trinity Test—a culmination of the Manhattan Project—marked the first successful detonation of a nuclear device. Years of relentless theoretical work and furious practical engagement had reached a pivotal threshold. Under the guidance of J. Robert Oppenheimer, scientists harnessed the profound potential of atomic fission, aligning intricate theories with the brash demands of wartime urgency. The impending dawn brought with it tremendous anticipation and latent dread. As the countdown reached its conclusion, the amassed tension and monumental pressures were released, irrevocably altering the fabric of human civilization. The success of the Trinity Test symbolized not just a technological triumph but a profound shift in human capability. Oppenheimer's reflection, 'Now I am become Death, the destroyer of worlds,' echoed a dual awareness of the power and peril born from this scientific breakthrough. Thus, the critical mass was realized, and with it, humanity stood at the precipice of a new era—an era where the knowledge of atoms forged new paths in both creation and destruction.
+#### On July 16, 1945, in the remote desolation of the Jornada del Muerto desert in New Mexico, the world transformed in a blinding flash. The Trinity Test, a culmination of the Manhattan Project, marked the first successful detonation of a nuclear device. Years of relentless theoretical work and furious practical engagement had reached a pivotal threshold. Under the guidance of J. Robert Oppenheimer, scientists harnessed the profound potential of atomic fission, aligning intricate theories with the brash demands of wartime urgency. The impending dawn brought with it tremendous anticipation and latent dread. As the countdown reached its conclusion, the amassed tension and monumental pressures were released, irrevocably altering the fabric of human civilization. The success of the Trinity Test symbolized not just a technological triumph but a profound shift in human capability. Oppenheimer's reflection, 'Now I am become Death, the destroyer of worlds,' echoed a dual awareness of the power and peril born from this scientific breakthrough. Thus, the critical mass was realized, and with it, humanity stood at the precipice of a new era, an era where the knowledge of atoms forged new paths in both creation and destruction.
 
 <div style="font-size: 8pt;font-style:italic">Source: "American Prometheus: The Triumph and Tragedy of J. Robert Oppenheimer" by Kai Bird and Martin J. Sherwin, Vintage Books, 2006</div>
 
@@ -135,11 +135,6 @@ In Transcendence, all veils fell. His room, no longer a prison, transformed into
 
 ###### *Notes*
 ### **King Wen**: 28 ䷛ <sub>*30*</sub> Preponderance of the Great; 8 ☱ <sub>*4*</sub> The Joyous,  Lake/Marsh *over* 5 ☴ <sub>*6*</sub> The Gentle, Wind/Wood;
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 <br/>
 <br/>
 <br/>

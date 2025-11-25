@@ -6,7 +6,7 @@
 <span style="font-size:2em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;">11 ䷊</span><span style="font-size:1em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;vertical-align:text-bottom;"> 7 </span><span style="font-size:2em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;">&nbsp; Vitality</span>
 </div>
 ## The harmonious flow of energy between heaven and earth. Like spring emerging, this represents the natural flourishing that occurs when creative force and receptive conditions align perfectly.
-<img src="/home/jw/store/src/iching_cli/book/v2/prod/11.png">
+<img src="/home/jw/src/iching_cli/book/v2/prod/11.png">
 <span style="margin-bottom: 8px;"> &nbsp; </span>
 ### *"Vitality" is visually demonstrated through the image of a flourishing spring garden, an embodiment of living, harmonious growth. Each colorful plant path celebrates the natural flow of energy and highlights the Tholonic principle of integration, where diverse elements come together to create a vibrant whole. The watercolor medium captures the dance of light and color, reflecting the garden’s dynamic yet balanced life force. Pierre-Auguste Renoir’s depiction of nature's vibrancy brings a sense of joyous vitality to the scene, connecting perfectly with the Hexagram’s principles of harmonious expansion and balanced interaction.*
 <p/>
@@ -34,7 +34,7 @@
 **Negotiation**: The hexagram represents the negotiation between receptive earth above and creative heaven below. This creates optimal conditions for growth, like seeds receiving both groundedness and upward momentum. **Limitation**: Structure is provided by earth above, indicating that expansion occurs within natural bounds. Heaven below suggests that creative force works through established channels. **Contribution**: This pattern contributes to evolution by demonstrating how aligned forces create optimal conditions for growth. It shows how natural cycles support development.
 
 #### ***Tholon 8 of 32: "Harmony-Disharmony"***
-#### The *stable* path is creates "Peace" (11 <sub>*7*</sub>) and "Standstill" (12 <sub>*56*</sub>).  This pair-path represents the dynamic cycle between harmony and disharmony. Ascending from Standstill, where communication and progress are blocked, to Peace, where balance and cooperation thrive, the path illustrates the natural ebb and flow between unity and division in life.
+#### This hexagram is within the *stable* path of "Harmony-Disharmony" formed by "Peace" (11䷊<sub>*7*</sub>) and "Standstill" (12䷋<sub>*56*</sub>).  This pair-path represents the dynamic cycle between harmony and disharmony. Ascending from Standstill, where communication and progress are blocked, to Peace, where balance and cooperation thrive, the path illustrates the natural ebb and flow between unity and division in life.
 
 
 
@@ -46,9 +46,9 @@
 
 #### In the bustling heart of Casteja, where cobblestones whispered tales of yore, lay the atelier of renowned artisan Lorenzo. His creations, infused with a fervor for balance and beauty, graced the mantels of nobles. Yet, a fervent rivalry with his equally gifted peer, Marco, simmered beneath the town's placid exterior. 
 
-It began with a commission—an opulent vase, meant to encapsulate the essence of the land's prosperity. For Lorenzo, this was more than an artistic venture; it was an opportunity to transcend the mundane and touch the sublime. As Lorenzo immersed himself in the vibrant dance of his craft, the townsfolk buzzed with anticipation, deliberately fueling the discord between the two maestros.
+It began with a commission, an opulent vase, meant to encapsulate the essence of the land's prosperity. For Lorenzo, this was more than an artistic venture; it was an opportunity to transcend the mundane and touch the sublime. As Lorenzo immersed himself in the vibrant dance of his craft, the townsfolk buzzed with anticipation, deliberately fueling the discord between the two maestros.
 
-Their rivalry crescendoed at the community festival, a spectacle of color and kinship. Lorenzo unveiled his masterpiece—a testament to his mastery, woven with threads of harmony. But when Marco’s work, too, graced the festival, an unexpected synergy arose, uniting their spirits in a shared acknowledgment of beauty beyond competition.
+Their rivalry crescendoed at the community festival, a spectacle of color and kinship. Lorenzo unveiled his masterpiece, a testament to his mastery, woven with threads of harmony. But when Marco’s work, too, graced the festival, an unexpected synergy arose, uniting their spirits in a shared acknowledgment of beauty beyond competition.
 
 The crowd bore witness to the alchemy of unity born from rivalry. With each admiring gaze, the artisans’ creations transcended their creators, sowing seeds of lasting harmony within the tapestry of Casteja's narrative.
 
@@ -88,15 +88,15 @@ Finally, they reached Transcendence, where the mountain and sea transcended thei
 ##### The Alchemy of Self (Man vs. Self)
 ### *In the style of Virginia Woolf*
 
-#### In the heart of bustling London, amid the ebb and flow of life, lived Eleanor, a woman of quiet introspection and hidden depths. Her life unfurled like a delicate morning glory, cocooned within the comforts of routine. Yet, beneath her composed exterior lay a vibrant tapestry of thoughts and dreams, waiting for the light of realization. (Emergence) In the solitude of her afternoons, Eleanor painted—vivid scenes of her soul's yearnings channeled through her brush. This creation marked the Formation of her inner self, where each stroke crystallized the chaos into coherence. 
+#### In the heart of bustling London, amid the ebb and flow of life, lived Eleanor, a woman of quiet introspection and hidden depths. Her life unfurled like a delicate morning glory, cocooned within the comforts of routine. Yet, beneath her composed exterior lay a vibrant tapestry of thoughts and dreams, waiting for the light of realization. (Emergence) In the solitude of her afternoons, Eleanor painted, vivid scenes of her soul's yearnings channeled through her brush. This creation marked the Formation of her inner self, where each stroke crystallized the chaos into coherence. 
 
 Yet Eleanor wrestled with her creations, caught between the comfort of obscurity and the fear of exposure. Her Conflict grew as the palette changed and evolved, urging her to confront the shadow of self-doubt that haunted her most intimate canvases. 
 
-And then, one crisp autumn morning, she stood amid her half-finished paintings, the scarlet hues whispering Manifestation. Without faltering, Eleanor opened her parlor to the world, inviting others into her realm of color and emotion—changing the quiet narrative of her life. 
+And then, one crisp autumn morning, she stood amid her half-finished paintings, the scarlet hues whispering Manifestation. Without faltering, Eleanor opened her parlor to the world, inviting others into her realm of color and emotion, changing the quiet narrative of her life. 
 
 As her paintings began to echo in the hearts of others, Eleanor found in their eyes the reflection of shared humanity. She reached a point of Mastery, where her art not only defined her inward journey but knitted her into the community's fabric, illuminating unseen paths.
 
-In this newfound space of recognition, Eleanor's spirit danced through transcendent threads of creativity—one with the world and yet beautifully apart—a realization that art, when freed from the confines of self, becomes eternal (Transcendence).
+In this newfound space of recognition, Eleanor's spirit danced through transcendent threads of creativity, one with the world and yet beautifully apart, a realization that art, when freed from the confines of self, becomes eternal (Transcendence).
 
 #### ***Lines in Context:***
 <ul><li><B>1</B> (yang) <i>Emergence</i> - Eleanor's potential begins to surface as her inward reflections yearn for expression. <i>Moving line</i> - If yang changes to yin, Eleanor could hesitate, engulfed by doubt, yet this pause may cultivate profound insights, sowing seeds for future emergence.</li></ul>
@@ -127,11 +127,6 @@ In this newfound space of recognition, Eleanor's spirit danced through transcend
 
 ###### *Notes*
 ### **King Wen**: 11 ䷊ <sub>*7*</sub> Peace; 2 ☷ <sub>*0*</sub> The Receptive,  Earth *over* 1 ☰ <sub>*7*</sub> The Creative, Heaven;
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 <br/>
 <br/>
 <br/>

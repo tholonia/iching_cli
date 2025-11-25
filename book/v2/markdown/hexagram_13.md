@@ -6,7 +6,7 @@
 <span style="font-size:2em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;">13 ䷌</span><span style="font-size:1em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;vertical-align:text-bottom;"> 61 </span><span style="font-size:2em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;">&nbsp; Coalition</span>
 </div>
 ## The power of aligned forces working toward common purpose. Like light and heat uniting in flame, this represents the synergistic effect of different energies combining in harmony.
-<img src="/home/jw/store/src/iching_cli/book/v2/prod/13.png">
+<img src="/home/jw/src/iching_cli/book/v2/prod/13.png">
 <span style="margin-bottom: 8px;"> &nbsp; </span>
 ### *"Coalition" is vividly illustrated to represent the synergy of diverse elements coming together for a shared purpose. The creative techniques employed in this image capture coalition's fundamental spirit of unity - manifesting as energetic flames reaching out towards the expansiveness of heaven above. The vibrant interplay of warm colors represents the blending of individual energies in a harmonious interaction, demonstrating the natural dynamism within a coalition. The use of acrylic on canvas adds texture and depth to the painting, echoing the profound interconnectedness and intensity inherent in the process of collective integration and growth. This brings to light the true essence of a powerful coalition, reverberating with unity and collaboration.*
 <p/>
@@ -34,7 +34,7 @@
 **Negotiation**: The hexagram represents the negotiation between creative force (Heaven) and clear understanding (Fire). This creates a dynamic balance between power and purpose, like different talents uniting for greater achievement. **Limitation**: Structure is provided by the heaven above, indicating that coalitions must serve higher purposes. The fire below suggests that unity must be based on shared understanding and values. **Contribution**: This pattern contributes to evolution by demonstrating how different elements can combine for greater effect. It shows how diversity can become strength through proper alignment.
 
 #### ***Tholon 3 of 32: "Unified Forces"***
-#### The *dynamic* path is creates "The Army" (7 <sub>*2*</sub>) and "Fellowship with Men" (13 <sub>*61*</sub>).  This pair-path explores the dynamics between collective strength and communal unity. The ascending path of Hexagram 7, The Army, represents the disciplined mobilization of resources and strategic unity to achieve a common goal. The descending path of Hexagram 13, Fellowship with Men, emphasizes the importance of open communication, shared vision, and mutual trust in maintaining harmony and achieving success. Together, they illustrate the balance between structured organization and cooperative fellowship.
+#### This hexagram is within the *dynamic* path of "Unified Forces" formed by "The Army" (7䷆<sub>*2*</sub>) and "Fellowship with Men" (13䷌<sub>*61*</sub>).  This pair-path explores the dynamics between collective strength and communal unity. The ascending path of Hexagram 7, The Army, represents the disciplined mobilization of resources and strategic unity to achieve a common goal. The descending path of Hexagram 13, Fellowship with Men, emphasizes the importance of open communication, shared vision, and mutual trust in maintaining harmony and achieving success. Together, they illustrate the balance between structured organization and cooperative fellowship.
 
 
 
@@ -46,13 +46,13 @@
 
 #### In the bustling heart of a South American town, amidst the clamor of the marketplace, stood an old blacksmith’s shop. The smith, a man named Ignacio, was renowned for his artistry in metalwork. His creations, forged in fire, bore the resilience of the mountains surrounding the valley. Yet Ignacio felt constrained by the limits of his solitary craft. His vision yearned for collaboration.
 
-Ignacio sought to unite the talents of the town’s craftsmen—potters, weavers, carvers—into a cooperative fellowship, each contributing their unique artistry. He initiated this coalition with humble beginnings, speaking earnestly to fellow artisans, proposing a shared vision of artistry that transcended individual work.
+Ignacio sought to unite the talents of the town’s craftsmen, potters, weavers, carvers, into a cooperative fellowship, each contributing their unique artistry. He initiated this coalition with humble beginnings, speaking earnestly to fellow artisans, proposing a shared vision of artistry that transcended individual work.
 
 The Formation of this coalition began with cautious acceptance. The potters and weavers met in Ignacio’s workshop, their tools and ideas mingling, forming a foundation grounded in trust. As the coalition gained momentum, Conflict inevitably surged, revealing deep-seated rivalries and ambitions clashing at the threshold of collective creativity.
 
 Ignacio guided this scattered energy back into purposeful channels, where Manifestation took on a life of its own. The artisans crafted pieces that spoke to a united vision, each piece bearing the signature of collective ingenuity. As mastery unfolded, Ignacio witnessed the power of their union, the artworks each telling stories of shared struggle and triumph.
 
-As time wore on, Transcendence arrived, where the artworks embodied more than individual effort—they became symbols of unity and resilience. Ignacio realized he must release his grip, allowing the coalition to evolve and inspire new generations, perpetuating a legacy that would echo through the ages.
+As time wore on, Transcendence arrived, where the artworks embodied more than individual effort, they became symbols of unity and resilience. Ignacio realized he must release his grip, allowing the coalition to evolve and inspire new generations, perpetuating a legacy that would echo through the ages.
 
 #### ***Lines in Context:***
 <ul><li><B>1</B> (yang) <i>Emergence of Vision</i> - Ignacio lays the groundwork for cooperative artistry, igniting initial sparks of inspiration among the artisans. <i>Moving line</i> - As yang shifts to yin, initial enthusiasm may dwindle, requiring patience and adaptability to nurture the vision into a cohesive reality.</li></ul>
@@ -65,19 +65,19 @@ As time wore on, Transcendence arrived, where the artworks embodied more than in
 ##### The Symphony of Creation (Man vs. Nature)
 ### *In the style of Hermann Hesse*
 
-#### In the lush heart of an unseen wilderness, a solitary conductor stood poised before a grand natural orchestra—mighty roiling clouds encircling the jagged crowns of forgotten mountains, carrying with them the secret songs of the earth. The wind, a gentle yet insistent whisper, urged the juniper and oak to join in harmony.
+#### In the lush heart of an unseen wilderness, a solitary conductor stood poised before a grand natural orchestra, mighty roiling clouds encircling the jagged crowns of forgotten mountains, carrying with them the secret songs of the earth. The wind, a gentle yet insistent whisper, urged the juniper and oak to join in harmony.
 
-The conductor’s task was not merely to command but to unify disparate elements into a cohesive symphony of life. The Emergence came as the first hesitant note—a single drop of rain falling upon a cracked seed, whispering promises of green shoots yet to sprout. Mata, the conductor, gave herself to patience through silent dreams and a hope that nature’s potential would soon awaken.
+The conductor’s task was not merely to command but to unify disparate elements into a cohesive symphony of life. The Emergence came as the first hesitant note, a single drop of rain falling upon a cracked seed, whispering promises of green shoots yet to sprout. Mata, the conductor, gave herself to patience through silent dreams and a hope that nature’s potential would soon awaken.
 
 But as the Formation began, the ground trembled with a restless energy. The symphony sought chaotic freedom, each element striving for dominion. Suddenly, Mata found herself drawn into that vibrant chaos, as water and wind surged against the earthen boundaries, vying for expression more vivid than the rest.
 
-Then came Conflict. The orchestra clashed, a cacophony of thunder and resistance, and Mata faltered. The river lashed out against the stone, the wind against the tree, testing the harmony she sought to weave. Yet within this friction, Mata found soundness, a new rhythm of her own—a harmony born not from ease but from the dissonance settled by acceptance.
+Then came Conflict. The orchestra clashed, a cacophony of thunder and resistance, and Mata faltered. The river lashed out against the stone, the wind against the tree, testing the harmony she sought to weave. Yet within this friction, Mata found soundness, a new rhythm of her own, a harmony born not from ease but from the dissonance settled by acceptance.
 
-Manifestation arose when Mata saw through the fracture lines of tumult, freeing the melody that lay within the discord. Each instrument recognized its place, weaving sound with resolve—notes flowing from valley to peak, reaching into the sky.
+Manifestation arose when Mata saw through the fracture lines of tumult, freeing the melody that lay within the discord. Each instrument recognized its place, weaving sound with resolve, notes flowing from valley to peak, reaching into the sky.
 
 Through this, the timeless visage of Mastery emerged. The symphony born of raw power and nature's breath spoke a language not of words but of presence, echoing among the roots and beyond the stars. Mata, discerned the essence of her being resonating in the mighty hymn, and knew herself as both conductor and part of the creation herself.
 
-Finally, in Transcendence, the symphony played its final chord—a whisper as eternal as the mountains, a melody that would linger in winds and water long after shadows slipped from memory. Mata rested with a profound peace, blending into the living tapestry she had conducted, sensing within those final notes the promise of renewal—the cycle of creation destined to begin anew.
+Finally, in Transcendence, the symphony played its final chord, a whisper as eternal as the mountains, a melody that would linger in winds and water long after shadows slipped from memory. Mata rested with a profound peace, blending into the living tapestry she had conducted, sensing within those final notes the promise of renewal, the cycle of creation destined to begin anew.
 
 #### ***Lines in Context:***
 <ul><li><B>1</B> (yang) <i>Emergence of Potential</i> - The initial note signals the dawn of creation's possibility, hinting at the symphony’s shape. <i>Moving line</i> - If yang changes to yin, early enthusiasm might waver, necessitating a renewal of focus and trust in the nascent harmony.</li></ul>
@@ -94,11 +94,11 @@ Finally, in Transcendence, the symphony played its final chord—a whisper as et
 
 The journey began with the first hints of dawn, where Emergence echoed in the alchemist's initial experiments. Each morning, Mikael faced the unknown with childlike wonder. On one such morning, as the sun crept over the horizon, a disturbance in his routine disrupted his focus. Yet, this imbalance stirred new insights as he resolved to embrace the impermanence deeply woven into the nature of creation.
 
-As his process evolved, Formation took shape through meticulous planning, a tapestry where discipline met imagination. Suddenly, the alchemical reactions that once whispered possibilities now roared with life—an eruption marked by a sudden transformation from hesitant beginnings to decisive actions.
+As his process evolved, Formation took shape through meticulous planning, a tapestry where discipline met imagination. Suddenly, the alchemical reactions that once whispered possibilities now roared with life, an eruption marked by a sudden transformation from hesitant beginnings to decisive actions.
 
-In the heart of a golden afternoon, Conflict emerged fiercely, pitting Mikael against the chaos inherent in potential. Doubt clawed at his conviction, as swirling colors defied order. It was here that harmony lay, couched in the realized necessity of challenge—where learning embraced failure and rose anew.
+In the heart of a golden afternoon, Conflict emerged fiercely, pitting Mikael against the chaos inherent in potential. Doubt clawed at his conviction, as swirling colors defied order. It was here that harmony lay, couched in the realized necessity of challenge, where learning embraced failure and rose anew.
 
-Through endless nights and pondering reflections, Mikael found the true power of Manifestation. A completeness emerged—a vision honed through storms of fire and spirit—that brought forth a radiant symphony of transformations unforeseen.
+Through endless nights and pondering reflections, Mikael found the true power of Manifestation. A completeness emerged, a vision honed through storms of fire and spirit, that brought forth a radiant symphony of transformations unforeseen.
 
 With time came Mastery, when the lines between desire and achievement blurred, giving birth to a new awareness of intertwined existence. As Mikael's dedication neared its zenith, he suddenly hesitated, uncertain that he truly understood his creation's depths. Yet this pause laid fertile ground for introspection and growth, a precious charge carried into future awakenings.
 
@@ -133,11 +133,6 @@ Finally, in the whisperings of a twilight breeze, Transcendence cast its serene 
 
 ###### *Notes*
 ### **King Wen**: 13 ䷌ <sub>*61*</sub> Fellowship; 1 ☰ <sub>*7*</sub> The Creative,  Heaven *over* 7 ☲ <sub>*5*</sub> The Clinging, Fire;
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 <br/>
 <br/>
 <br/>

@@ -93,6 +93,78 @@ import dotenv
 from libs.funcs_lib import wen_values, get_json_version, ensure_directory_exists
 
 
+
+# DEFINE ALL GLYPHS
+glyphs = [
+  [2, "䷁", 0, "Receptivity"],
+  [24, "䷗", 1, "Return"],
+  [7, "䷆", 2, "Organization"],
+  [19, "䷒", 3, "Approach"],
+  [15, "䷎", 4, "Equilibrium"],
+  [36, "䷣", 5, "Obscured Light"],
+  [46, "䷭", 6, "Emergence"],
+  [11, "䷊", 7, "Vitality"],
+  [16, "䷏", 8, "Enthusiasm"],
+  [51, "䷲", 9, "Disruption"],
+  [40, "䷧", 10, "Liberation From Burden"],
+  [54, "䷵", 11, "Cultivation"],
+  [62, "䷽", 12, "Incremental Progress"],
+  [55, "䷶", 13, "Momentum"],
+  [32, "䷟", 14, "Sustainable Momentum"],
+  [34, "䷡", 15, "Breakthrough Force"],
+  [8, "䷇", 16, "Unity"],
+  [3, "䷂", 17, "Initiation"],
+  [29, "䷜", 18, "Mastering Flow"],
+  [60, "䷻", 19, "Boundaries"],
+  [39, "䷦", 20, "Strategic Resistance"],
+  [63, "䷾", 21, "Emergent Order"],
+  [48, "䷯", 22, "Restoration"],
+  [5, "䷄", 23, "Patience"],
+  [45, "䷬", 24, "Convergence"],
+  [17, "䷐", 25, "Alignment"],
+  [47, "䷮", 26, "Depletion"],
+  [58, "䷹", 27, "Resonance"],
+  [31, "䷞", 28, "Resonant Attraction"],
+  [49, "䷰", 29, "Evolution"],
+  [28, "䷛", 30, "Critical Mass"],
+  [43, "䷪", 31, "Decisive Declaration"],
+  [23, "䷖", 32, "Dissolution"],
+  [27, "䷚", 33, "Regenerative Nourishment"],
+  [4, "䷃", 34, "Guidance"],
+  [41, "䷨", 35, "Intentional Reduction"],
+  [52, "䷳", 36, "Stillness"],
+  [22, "䷕", 37, "Authentic Expression"],
+  [18, "䷑", 38, "Restoration"],
+  [26, "䷙", 39, "Cultivation"],
+  [35, "䷢", 40, "Accelerated Progress"],
+  [21, "䷔", 41, "Breakthrough"],
+  [64, "䷿", 42, "Emergent Chaos"],
+  [38, "䷥", 43, "Diverging Perspectives"],
+  [56, "䷷", 44, "Transition"],
+  [30, "䷝", 45, "Radiant Awareness"],
+  [50, "䷱", 46, "Transformation"],
+  [14, "䷍", 47, "Radiance"],
+  [20, "䷓", 48, "Contemplation"],
+  [42, "䷩", 49, "Mindful Expansion"],
+  [59, "䷺", 50, "Dissolution"],
+  [61, "䷼", 51, "Insight"],
+  [53, "䷴", 52, "Progression"],
+  [37, "䷤", 53, "Family Dynamics"],
+  [57, "䷸", 54, "Penetration"],
+  [9, "䷈", 55, "Refinement"],
+  [12, "䷋", 56, "Stagnation"],
+  [25, "䷘", 57, "Spontaneity"],
+  [6, "䷅", 58, "Conflict"],
+  [10, "䷉", 59, "Potential"],
+  [33, "䷠", 60, "Strategic Retreat"],
+  [13, "䷌", 61, "Coalition"],
+  [44, "䷫", 62, "Anticipation"],
+  [1, "䷀", 63, "Creation"]
+]
+
+
+
+
 # Predefined list of all hexagrams
 # xHEXAGRAMS = [ '20','23','28','30','31','39','55','56','59']
 test_HEXAGRAMS = ['10']
@@ -107,7 +179,7 @@ HEXAGRAMS = [ '01', '02', '03', '04', '05', '06', '07', '08', '09', '10',
     '61', '62', '63', '64'
 ]
 
-ROOT="/home/jw/store/src/iching_cli/book/v2"
+ROOT="/home/jw/src/iching_cli/book/v2"
 
 
 dotenv.load_dotenv()
@@ -245,12 +317,25 @@ def format_core_section(core, sfnum):
     asc_hbval = wen_values[core['pairpath']['ascending_hex_num']][1]
     tholon_path = asc_hbval + 1
     des_hbval = wen_values[core['pairpath']['descending_hex_num']][1]
+    asc_target = core['pairpath']['ascending_hex_num']
+    des_target = core['pairpath']['descending_hex_num']
 
+    try:
+        asc_glyph = next(row[1] for row in glyphs if row[0] == asc_target)
+    except StopIteration:
+        print(Fore.RED + f"Warning: Could not find glyph for ascending hexagram number '{asc_target}'" + Style.RESET_ALL)
+        asc_glyph = "?"
+    
+    try:
+        des_glyph = next(row[1] for row in glyphs if row[0] == des_target)
+    except StopIteration:
+        print(Fore.RED + f"Warning: Could not find glyph for descending hexagram number '{des_target}'" + Style.RESET_ALL)
+        des_glyph = "?"
 
     ostr += f"""
 
 #### ***Tholon {tholon_path} of 32: "{core['pairpath']['title']}"***
-#### The *{core['pairpath']['kstate']}* path is creates "{core['pairpath']['ascending_hex_name']}" ({core['pairpath']['ascending_hex_num']} <sub>*{asc_hbval}*</sub>) and "{core['pairpath']['descending_hex_name']}" ({core['pairpath']['descending_hex_num']} <sub>*{des_hbval}*</sub>).  {core['pairpath']['description']}
+#### This hexagram is within the *{core['pairpath']['kstate']}* path of "{core['pairpath']['title']}" formed by "{core['pairpath']['ascending_hex_name']}" ({core['pairpath']['ascending_hex_num']}{asc_glyph}<sub>*{asc_hbval}*</sub>) and "{core['pairpath']['descending_hex_name']}" ({core['pairpath']['descending_hex_num']}{des_glyph}<sub>*{des_hbval}*</sub>).  {core['pairpath']['description']}
 
 """
 
@@ -373,11 +458,6 @@ def generate_markdown_from_json(json_data, sfnum):
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 """
 
     # Create markdown directory if it doesn't exist
@@ -389,7 +469,7 @@ def generate_markdown_from_json(json_data, sfnum):
     try:
         with open(markdown_file, 'w', encoding='utf-8') as f:
             f.write(markdown)
-        print(f"✓ Saved markdown for hexagram {sfnum} to {markdown_file}")
+        # print(f"✓ Saved markdown for hexagram {sfnum} to {markdown_file}")
     except Exception as e:
         print(f"Error saving markdown for hexagram {sfnum}: {e}")
 
@@ -438,10 +518,12 @@ def main():
     print(f"json_version = {json_version}")
 
 
+
+
     for sfnum in HEXAGRAMS:
-        print(f"sfnum = {sfnum}")
+        # print(f"sfnum = {sfnum}")
         filename = f"{ROOT}/{json_version}/{sfnum}.json"
-        print(Fore.YELLOW + "Reading " + filename + Style.RESET_ALL)
+        # print(Fore.YELLOW + "Reading " + filename + Style.RESET_ALL)
         try:
             with open(filename, 'r', encoding='utf-8') as file:
                 json_data = json.load(file)

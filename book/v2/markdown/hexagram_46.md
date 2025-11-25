@@ -6,7 +6,7 @@
 <span style="font-size:2em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;">46 ䷭</span><span style="font-size:1em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;vertical-align:text-bottom;"> 6 </span><span style="font-size:2em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;">&nbsp; Emergence</span>
 </div>
 ## The process of ascending, growth, and manifestation from lower to higher states. Like a seed pushing through soil or an idea taking concrete form, this represents the upward movement of energy and awareness into new levels of expression.
-<img src="/home/jw/store/src/iching_cli/book/v2/prod/46.png">
+<img src="/home/jw/src/iching_cli/book/v2/prod/46.png">
 <span style="margin-bottom: 8px;"> &nbsp; </span>
 ### *"Emergence" is eloquently illustrated through the carefully selected elements of the image. The image depicts a tree ascending towards the sky, embodying the hexagram's concept of upward movement, growth, and manifestation. The intricate details and realist style bespeak the Tholonic concept of awareness manifesting through complex, ever-evolving systems. The choice of wood as the medium underscores the paradigm of transformation, signifying how potential continually surges forth from simple to complex states. Artist Vincent Van Gogh adds depth to the representation, as his works often delve into the cyclical nature of life, embodying universal love and creativity.*
 <p/>
@@ -34,7 +34,7 @@
 **Negotiation**: The hexagram represents the balance between ambition and natural development. The gentle wind (lower trigram) gradually influences and transforms the receptive earth (upper trigram), showing how persistent subtle force can achieve substantial change. **Limitation**: The structure defines boundaries between forced and natural growth. It establishes how advancement must occur within organic limits and natural rhythms, showing that true progress cannot be artificially accelerated. **Contribution**: This configuration contributes to systemic evolution by demonstrating how lower orders develop into higher forms. It shows how persistent, aligned effort creates sustainable transformation.
 
 #### ***Tholon 7 of 32: "Natural Progress"***
-#### The *dynamic* path is creates "Pushing Upward" (46 <sub>*6*</sub>) and "Innocence" (25 <sub>*57*</sub>).  This pair-path represents the balance between effortful progress and natural authenticity. Ascending through diligent effort and perseverance, while descending embodies a return to simplicity and purity. Together, they illustrate the dynamic interplay between striving for growth and maintaining a state of uncorrupted being.
+#### This hexagram is within the *dynamic* path of "Natural Progress" formed by "Pushing Upward" (46䷭<sub>*6*</sub>) and "Innocence" (25䷘<sub>*57*</sub>).  This pair-path represents the balance between effortful progress and natural authenticity. Ascending through diligent effort and perseverance, while descending embodies a return to simplicity and purity. Together, they illustrate the dynamic interplay between striving for growth and maintaining a state of uncorrupted being.
 
 
 
@@ -44,13 +44,13 @@
 ##### The Emergence of Ambition (Man vs. Man)
 ### *In the style of Kazuo Ishiguro*
 
-#### In the heart of a bustling town, Howard, a young and ambitious entrepreneur, had inherited his family's small bookstore. For years, it had remained a quiet corner of the town square, old shelves sagging under the weight of unsold volumes. Yet, Howard saw more than just the dusty tomes—he envisioned a cultural hub, a place where ideas and inspiration could bloom.
+#### In the heart of a bustling town, Howard, a young and ambitious entrepreneur, had inherited his family's small bookstore. For years, it had remained a quiet corner of the town square, old shelves sagging under the weight of unsold volumes. Yet, Howard saw more than just the dusty tomes, he envisioned a cultural hub, a place where ideas and inspiration could bloom.
 
 With relentless determination, he set about transforming the shop. Each day, he moved with purpose, rearranging books, planning events, and reaching out to authors, his vision slowly taking shape. The townsfolk watched with a mix of skepticism and intrigue, the bookshop becoming a focal point of their conversations.
 
 As the months passed, Howard faced obstacles that tested his resolve: suppliers resistant to change, unpredictable weather dissuading foot traffic, and the ever-hovering shadow of financial strain. Yet from these challenges emerged creativity and ingenuity, each problem an invitation to innovate.
 
-In time, the store flourished, becoming more than a mere shop—a vibrant community center where lectures and readings sparked renewed passion for the written word. Howard's bookstore was not just resurrected; it was reborn, a testament to the power of ambition and the gentle persistence of realizing one's dreams.
+In time, the store flourished, becoming more than a mere shop, a vibrant community center where lectures and readings sparked renewed passion for the written word. Howard's bookstore was not just resurrected; it was reborn, a testament to the power of ambition and the gentle persistence of realizing one's dreams.
 
 #### ***Lines in Context:***
 <ul><li><B>1</B> (yin) <i>Emergent Vision</i> - Howard senses the potential hidden within the bookstore, sparking a new beginning for its transformation. <i>Moving line</i> - If yin changes to yang, Howard might push his ideas forward too forcefully without sufficient preparation, risking setbacks by disrupting the natural growth trajectory.</li></ul>
@@ -65,7 +65,7 @@ In time, the store flourished, becoming more than a mere shop—a vibrant commun
 
 #### In the ancient lands of Eldoria, nestled between sprawling emerald forests and towering peaks, there lay a village named Harthgard. It was a peaceful place, where life flowed naturally to the rhythms of the earth. The villagers lived off the land, cultivating crops and tending to their flocks. Among them was a young farmer named Elion, whose heart brimmed with dreams as verdant as the fields in which he worked.
 
-Elion had always felt a deep connection to the soil, sensing its breath beneath his feet. Yet, as the seasons passed, a yearning blossomed within him—a desire to expand his humble operations into something grand. He envisioned an orchard laden with the sweetest fruits, a garden of abundance that would nourish not just bellies, but spirits.
+Elion had always felt a deep connection to the soil, sensing its breath beneath his feet. Yet, as the seasons passed, a yearning blossomed within him, a desire to expand his humble operations into something grand. He envisioned an orchard laden with the sweetest fruits, a garden of abundance that would nourish not just bellies, but spirits.
 
 The task was formidable; the terrain was rugged and stubborn. Undeterred, Elion embraced each challenge as a vital part of his journey. Bit by bit, day after day, he cultivated not just land but a legacy, sowing seeds both in the ground and in the hearts of his fellow villagers.
 
@@ -82,17 +82,17 @@ In time, Elion's vision sprouted into reality. The orchard flourished, its bount
 ##### The Echoes of Inner Growth (Man vs. Self)
 ### *In the style of Kahlil Gibran's Style*
 
-#### In a secluded valley, where the earth seemed to breathe in harmony with the sky, lived Maelis, a weaver of dreams and maker of harmony. Nestled amidst the rolling hills and gentle streams, her small cottage was a sanctuary, its walls echoing the whispers of her creations—fabrics vibrant with the hues of nature and woven with the patterns of her soul. As Maelis worked, her hands moved unceasingly, guided by the rhythm of her heart and the silent murmurings of the world around her.
+#### In a secluded valley, where the earth seemed to breathe in harmony with the sky, lived Maelis, a weaver of dreams and maker of harmony. Nestled amidst the rolling hills and gentle streams, her small cottage was a sanctuary, its walls echoing the whispers of her creations, fabrics vibrant with the hues of nature and woven with the patterns of her soul. As Maelis worked, her hands moved unceasingly, guided by the rhythm of her heart and the silent murmurings of the world around her.
 
-Yet deep within, Maelis harbored a vision—a tapestry unlike any she had ever woven, one that would encapsulate the essence of the universe and the infinite dance of creation and rest. The journey was not simple. Each thread required careful selection, each color a contemplation of life's mysteries. In the quiet solitude of her days, Maelis faced moments of doubt, where the enormity of her ambition felt overwhelming, like a bird striving against the wind.
+Yet deep within, Maelis harbored a vision, a tapestry unlike any she had ever woven, one that would encapsulate the essence of the universe and the infinite dance of creation and rest. The journey was not simple. Each thread required careful selection, each color a contemplation of life's mysteries. In the quiet solitude of her days, Maelis faced moments of doubt, where the enormity of her ambition felt overwhelming, like a bird striving against the wind.
 
-As her tapestry grew, so too did her understanding. She became attuned to the subtle movements within, realizing that her endeavor was more than an artistic pursuit. It was an inner journey—an exploration of herself, her limits, and the boundless possibilities that lay beyond fear and hesitation.
+As her tapestry grew, so too did her understanding. She became attuned to the subtle movements within, realizing that her endeavor was more than an artistic pursuit. It was an inner journey, an exploration of herself, her limits, and the boundless possibilities that lay beyond fear and hesitation.
 
 The mornings melded into afternoons, and days stretched into weeks, her work consuming her time and spirit. In moments of stillness, with dusk casting its gentle shadow, Maelis paused, reflecting on the woven threads and the spaces between them. She saw the connections, the interplays of light and shadow that mirrored her soul’s dialogue with existence.
 
-When the tapestry neared completion, it radiated a beauty that was neither beginning nor end—a timeless purity echoing the constancy of change and the silent song of eternity. The valley seemed to reverberate with its presence, as if the earth itself had been woven into the fabric, binding together the seen and unseen.
+When the tapestry neared completion, it radiated a beauty that was neither beginning nor end, a timeless purity echoing the constancy of change and the silent song of eternity. The valley seemed to reverberate with its presence, as if the earth itself had been woven into the fabric, binding together the seen and unseen.
 
-In that moment, Maelis understood that the tapestry was not just her handiwork but a reflection of her journey—a testament to perseverance, intimacy with nature, and the profound wisdom of growth that the world had gently whispered to her soul.
+In that moment, Maelis understood that the tapestry was not just her handiwork but a reflection of her journey, a testament to perseverance, intimacy with nature, and the profound wisdom of growth that the world had gently whispered to her soul.
 
 #### ***Lines in Context:***
 <ul><li><B>1</B> (yin) <i>Stirrings of Creation</i> - In the beginning, Maelis feels the surge of creative potential within herself, poised on the cusp of transformation. <i>Moving line</i> - If yin changes to yang, Maelis might prematurely force her ideas into form, which could disrupt the delicate unfolding of her creative process and impede the intended emergence.</li></ul>
@@ -108,7 +108,7 @@ In that moment, Maelis understood that the tapestry was not just her handiwork b
 
 ##### *The Resurgence of the Renaissance*
 
-#### The Renaissance, a period of profound intellectual and cultural awakening, emerged from the shadows of the Middle Ages. It was in the bustling city-states of Italy where this new dawn found its first light. The rediscovery of classical philosophy, literature, and art invigorated a renewed thirst for knowledge. Figures like Leonardo da Vinci and Michelangelo defined an era that transcended boundaries, crafting masterpieces that bridged antiquity with the new. This renaissance was a creative explosion that redefined the conceivable, a new view of human potential. Here, art and science flourished hand in hand, catalyzing the birth of new ideas. Yet, it was more than artistic brilliance; it signified the emergence of modern thought—a shift towards humanism, emphasizing the value and agency of human beings. This period laid the groundwork for modern scientific inquiry and philosophies that continue to resonate today. The movement faced challenges, opposing the stronghold of medieval tradition, yet thrived through rigorous perseverance. The Renaissance unlocked unparalleled expressions of human aspiration and intellect—a testament to mankind's enduring spirit of curiosity and creation.
+#### The Renaissance, a period of profound intellectual and cultural awakening, emerged from the shadows of the Middle Ages. It was in the bustling city-states of Italy where this new dawn found its first light. The rediscovery of classical philosophy, literature, and art invigorated a renewed thirst for knowledge. Figures like Leonardo da Vinci and Michelangelo defined an era that transcended boundaries, crafting masterpieces that bridged antiquity with the new. This renaissance was a creative explosion that redefined the conceivable, a new view of human potential. Here, art and science flourished hand in hand, catalyzing the birth of new ideas. Yet, it was more than artistic brilliance; it signified the emergence of modern thought, a shift towards humanism, emphasizing the value and agency of human beings. This period laid the groundwork for modern scientific inquiry and philosophies that continue to resonate today. The movement faced challenges, opposing the stronghold of medieval tradition, yet thrived through rigorous perseverance. The Renaissance unlocked unparalleled expressions of human aspiration and intellect, a testament to mankind's enduring spirit of curiosity and creation.
 
 <div style="font-size: 8pt;font-style:italic">Source: J.R. Hale, "Renaissance Europe: 1480-1520" (Blackwell, 2005), Jacob Burckhardt, "The Civilization of the Renaissance in Italy" (Penguin Classics, 1990)</div>
 
@@ -123,11 +123,6 @@ In that moment, Maelis understood that the tapestry was not just her handiwork b
 
 ###### *Notes*
 ### **King Wen**: 46 ䷭ <sub>*6*</sub> ; 2 ☷ <sub>*0*</sub> The Receptive,  Earth *over* 5 ☴ <sub>*6*</sub> The Gentle, Wind/Wood;
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 <br/>
 <br/>
 <br/>

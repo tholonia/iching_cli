@@ -6,7 +6,7 @@
 <span style="font-size:2em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;">61 ䷼</span><span style="font-size:1em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;vertical-align:text-bottom;"> 51 </span><span style="font-size:2em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;">&nbsp; Insight</span>
 </div>
 ## The power of deep understanding and inner truth. Like a flash of clarity that illuminates hidden connections or the realization that reveals underlying patterns, this represents the capacity to perceive essential nature.
-<img src="/home/jw/store/src/iching_cli/book/v2/prod/61.png">
+<img src="/home/jw/src/iching_cli/book/v2/prod/61.png">
 <span style="margin-bottom: 8px;"> &nbsp; </span>
 ### *"Insight" is vividly portrayed in the image of a solitary figure perched between a striking night sky and sturdy, rocky terrain. This setting symbolizes the delicate balance between structure and chaos, reflecting the hexagram's dynamic relationship between surface understanding and underlying truths. The figure stands on a boundary where clarity emerges, a metaphor for the journey of developing insight or deep understanding, played out against the backdrop of a star-filled sky suggesting interconnectedness and systemic evolution. Recalling the triadic relationships within the Tholonic Model, the figure, celestial body, and landscape interplay suggest a transition from initial perception to profound understanding. The surreal digital art medium reinforces the transcendental nature of insight.*
 <p/>
@@ -34,7 +34,7 @@
 **Negotiation**: The hexagram represents the balance between surface and depth. The wind above penetrates the lake below, showing how gentle persistence reveals hidden truth. **Limitation**: The structure defines boundaries between genuine and false insight. It establishes how perception must remain clear, showing that truth requires undistorted awareness. **Contribution**: This configuration contributes to systemic evolution by demonstrating how deep understanding enables appropriate action. It shows how insight leads to effective response.
 
 #### ***Tholon 13 of 32: "Balance Shift"***
-#### The *dynamic* path is creates "Preponderance of the Small" (62 <sub>*12*</sub>) and "Inner Truth" (61 <sub>*51*</sub>).  This pair-path represents the dynamic interplay between focusing on details and the emergence of deep, inner clarity. The ascending path emphasizes attention to the minor and immediate, urging caution and precision in small matters. The descending path reveals the profound insights that arise when one is aligned with their inner truth, allowing for a harmonious expression of authenticity. Together, they illustrate the cyclical nature of moving from meticulous attention to profound understanding.
+#### This hexagram is within the *dynamic* path of "Balance Shift" formed by "Preponderance of the Small" (62䷽<sub>*12*</sub>) and "Inner Truth" (61䷼<sub>*51*</sub>).  This pair-path represents the dynamic interplay between focusing on details and the emergence of deep, inner clarity. The ascending path emphasizes attention to the minor and immediate, urging caution and precision in small matters. The descending path reveals the profound insights that arise when one is aligned with their inner truth, allowing for a harmonious expression of authenticity. Together, they illustrate the cyclical nature of moving from meticulous attention to profound understanding.
 
 
 
@@ -44,7 +44,7 @@
 ##### The Alchemy of Insight (Man vs. Man)
 ### *In the style of Arundhati Roy*
 
-#### In a bustling Indian town, a visionary artist named Anil embarked on an ambitious project—a mural that sought to capture the soul of the ever-pulsating city. Possessing an uncanny ability to merge stark realities with ethereal dreams, Anil began painting, each stroke a testament to life's intricate dance.
+#### In a bustling Indian town, a visionary artist named Anil embarked on an ambitious project, a mural that sought to capture the soul of the ever-pulsating city. Possessing an uncanny ability to merge stark realities with ethereal dreams, Anil began painting, each stroke a testament to life's intricate dance.
 
 The townspeople, though initially skeptical, became captivated by the mural's transformation. They witnessed familiar images fuse with mysterious nuances, prompting reflections on their own lives. Amidst the rising excitement, pressure mounted on Anil to fulfill the promises of his art.
 
@@ -55,7 +55,7 @@ The mural evolved into a chaotic symphony, simultaneously confusing and intrigui
 #### ***Lines in Context:***
 <ul><li><B>1</B> (yang) <i>Ignition of Creation</i> - The initial spark of Anil's artistic journey, igniting a path of new insights. <i>Moving line</i> - As Yang shifts to Yin, early momentum may wane, instigating introspection that enriches the complexity and depth of his creative foundation.</li></ul>
 <ul><li><B>2</B> (yang) <i>Formative Inspiration</i> - Concepts crystalize into form as Anil's ideas gain support from a balanced creative synergy. <i>Moving line</i> - Transitioning from Yang to Yin risks slowing momentum, yet allows contemplation that refines ideas into a deeper, nuanced layer.</li></ul>
-<ul><li><B>3</B> (yin) <i>Conflict of Perception</i> - Anil faces personal and societal conflicts—inner doubts and external criticisms fuel artistic evolution. <i>Moving line</i> - When Yin changes to Yang, intensified struggles push Anil to pursue powerful creative breakthroughs, leading to greater artistic strength.</li></ul>
+<ul><li><B>3</B> (yin) <i>Conflict of Perception</i> - Anil faces personal and societal conflicts, inner doubts and external criticisms fuel artistic evolution. <i>Moving line</i> - When Yin changes to Yang, intensified struggles push Anil to pursue powerful creative breakthroughs, leading to greater artistic strength.</li></ul>
 <ul><li><B>4</B> (yin) <i>Manifestation of Vision</i> - Anil's vision is brought to life, directly influencing the community while adapting to their evolving perceptions. <i>Moving line</i> - Transition from Yin to Yang may overwhelm with assertive expression, risking resistance, yet it catalyzes an invigorating communal transformation.</li></ul>
 <ul><li><B>5</B> (yang) <i>Mastery of Expression</i> - Anil achieves a harmonious mastery in expressing his creative vision, guiding the community with clarity. <i>Moving line</i> - When Yang shifts to Yin, doubts may decrease Anil's confidence, yet this shift also opens pathways for the community to engage with the mural through personal interpretation, enriching collective creativity.</li></ul>
 <ul><li><B>6</B> (yang) <i>Transcendent Insight</i> - Anil's mural transcends its physical boundaries, embodying profound truths that connect deeply with the community. <i>Moving line</i> - As Yang transforms to Yin, Anil confronts the risk of internalizing his vision too much, potentially alienating his audience, but this also allows a profound internal reflection that deepens his understanding of artistic expression.</li></ul>
@@ -106,7 +106,7 @@ At last, Hiroshi embraced this revelation, allowing his narrative to flow unrest
 
 ##### *The Dawn of the Printing Press: Transforming Knowledge*
 
-#### In 1440, Johannes Gutenberg's insight into movable type technology birthed the printing press, revolutionizing knowledge dissemination across Europe. Prior to this invention, manuscripts were laboriously hand-copied, limiting access to information. The press, with its capability to produce texts rapidly and in larger quantities, marked the emergence of a new era in communication. The initial phase faced challenges—funding was scarce, and skeptics doubted its potential. However, the transformation it heralded was undeniable. By enabling mass production of books, it catalyzed widespread literacy, democratizing knowledge and empowering individual thought. The rapid spread of printed materials had profound cultural impacts, from the dissemination of scientific knowledge to fueling the flames of the Reformation. Gutenberg's press not only advanced the mechanization of printing but also shaped the very fabric of society by molding the future of human thought and creativity.
+#### In 1440, Johannes Gutenberg's insight into movable type technology birthed the printing press, revolutionizing knowledge dissemination across Europe. Prior to this invention, manuscripts were laboriously hand-copied, limiting access to information. The press, with its capability to produce texts rapidly and in larger quantities, marked the emergence of a new era in communication. The initial phase faced challenges, funding was scarce, and skeptics doubted its potential. However, the transformation it heralded was undeniable. By enabling mass production of books, it catalyzed widespread literacy, democratizing knowledge and empowering individual thought. The rapid spread of printed materials had profound cultural impacts, from the dissemination of scientific knowledge to fueling the flames of the Reformation. Gutenberg's press not only advanced the mechanization of printing but also shaped the very fabric of society by molding the future of human thought and creativity.
 
 <div style="font-size: 8pt;font-style:italic">Source: "Gutenberg: How One Man Remade the World with Words" by John Man, "The Printing Revolution in Early Modern Europe" by Elizabeth L. Eisenstein</div>
 
@@ -121,11 +121,6 @@ At last, Hiroshi embraced this revelation, allowing his narrative to flow unrest
 
 ###### *Notes*
 ### **King Wen**: 61 ䷼ <sub>*51*</sub> ; 5 ☴ <sub>*6*</sub> The Gentle,  Wind/Wood *over* 8 ☱ <sub>*4*</sub> The Joyous, Lake/Marsh;
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 <br/>
 <br/>
 <br/>

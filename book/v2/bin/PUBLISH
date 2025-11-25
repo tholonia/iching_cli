@@ -1,0 +1,14 @@
+./prep.sh
+
+#!/bin/bash 
+# Default page size (8.25x11)
+#./post.sh BOOK
+
+# Custom page sizes
+#./post.sh BOOK --pagesize 8.25x11.0  # HARDBACK
+./post.sh BOOK --pagesize 8.27x11.69  # PAPERBACK
+#./post.sh PDF --pagesize 6.69x9.61
+#./post.sh BOOK --pagesize 7.0x10.0 --minimal
+
+# Error handling
+#./post.sh --pagesize invalid  # Shows validation error

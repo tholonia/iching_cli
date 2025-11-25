@@ -6,7 +6,7 @@
 <span style="font-size:2em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;">55 ䷶</span><span style="font-size:1em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;vertical-align:text-bottom;"> 13 </span><span style="font-size:2em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;">&nbsp; Momentum</span>
 </div>
 ## The state of maximum influence and energy. Like a wave at its peak or a project reaching critical mass, this represents the height of power and the need to manage abundant energy wisely.
-<img src="/home/jw/store/src/iching_cli/book/v2/prod/55.png">
+<img src="/home/jw/src/iching_cli/book/v2/prod/55.png">
 <span style="margin-bottom: 8px;"> &nbsp; </span>
 ### *"Momentum" is vividly depicted through the image of thunder and lightning, symbolizing the energetic peak and sudden illumination specific to this hexagram. The futurism style of the image captures the forward thrust and rapid transformation inherent to "Momentum", encapsulating the integration of past, present, and future potentials into reality. The digital painting medium perfectly mirrors the self-similar, recursive nature of the Thologram, reflecting the multidimensional creation process. By creatively invoking Picasso's innovative spirit and symbolic depth, the image aligns with the Tholonic concept of universal love as the driving force behind this emergent integration.*
 <p/>
@@ -34,7 +34,7 @@
 **Negotiation**: The hexagram represents the balance between power and control. Thunder above and fire below show maximum energy that must be carefully directed, demonstrating how abundance requires wise management. **Limitation**: The structure defines boundaries between productive and destructive use of power. It establishes how energy must be channeled appropriately, showing that abundance requires responsible stewardship. **Contribution**: This configuration contributes to systemic evolution by demonstrating how peak energy can be productively managed. It shows how maximum power can be directed toward beneficial outcomes.
 
 #### ***Tholon 14 of 32: "Expansion-Contraction"***
-#### The *stable* path is creates "Abundance" (55 <sub>*13*</sub>) and "Dispersion" (59 <sub>*50*</sub>).  This pair-path represents the dynamic cycle of growth and dispersal. Abundance (Hexagram 55) signifies a period of flourishing and expansion, where energies are at their peak and possibilities multiply. Dispersion (Hexagram 59) follows as a natural descent, where accumulated energies are released and scattered, leading to a necessary dissolution that clears the way for renewal. Together, they illustrate the perpetual rhythm of increase and decrease, emphasizing balance in the cyclical nature of life.
+#### This hexagram is within the *stable* path of "Expansion-Contraction" formed by "Abundance" (55䷶<sub>*13*</sub>) and "Dispersion" (59䷺<sub>*50*</sub>).  This pair-path represents the dynamic cycle of growth and dispersal. Abundance (Hexagram 55) signifies a period of flourishing and expansion, where energies are at their peak and possibilities multiply. Dispersion (Hexagram 59) follows as a natural descent, where accumulated energies are released and scattered, leading to a necessary dissolution that clears the way for renewal. Together, they illustrate the perpetual rhythm of increase and decrease, emphasizing balance in the cyclical nature of life.
 
 
 
@@ -44,17 +44,17 @@
 ##### The Infinite Game of Creation (Man vs. Man)
 ### *In the style of Inspired by the style of Italo Calvino*
 
-#### In a bustling metropolis thrumming with ambition, Luca, a visionary architect, found himself at the threshold of his life's masterpiece. The city towered around him, a labyrinth of steel and glass mirroring both human achievement and folly. Beneath its sleek facade, Luca saw potential—the promise of transcendence through design.
+#### In a bustling metropolis thrumming with ambition, Luca, a visionary architect, found himself at the threshold of his life's masterpiece. The city towered around him, a labyrinth of steel and glass mirroring both human achievement and folly. Beneath its sleek facade, Luca saw potential, the promise of transcendence through design.
 
 Emerging from a quiet morning routine, Luca glimpsed the skyline as a blank canvas. This nascent impulse burned within him; his dreams threatened to outstrip the pragmatic confines of reality. He envisioned a structure that would defy gravity, inviting the city to dance among the clouds.
 
-The building's genesis was a harmony of abstract and solid principles. In the Formation stage, Luca orchestrated an intricate symphony of elements, aligning each piece with precision. Yet, a tension arose—between his avant-garde vision and the mundane constraints of zoning laws and budgets. Conflict simmered, demanding a strategic finesse that tested his resolve and creativity.
+The building's genesis was a harmony of abstract and solid principles. In the Formation stage, Luca orchestrated an intricate symphony of elements, aligning each piece with precision. Yet, a tension arose, between his avant-garde vision and the mundane constraints of zoning laws and budgets. Conflict simmered, demanding a strategic finesse that tested his resolve and creativity.
 
 Nearer to fruition, Luca stood firm upon resolute decisions, transforming the chaos into a manifestation of vibrant order. His team, once scattered, coalesced into a focused force with unyielding clarity. Challenges persisted as external pressures sought to diminish his progress, but each obstacle fortified his commitment.
 
 As the edifice rose, Luca reached the pinnacle of mastery. He flitted between the worlds of vision and reality, balancing them on a knife-edge of creativity. His design spoke of an audacious spirit that redefined the skyline's rhythm, inviting admiration and scrutiny alike.
 
-Finally, upon its completion, the building stood as a monument to Luca's triumph—a stark silhouette against the horizon, beckoning transcendence. Yet, he faced an inner shift; the project became a reflection of potential realized and the promise of future innovation. With each sunset, the towering form whispered new dreams, suggesting that the infinite game of creation remained ripe with possibility.
+Finally, upon its completion, the building stood as a monument to Luca's triumph, a stark silhouette against the horizon, beckoning transcendence. Yet, he faced an inner shift; the project became a reflection of potential realized and the promise of future innovation. With each sunset, the towering form whispered new dreams, suggesting that the infinite game of creation remained ripe with possibility.
 
 #### ***Lines in Context:***
 <ul><li><B>1</B> (yang) <i>Emergence</i> - Luca experiences an initial surge of inspiration, ready to harness his creative force in innovative designs. <i>Moving line</i> - Yang shifting to yin might subdue his momentum with self-doubt, but it could also lead to introspection and deeper insight.</li></ul>
@@ -69,15 +69,15 @@ Finally, upon its completion, the building stood as a monument to Luca's triumph
 
 #### In the heart of an ancient forest, where twilight painted shadows and whispers lingered among the trees, a young artist named Elara arrived with a vision wild and untamed. She sought to carve her masterpiece from the living wood, a creation that would speak to both the heart of man and the soul of nature.
 
-Elara began her journey at dawn, each tool stroke a gentle caress against the tree bark, awakening its latent beauty. The forest responded, a soft symphony of rustling leaves and distant bird song accompanying her. This nascent impulse stirred within Elara a profound sense of unity with the wild—a dance of creativity and life.
+Elara began her journey at dawn, each tool stroke a gentle caress against the tree bark, awakening its latent beauty. The forest responded, a soft symphony of rustling leaves and distant bird song accompanying her. This nascent impulse stirred within Elara a profound sense of unity with the wild, a dance of creativity and life.
 
 In the days that followed, Elara layered form upon form, her hands shaping and defining, bringing to life an intricate weave of branches and leaves, raw energy channeled into vibrant expression. Yet as her vision grew, so too did the struggle. The tree's resistance mirrored her internal tensions, a reminder that no true art is free of conflict. She faltered, tempted to let go, but perseverance spurred her onward.
 
-As the days turned, the tree's transformation was almost complete. With each passing hour, her fingers moved with the grace of a conductor guiding an unseen symphony, chiseling moments of radiant clarity into the wood. Yet a shadow cast by the splendid canopy marked a crisis of purpose—was she shaping the tree, or was the tree shaping her?
+As the days turned, the tree's transformation was almost complete. With each passing hour, her fingers moved with the grace of a conductor guiding an unseen symphony, chiseling moments of radiant clarity into the wood. Yet a shadow cast by the splendid canopy marked a crisis of purpose, was she shaping the tree, or was the tree shaping her?
 
-Finally, Elara stepped back to behold her creation fully realized, an ethereal silhouette against the dusk's embrace. It was a testament to her journey, a harmony of form and spirit that defied both origin and expectation. But in this moment of ultimate clarity, an unexpected inner silence called to her—a whisper that creation was not an end, but a beginning.
+Finally, Elara stepped back to behold her creation fully realized, an ethereal silhouette against the dusk's embrace. It was a testament to her journey, a harmony of form and spirit that defied both origin and expectation. But in this moment of ultimate clarity, an unexpected inner silence called to her, a whisper that creation was not an end, but a beginning.
 
-Her sculpture stood as a testament to nature's embrace and humankind's indomitable will. As Elara listened to the forest sigh anew, she understood that the dance between the wilderness and her will would never cease. Her heart swayed with the trees, and she embraced the call of future journeys—the infinite cycle of renewal and creation.
+Her sculpture stood as a testament to nature's embrace and humankind's indomitable will. As Elara listened to the forest sigh anew, she understood that the dance between the wilderness and her will would never cease. Her heart swayed with the trees, and she embraced the call of future journeys, the infinite cycle of renewal and creation.
 
 #### ***Lines in Context:***
 <ul><li><B>1</B> (yang) <i>Emergence</i> - Elara invigorates the first sparks of creativity, as the forest becomes both the canvas and collaborator. <i>Moving line</i> - When yang shifts to yin, Elara may face doubt and introspection, which could hamper progress but allow for deeper insight and refined approach.</li></ul>
@@ -94,11 +94,11 @@ Her sculpture stood as a testament to nature's embrace and humankind's indomitab
 
 Each morning began with Emergence, where the myriad bridges of creativity stretched across impossible chasms of doubt. As sunlight crept tenderly into the room, Eleanor’s fingers danced across the canvas, sketching dreams that flirted with the edges of reality. Yet, as ideas bloomed, they often collided with the fickle winds of uncertainty, pulling her in a dozen directions at once.
 
-Formation took shape as moments coalesced, transforming foggy visions into the tangible flesh of lines and curves. Here, the world outside slipped seamlessly into Eleanor’s inner realm as she sculpted with fevered fingertips, tracing the contours of revelation. Despite the beauty rising under her brush, each stroke summoned a shadow of Conflict—the fear that her work might never match the lustrous ideals shimmering in her mind’s eye.
+Formation took shape as moments coalesced, transforming foggy visions into the tangible flesh of lines and curves. Here, the world outside slipped seamlessly into Eleanor’s inner realm as she sculpted with fevered fingertips, tracing the contours of revelation. Despite the beauty rising under her brush, each stroke summoned a shadow of Conflict, the fear that her work might never match the lustrous ideals shimmering in her mind’s eye.
 
-With Manifestation, Eleanor stepped back, contemplating her creation as it leaped from the plane, demanding existence beyond her grasp. The canvas, a living testament of her struggle, resonated with a truth she had yet to articulate fully—a silent scream into the abyss that dared to echo back.
+With Manifestation, Eleanor stepped back, contemplating her creation as it leaped from the plane, demanding existence beyond her grasp. The canvas, a living testament of her struggle, resonated with a truth she had yet to articulate fully, a silent scream into the abyss that dared to echo back.
 
-Mastery whispered through her senses when stillness settled, her efforts crystallizing into a mosaic of triumph and introspection. For an instant, she held the universe in balance, where past uncertainties melted into the grace of her composition. Yet, too, did apprehension, for Mastery granted glimpses of what lay beyond—a horizon gilded by both anticipation and the promise of Transcendence.
+Mastery whispered through her senses when stillness settled, her efforts crystallizing into a mosaic of triumph and introspection. For an instant, she held the universe in balance, where past uncertainties melted into the grace of her composition. Yet, too, did apprehension, for Mastery granted glimpses of what lay beyond, a horizon gilded by both anticipation and the promise of Transcendence.
 
 When at last the final stroke fell, Eleanor watched as the Transcendence unfolded, her creation both whole and yearning for infinity. Yet, it was not merely the completion she cherished, but the cycle’s eternal return, where each ending bore seeds of an untold beginning.
 
@@ -133,11 +133,6 @@ Wrapped in the murmur of that languid dawn, Eleanor understood her artistic jour
 
 ###### *Notes*
 ### **King Wen**: 55 ䷶ <sub>*13*</sub> ; 4 ☳ <sub>*1*</sub> The Arousing,  Thunder *over* 7 ☲ <sub>*5*</sub> The Clinging, Fire;
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 <br/>
 <br/>
 <br/>

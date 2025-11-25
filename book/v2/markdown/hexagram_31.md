@@ -6,7 +6,7 @@
 <span style="font-size:2em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;">31 ䷞</span><span style="font-size:1em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;vertical-align:text-bottom;"> 28 </span><span style="font-size:2em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;">&nbsp; Resonant Attraction</span>
 </div>
 ## The harmonious interplay of complementary forces creating mutual influence and transformation. Like electromagnetic fields that invisibly shape and affect each other, this hexagram represents the dynamic attraction between different but compatible energies that leads to creative unity.
-<img src="/home/jw/store/src/iching_cli/book/v2/prod/31.png">
+<img src="/home/jw/src/iching_cli/book/v2/prod/31.png">
 <span style="margin-bottom: 8px;"> &nbsp; </span>
 ### *"Resonant Attraction" is visually illustrated through its representation of the dynamic, harmonic dance between openness (Lake) and stability (Mountain), reflective of the hexagram's nature. The contrast of ethereal cosmic structures and a grounded figure reveals the connection between the vast, abstract universe and the tangible human existence. Symbolizing the organic and celestial forces coalescing, the display of intricate network linking celestial bodies and the figure's touch affirms the principle of sustainable influence and mutual impact. From the chaos emerges a divine order symbolizing the transformative power of subtle harmonies and mutual resonances. The depiction embodies the centrality of authentic connection in encouraging disciplined, natural interactions.*
 <p/>
@@ -34,7 +34,7 @@
 **Negotiation**: The hexagram represents negotiation between openness (Lake) and stability (Mountain). This interaction produces sustainable influence through natural affinity. The lines show progressive stages of developing mutual resonance. **Limitation**: Lake above Mountain shows how containing influence creates lasting effect. Like water finding its level, limitations guide energy into sustainable patterns. These boundaries ensure authentic connection. **Contribution**: This configuration contributes understanding of how systems naturally influence each other. It demonstrates how awareness can guide the development of harmonious relationships through recognition of natural affinities.
 
 #### ***Tholon 29 of 32: "Influence and Reduction"***
-#### The *stable* path is creates "Influence" (31 <sub>*28*</sub>) and "Decrease" (41 <sub>*35*</sub>).  This pair-path explores the dynamic interplay between attraction and contraction. As Influence (Hexagram 31) ascends, it signifies the power of mutual attraction and the drawing together of forces. Conversely, Decrease (Hexagram 41) descends, symbolizing the necessary reduction or simplification to achieve balance and harmony. Together, they represent the cyclical nature of expansion and contraction, where influence leads to growth, and reduction ensures sustainability.
+#### This hexagram is within the *stable* path of "Influence and Reduction" formed by "Influence" (31䷞<sub>*28*</sub>) and "Decrease" (41䷨<sub>*35*</sub>).  This pair-path explores the dynamic interplay between attraction and contraction. As Influence (Hexagram 31) ascends, it signifies the power of mutual attraction and the drawing together of forces. Conversely, Decrease (Hexagram 41) descends, symbolizing the necessary reduction or simplification to achieve balance and harmony. Together, they represent the cyclical nature of expansion and contraction, where influence leads to growth, and reduction ensures sustainability.
 
 
 
@@ -52,7 +52,7 @@ In the next phase, clarity birthed form; stones and water channels were artfully
 
 Unyielding, Diego delved deeper into his work, aligning marble grooves to catch the light just so, and the fountain's facade began to glow with veiled promises. But at what cost, he wondered, would this vision solidify? (Manifestation).
 
-As water first kissed stone, a melody unfurled, stunning the town into reverent silence—Diego's mastery sprouting from their silenced doubts (Mastery). This fountain, his magnum opus, drew visitors from beyond the mountains, a testament not just to his craft but to his faith in a whisper realized.
+As water first kissed stone, a melody unfurled, stunning the town into reverent silence, Diego's mastery sprouting from their silenced doubts (Mastery). This fountain, his magnum opus, drew visitors from beyond the mountains, a testament not just to his craft but to his faith in a whisper realized.
 
 The town's echoes now danced upon other canvases, as Diego's creation transcended mere stone and song, awakening a deeper potential within each soul. This, he realized, was not just a fountain, but a conduit to the endless harmony between imagination and reality (Transcendence).
 
@@ -77,7 +77,7 @@ But Asahi persevered, binding each element with reverence, aligning them to catc
 
 The harmony between the brook and the chime grew, captivating the valley's spirits with its serene interplay. Asahi's mastery emerged, not in dominance but in a profound alignment with the forces he barely controlled (Mastery).
 
-In this unity, Asahi discovered transcendence—a realization that the world itself was a vast chime, each being a note in an endless, harmonious symphony (Transcendence). His creation was no longer just a wind chime but an eternal dance of elements, resonating with the heartbeats of the mountains and whispers of the river.
+In this unity, Asahi discovered transcendence, a realization that the world itself was a vast chime, each being a note in an endless, harmonious symphony (Transcendence). His creation was no longer just a wind chime but an eternal dance of elements, resonating with the heartbeats of the mountains and whispers of the river.
 
 #### ***Lines in Context:***
 <ul><li><B>1</B> (yin) <i>Emergence</i> - The initial inspiration springs forth from the brook's subtle song. <i>Moving line</i> - The transformation from passive receptivity to active creation ignites fresh possibilities, guiding Asahi toward a deeper creative expression.</li></ul>
@@ -90,7 +90,7 @@ In this unity, Asahi discovered transcendence—a realization that the world its
 ##### The Weaver's Journey (Man vs. Self)
 ### *In the style of Isabel Allende*
 
-#### In the heart of a secluded village by the mountains, there lived a weaver named Luna, renowned for her tapestries that seemed to hold whispered secrets of the world. Her fingers deftly danced over threads, conjuring images of serene landscapes and cosmic dances. Despite the admiration, Luna felt a stirring within—a yearning to weave a masterpiece alive with her soul's silent stories.
+#### In the heart of a secluded village by the mountains, there lived a weaver named Luna, renowned for her tapestries that seemed to hold whispered secrets of the world. Her fingers deftly danced over threads, conjuring images of serene landscapes and cosmic dances. Despite the admiration, Luna felt a stirring within, a yearning to weave a masterpiece alive with her soul's silent stories.
 
 One twilight, as Luna sat by her loom, the world around her seemed to pause, weaving a silence so profound that the beating of her heart echoed like a distant drum (Emergence). With newfound determination, she gathered vibrant threads, feeling their raw energy pulsing through her fingers as she began her work in earnest (Formation).
 
@@ -98,9 +98,9 @@ As the tapestry grew, Luna felt a tension in her spirit, a doubt threading throu
 
 In the final strokes, Luna found herself in flow, her creation transforming into a living mosaic of light and breath (Manifestation). Each figure on the tapestry was vibrant and multi-dimensional, speaking whispers of unity and coherence.
 
-Her work completed, Luna stepped back to see the observer's eyes reflect a deeper understanding—a dance between individual and universal harmony. Her vision had become a conduit to a world beyond mere sight (Mastery).
+Her work completed, Luna stepped back to see the observer's eyes reflect a deeper understanding, a dance between individual and universal harmony. Her vision had become a conduit to a world beyond mere sight (Mastery).
 
-Luna's hands, now still, knew she had woven more than threads. It was a path to her own transcendence—a masterpiece whispered in silence, echoing through the hearts it touched anew (Transcendence).
+Luna's hands, now still, knew she had woven more than threads. It was a path to her own transcendence, a masterpiece whispered in silence, echoing through the hearts it touched anew (Transcendence).
 
 #### ***Lines in Context:***
 <ul><li><B>1</B> (yin) <i>Emergence of Inspiration</i> - The silence that envelops her is the womb from which her creative inspiration is born. <i>Moving line</i> - As stillness gives way to creative urgency, the challenge of embracing this shift spurs hidden potential into vibrant reality.</li></ul>
@@ -116,7 +116,7 @@ Luna's hands, now still, knew she had woven more than threads. It was a path to 
 
 ##### *Newton's Insights into Gravitational Resonance*
 
-#### In the 17th century, Isaac Newton's contemplation of an apple falling from a tree led him to a monumental epiphany. It wasn't merely the fall of the apple that intrigued Newton but the concept of unseen forces shaping the universe. He perceived gravity not as an isolated occurrence but as part of a grand cosmic resonance. The unseen pull that directed the apple downward also governed the heavens, uniting terrestrial and celestial mechanics (Emergence). By observing the moon's orbit, Newton formulated his theory of universal gravitation—a fundamental law that illustrated the mutual attraction between masses (Formation). This elegant principle confronted the rigid skepticism of his contemporaries (Conflict). Despite resistance, Newton's dedication propelled him to refine his theories, resulting in the seminal work, 'Principia Mathematica' (Manifestation). This masterful text unified the physics of the earth and sky, demonstrating a profound mastery of natural laws (Mastery). His legacy transcended scientific boundaries, embedding the concept of gravitational resonance into the human understanding of the universe (Transcendence). Newton's work transformed the mere observation of falling fruit into a universal symphony, revealing the interconnected tapestry of existence.
+#### In the 17th century, Isaac Newton's contemplation of an apple falling from a tree led him to a monumental epiphany. It wasn't merely the fall of the apple that intrigued Newton but the concept of unseen forces shaping the universe. He perceived gravity not as an isolated occurrence but as part of a grand cosmic resonance. The unseen pull that directed the apple downward also governed the heavens, uniting terrestrial and celestial mechanics (Emergence). By observing the moon's orbit, Newton formulated his theory of universal gravitation, a fundamental law that illustrated the mutual attraction between masses (Formation). This elegant principle confronted the rigid skepticism of his contemporaries (Conflict). Despite resistance, Newton's dedication propelled him to refine his theories, resulting in the seminal work, 'Principia Mathematica' (Manifestation). This masterful text unified the physics of the earth and sky, demonstrating a profound mastery of natural laws (Mastery). His legacy transcended scientific boundaries, embedding the concept of gravitational resonance into the human understanding of the universe (Transcendence). Newton's work transformed the mere observation of falling fruit into a universal symphony, revealing the interconnected tapestry of existence.
 
 <div style="font-size: 8pt;font-style:italic">Source: Isaac Newton's 'Philosophiæ Naturalis Principia Mathematica', Biographies of Isaac Newton: 'Isaac Newton' by James Gleick</div>
 
@@ -131,11 +131,6 @@ Luna's hands, now still, knew she had woven more than threads. It was a path to 
 
 ###### *Notes*
 ### **King Wen**: 31 ䷞ <sub>*28*</sub> Influence/Wooing; 8 ☱ <sub>*4*</sub> The Joyous,  Lake/Marsh *over* 3 ☶ <sub>*3*</sub> The Still, Mountain;
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 <br/>
 <br/>
 <br/>

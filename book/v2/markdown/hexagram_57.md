@@ -6,7 +6,7 @@
 <span style="font-size:2em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;">57 ䷸</span><span style="font-size:1em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;vertical-align:text-bottom;"> 54 </span><span style="font-size:2em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;">&nbsp; Penetration</span>
 </div>
 ## The gentle but persistent influence that creates lasting change. Like wind shaping mountains or water wearing through stone, this represents the power of subtle, continuous action to transform even the most resistant situations.
-<img src="/home/jw/store/src/iching_cli/book/v2/prod/57.png">
+<img src="/home/jw/src/iching_cli/book/v2/prod/57.png">
 <span style="margin-bottom: 8px;"> &nbsp; </span>
 ### *"Penetration" is visually encapsulated through deliberate artistic choices that embody the nature of consistent subtle influence. The chosen element, wind, signifies the persistent yet gentle force akin to awareness in the Tholonic Model, subtly and gradually reshaping reality. The minimalist style and form capture the Thologram's elegance, illustrating the emergence of complexity from simplicity. The raw pencil medium resonates with the Tholonic Model's primal point, indicating that creation emerges from simplicity. Finally, Henri Matisse's work, known for expressing depth through simplicity, encapsulates the Tholon's balance and negotiation forces. These elements together articulate the quiet yet pervasive transformative power of "Penetration".*
 <p/>
@@ -34,7 +34,7 @@
 **Negotiation**: The hexagram represents the balance between influence and resistance. The doubled wind shows how persistent gentle force can overcome obstacles, demonstrating that subtle influence can be more effective than direct confrontation. **Limitation**: The structure defines boundaries between effective and ineffective influence. It establishes how change must occur through natural patterns, showing that force must align with existing flows. **Contribution**: This configuration contributes to systemic evolution by demonstrating how subtle persistence creates lasting change. It shows how gentle but continuous influence shapes reality.
 
 #### ***Tholon 10 of 32: "Shock and Influence"***
-#### The *dynamic* path is creates "Shock" (51 <sub>*9*</sub>) and "Gentle Penetration" (57 <sub>*54*</sub>).  The path of transformation through sudden change and gradual influence. Shock initiates a powerful awakening, while Gentle Penetration sustains and deepens the transformation through subtlety and persistence.
+#### This hexagram is within the *dynamic* path of "Shock and Influence" formed by "Shock" (51䷲<sub>*9*</sub>) and "Gentle Penetration" (57䷸<sub>*54*</sub>).  The path of transformation through sudden change and gradual influence. Shock initiates a powerful awakening, while Gentle Penetration sustains and deepens the transformation through subtlety and persistence.
 
 
 
@@ -46,7 +46,7 @@
 
 #### In the bustling town of Macondo, a quiet revolution stirred beneath the surface. The old ways of trading, marred by inefficiency and petty rivalries, were ripe for change. At the heart of this transformation was Celia, a visionary who observed the potential for a unified market from her modest fruit stall in the busy plaza.
 
-With every sale, Celia shared her vision of a prosperous collective market—a place where trades were smooth and fairness anchored every transaction. Her gentle persistence, like a soft breeze weaving through the marketplace, began to shift the town's mindset.
+With every sale, Celia shared her vision of a prosperous collective market, a place where trades were smooth and fairness anchored every transaction. Her gentle persistence, like a soft breeze weaving through the marketplace, began to shift the town's mindset.
 
 Yet, her ideas were not without opposition. Old traders clung to their ways, suspicious of the change that Celia proposed. Tensions simmered as her vision challenged the status quo, sparking heated arguments under the market's awnings.
 
@@ -88,13 +88,13 @@ In time, hearts softened, and disputes resolved like shadows retreating from daw
 
 #### In the village of Santiago, the mornings were whispered into life by the gentle hands of an unseen artist. Emilia, the caretaker of the village's ancient bell tower, was the only one awake to witness this quiet dance of light and shadow. Each dawn, as the world teetered between the dreams of night and the clarity of day, Emilia found herself drawn to the rhythm of creation.
 
-One morning, a peculiar realization stirred within her—every color in the sunrise carried a story lost to time. The bell tower, now an aged guardian, held more than memories; it was a silent witness to the whispers of transformation echoing through the village.
+One morning, a peculiar realization stirred within her, every color in the sunrise carried a story lost to time. The bell tower, now an aged guardian, held more than memories; it was a silent witness to the whispers of transformation echoing through the village.
 
 Initially, the villagers dismissed the subtle shifts Emilia perceived. They went about their routine, unaware of the whispers threading through their lives. Yet, as Emilia began to share the stories borne by those gentle hues, the village slowly awoke to an unseen orchestration, guiding them toward a deeper realization.
 
-Challenges arose as the villagers confronted their ingrained habits, yet Emilia's unwavering belief painted hope across their days. Her influence, though soft as the dawn, transformed the village into a tapestry of collective understanding—an ode to the unnoticed artistry of the synchronicity of whispers.
+Challenges arose as the villagers confronted their ingrained habits, yet Emilia's unwavering belief painted hope across their days. Her influence, though soft as the dawn, transformed the village into a tapestry of collective understanding, an ode to the unnoticed artistry of the synchronicity of whispers.
 
-In time, Santiago blossomed into a haven of quiet introspection and shared purpose, guided by Emilia's subtle penmanship of light—an embodiment of how gentle persistence could illuminate even the thickest shadow.
+In time, Santiago blossomed into a haven of quiet introspection and shared purpose, guided by Emilia's subtle penmanship of light, an embodiment of how gentle persistence could illuminate even the thickest shadow.
 
 #### ***Lines in Context:***
 <ul><li><B>1</B> (yin) <i>Emergence of Awareness</i> - Emilia's solitary understanding at the dawn of realization allows the village's potential to begin unfolding. <i>Moving line</i> - If yin changes to yang, the discovery could be prematurely thrust into the open, risking abrupt realization before the village is prepared to accept the unfolding changes.</li></ul>
@@ -125,11 +125,6 @@ In time, Santiago blossomed into a haven of quiet introspection and shared purpo
 
 ###### *Notes*
 ### **King Wen**: 57 ䷸ <sub>*54*</sub> The Penetrating Wind; 5 ☴ <sub>*6*</sub> The Gentle,  Wind/Wood *over* 5 ☴ <sub>*6*</sub> The Gentle, Wind/Wood;
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 <br/>
 <br/>
 <br/>

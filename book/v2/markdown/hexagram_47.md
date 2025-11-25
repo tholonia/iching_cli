@@ -6,7 +6,7 @@
 <span style="font-size:2em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;">47 ䷮</span><span style="font-size:1em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;vertical-align:text-bottom;"> 26 </span><span style="font-size:2em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;">&nbsp; Depletion</span>
 </div>
 ## A time of diminishing resources and challenging circumstances that demands resilience and strategic conservation. Like a lake during drought or batteries running low, this represents the need to manage scarcity while maintaining essential functions.
-<img src="/home/jw/store/src/iching_cli/book/v2/prod/47.png">
+<img src="/home/jw/src/iching_cli/book/v2/prod/47.png">
 <span style="margin-bottom: 8px;"> &nbsp; </span>
 ### *"'Depletion' is evocatively represented through an array of striking contrasts and elements drawn from nature, reflecting its profound concepts and themes. The gnarled, withered branches encapsulate the essence of limitation and scarcity, while the ethereal, abstract forms above suggest the potential for renewal and adaptation. This triad of grounded roots and suspended forms embody the conflict and synergy between depletion and conservation, mirroring the illuminating transformation achieved through endurance. The stark contrasts portray a dynamic relationship, where resilience and strategic adaptation coexist amidst scarcity, thereby visualising the integral notions of this hexagram.*
 <p/>
@@ -34,7 +34,7 @@
 **Negotiation**: The hexagram represents the balance between scarcity and sufficiency. The water below (danger) and lake above (joy) suggests that even in times of depletion, opportunities for renewal exist if resources are managed wisely. **Limitation**: The structure defines boundaries between necessary and wasteful expenditure. It establishes how conservation must occur within practical constraints, showing that effective management requires understanding true needs. **Contribution**: This configuration contributes to systemic evolution by demonstrating how systems adapt to and survive periods of scarcity. It shows how limitation can lead to innovation and more efficient use of resources.
 
 #### ***Tholon 27 of 32: "Constraint and Grace"***
-#### The *stable* path is creates "Oppression" (47 <sub>*26*</sub>) and "Grace" (22 <sub>*37*</sub>).  This pair-path explores the dynamic interplay between the experience of constraint and the expression of elegance. Ascending from Oppression (47), one moves through the trials of limitation and pressure, seeking inner resilience and endurance. Descending into Grace (22), the path reveals the beauty and refinement that emerge when external appearances harmonize with inner truth. Together, they represent the journey from inner struggle to outward elegance, highlighting how adversity can refine and beautify the spirit.
+#### This hexagram is within the *stable* path of "Constraint and Grace" formed by "Oppression" (47䷮<sub>*26*</sub>) and "Grace" (22䷕<sub>*37*</sub>).  This pair-path explores the dynamic interplay between the experience of constraint and the expression of elegance. Ascending from Oppression (47), one moves through the trials of limitation and pressure, seeking inner resilience and endurance. Descending into Grace (22), the path reveals the beauty and refinement that emerge when external appearances harmonize with inner truth. Together, they represent the journey from inner struggle to outward elegance, highlighting how adversity can refine and beautify the spirit.
 
 
 
@@ -46,13 +46,13 @@
 
 #### In the heart of a dystopian society, under the iron grip of an authoritarian regime, a group of rebels known as the Gilded Lynchpins fought against a pervasive oppression that stifled all hope. Their leader, Julian, was driven by an unquenchable thirst for freedom and justice. His vision sparked a revolution that promised liberation from the constrictive clutches of tyranny. However, as resources dwindled and the regime's surveillance tightened, the rebels faced a harsh reality.
 
-The struggle began as a flicker—an idea of a world beyond chains. As Julian rallied his companions around a clandestine table, the seeds of change were sown. Yet the path to realization was fraught with more than just hope; it was tangled with uncertainty and despair.
+The struggle began as a flicker, an idea of a world beyond chains. As Julian rallied his companions around a clandestine table, the seeds of change were sown. Yet the path to realization was fraught with more than just hope; it was tangled with uncertainty and despair.
 
 In Julian's pursuit of a harmonious manifestation of his cause, he found the need for balance between control and empowerment among his ranks. His mantra of perseverance became a beacon, guiding each rebel through the night of their oppression.
 
 As the rebellion grew, so did the internal conflict between Julian's ideals and the harsh realities of their mission. The formation of strategies, while initially rigid, required flexibility, and Julian had to shift from rigid leadership to collaborative decision-making, ensuring resilience in the face of unforeseen challenges.
 
-The moment of triumph came not through outright victory but a realization—a transcendence beyond mere survival. It was an awakening to the power of unity and the enduring will of human spirit. Though scarce in material victory, Julian's rebellion sowed seeds of change in the hearts of the people, preparing for a future where freedom was more than a dream.
+The moment of triumph came not through outright victory but a realization, a transcendence beyond mere survival. It was an awakening to the power of unity and the enduring will of human spirit. Though scarce in material victory, Julian's rebellion sowed seeds of change in the hearts of the people, preparing for a future where freedom was more than a dream.
 
 #### ***Lines in Context:***
 <ul><li><B>1</B> (yin) <i>Emergence</i> - The spark of rebellion ignites a collective desire for change, drawing like-minded individuals together. <i>Moving line</i> - As yin shifts to yang, the initial surge of unity and action transforms into a sustained drive for reform, availing new realms of cooperation and shared vision.</li></ul>
@@ -60,7 +60,7 @@ The moment of triumph came not through outright victory but a realization—a tr
 <ul><li><B>3</B> (yin) <i>Conflict</i> - The rebel's internal struggle reflects the tension between their ideals and the oppressive reality. <i>Moving line</i> - Shifting from yin to yang, internal discord encourages a renewed drive, catalyzing strategic breakthroughs and solidifying group cohesion, preparing them for future challenges.</li></ul>
 <ul><li><B>4</B> (yang) <i>Manifestation</i> - Their efforts take form through strategic planning, embodying the rebel's vision for a free society. <i>Moving line</i> - A shift to yin could dissipate focus, risking the dilution of their objectives. However, it highlights the necessity for adaptive tactics, allowing the group to reassess and strengthen their resolve.</li></ul>
 <ul><li><B>5</B> (yang) <i>Mastery</i> - Julian achieves a deep understanding of the rebellion's dynamics, balancing control with empowerment. <i>Moving line</i> - Transition to yin here might lead to a fracturing of resolve, yet it catalyzes a collective sense of purpose, reinforcing the bonds within the group and enhancing strategic adaptability.</li></ul>
-<ul><li><B>6</B> (yin) <i>Transcendence</i> - Julian's journey encapsulates the ultimate realization that the rebellion's success lies not in immediate victory but in planting the seeds for lasting change. <i>Moving line</i> - The transition from yin to yang signifies a profound shift in the rebel's perception—an awakening to the greater impact of their actions, fostering unity and discovering resilience, making future success inevitable despite immediate outcomes.</li></ul>
+<ul><li><B>6</B> (yin) <i>Transcendence</i> - Julian's journey encapsulates the ultimate realization that the rebellion's success lies not in immediate victory but in planting the seeds for lasting change. <i>Moving line</i> - The transition from yin to yang signifies a profound shift in the rebel's perception, an awakening to the greater impact of their actions, fostering unity and discovering resilience, making future success inevitable despite immediate outcomes.</li></ul>
 
 ##### Through the Veil of Timber (Man vs. Nature)
 ### *In the style of Henry David Thoreau Style*
@@ -88,7 +88,7 @@ Through acceptance and surrender, Elwood discovered that true creation lay in pa
 
 Each dawn found Gregor more frayed at the edges, his life consumed by the dual struggle against the blank canvas and the confines of his own mind. On the surface, his existence was a monotonous cycle of pigment and brush, yet beneath, a storm brewed.
 
-One evening, amidst a particularly vivid dream, Gregor encountered a mysterious figure—his reflection yet different, brimming with vitality. The figure spoke of harmony between chaos and creation, urging Gregor to surrender control and trust in the organic flow of imagination.
+One evening, amidst a particularly vivid dream, Gregor encountered a mysterious figure, his reflection yet different, brimming with vitality. The figure spoke of harmony between chaos and creation, urging Gregor to surrender control and trust in the organic flow of imagination.
 
 Awakening with renewed vision, Gregor allowed himself to be guided by intuition rather than technique. As he painted without restraint, his canvas transformed, bursting with life. His style evolved into something uniquely expressive yet deeply connected to the universal experience.
 
@@ -123,11 +123,6 @@ Gregor's atelier became the birthplace of art that spoke, not only to the eye bu
 
 ###### *Notes*
 ### **King Wen**: 47 ䷮ <sub>*26*</sub> ; 8 ☱ <sub>*4*</sub> The Joyous,  Lake/Marsh *over* 6 ☵ <sub>*2*</sub> The Abysmal, Water;
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 <br/>
 <br/>
 <br/>

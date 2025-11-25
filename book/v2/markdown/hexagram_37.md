@@ -6,7 +6,7 @@
 <span style="font-size:2em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;">37 ䷤</span><span style="font-size:1em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;vertical-align:text-bottom;"> 53 </span><span style="font-size:2em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;">&nbsp; Family Dynamics</span>
 </div>
 ## The harmonious ordering of relationships within structured systems. Like a well-functioning family unit, this represents the balanced interplay of roles and responsibilities.
-<img src="/home/jw/store/src/iching_cli/book/v2/prod/37.png">
+<img src="/home/jw/src/iching_cli/book/v2/prod/37.png">
 <span style="margin-bottom: 8px;"> &nbsp; </span>
 ### *"Family Dynamics" is skillfully depicted through an image of a wolf pack, signifying the intricate natural hierarchy and fluid roles within familial structures. Each wolf represents different elements in a family, reflecting negotiation, limitation, and contribution - primary forces in the Tholonic model. The realism style matches the authentic nature of these tipsy dynamics, capturing the raw interactions within the ancestral pack. The digital painting medium offers precision, emphasizing the complex interplay of social structures present within families. The attribution to "Jack London" enhances the depiction, nodding towards wild survival instincts and nature's unforgiving yet transformative truths.*
 <p/>
@@ -34,7 +34,7 @@
 **Negotiation**: Balances individual needs with collective harmony. Shows how different roles must negotiate their relationships while maintaining system integrity. **Limitation**: Creates structure through clear roles and responsibilities. Each element has defined boundaries that support the whole. **Contribution**: Demonstrates how ordered relationships create stable, evolving systems. Like a healthy ecosystem, each part supports the whole.
 
 #### ***Tholon 11 of 32: "Liberation-Unity"***
-#### The *dynamic* path is creates "Liberation" (40 <sub>*10*</sub>) and "The Family" (37 <sub>*53*</sub>).  This pair-path represents the dynamic balance between the release of constraints and the cohesion of familial or communal bonds. It explores how liberation from difficulties can lead to the establishment of harmonious and structured relationships, and vice versa, how unity within a group can facilitate personal freedom.
+#### This hexagram is within the *dynamic* path of "Liberation-Unity" formed by "Liberation" (40䷧<sub>*10*</sub>) and "The Family" (37䷤<sub>*53*</sub>).  This pair-path represents the dynamic balance between the release of constraints and the cohesion of familial or communal bonds. It explores how liberation from difficulties can lead to the establishment of harmonious and structured relationships, and vice versa, how unity within a group can facilitate personal freedom.
 
 
 
@@ -56,7 +56,7 @@
 
   Despite inevitable setbacks, as tensions flared and faded, a profound change began to unfurl. The workers found solace in mutual solidarity, their spirits buoyed by their collective strength. Through Albert's quiet rebellion, they forged new paths of resilience and adaptability. The machine, while battered and burdened, continued to beat, its heart now stronger for the bonds of kinship that stitched its components together.
 
-  In the wake of their struggle, Albert's legacy persisted beyond the factory walls, illustrating the delicate dance of human endeavor against indiscriminate forces of change—an unwritten chapter in the ever-turning cogs of destiny.
+  In the wake of their struggle, Albert's legacy persisted beyond the factory walls, illustrating the delicate dance of human endeavor against indiscriminate forces of change, an unwritten chapter in the ever-turning cogs of destiny.
 
 #### ***Lines in Context:***
 <ul><li><B>1</B> (yang) <i>Emergence of Responsibility</i> - In the face of challenges, Albert takes on the responsibility of safeguarding his team’s morale and unity. <i>Moving line</i> - If Albert withdraws, the nascent bonds may weaken, yet his retreat may allow others to step into roles of leadership, fostering diverse growth.</li></ul>
@@ -94,7 +94,7 @@ Every morning, Maya would sit by her window, watching the ebb and flow of people
 
 One afternoon, as the golden hues of dusk began to paint the sky, Maya ventured into the heart of the city. There, amidst the market stalls and the symphony of haggling voices, she met a wanderer. His eyes held the depth of ancient seas, and his words wove tales of invisible energies that flowed between souls like rivers of light.
 
-Intrigued, Maya found herself returning each day, drawn into the wanderer's stories of unity and transformation. Through his words, she began to see with new eyes—the delicate interplay of closeness and distance that defined human existence.
+Intrigued, Maya found herself returning each day, drawn into the wanderer's stories of unity and transformation. Through his words, she began to see with new eyes, the delicate interplay of closeness and distance that defined human existence.
 
 Empowered by this newfound vision, Maya returned to her studio, her heart brimming with inspiration. Her brush danced across the canvas, fueled by an unseen force, translating the essence of human connection into vibrant expressions of color and form.
 
@@ -116,7 +116,7 @@ In her final brushstrokes, Maya realized that the true art was not in the creati
 
 ##### *The Genesis of the Medici Legacy*
 
-#### In the vibrant tapestry of 15th century Florence, the Medici family emerged as the quintessential embodiment of familial unity and influence. Led by Cosimo de' Medici, they orchestrated an era of prosperity through a meticulously woven network of alliances with other significant families. Each family played a vital role—while the Medici handled banking and politics, the Strozzi excelled in trade, and the Albizzi provided military strength. The Pazzi and Acciaiuoli families further enriched this fabric with diplomatic prowess. This intricate interplay of family roles not only solidified Florence's economic powerhouse but also fostered a renaissance of culture, birthing masterpieces from Botticelli, Michelangelo, and Leonardo da Vinci. The Medici's story is a testament to the power of well-defined roles in navigating the complexities of society, driving both stability and preeminence through interdependence and shared vision. Their legacy endures as a beacon of strategic synergy and enduring family cohesion.
+#### In the vibrant tapestry of 15th century Florence, the Medici family emerged as the quintessential embodiment of familial unity and influence. Led by Cosimo de' Medici, they orchestrated an era of prosperity through a meticulously woven network of alliances with other significant families. Each family played a vital role, while the Medici handled banking and politics, the Strozzi excelled in trade, and the Albizzi provided military strength. The Pazzi and Acciaiuoli families further enriched this fabric with diplomatic prowess. This intricate interplay of family roles not only solidified Florence's economic powerhouse but also fostered a renaissance of culture, birthing masterpieces from Botticelli, Michelangelo, and Leonardo da Vinci. The Medici's story is a testament to the power of well-defined roles in navigating the complexities of society, driving both stability and preeminence through interdependence and shared vision. Their legacy endures as a beacon of strategic synergy and enduring family cohesion.
 
 <div style="font-size: 8pt;font-style:italic">Source: "The Rise and Decline of the Medici Bank: 1397-1494" by Raymond de Roover (1963)</div>
 
@@ -131,11 +131,6 @@ In her final brushstrokes, Maya realized that the true art was not in the creati
 
 ###### *Notes*
 ### **King Wen**: 37 ䷤ <sub>*53*</sub> Family; 5 ☴ <sub>*6*</sub> The Gentle,  Wind/Wood *over* 7 ☲ <sub>*5*</sub> The Clinging, Fire;
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 <br/>
 <br/>
 <br/>

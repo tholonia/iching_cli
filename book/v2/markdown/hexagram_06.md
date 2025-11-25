@@ -6,7 +6,7 @@
 <span style="font-size:2em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;">6 ䷅</span><span style="font-size:1em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;vertical-align:text-bottom;"> 58 </span><span style="font-size:2em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;">&nbsp; Conflict</span>
 </div>
 ## The tension between opposing forces seeking resolution. Like storm clouds gathering before rain, this represents necessary conflict that leads to clarity.
-<img src="/home/jw/store/src/iching_cli/book/v2/prod/06.png">
+<img src="/home/jw/src/iching_cli/book/v2/prod/06.png">
 <span style="margin-bottom: 8px;"> &nbsp; </span>
 ### *"Conflict" is vividly represented in the image by storm clouds, capturing the dynamic interplay of light and shadow, symbolizing the inherent tension between opposing forces. This atmospheric portrayal reflects the natural clash and buildup of energy that drives transformation and aligns with the tholonic principle of negotiation. The dramatic, symbolic style illuminates the primal power of conflict, highlighting the ethereal, ever-changing nature of these forces. In this context, the storm clouds are a metaphor for necessary contention that leads to clarity and growth, making this image representation deeply symbolic and evocative of Hexagram 06, "Conflict".*
 <p/>
@@ -34,7 +34,7 @@
 **Negotiation**: The hexagram represents the negotiation between creative force (Heaven) and flow (Water). This creates dynamic tension between opposing movements. **Limitation**: Structure is provided by heaven above, indicating that conflict must serve higher purpose. The water below suggests that engagement must remain fluid. **Contribution**: This pattern contributes to evolution by showing how opposition can lead to growth. It demonstrates how conflict can clarify truth through contrast.
 
 #### ***Tholon 6 of 32: "Conflict's Veil"***
-#### The *dynamic* path is creates "Darkening of the Light" (36 <sub>*5*</sub>) and "Conflict" (6 <sub>*58*</sub>).  This pair-path explores the interplay between concealment and confrontation. As 'Darkening of the Light' ascends, it signifies the need for caution and strategic withdrawal, hiding one's light to preserve inner truth amidst adversity. Conversely, 'Conflict' descends, representing the inevitable clash when differences arise, urging resolution through understanding and patience. Together, they illustrate the cycle of retreat and engagement, teaching the wisdom of knowing when to retreat into shadow and when to face challenges head-on.
+#### This hexagram is within the *dynamic* path of "Conflict's Veil" formed by "Darkening of the Light" (36䷣<sub>*5*</sub>) and "Conflict" (6䷅<sub>*58*</sub>).  This pair-path explores the interplay between concealment and confrontation. As 'Darkening of the Light' ascends, it signifies the need for caution and strategic withdrawal, hiding one's light to preserve inner truth amidst adversity. Conversely, 'Conflict' descends, representing the inevitable clash when differences arise, urging resolution through understanding and patience. Together, they illustrate the cycle of retreat and engagement, teaching the wisdom of knowing when to retreat into shadow and when to face challenges head-on.
 
 
 
@@ -44,13 +44,13 @@
 ##### The Clash of Innovation (Man vs. Man)
 ### *In the style of Ernest Hemingway*
 
-#### In the bustling heart of New York City, a young architect named Marcus stood on the precipice of a groundbreaking endeavor. He envisioned a skyscraper that defied all conventions—an architectural masterpiece that would blend human form and nature seamlessly. Yet, amid the ceaseless churn of the city's ambitions, Marcus found himself grappling with both internal doubts and external resistance.
+#### In the bustling heart of New York City, a young architect named Marcus stood on the precipice of a groundbreaking endeavor. He envisioned a skyscraper that defied all conventions, an architectural masterpiece that would blend human form and nature seamlessly. Yet, amid the ceaseless churn of the city's ambitions, Marcus found himself grappling with both internal doubts and external resistance.
 
 In the early stages of his journey, Marcus's vision began to crystallize. Like the first light of dawn, his plans emerged from the haze of uncertainty, casting their own distinct shadows on the architectural landscape. Despite the whispers of skepticism from seasoned peers, Marcus pressed forward, his resolve catching fire with each new design sketch.
 
 As the project gained momentum, the forces of opposition gathered strength. Colleagues, threatened by Marcus's audacity, rallied against his modern interpretations, labeling them as reckless. The board of directors, cautious of untested ideas, wavered. Yet Marcus's determination only grew more fierce, his mind a crucible of innovation sparking with every objection.
 
-The turning point arrived as Marcus's team began to translate ideas into tangible plans. The ambitious drawings edged closer to reality, reflecting the struggle within Marcus himself—a dance between aspiration and practicality. The pressure was immense, but Marcus's tenacity shone brightly, a beacon in the storm of contention.
+The turning point arrived as Marcus's team began to translate ideas into tangible plans. The ambitious drawings edged closer to reality, reflecting the struggle within Marcus himself, a dance between aspiration and practicality. The pressure was immense, but Marcus's tenacity shone brightly, a beacon in the storm of contention.
 
 Finally, Marcus's flagship design stood completed, a testament to his enduring vision and the tense, vibrant energy between tradition and invention. The skyscraper, a symphony of glass and steel, towered above the cityscape, challenging convention and heralding a new era of architectural thought. Even those who opposed him could not deny the building's impact, as it stood resplendent, ready to educate and inspire future minds on the power of raw, unrestrained creativity.
 
@@ -67,7 +67,7 @@ Finally, Marcus's flagship design stood completed, a testament to his enduring v
 
 #### In the tranquil valley of Aldenmoor, a young but troubled painter named Elias longed to capture on canvas the ethereal beauty of the world around him. Yet, within him simmered a tempest of unresolved past, a storm vying for release. This cacophony mirrored the valley’s unpredictable weather, where the sky seemed to arch between serenity and chaos.
 
-Elias spent his days observing nature, trying to connect his internal storm with the serene landscape—a bridge of self-realization sought amidst emerald forests and azure skies. One afternoon, as a storm brewed, Elias wandered deeper into the woods, feeling the wind wrap around him like a forgotten melody. Lightning cracked across the sky, urging him to channel this raw force onto his canvas.
+Elias spent his days observing nature, trying to connect his internal storm with the serene landscape, a bridge of self-realization sought amidst emerald forests and azure skies. One afternoon, as a storm brewed, Elias wandered deeper into the woods, feeling the wind wrap around him like a forgotten melody. Lightning cracked across the sky, urging him to channel this raw force onto his canvas.
 
 His brushstrokes matched the storm's energy, each color a clash between personal turmoil and nature’s grand tableau. Villagers regarded him with both awe and disdain, unsure of his relentless pursuit of emotional truth. Yet Elias persisted, integrating wild, emotive conflicts onto his canvases, transforming storms into artistic wonders.
 
@@ -86,17 +86,17 @@ As the tempest subsided, Elias stood before his completed work, a vivid portraya
 
 #### In the dim confines of his study, Johan felt a growing discord within himself, a tension between the aspirations locked in his mind and the mundane world that confined his existence. With each passing day, this inner conflict grew more acute, mirroring the stormy skies beyond his window.
 
-Johan craved transformation, an opportunity to transcend the limitations imposed by his surroundings and the expectations of others. As he faced the blank canvas before him—a medium through which he hoped to channel his internal storm—he encountered a paradoxical blend of fear and excitement.
+Johan craved transformation, an opportunity to transcend the limitations imposed by his surroundings and the expectations of others. As he faced the blank canvas before him, a medium through which he hoped to channel his internal storm, he encountered a paradoxical blend of fear and excitement.
 
 The emergence of his vision began quietly, an ember flickering into life beneath layers of doubt (Line 1: Emergence). Yet, as he struggled to form his ideas, the chaos threatened to overwhelm him, leaving him at the mercy of an unrelenting inner critic (Line 2: Formation).
 
 His pursuit of artistic expression led him into a clash with his own hesitation, where every brushstroke became a battlefield between ambition and fear. He stood on the precipice of creation, a realm fraught with internal skirmishes that tested his resolve (Line 3: Conflict).
 
-It was only through grappling with this discord that Johan began to manifest something tangible—an artwork embodying his inner strife, a testament to the tumult he endured in pursuit of creative authenticity (Line 4: Manifestation).
+It was only through grappling with this discord that Johan began to manifest something tangible, an artwork embodying his inner strife, a testament to the tumult he endured in pursuit of creative authenticity (Line 4: Manifestation).
 
 With time, Johan’s persistence bore the fruits of mastery over his craft. Each stroke deepened his understanding, refining his vision into something cohesive and profound (Line 5: Mastery).
 
-Finally, in the quiet aftermath of his creative struggle, Johan's canvas transcended mere self-expression. His art became a mirror reflecting the universal human struggle against inner conflict—a beacon of hope for others trapped in their storms (Line 6: Transcendence).
+Finally, in the quiet aftermath of his creative struggle, Johan's canvas transcended mere self-expression. His art became a mirror reflecting the universal human struggle against inner conflict, a beacon of hope for others trapped in their storms (Line 6: Transcendence).
 
 #### ***Lines in Context:***
 <ul><li><B>1</B> (yin) <i>Emergence of Vision</i> - The spark of Johan's creativity ignites, hinting at potential unbound by current constraints. <i>Moving line</i> - As Johan transitions from timid ideas to bold exploration, initial missteps could lead to revised foundational insights, fostering innovation through trial and error.</li></ul>
@@ -112,7 +112,7 @@ Finally, in the quiet aftermath of his creative struggle, Johan's canvas transce
 
 ##### *The Quest for DNA's Structure*
 
-#### In the early 1950s, the race to decipher the structure of DNA became a significant chapter in the realm of scientific discovery. Key figures like James Watson, Francis Crick, Rosalind Franklin, and Linus Pauling found themselves embroiled in intense intellectual conflict. Watson and Crick, at Cambridge, worked tirelessly to piece together the puzzle using available data, including Rosalind Franklin's precise X-ray diffraction images, which were instrumental yet controversially accessed. Their approach clashed with Linus Pauling's at Caltech, whose initial incorrect triple-helix model heightened the competitive environment. This scientific rivalry, fueled by differing methodologies and perspectives, accelerated breakthroughs. As tensions peaked, Watson and Crick's revelation of the double helix structure emerged—a testament to how confrontation and discourse can propel innovation. This monumental discovery not only transformed biology but also showcased the creative tensions inherent in competitive collaboration, highlighting how conflict and synthesis fuel progress.
+#### In the early 1950s, the race to decipher the structure of DNA became a significant chapter in the realm of scientific discovery. Key figures like James Watson, Francis Crick, Rosalind Franklin, and Linus Pauling found themselves embroiled in intense intellectual conflict. Watson and Crick, at Cambridge, worked tirelessly to piece together the puzzle using available data, including Rosalind Franklin's precise X-ray diffraction images, which were instrumental yet controversially accessed. Their approach clashed with Linus Pauling's at Caltech, whose initial incorrect triple-helix model heightened the competitive environment. This scientific rivalry, fueled by differing methodologies and perspectives, accelerated breakthroughs. As tensions peaked, Watson and Crick's revelation of the double helix structure emerged, a testament to how confrontation and discourse can propel innovation. This monumental discovery not only transformed biology but also showcased the creative tensions inherent in competitive collaboration, highlighting how conflict and synthesis fuel progress.
 
 <div style="font-size: 8pt;font-style:italic">Source: "The Double Helix" by James Watson (1968), "Rosalind Franklin: The Dark Lady of DNA" by Brenda Maddox (2002)</div>
 
@@ -127,11 +127,6 @@ Finally, in the quiet aftermath of his creative struggle, Johan's canvas transce
 
 ###### *Notes*
 ### **King Wen**: 6 ䷅ <sub>*58*</sub> Conflict; 1 ☰ <sub>*7*</sub> The Creative,  Heaven *over* 6 ☵ <sub>*2*</sub> The Abysmal, Water;
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 <br/>
 <br/>
 <br/>

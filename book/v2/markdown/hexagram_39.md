@@ -6,7 +6,7 @@
 <span style="font-size:2em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;">39 ䷦</span><span style="font-size:1em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;vertical-align:text-bottom;"> 20 </span><span style="font-size:2em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;">&nbsp; Strategic Resistance</span>
 </div>
 ## Represents encountering obstacles and developing strategic approaches to overcome them. Like water finding its path around a mountain, success comes through adaptability and intelligent navigation of challenges.
-<img src="/home/jw/store/src/iching_cli/book/v2/prod/39.png">
+<img src="/home/jw/src/iching_cli/book/v2/prod/39.png">
 <span style="margin-bottom: 8px;"> &nbsp; </span>
 ### *"Strategic Resistance" is pictorially represented by the choice of a mountain stream in a watercolor painting by Ansel Adams, which visually manifests the essence of transformation through adaptability in the face of obstacles or transformative barriers. The water stream symbolizes a persistent adaptable force that strategically resists the mountain’s constraint by finding alternative paths. The watercolour medium reflects the fluidity, spontaneity, and adaptability inherent in the Tholonic Model’s concept of strategic resistance. Ansel Adams' realistic style situates the abstract Tholonic concept in perceivable reality while his expertise infuses the scene with symbolism and depth, emblematic of strategic transformative processes amidst resistance.*
 <p/>
@@ -34,7 +34,7 @@
 **Negotiation**: Balance between action and restraint creates effective strategy. Like water meeting stone, resistance generates creative solutions. Shows how obstacles become opportunities through proper negotiation. **Limitation**: Obstacles define potential pathways and reveal hidden strengths. Limitations force innovation and efficiency. Creates structure through necessary adaptation. **Contribution**: Returns complexity to simplicity through strategic problem-solving. Like water wearing down stone, persistence contributes to eventual breakthrough. Demonstrates how resistance generates growth.
 
 #### ***Tholon 21 of 32: "Opposition Flow"***
-#### The *dynamic* path is creates "Obstruction" (39 <sub>*20*</sub>) and "Opposition" (38 <sub>*43*</sub>).  This pair-path explores the dynamic interplay between encountering obstacles and the inherent tension of opposing forces. It illustrates a journey where challenges are met with perseverance, and harmony is sought amidst discord. The ascending path through Obstruction (39) involves overcoming hindrances, while the descending path through Opposition (38) deals with navigating conflicts and misunderstandings.
+#### This hexagram is within the *dynamic* path of "Opposition Flow" formed by "Obstruction" (39䷦<sub>*20*</sub>) and "Opposition" (38䷥<sub>*43*</sub>).  This pair-path explores the dynamic interplay between encountering obstacles and the inherent tension of opposing forces. It illustrates a journey where challenges are met with perseverance, and harmony is sought amidst discord. The ascending path through Obstruction (39) involves overcoming hindrances, while the descending path through Opposition (38) deals with navigating conflicts and misunderstandings.
 
 
 
@@ -69,7 +69,7 @@ Reflecting, he understood the value of restraint, relinquishing his singular gri
 ##### The Dance of the Stream (Man vs. Nature)
 ### *In the style of Rudyard Kipling*
 
-#### In the heart of a serene valley lay a humble stream, its waters weaving through the dense forest. Birds sang softly above where the trees whispered secrets to one another. The stream flowed without hurry, its path determined by the land it caressed. One day, the stream encountered a formidable boulder—a massive stone that interrupted its gentle course.
+#### In the heart of a serene valley lay a humble stream, its waters weaving through the dense forest. Birds sang softly above where the trees whispered secrets to one another. The stream flowed without hurry, its path determined by the land it caressed. One day, the stream encountered a formidable boulder, a massive stone that interrupted its gentle course.
 
 The stream paused, unsure but not frightened. It studied the boulder for many sunsets and sunrises, allowing its water to pool at the base. Over time, the stream learned that neither force nor fury would serve its cause. Instead, it began exploring new ways around the stone. The stream patiently shifted sands and collected pebbles, gently carving out a wider path.
 
@@ -88,11 +88,11 @@ In yielding, the stream discovered its strength. The challenges it faced became 
 ##### Quiet Journey of Self-Discovery (Man vs. Self)
 ### *In the style of Virginia Woolf*
 
-#### In the solitude of her cluttered study, Marianne faced the looming shadows of self-doubt and introspection. She sat amidst piles of unwritten pages, an artist seeking to capture the ineffable essence of her innermost thoughts. Each morning, she watched the flickering light dance through the window, casting mottled patterns on the floor—an invitation to explore the uncharted landscapes of her mind.
+#### In the solitude of her cluttered study, Marianne faced the looming shadows of self-doubt and introspection. She sat amidst piles of unwritten pages, an artist seeking to capture the ineffable essence of her innermost thoughts. Each morning, she watched the flickering light dance through the window, casting mottled patterns on the floor, an invitation to explore the uncharted landscapes of her mind.
 
 Marianne's days were a delicate weaving of reflection and creation, as she navigated the turbulent seas of her own consciousness. The act of writing was more than mere transcription; it was an intricate dialogue with the self, a form of resistance against the encroaching silence. Yet, the silence held its own truth, urging her to look beyond the surface of her fears.
 
-One afternoon, amidst the quiet hum of the world outside, Marianne experienced a stirring revelation—the realization that her creative struggles were not barriers but guides. They were the riverbanks guiding her spirit along its course, shaping her identity as she moved from doubt to understanding.
+One afternoon, amidst the quiet hum of the world outside, Marianne experienced a stirring revelation, the realization that her creative struggles were not barriers but guides. They were the riverbanks guiding her spirit along its course, shaping her identity as she moved from doubt to understanding.
 
 With this newfound clarity, Marianne approached her work with renewed courage. She embraced each shadow as a stepping stone, realizing that life was an endless dance between resistance and acceptance. In this recognition, she discovered the transformative power of her journey, crafting a tapestry of introspection and growth that reverberated with the symphony of her soul. Her quest for meaning had become the art itself, as she surrendered to the quiet journey within.
 
@@ -110,7 +110,7 @@ With this newfound clarity, Marianne approached her work with renewed courage. S
 
 ##### *The Retreat of the Ten Thousand*
 
-#### In 401 BCE, the Greek mercenary army known as the 'Ten Thousand' found themselves stranded deep in Persian territory after their employer, Cyrus the Younger, met his demise in the battle of Cunaxa. Bereft of leadership and surrounded by hostile forces, these soldiers faced insurmountable challenges, much like a river confronted by a formidable mountain. Led by a handful of resilient commanders, including Xenophon, who chronicled their journey, they devised a strategy of tactical withdrawal rather than engaging in hopeless battles. Over the months that followed, the Ten Thousand navigated treacherous terrain, hostile tribes, and harsh conditions, executing a strategic resistance that prioritized survival over conquest. Their journey through the mountains of Armenia exemplified the Tholonic principles of negotiation, limitation, and contribution—balancing internal cohesion and external threats, defining their limits more precisely with each skirmish, and gradually integrating their experiences into new strategies for survival. This epic journey not only demonstrated intelligent resistance but also left an enduring legacy of resilience and adaptation in the annals of military history.
+#### In 401 BCE, the Greek mercenary army known as the 'Ten Thousand' found themselves stranded deep in Persian territory after their employer, Cyrus the Younger, met his demise in the battle of Cunaxa. Bereft of leadership and surrounded by hostile forces, these soldiers faced insurmountable challenges, much like a river confronted by a formidable mountain. Led by a handful of resilient commanders, including Xenophon, who chronicled their journey, they devised a strategy of tactical withdrawal rather than engaging in hopeless battles. Over the months that followed, the Ten Thousand navigated treacherous terrain, hostile tribes, and harsh conditions, executing a strategic resistance that prioritized survival over conquest. Their journey through the mountains of Armenia exemplified the Tholonic principles of negotiation, limitation, and contribution, balancing internal cohesion and external threats, defining their limits more precisely with each skirmish, and gradually integrating their experiences into new strategies for survival. This epic journey not only demonstrated intelligent resistance but also left an enduring legacy of resilience and adaptation in the annals of military history.
 
 <div style="font-size: 8pt;font-style:italic">Source: "Anabasis" by Xenophon, "Persian Fire: The First World Empire and the Battle for the West" by Tom Holland</div>
 
@@ -125,11 +125,6 @@ With this newfound clarity, Marianne approached her work with renewed courage. S
 
 ###### *Notes*
 ### **King Wen**: 39 ䷦ <sub>*20*</sub> ; 6 ☵ <sub>*2*</sub> Deep and Mysterious,  Water *over* 3 ☶ <sub>*3*</sub> The Still, Mountain;
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 <br/>
 <br/>
 <br/>

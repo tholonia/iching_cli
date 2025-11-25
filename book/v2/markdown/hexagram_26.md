@@ -6,7 +6,7 @@
 <span style="font-size:2em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;">26 ䷙</span><span style="font-size:1em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;vertical-align:text-bottom;"> 39 </span><span style="font-size:2em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;">&nbsp; Cultivation</span>
 </div>
 ## The process of accumulating power through discipline. Like a mountain containing powerful forces, this represents the development of potential through restraint.
-<img src="/home/jw/store/src/iching_cli/book/v2/prod/26.png">
+<img src="/home/jw/src/iching_cli/book/v2/prod/26.png">
 <span style="margin-bottom: 8px;"> &nbsp; </span>
 ### *"Cultivation" is artfully depicted in Katsushika Hokusai's stirring oil painting of a mountain, chosen for its potent symbolism of controlled strength and enduring stability. The mountain embodies notions of disciplined growth and patient accumulation of energy, reflecting the heart of this hexagram's teachings. Hokusai's use of realistic techniques further illustrates the Tholonic principles of balanced negotiation and defined limitations. The use of oil paints adds depth and texture, conveying the interactive processes of integration and emergence. Through each meticulous stroke, Hokusai presents a visual representation of the Tholonic concept where individual elements contribute meaningfully to a larger system.*
 <p/>
@@ -34,7 +34,7 @@
 **Negotiation**: The hexagram represents the negotiation between containing stillness (Mountain) and creative force (Heaven). This creates powerful development through discipline. **Limitation**: Structure is provided by mountain above, indicating that power must be contained. Heaven below suggests that energy seeks expression through proper channels. **Contribution**: This pattern contributes to evolution by showing how restraint builds power. It demonstrates how consciousness develops through disciplined practice.
 
 #### ***Tholon 25 of 32: "Gathering Forces"***
-#### The *dynamic* path is creates "Gathering Together" (45 <sub>*24*</sub>) and "Taming Power of the Great" (26 <sub>*39*</sub>).  This pair-path represents the dynamic balance between collective unity and disciplined strength. Ascending through Gathering Together (45), there is a call for cohesion and unity to achieve a common goal. Descending through Taming Power of the Great (26), it emphasizes harnessing and directing inner strength with discipline. Together, they illustrate the cyclical process of assembling resources and focusing power to achieve greatness.
+#### This hexagram is within the *dynamic* path of "Gathering Forces" formed by "Gathering Together" (45䷬<sub>*24*</sub>) and "Taming Power of the Great" (26䷙<sub>*39*</sub>).  This pair-path represents the dynamic balance between collective unity and disciplined strength. Ascending through Gathering Together (45), there is a call for cohesion and unity to achieve a common goal. Descending through Taming Power of the Great (26), it emphasizes harnessing and directing inner strength with discipline. Together, they illustrate the cyclical process of assembling resources and focusing power to achieve greatness.
 
 
 
@@ -52,7 +52,7 @@ Conflict rises, tension between calculated precision and flowing artistry. They 
 
 Yet, in the quiet hours of twilight, where the city sleeps and dreams awaken, they find harmony in dissent. Here, manifestation takes form, a tower that curves with the wind and pierces the sky in a fugue of grace and defiance. Paolo discovers mastery is not solitary dominance but a shared canvas of vision. 
 
-As the sun arches across the horizon, the city whispers of a new creation. A testament stands—a silent epitaph to transcendence—where sky and stone embrace under the touch of human hands, melding into an opus of infinite stories. Through discipline and discord, the architects become one with the living dance of creation.
+As the sun arches across the horizon, the city whispers of a new creation. A testament stands, a silent epitaph to transcendence, where sky and stone embrace under the touch of human hands, melding into an opus of infinite stories. Through discipline and discord, the architects become one with the living dance of creation.
 
 #### ***Lines in Context:***
 <ul><li><B>1</B> (yang) <i>Initial Spark</i> - The conception of the project ignites the architects' combined passion, propelling them toward a shared dream. <i>Moving line</i> - If yang changes to yin, the creative momentum may falter, dimming the initial enthusiasm before the project gains full momentum.</li></ul>
@@ -69,9 +69,9 @@ As the sun arches across the horizon, the city whispers of a new creation. A tes
 
 The season had been merciless, stripping the soil bare and testing Eli’s resolve. As his fields lay fallow, he turned to the mountain, aware that only the determination to climb its harsh slopes could yield any hope of salvation. With each ascent, he discovered the layers of his own limitations, battling inner fears as much as the wild elements around him.
 
-One day, amidst the biting cold, he discovered a hidden seam of pure, rich minerals—the mountain’s veiled promise. This find triggered a profound shift within him, a realization that the mountain was not an enemy but a teacher, giving him glimpses of wisdom cloaked in hardship.
+One day, amidst the biting cold, he discovered a hidden seam of pure, rich minerals, the mountain’s veiled promise. This find triggered a profound shift within him, a realization that the mountain was not an enemy but a teacher, giving him glimpses of wisdom cloaked in hardship.
 
-Harnessing this knowledge, Eli descended with renewed purpose, integrating nature’s harsh lessons into his cultivation. His patience and adaptability turned barren land into flourishing fields, a testament to the power of quiet persistence and the mountain’s hidden gifts. The land, much like his spirit, had been tamed—not through force, but with the gentle guiding hand of time and understanding.
+Harnessing this knowledge, Eli descended with renewed purpose, integrating nature’s harsh lessons into his cultivation. His patience and adaptability turned barren land into flourishing fields, a testament to the power of quiet persistence and the mountain’s hidden gifts. The land, much like his spirit, had been tamed, not through force, but with the gentle guiding hand of time and understanding.
 
 #### ***Lines in Context:***
 <ul><li><B>1</B> (yang) <i>Initial Struggle</i> - Eli begins his journey with determination, ready to confront nature’s formidable barriers. <i>Moving line</i> - If yang changes to yin, his initial drive may wane, introducing hesitation and diminishing his commitment to the journey.</li></ul>
@@ -88,11 +88,11 @@ Harnessing this knowledge, Eli descended with renewed purpose, integrating natur
 
 Amidst stacks of leather-bound tomes and flurries of parchment, Elias lived a life dedicated to the pursuit of understanding. His days were filled with contemplation and self-reflection, as he peeled back layers of his psyche in search of profound insights. The gentle flicker of candlelight cast long shadows across walls lined with symbols and scripts etched with enigmatic wisdom. 
 
-Elias grappled with self-doubt and the ever-haunting specter of inadequacy—inner conflicts that threatened to unravel his search. Yet, with resolute determination, he pressed forward, his spirit buoyed by moments of fleeting clarity. In these epiphanies, the truth shimmered like light through stained glass, vivid and fractal. 
+Elias grappled with self-doubt and the ever-haunting specter of inadequacy, inner conflicts that threatened to unravel his search. Yet, with resolute determination, he pressed forward, his spirit buoyed by moments of fleeting clarity. In these epiphanies, the truth shimmered like light through stained glass, vivid and fractal. 
 
 Beyond the pain of introspection, Elias attained a state of mastery. He understood that the path to self-discovery and realization was wrought with turmoil but also transformative power. The realization that mastery was a fluid dance between surrender and control allowed him to reconcile his inner discord. 
 
-With time, Elias transcended the confines of his quest, seeing that the journey itself was the destination—the very act of seeking became the transcendent union of self and cosmos. A profound peace enveloped him as he accepted that, in the vast tapestry of existence, each soul's voyage added to the collective narrative of understanding.
+With time, Elias transcended the confines of his quest, seeing that the journey itself was the destination, the very act of seeking became the transcendent union of self and cosmos. A profound peace enveloped him as he accepted that, in the vast tapestry of existence, each soul's voyage added to the collective narrative of understanding.
 
 #### ***Lines in Context:***
 <ul><li><B>1</B> (yang) <i>Awakening Intuition</i> - Elias embarks on his journey with a spark of insight, an intuitive awakening that propels him towards self-discovery. <i>Moving line</i> - If yang changes to yin, the initial momentum may dwindle, leaving Elias trapped in a cycle of doubt and preventing further exploration of his mind.</li></ul>
@@ -108,7 +108,7 @@ With time, Elias transcended the confines of his quest, seeing that the journey 
 
 ##### *The Essential Message of the Gutenberg Press*
 
-#### In the mid-15th century, Johannes Gutenberg harnessed the power of mechanical innovation to set in motion a revolution that would redefine the spread of knowledge. By merging disparate components—the wine press, metal movable type, and ink—Gutenberg cultivated an unprecedented method of mass communication. His invention, the printing press, marked a critical stage in the democratization of information during the Renaissance. Yet, as with any groundbreaking innovation, it was a double-edged sword. The proliferation of the printed word empowered emerging voices while threatening established hierarchies reliant on the scarcity of knowledge. In the midst of this emergent transformation stood Gutenberg, who balanced on the tightrope of technological potential and societal upheaval. When the first copies of the Bible rolled off his press in Mainz, they did more than disseminate religious teachings: they catalyzed the global expansion of ideas. Gutenberg's press, much like the creative integration of hexagram 26, embodied disciplined strength and the dynamic release of transformative power. This pivotal moment birthed not only a cultural awakening but also reinforced the ever-present tension between technological mastery and the unforeseen tides of change.
+#### In the mid-15th century, Johannes Gutenberg harnessed the power of mechanical innovation to set in motion a revolution that would redefine the spread of knowledge. By merging disparate components, the wine press, metal movable type, and ink, Gutenberg cultivated an unprecedented method of mass communication. His invention, the printing press, marked a critical stage in the democratization of information during the Renaissance. Yet, as with any groundbreaking innovation, it was a double-edged sword. The proliferation of the printed word empowered emerging voices while threatening established hierarchies reliant on the scarcity of knowledge. In the midst of this emergent transformation stood Gutenberg, who balanced on the tightrope of technological potential and societal upheaval. When the first copies of the Bible rolled off his press in Mainz, they did more than disseminate religious teachings: they catalyzed the global expansion of ideas. Gutenberg's press, much like the creative integration of hexagram 26, embodied disciplined strength and the dynamic release of transformative power. This pivotal moment birthed not only a cultural awakening but also reinforced the ever-present tension between technological mastery and the unforeseen tides of change.
 
 <div style="font-size: 8pt;font-style:italic">Source: "Gutenberg and the Printing Revolution in the Renaissance Europe" by Elizabeth L. Eisenstein, Cambridge University Press, 1980, "Johannes Gutenberg: The Man and His Legacy" by John Man, Thomas Dunne Books, 2002</div>
 
@@ -123,11 +123,6 @@ With time, Elias transcended the confines of his quest, seeing that the journey 
 
 ###### *Notes*
 ### **King Wen**: 26 ䷙ <sub>*39*</sub> Great Accumulation; 3 ☶ <sub>*3*</sub> The Still,  Mountain *over* 1 ☰ <sub>*7*</sub> The Creative, Heaven;
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 <br/>
 <br/>
 <br/>

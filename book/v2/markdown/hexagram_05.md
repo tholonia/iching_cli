@@ -6,7 +6,7 @@
 <span style="font-size:2em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;">5 ䷄</span><span style="font-size:1em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;vertical-align:text-bottom;"> 23 </span><span style="font-size:2em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;">&nbsp; Patience</span>
 </div>
 ## The state of mindful waiting and preparation. Like clouds gathering before rain, this represents the power of patient readiness and timely response.
-<img src="/home/jw/store/src/iching_cli/book/v2/prod/05.png">
+<img src="/home/jw/src/iching_cli/book/v2/prod/05.png">
 <span style="margin-bottom: 8px;"> &nbsp; </span>
 ### *"Patience" is vividly embodied by the pack of wolves in this image, intended to illustrate collective readiness and the development necessary for growth. The wolves' stance signifies strategic waiting and harmony with their environment, echoing the tholonic negotiation principle where potential energy is properly managed through preparation. The painting's impressionistic brushwork encapsulates the dynamic energy of anticipation, highlighting the balance between waiting and the inevitability of action. The depicted interplay of patience and flow, emphasized through the medium of watercolor, is a fitting metaphor for Hexagram 5's central theme.*
 <p/>
@@ -22,7 +22,7 @@
 
 <ul><li><B>1</B> (yang) <I>Cautious Beginnings</I> - The first line suggests a time for gentle initiation, where a quiet spirit prepares the ground for future growth through careful observation and reserved energy. <i>Moving line</i>: A subtle transformation occurs as the initial softness begins to hint at a nascent assertiveness, laying the foundation for future action.</li></ul>
 <ul><li><B>2</B> (yang) <I>Nurturing Composure</I> - In this stage, calm and steady acceptance nurtures inner strength. Patience is sustained by consistent self-trust and a readiness to learn. <i>Moving line</i>: The receptive quality transforms gradually; the passive being finds a spark of creative determination, ready to guide the next phase.</li></ul>
-<ul><li><B>3</B> (yang) <I>Resilient Path</I> - This line warns against hasty moves but encourages perseverance. Challenges are met with steadfast resilience, urging one to learn through trial without losing balance. <i>Moving line</i>: A dynamic shift occurs as quiet endurance evolves into a cultivated force—a tempered drive that readies the spirit for transformation.</li></ul>
+<ul><li><B>3</B> (yang) <I>Resilient Path</I> - This line warns against hasty moves but encourages perseverance. Challenges are met with steadfast resilience, urging one to learn through trial without losing balance. <i>Moving line</i>: A dynamic shift occurs as quiet endurance evolves into a cultivated force, a tempered drive that readies the spirit for transformation.</li></ul>
 <ul><li><B>4</B> (yin) <I>Steady Advancement</I> - Progress builds slowly but steadily. Here, measured steps are taken with deliberate caution, merging natural patience with gradual assertiveness. <i>Moving line</i>: The transformation is seen as inner stillness begins to express itself in purposeful movements, signaling the start of active expression without neglecting patience.</li></ul>
 <ul><li><B>5</B> (yang) <I>Serene Authority</I> - At this point, accumulated patience matures into a position of quiet strength and leadership. The energy is now centered, enabling wise decision-making. <i>Moving line</i>: A significant shift occurs as the yielding, receptive energy turns into proactive command, blending calm insight with effective action.</li></ul>
 <ul><li><B>6</B> (yin) <I>Harmonious Culmination</I> - The final line embodies the fruition of patient effort. All elements of wisdom and experience converge, achieving a balanced state where calm and action coexist harmoniously. <i>Moving line</i>: The ultimate transformation sees a complete integration where the initial softness evolves into dynamic vitality, affirming that true strength arises from the harmony of patience and progress.</li></ul>
@@ -34,7 +34,7 @@
 **Negotiation**: The hexagram represents the negotiation between flowing potential (Water) and creative force (Heaven). This creates dynamic tension between readiness and action. **Limitation**: Structure is provided by water above, indicating that timing must guide action. Heaven below suggests that power builds during waiting. **Contribution**: This pattern contributes to evolution by demonstrating how timing affects outcome. It shows how patient preparation enables effective action.
 
 #### ***Tholon 24 of 32: "Patience and Progress"***
-#### The *dynamic* path is creates "Waiting" (5 <sub>*23*</sub>) and "Progress" (35 <sub>*40*</sub>).  This pair-path represents the balance between patience and active advancement. It highlights the necessity of waiting for the right moment to act and the subsequent progression that follows when timing aligns with intention. The path suggests a cycle of readiness and forward movement, underscoring the interplay between anticipation and realization.
+#### This hexagram is within the *dynamic* path of "Patience and Progress" formed by "Waiting" (5䷄<sub>*23*</sub>) and "Progress" (35䷢<sub>*40*</sub>).  This pair-path represents the balance between patience and active advancement. It highlights the necessity of waiting for the right moment to act and the subsequent progression that follows when timing aligns with intention. The path suggests a cycle of readiness and forward movement, underscoring the interplay between anticipation and realization.
 
 
 
@@ -44,13 +44,13 @@
 ##### The Waiting Season (Man vs. Man)
 ### *In the style of Style of Ernest Hemingway*
 
-#### In the coastal town of Rivertown, where the horizon stretches into endless sea, Alexander knew well that patience was as vital as the tides that scoured the shore. The villagers, weather-beaten experts in the art of waiting, eyed the distant clouds with wary knowing. When the first cold winds of late autumn swept through the fishing docks, Alexander sensed a significant change approaching—one that asked more of him than mere biding.
+#### In the coastal town of Rivertown, where the horizon stretches into endless sea, Alexander knew well that patience was as vital as the tides that scoured the shore. The villagers, weather-beaten experts in the art of waiting, eyed the distant clouds with wary knowing. When the first cold winds of late autumn swept through the fishing docks, Alexander sensed a significant change approaching, one that asked more of him than mere biding.
 
 Year after year, Rivertown thrived on the transient gifts of the sea, yet now scarcity shadowed abundance. Fish were little more than ghostly echoes beneath the waves. In the past, impatience would have driven young men to despair; yet Alexander bore his lineage of patience in a heart steeled by wisdom and saltwater.
 
 As winter settled like a tired traveler, the community grew restless, whispering unease through fog-laden alleyways. They implored Alexander to guide them, yearning for certainty against the dwindling harvest. His resolve, a lighthouse for their fear, was rooted in the timeless rhythm of the sea. The secret, he knew, lay not in chasing fortune but in nurturing it, biding time as surely as the sea waits for the moon.
 
-On a frigid morning when resolve seemed thin as ice, a figure appeared—a merchant from another shore bringing seeds of opportunity. Unlike the familiar promise of the fish, these seeds offered a new industry, one that required patience of a different kind: cultivation.
+On a frigid morning when resolve seemed thin as ice, a figure appeared, a merchant from another shore bringing seeds of opportunity. Unlike the familiar promise of the fish, these seeds offered a new industry, one that required patience of a different kind: cultivation.
 
 Even as the village grasped these seeds, an urge to rush them into the ground emerged like a bracing gale. Yet Alexander counseled caution, honoring the wisdom that true change germinates from depth, not haste.
 
@@ -67,13 +67,13 @@ By spring, while tides unfroze and nurtured their latent bounty, fields of golde
 ##### The Symphony of Creation (Man vs. Nature)
 ### *In the style of Style of Gabriel Garcia Marquez*
 
-#### In the verdant heart of a rainforest, where the rhythm of life beats with an ancient pulse, a young composer named Luca found inspiration in the cacophony of nature. The forest, an orchestrator of boundless creation, offered a vast array of sounds—from the whisper of the wind to the chorus of birds. Luca's spirit burned with a restless desire to channel this unrestrained potential into a symphony like no other.
+#### In the verdant heart of a rainforest, where the rhythm of life beats with an ancient pulse, a young composer named Luca found inspiration in the cacophony of nature. The forest, an orchestrator of boundless creation, offered a vast array of sounds, from the whisper of the wind to the chorus of birds. Luca's spirit burned with a restless desire to channel this unrestrained potential into a symphony like no other.
 
 Each day, enveloped by the symphony of leaves and streams, Luca captured melodies sung by unseen creatures. The natural world resonated in his soul, unruly yet profoundly moving. Yet, with every note captured, a challenge arose; the forest's anarchy defied his attempts to bind it into coherent form.
 
-In moments of frustration, Luca realized that to create was not merely to impose order but to engage in a dance of surrender and dominance. The forest whispered its secrets—encouraging faith in the chaotic beauty of growth, where potentials harmonized not by force but by nature's ceaseless negotiation.
+In moments of frustration, Luca realized that to create was not merely to impose order but to engage in a dance of surrender and dominance. The forest whispered its secrets, encouraging faith in the chaotic beauty of growth, where potentials harmonized not by force but by nature's ceaseless negotiation.
 
-Slowly, as night cloaked the jungle in starlight, Luca's composition took its shape—a living testament to the forest's essence. His symphony, imperfect and yearning, echoed with the raw power of creation, becoming a testament to an artist's understanding that mastery is not conquest but an acceptance of chaos.
+Slowly, as night cloaked the jungle in starlight, Luca's composition took its shape, a living testament to the forest's essence. His symphony, imperfect and yearning, echoed with the raw power of creation, becoming a testament to an artist's understanding that mastery is not conquest but an acceptance of chaos.
 
 At the first breath of dawn, Luca's symphony reached its crescendo, a melody both tranquil and stormy that resonated through the tapestry of trees. It was complete yet ephemeral, a testament to unyielding creativity whose realization was an eternal embrace of nature's wild breath.
 
@@ -92,11 +92,11 @@ At the first breath of dawn, Luca's symphony reached its crescendo, a melody bot
 
 Each time his chisel met stone, a flood of uncertainties washed over him. Was he liberating the form or merely imposing his will upon raw potential? Days passed in quiet contemplation, and Karel’s inner world was a chaotic swirl of conflicts and aspirations.
 
-His work was marked by painstaking formation. Every chip away from the block conjured an unknown becoming reality—a balance between control and release, form and abstraction. As his hands echoed with the rhythms of creation, the ideal form began to manifest, an affirmation of his intentions.
+His work was marked by painstaking formation. Every chip away from the block conjured an unknown becoming reality, a balance between control and release, form and abstraction. As his hands echoed with the rhythms of creation, the ideal form began to manifest, an affirmation of his intentions.
 
 Hours bled into each other, and with each passing moment, mastery was near. His spiritual connection with the marble deepened as misgivings transformed into certainty.
 
-When finally the figure stood revealed—a testament of resilience and vision—Karel saw not only the sculpted perfection but a reflection of his journey. Transcendence lay in his stillness, not in the chisel’s severity, for art was but a glimpse into the untamed wilderness of the self.
+When finally the figure stood revealed, a testament of resilience and vision, Karel saw not only the sculpted perfection but a reflection of his journey. Transcendence lay in his stillness, not in the chisel’s severity, for art was but a glimpse into the untamed wilderness of the self.
 
 #### ***Lines in Context:***
 <ul><li><B>1</B> (yang) <i>Birth of Vision</i> - Karel's first strike of the chisel reflects a nascent energy, where potential and hesitation coexist. <i>Moving line</i> - Changing from yang to yin could diffuse initial enthusiasm, inviting Karel to pause and reconsider, thus fostering depth and foresight.</li></ul>
@@ -131,11 +131,6 @@ Finally, the siege was broken after 872 days, marking a turning point in the war
 
 ###### *Notes*
 ### **King Wen**: 5 ䷄ <sub>*23*</sub> Waiting; 6 ☵ <sub>*2*</sub> The Abysmal,  Water *over* 1 ☰ <sub>*7*</sub> The Creative, Heaven;
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 <br/>
 <br/>
 <br/>

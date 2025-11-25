@@ -6,7 +6,7 @@
 <span style="font-size:2em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;">62 ䷽</span><span style="font-size:1em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;vertical-align:text-bottom;"> 12 </span><span style="font-size:2em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;">&nbsp; Incremental Progress</span>
 </div>
 ## The power of deep understanding and inner truth. Like a flash of clarity that illuminates hidden connections or the realization that reveals underlying patterns, this represents the capacity to perceive essential nature.
-<img src="/home/jw/store/src/iching_cli/book/v2/prod/62.png">
+<img src="/home/jw/src/iching_cli/book/v2/prod/62.png">
 <span style="margin-bottom: 8px;"> &nbsp; </span>
 ### *"Incremental Progress" is powerfully embodied in Fan Kuan's watercolor painting featuring a bird, a universal symbol of freedom and higher perspectives. The bird, ascending progressively with each wingbeat, mirrors the concept of growth through consistent, manageable steps, offering a visual representation of the delicate balance between movement and stillness in the pursuit of advancement. The choice of watercolor as a medium reflects the fluid and interconnected nature of the Thologram where awareness and intention shape reality. The piece, treated with a realism style, also portrays the meticulousness of small actions that lead to transformation, honouring the concept of universal love through every detail.*
 <p/>
@@ -34,7 +34,7 @@
 **Negotiation**: Balance between movement and stillness creates sustainable progress. Thunder above Mountain shows controlled release of energy. Represents the dance between action and restraint. **Limitation**: Small actions have natural boundaries that prevent overextension. The mountain base provides structure while thunder provides measured bursts of energy. Defines achievable scope. **Contribution**: Demonstrates how incremental change leads to transformation. Like water carved the Grand Canyon, small persistent actions reshape reality. Returns to source through accumulated effects.
 
 #### ***Tholon 13 of 32: "Balance Shift"***
-#### The *dynamic* path is creates "Preponderance of the Small" (62 <sub>*12*</sub>) and "Inner Truth" (61 <sub>*51*</sub>).  This pair-path represents the dynamic interplay between focusing on details and the emergence of deep, inner clarity. The ascending path emphasizes attention to the minor and immediate, urging caution and precision in small matters. The descending path reveals the profound insights that arise when one is aligned with their inner truth, allowing for a harmonious expression of authenticity. Together, they illustrate the cyclical nature of moving from meticulous attention to profound understanding.
+#### This hexagram is within the *dynamic* path of "Balance Shift" formed by "Preponderance of the Small" (62䷽<sub>*12*</sub>) and "Inner Truth" (61䷼<sub>*51*</sub>).  This pair-path represents the dynamic interplay between focusing on details and the emergence of deep, inner clarity. The ascending path emphasizes attention to the minor and immediate, urging caution and precision in small matters. The descending path reveals the profound insights that arise when one is aligned with their inner truth, allowing for a harmonious expression of authenticity. Together, they illustrate the cyclical nature of moving from meticulous attention to profound understanding.
 
 
 
@@ -50,11 +50,11 @@ Their worlds collided in the race to develop a new form of communication that co
 
 Meanwhile, Thomas prowled his vast laboratory, orchestrating movements of manpower and machinery in a symphony of bold strokes. His ambition painted in extravagant gestures, seeking to leap beyond the constraints of known limits.
 
-As conflict simmered between the two, the world watched with bated breath. The battle wasn't just one of technology but of philosophies clashing—a meticulous progression against explosive innovation.
+As conflict simmered between the two, the world watched with bated breath. The battle wasn't just one of technology but of philosophies clashing, a meticulous progression against explosive innovation.
 
 In a twist of fate, James' unwavering dedication uncovered a critical flaw in his competitor's blueprint. This revelation didn't dismantle Thomas' work but rather refined it, integrating the best of both worlds.
 
-In the end, their reluctant alliance forged an invention beyond imagination—one that spoke to both the power of meticulous detail and the brilliance of visionary insights. This union marked a new era, quietly bridging the gap between incremental progress and transformative breakthroughs.
+In the end, their reluctant alliance forged an invention beyond imagination, one that spoke to both the power of meticulous detail and the brilliance of visionary insights. This union marked a new era, quietly bridging the gap between incremental progress and transformative breakthroughs.
 
 #### ***Lines in Context:***
 <ul><li><B>1</B> (yin) <i>Emergence</i> - The initial spark of their technological race presents itself with tentative excitement and cautious optimism. <i>Moving line</i> - If yin changes to yang, there might be a hasty push into aggressive competition, causing resources to be misused and early miscalculations to go unchecked.</li></ul>
@@ -71,7 +71,7 @@ In the end, their reluctant alliance forged an invention beyond imagination—on
 
 Day by day, Edda's touch caressed the bark and branches, selecting the perfect wood for her violins. With each chosen piece, she shaped and sculpted, her hands a conduit between the raw potential of nature and the promise of music yet to be heard. Despite the forest's unpredictable temperament, she embraced its challenges as part of her creative journey.
 
-One evening, a storm surged through the forest, uprooting trees and shattering branches, leaving behind a trail of chaos and clarity. Edda faced the storm's aftermath with quiet determination, recognizing the storm's hidden gift—a new revelation nestled in the fallen timber.
+One evening, a storm surged through the forest, uprooting trees and shattering branches, leaving behind a trail of chaos and clarity. Edda faced the storm's aftermath with quiet determination, recognizing the storm's hidden gift, a new revelation nestled in the fallen timber.
 
 As the forest healed, Edda discovered deep resonance within the storm-torn wood. Her violins gained a richer timbre than ever before, a testament to resilience and transformation. Night after night, her creations echoed through the woods, weaving nature's timeless song into every chord.
 
@@ -127,11 +127,6 @@ Thus, Naoko’s tapestry transformed, an evolving homage to the quiet resilience
 
 ###### *Notes*
 ### **King Wen**: 62 ䷽ <sub>*12*</sub> Small Exceeding/Preponderance of the Small; 4 ☳ <sub>*1*</sub> The Arousing,  Thunder *over* 3 ☶ <sub>*3*</sub> The Still, Mountain;
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 <br/>
 <br/>
 <br/>

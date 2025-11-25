@@ -6,7 +6,7 @@
 <span style="font-size:2em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;">17 ䷐</span><span style="font-size:1em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;vertical-align:text-bottom;"> 25 </span><span style="font-size:2em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;">&nbsp; Alignment</span>
 </div>
 ## The alignment of energies that creates natural harmony and following. Like thunder over a lake causing ripples to form in perfect patterns, this represents the power of authentic energy to create spontaneous order and willing participation.
-<img src="/home/jw/store/src/iching_cli/book/v2/prod/17.png">
+<img src="/home/jw/src/iching_cli/book/v2/prod/17.png">
 <span style="margin-bottom: 8px;"> &nbsp; </span>
 ### *"Resonance" is artistically symbolized through the image of thunder over a lake, bringing together opposing and powerful forces in a harmonious dance. The fluid lines and vibrant contrasts in the image represent the negotiation principle of the Tholonic Model, signifying the essence of harmonious interaction between energies. The intertwining branches and clouds embody the intricate and dynamic balance of energies that form natural harmony through the power of resonance. The watercolor on silk medium chosen enhances the ethereal softness of the artwork, reflecting the fluid nature of negotiation and adaptation in forming patterns of natural resonance.*
 <p/>
@@ -34,7 +34,7 @@
 **Negotiation**: The hexagram represents the negotiation between inspiring movement (Thunder) and joyful response (Lake). This creates a dynamic balance between leadership and following, where influence flows naturally through resonance rather than force. **Limitation**: Structure is provided by the need for authentic alignment. The thunder above indicates that movement must arise naturally from true resonance rather than artificial manipulation. **Contribution**: This pattern contributes to evolution by demonstrating how natural harmony creates sustainable order. It shows how aligned energies can create spontaneous organization and willing participation.
 
 #### ***Tholon 26 of 32: "Adaptation Cycle"***
-#### The *stable* path is creates "Following" (17 <sub>*25*</sub>) and "Work on What Has Been Spoiled" (18 <sub>*38*</sub>).  This pair-path illustrates the dynamic interplay between aligning oneself with the natural flow and addressing past imbalances. 'Following' represents the ascent through harmony and adaptability, while 'Work on What Has Been Spoiled' signifies the descent into rectification and renewal. Together, they embody a cycle of adapting to circumstances and correcting misalignments.
+#### This hexagram is within the *stable* path of "Adaptation Cycle" formed by "Following" (17䷐<sub>*25*</sub>) and "Work on What Has Been Spoiled" (18䷑<sub>*38*</sub>).  This pair-path illustrates the dynamic interplay between aligning oneself with the natural flow and addressing past imbalances. 'Following' represents the ascent through harmony and adaptability, while 'Work on What Has Been Spoiled' signifies the descent into rectification and renewal. Together, they embody a cycle of adapting to circumstances and correcting misalignments.
 
 
 
@@ -71,9 +71,9 @@ Her quest led her to the river's edge, where the water's dance mirrored the sky 
 
 Yet, the tranquility was an illusion as thick clouds gathered, hinting at an impending storm. The elemental forces clashed, disturbing the fragile peace. Layla remained unmoved, for within chaos lay the seed of creation. She understood that to bring harmony, one must embrace discord and let it forge new paths.
 
-With each thunderous crack, Layla felt the raw power of nature resonating within her—a call to dance with the storm rather than retreat. Water surged against the banks, carving new channels in a display of untethered energy. Layla's heart echoed with the storm's fury, her spirit vibrating in rhythm with the torrents around her.
+With each thunderous crack, Layla felt the raw power of nature resonating within her, a call to dance with the storm rather than retreat. Water surged against the banks, carving new channels in a display of untethered energy. Layla's heart echoed with the storm's fury, her spirit vibrating in rhythm with the torrents around her.
 
-When the tempest subsided, the forest was altered—the branches freshly pruned by the wind, the earth reshaped. Yet, in this new order, Layla perceived a deeper resonance. It was here, among the transformed landscape, that she truly understood her role: not to force harmony, but to follow its current, to resonate with the shifting forces, and to find unity in the dance of earth and sky.
+When the tempest subsided, the forest was altered, the branches freshly pruned by the wind, the earth reshaped. Yet, in this new order, Layla perceived a deeper resonance. It was here, among the transformed landscape, that she truly understood her role: not to force harmony, but to follow its current, to resonate with the shifting forces, and to find unity in the dance of earth and sky.
 
 #### ***Lines in Context:***
 <ul><li><B>1</B> (yang) <i>Initial Stirring of Insight</i> - Layla feels the first inklings of a deeper connection to the natural world, sparked by her journey into the forest. <i>Moving line</i> - As yang changes to yin, Layla might withdraw into introspection, the initial vigor of her journey replaced by a quiet, contemplative stillness that allows for reflection and deeper insight.</li></ul>
@@ -86,17 +86,17 @@ When the tempest subsided, the forest was altered—the branches freshly pruned 
 ##### The Alchemist's Reflection (Man vs. Self)
 ### *In the style of Paulo Coelho*
 
-#### In a secluded village nestled in the lush embrace of the mountains, an alchemist named Elias lived in solitude. His days were spent in the silent contemplation of nature's elements and the mysteries hidden within their interplays. Despite his profound understanding of the material world, Elias felt an eternal longing—an unquenchable thirst for a truth that lay just beyond the horizon of his consciousness.
+#### In a secluded village nestled in the lush embrace of the mountains, an alchemist named Elias lived in solitude. His days were spent in the silent contemplation of nature's elements and the mysteries hidden within their interplays. Despite his profound understanding of the material world, Elias felt an eternal longing, an unquenchable thirst for a truth that lay just beyond the horizon of his consciousness.
 
 The alchemist's journey commenced with a single stone, an object that pulsed with the promise of transformation. Elias perceived its potential not through its outward appearance, but through a resonance that seemed to vibrate with the universe's own energy. It was a seed of realization, and in this humble object, Elias found the essence of emergence.
 
 As he focused on the stone, it began to glow with a peculiar intensity, hinting at the formation of new possibilities within its crystalline structure. The alchemist's vision sought to expand beyond the limitations of his senses, coaxing out latent forms just as the sun draws out the hues of flowers.
 
-Yet, conflict brewed within Elias—doubt and fear that his efforts might alter the delicate balance he so revered. He saw shadows of what could be, and they whispered of transformation that required sacrifice.
+Yet, conflict brewed within Elias, doubt and fear that his efforts might alter the delicate balance he so revered. He saw shadows of what could be, and they whispered of transformation that required sacrifice.
 
 But Elias pressed forward, the path to manifestation clear as molten gold. Through his practice, the stone unfurled its layers, revealing the hidden tapestry of its composition. It was a marvel, a testament to the alchemist's mastery and the universe's inherent design.
 
-As the final transmutation occurred, Elias transcended the limitations of his own knowledge. The insights gained were no longer confined to a piece of alchemy but resonated with universal truths—the interconnected nature of all things.
+As the final transmutation occurred, Elias transcended the limitations of his own knowledge. The insights gained were no longer confined to a piece of alchemy but resonated with universal truths, the interconnected nature of all things.
 
 In this moment of transcendence, the alchemist understood that his journey was not about mastering the material but harmonizing with the profound essence of life, embracing both creation and dissolution as parts of the same eternal dance. He realized that true alchemy lay not in changing lead to gold, but in transforming the self to resonate with the cosmic order.
 
@@ -114,7 +114,7 @@ In this moment of transcendence, the alchemist understood that his journey was n
 
 ##### *Galileo and the Stars: A Symphony of Observation*
 
-#### In the dawn of the 17th century, the Italian astronomer Galileo Galilei stood resolute with his telescope, peering into the cosmos. His hands were steady as he gazed into the vast unknown, challenging the geocentric view that had held sway for centuries. Each night, Galileo methodically recorded the heavenly bodies, uncovering moons orbiting Jupiter and the phases of Venus—compelling evidence that the earth was not the universe's center.
+#### In the dawn of the 17th century, the Italian astronomer Galileo Galilei stood resolute with his telescope, peering into the cosmos. His hands were steady as he gazed into the vast unknown, challenging the geocentric view that had held sway for centuries. Each night, Galileo methodically recorded the heavenly bodies, uncovering moons orbiting Jupiter and the phases of Venus, compelling evidence that the earth was not the universe's center.
 
 This bold journey of observation was not without conflict. Skepticism and tension grew among those who staunchly defended established doctrines. Yet, Galileo's relentless pursuit of truth resonated strongly with the emerging scientific community, fostering a burgeoning understanding of the natural world.
 
@@ -133,11 +133,6 @@ His discoveries marked a critical shift, a manifestation of the Copernican Revol
 
 ###### *Notes*
 ### **King Wen**: 17 ䷐ <sub>*25*</sub> Following; 8 ☱ <sub>*4*</sub> The Joyous,  Lake/Marsh *over* 4 ☳ <sub>*1*</sub> The Arousing, Thunder;
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 <br/>
 <br/>
 <br/>

@@ -6,7 +6,7 @@
 <span style="font-size:2em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;">35 ䷢</span><span style="font-size:1em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;vertical-align:text-bottom;"> 40 </span><span style="font-size:2em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;">&nbsp; Accelerated Progress</span>
 </div>
 ## The rapid advancement of awareness and understanding through structured growth. Like the sun rising over the earth, this represents the swift emergence of clarity and enlightened action through ordered progression.
-<img src="/home/jw/store/src/iching_cli/book/v2/prod/35.png">
+<img src="/home/jw/src/iching_cli/book/v2/prod/35.png">
 <span style="margin-bottom: 8px;"> &nbsp; </span>
 ### *"Accelerated Progress" is vividly depicted in the chosen image, which reflects the concept's dynamic essence through the representation of a cheetah charging forward. A symbol of speed and momentum, the cheetah epitomizes the theme of rapid yet structured advancement. The art style of Futurism aligns with this theme, with its emphasis on the energy, speed, and transformative nature of modern times. The digital painting medium bridges the traditional with the modern, further illustrating the concept of rapid progression. The reference to Andy Warhol signifies boundary-breaking and redefining perspectives, congruous with the transformative elements of accelerated progress.*
 <p/>
@@ -34,7 +34,7 @@
 **Negotiation**: The balance between speed and stability is critical. The hexagram demonstrates how rapid progress must be negotiated with sustainable growth. It represents the negotiation between advancement and foundation. **Limitation**: Structures advancement through natural patterns rather than forced growth. The earth below provides stability for the fire above, showing how limitation can enhance rather than restrict progress. **Contribution**: Contributes to the larger system by demonstrating how accelerated development can occur within structured parameters. Like a plant growing in optimal conditions, this progress enables efficient evolution.
 
 #### ***Tholon 24 of 32: "Patience and Progress"***
-#### The *dynamic* path is creates "Waiting" (5 <sub>*23*</sub>) and "Progress" (35 <sub>*40*</sub>).  This pair-path represents the balance between patience and active advancement. It highlights the necessity of waiting for the right moment to act and the subsequent progression that follows when timing aligns with intention. The path suggests a cycle of readiness and forward movement, underscoring the interplay between anticipation and realization.
+#### This hexagram is within the *dynamic* path of "Patience and Progress" formed by "Waiting" (5䷄<sub>*23*</sub>) and "Progress" (35䷢<sub>*40*</sub>).  This pair-path represents the balance between patience and active advancement. It highlights the necessity of waiting for the right moment to act and the subsequent progression that follows when timing aligns with intention. The path suggests a cycle of readiness and forward movement, underscoring the interplay between anticipation and realization.
 
 
 
@@ -44,11 +44,11 @@
 ##### The Great Enterprise (Man vs. Man)
 ### *In the style of Ayn Rand's Style*
 
-#### In the heart of a bustling city, Alexander Steele, a visionary industrialist, stood on the precipice of realizing his greatest ambition—a groundbreaking architectural marvel. The gleaming glass and steel structure, a testament to human ingenuity, was poised to redefine the skyline. Alexander's enterprise was birthed from a singular idea that had consumed him for years, driving him relentlessly toward creation.
+#### In the heart of a bustling city, Alexander Steele, a visionary industrialist, stood on the precipice of realizing his greatest ambition, a groundbreaking architectural marvel. The gleaming glass and steel structure, a testament to human ingenuity, was poised to redefine the skyline. Alexander's enterprise was birthed from a singular idea that had consumed him for years, driving him relentlessly toward creation.
 
 As the first beams rose against the cityscape, anticipation turned to tangible progress. Yet, with this rising momentum, opposition ensued. Skeptics questioned the project's audacity, and envious competitors sought to undermine his vision. The whispers of doubt grew louder, threatening to tarnish the brilliance of his creation. Yet, Alexander thrived on adversity, channeling criticism into creativity, each challenge met with unwavering resolve.
 
-Guiding his enterprise through the fiercest of storms, Alexander molded its form with unmatched precision. But as the venture reached its zenith, Alexander faced a revelation—the triumph was not merely a feat of personal conquest, but a gift to the world, an embodiment of possibility. Recognizing the need to step back, he allowed the creation to stand independently, resonating with innovation, its echoes transforming the cityscape. He released it, his masterpiece no longer bound by his grasp, but vibrant with its own life.
+Guiding his enterprise through the fiercest of storms, Alexander molded its form with unmatched precision. But as the venture reached its zenith, Alexander faced a revelation, the triumph was not merely a feat of personal conquest, but a gift to the world, an embodiment of possibility. Recognizing the need to step back, he allowed the creation to stand independently, resonating with innovation, its echoes transforming the cityscape. He released it, his masterpiece no longer bound by his grasp, but vibrant with its own life.
 
 #### ***Lines in Context:***
 <ul><li><B>1</B> (yin) <i>Inception of Vision</i> - Steele begins to lay the groundwork for his groundbreaking project, fueled by raw determination and foresight. <i>Moving line</i> - When yin becomes yang, the latent potential ignites into a driving force, catalyzing a surge of rapid growth and strategic realization.</li></ul>
@@ -82,13 +82,13 @@ In the closing stages, a storm of unprecedented magnitude threatened to drown hi
 
 #### In the dim solitude of her cramped apartment, Clara sat surrounded by towering stacks of paper, each sheet a fragment of her disjointed thoughts. Her life was a maelstrom of unfulfilled potential, a symphony of ideas waiting for the spark of realization. Every morning began with the weight of expectation pressing down on her shoulders, drawing her into introspection.
 
-Clara's world was a labyrinth of possibility, yet she felt trapped within its confines, her mind a cage of undecided pathways. Each idea nudged another, a delicate balance of chaos and creativity. The transformation within her was inevitable—a quiet storm brewing over the confines of her thought, waiting to be unleashed.
+Clara's world was a labyrinth of possibility, yet she felt trapped within its confines, her mind a cage of undecided pathways. Each idea nudged another, a delicate balance of chaos and creativity. The transformation within her was inevitable, a quiet storm brewing over the confines of her thought, waiting to be unleashed.
 
 In the quiet of the night, when streetlights flickered shadows upon her ceiling, Clara confronted herself. The cacophony within was her mirror, reflecting fears and dreams alike. She embarked on a journey through her own mind, facing the specters of doubt that clung to her existence.
 
 Amidst this turmoil, a single insight emerged, born of the realization that her perceived confinement was a chrysalis. The understanding that the strange familiarity of her inhibiting walls was, in fact, a canvas. Like a rushing tide, clarity washed over her, and with it came the awakening of foresight. Her ideas surged forth, no longer chaotic fragments but a coherent force. She transcended through the labyrinth not by escaping its walls, but by finding the pattern within them.
 
-Clara emerged into the light of a new dawn, her perspective forever altered. The papers that had once imprisoned her were scattered beneath the dawn's gentle glow, not as remnants of failure, but as the foundation of her new reality. Her journey was one of inner metamorphosis—a realization that progress is not merely forward movement, but the inner alchemy of transformation.
+Clara emerged into the light of a new dawn, her perspective forever altered. The papers that had once imprisoned her were scattered beneath the dawn's gentle glow, not as remnants of failure, but as the foundation of her new reality. Her journey was one of inner metamorphosis, a realization that progress is not merely forward movement, but the inner alchemy of transformation.
 
 #### ***Lines in Context:***
 <ul><li><B>1</B> (yin) <i>Seed of Realization</i> - Amidst mental chaos, the seed of clarity begins to germinate within Clara, a whisper of the insight that yet awaits manifestation. <i>Moving line</i> - As the nascent spark ignites into active creativity, Clara faces the risk of overwhelming herself, but also gains the opportunity for profound growth and innovation.</li></ul>
@@ -121,11 +121,6 @@ As the Web gained momentum, it reconstructed the global communication landscape,
 
 ###### *Notes*
 ### **King Wen**: 35 ䷢ <sub>*40*</sub> Progress; 7 ☲ <sub>*5*</sub> The Clinging,  Fire *over* 2 ☷ <sub>*0*</sub> The Receptive, Earth;
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 <br/>
 <br/>
 <br/>

@@ -6,7 +6,7 @@
 <span style="font-size:2em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;">15 ䷎</span><span style="font-size:1em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;vertical-align:text-bottom;"> 4 </span><span style="font-size:2em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;">&nbsp; Equilibrium</span>
 </div>
 ## The state of dynamic balance achieved through conscious moderation. Like a mountain resting naturally on earth, this represents stability achieved through alignment with fundamental principles.
-<img src="/home/jw/store/src/iching_cli/book/v2/prod/15.png">
+<img src="/home/jw/src/iching_cli/book/v2/prod/15.png">
 <span style="margin-bottom: 8px;"> &nbsp; </span>
 ### *"Equilibrium" is vividly captured in the image of a finely balanced marble sculpture, representing a mountain resting on Earth. This design captures Hexagram 15's core concept of harmony and proper restraint, embodying the tholonic element of limitation wherein structure and balance arise from set boundaries. The balanced, minimalist style and clear natural lines of the sculpture depict the simplicity and clarity of equilibrium, capturing the interplay of opposing forces. Drawing inspiration from Polykleitos' precision and respect for proportion, the sculpture beautifully enshrines a profound sense of harmony, perfectly characterizing equilibrium as a vital requirement for growth and stability.*
 <p/>
@@ -34,7 +34,7 @@
 **Negotiation**: The hexagram represents the negotiation between stable restraint (Mountain) and receptive foundation (Earth). This creates a dynamic balance between containing and yielding, like a natural system finding its optimal state. **Limitation**: Structure is provided by the mountain above, indicating that stability must be actively maintained. The earth below suggests that balance must be grounded in fundamental reality. **Contribution**: This pattern contributes to evolution by demonstrating how systems achieve sustainable equilibrium. It shows how conscious moderation creates lasting stability.
 
 #### ***Tholon 5 of 32: "Balance Path"***
-#### The *dynamic* path is creates "Modesty" (15 <sub>*4*</sub>) and "Treading" (10 <sub>*59*</sub>).  This pair-path represents the dynamic interplay between humility and careful advancement. Modesty (Hexagram 15) ascends by grounding actions in humility, promoting harmony and balance. Treading (Hexagram 10) descends by navigating life's challenges with caution and awareness. Together, they illustrate the cyclical journey of maintaining equilibrium through both inward reflection and outward action.
+#### This hexagram is within the *dynamic* path of "Balance Path" formed by "Modesty" (15䷎<sub>*4*</sub>) and "Treading" (10䷉<sub>*59*</sub>).  This pair-path represents the dynamic interplay between humility and careful advancement. Modesty (Hexagram 15) ascends by grounding actions in humility, promoting harmony and balance. Treading (Hexagram 10) descends by navigating life's challenges with caution and awareness. Together, they illustrate the cyclical journey of maintaining equilibrium through both inward reflection and outward action.
 
 
 
@@ -46,13 +46,13 @@
 
 #### In the heart of New York City, where the cacophony of ambition and wealth resided, Henry Prescott found himself at the center of a corporate battle. As the newly appointed CEO of a burgeoning tech firm, Prescott inherited both the promise of innovation and the burden of expectation.
 
-In the dimly lit conference room, Prescott felt the weight of eyes upon him—a board of seasoned executives, each with their own agenda. His vision was clear: to marry the raw potential of technology with the stability of ethical business. Yet, as whispers of dissent echoed in the corridors, Prescott realized his role was not merely to lead, but to harmonize.
+In the dimly lit conference room, Prescott felt the weight of eyes upon him, a board of seasoned executives, each with their own agenda. His vision was clear: to marry the raw potential of technology with the stability of ethical business. Yet, as whispers of dissent echoed in the corridors, Prescott realized his role was not merely to lead, but to harmonize.
 
-The initial stages were delicate—navigating the labyrinthine politics while letting his ambition for sustainable growth shine through. Colleagues tested his resolve, urging bold moves against industry giants. But Prescott understood that unrestrained force could unravel the firm's ethos.
+The initial stages were delicate, navigating the labyrinthine politics while letting his ambition for sustainable growth shine through. Colleagues tested his resolve, urging bold moves against industry giants. But Prescott understood that unrestrained force could unravel the firm's ethos.
 
 Pressure mounted as deadlines loomed, and the markets demanded his attention. Uncertainty permeated the atmosphere, each decision a dance of intention and risk. In his quest for equilibrium, Prescott found allies amidst adversaries, drawing strength from shared purpose.
 
-As he unveiled his strategy—a visionary plan integrating innovation with corporate responsibility—the room held its breath. His leadership, refined through trials, resonated beyond the figures on the page. In that moment, Prescott saw the path to prosperity was not in unchecked ambition but in mindful balance, proving that true power lay in the delicate interplay of vision and restraint.
+As he unveiled his strategy, a visionary plan integrating innovation with corporate responsibility, the room held its breath. His leadership, refined through trials, resonated beyond the figures on the page. In that moment, Prescott saw the path to prosperity was not in unchecked ambition but in mindful balance, proving that true power lay in the delicate interplay of vision and restraint.
 
 #### ***Lines in Context:***
 <ul><li><B>1</B> (yin) <i>Emergence</i> - Prescott's initial vision begins to emerge, setting the stage for the firm's direction. <i>Moving line</i> - As yin shifts to yang, the initial cautious stance evolves into decisive action, potentially creating premature commitments but also fostering early breakthroughs that propel growth.</li></ul>
@@ -69,9 +69,9 @@ As he unveiled his strategy—a visionary plan integrating innovation with corpo
 
 At dawn, the forest awakened as beams of sunlight pierced through the canopy, casting an intricate dance of light and shadow on the forest floor. Elias felt the gentle pulse of the earth beneath his feet, a vibrant tapestry of unseen life whispered in harmony. His quest had just begun, to bring unity to the scattered notes he had long heard in nature's song.
 
-His first attempts were faltering—a tentative dance with chaos as imbalance reigned between the ordered mind and wild inspiration. Yet, persistent in his reverence for the natural world, Elias absorbed the forest's language, its rhythm growing clearer with each rustle and whistle.
+His first attempts were faltering, a tentative dance with chaos as imbalance reigned between the ordered mind and wild inspiration. Yet, persistent in his reverence for the natural world, Elias absorbed the forest's language, its rhythm growing clearer with each rustle and whistle.
 
-As weeks turned to months, the discord within him resolved. The forest's music, once elusive, became part of his own rhythm. Standing in the midst of towering pines, the cacophony of nature embraced him, and he bore witness to the grand symphony he had long sought. It was no longer just a pursuit—it was home.
+As weeks turned to months, the discord within him resolved. The forest's music, once elusive, became part of his own rhythm. Standing in the midst of towering pines, the cacophony of nature embraced him, and he bore witness to the grand symphony he had long sought. It was no longer just a pursuit, it was home.
 
 Finally, as evening descended and shadows merged into the earth, Elias felt his spirit intertwined with the world around him. He had discovered equilibrium in the wild, a transformative realization that his life's composition was complete, not in notes written on paper but in the gentle whisper of the wind journeying through the branches above.
 
@@ -86,15 +86,15 @@ Finally, as evening descended and shadows merged into the earth, Elias felt his 
 ##### Harmony's Forge (Man vs. Self)
 ### *In the style of Gabriel García Márquez*
 
-#### In a small Colombian village, where time swirled in lazy cyclones of dust and history, there lived an artisan named Andrés. His days were spent molding clay into vessels that whispered stories of past and future. The village, set upon ancient mountains where the clouds met the earth, was a cradle of contrasts—between silence and laughter, isolation and unity.
+#### In a small Colombian village, where time swirled in lazy cyclones of dust and history, there lived an artisan named Andrés. His days were spent molding clay into vessels that whispered stories of past and future. The village, set upon ancient mountains where the clouds met the earth, was a cradle of contrasts, between silence and laughter, isolation and unity.
 
-Andrés was a man besieged by dreams, caught in an internal maelstrom of potential yet unformed. His workshop, a place of solitude, resonated with the hum of the world outside—a constant reminder of the restless whispers of ambition within his heart.
+Andrés was a man besieged by dreams, caught in an internal maelstrom of potential yet unformed. His workshop, a place of solitude, resonated with the hum of the world outside, a constant reminder of the restless whispers of ambition within his heart.
 
 He started each vessel tentatively, with the gentleness of a whispered promise, allowing the clay to guide his hands. But as the shape emerged, impatience often gripped him, urging unformed ideas into hasty decisions. He battled these impulses with the endurance of the mountain beneath the sky, seeking the balance between creation and contemplation.
 
 His craft was a dialogue, a communion between the raw, earthly clay and the celestial visions he sought to capture. As his hands worked tirelessly, Andrés found himself changing more than the clay before him; every curve, every indentation carved into the material a path inward.
 
-One day, in a moment of stillness amidst the swirling dance of his thoughts, Andrés stumbled upon a profound peace. His latest creation, a simple vessel, resonated with the harmony of the universe—a reflection of balance and modesty. It was in this equilibrium that Andrés saw his own visage, an artisan forged in the crucible of self-realization, sculpted by the gentle hands of nature herself.
+One day, in a moment of stillness amidst the swirling dance of his thoughts, Andrés stumbled upon a profound peace. His latest creation, a simple vessel, resonated with the harmony of the universe, a reflection of balance and modesty. It was in this equilibrium that Andrés saw his own visage, an artisan forged in the crucible of self-realization, sculpted by the gentle hands of nature herself.
 
 #### ***Lines in Context:***
 <ul><li><B>1</B> (yin) <i>Dawning Balance</i> - Andrés's initial steps reveal a commitment to balance as he draws strength from the earth's quiet persistence. <i>Moving line</i> - Yin changing to yang creates challenges of impatience, potentially leading to rushed decisions. However, it also marks a new phase of energetic creativity that opens up unforeseen avenues for growth.</li></ul>
@@ -110,7 +110,7 @@ One day, in a moment of stillness amidst the swirling dance of his thoughts, And
 
 ##### *The Equilibrium of Marcus Aurelius*
 
-#### In 161 CE, upon assuming the throne of the Roman Empire, Marcus Aurelius faced the challenge of leading a vast dominion. Rather than succumbing to the intoxicating pull of power, he embraced a philosophy of balance and moderation. Through his rigorous self-discipline and simple lifestyle, Marcus sought to maintain harmony within himself and the empire. His diaries, known as "Meditations," became a testament to his internal quest for equilibrium amidst external pressures. Guided by stoic teachings, he managed to rule with wisdom and restraint. As his reign progressed, Marcus navigated through treacherous times by aligning his personal virtues with the broader needs of his empire, crafting a legacy not of conquest, but of thoughtful governance. Though he faced continuous conflict, Marcus's commitment to balance allowed him to guide Rome toward stability. His life embodied the profound understanding that true strength lies in maintaining equilibrium—a principle that continues to resonate throughout history.
+#### In 161 CE, upon assuming the throne of the Roman Empire, Marcus Aurelius faced the challenge of leading a vast dominion. Rather than succumbing to the intoxicating pull of power, he embraced a philosophy of balance and moderation. Through his rigorous self-discipline and simple lifestyle, Marcus sought to maintain harmony within himself and the empire. His diaries, known as "Meditations," became a testament to his internal quest for equilibrium amidst external pressures. Guided by stoic teachings, he managed to rule with wisdom and restraint. As his reign progressed, Marcus navigated through treacherous times by aligning his personal virtues with the broader needs of his empire, crafting a legacy not of conquest, but of thoughtful governance. Though he faced continuous conflict, Marcus's commitment to balance allowed him to guide Rome toward stability. His life embodied the profound understanding that true strength lies in maintaining equilibrium, a principle that continues to resonate throughout history.
 
 <div style="font-size: 8pt;font-style:italic">Source: Meditations by Marcus Aurelius, Marcus Aurelius: A Life by Frank McLynn (2009), The History of the Decline and Fall of the Roman Empire by Edward Gibbon</div>
 
@@ -125,11 +125,6 @@ One day, in a moment of stillness amidst the swirling dance of his thoughts, And
 
 ###### *Notes*
 ### **King Wen**: 15 ䷎ <sub>*4*</sub> Modesty; 2 ☷ <sub>*0*</sub> The Receptive,  Earth *over* 3 ☶ <sub>*3*</sub> The Still, Mountain;
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 <br/>
 <br/>
 <br/>

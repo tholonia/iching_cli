@@ -6,7 +6,7 @@
 <span style="font-size:2em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;">54 ䷵</span><span style="font-size:1em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;vertical-align:text-bottom;"> 11 </span><span style="font-size:2em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;">&nbsp; Cultivation</span>
 </div>
 ## The process of intentional development and refinement. Like a skilled artisan perfecting their craft or a mentor guiding a student, this represents the careful nurturing of potential through sustained attention and appropriate guidance.
-<img src="/home/jw/store/src/iching_cli/book/v2/prod/54.png">
+<img src="/home/jw/src/iching_cli/book/v2/prod/54.png">
 <span style="margin-bottom: 8px;"> &nbsp; </span>
 ### *"Cultivation" is vividly portrayed in the choice of the bamboo tree as its visual representation. The illustration integrates the key concepts of the hexagram: growth, intention, and refinement. The bamboo's deep roots symbolize the foundational support, while the growth upwards epitomizes the emergent potential, echoing the dynamic equilibrium between stability and progress intrinsic to cultivation. The interplay among earth, sky, and bamboo represents the triadic relationship, emphasizing both structural integrity and adaptability. The organic feel of the image resonates with the hexagram's core theme of nurturing development and the graceful transformation from inception to maturity. The image visually encapsulates the essence of "Cultivation".*
 <p/>
@@ -34,7 +34,7 @@
 **Negotiation**: The hexagram represents the balance between guidance and autonomy. The lake below provides foundation while thunder above energizes development, showing how growth requires both support and stimulation. **Limitation**: The structure defines boundaries between nurturing and controlling. It establishes how development must respect natural timing and capacity, showing that growth cannot be forced. **Contribution**: This configuration contributes to systemic evolution by demonstrating how proper cultivation creates sustainable development. It shows how appropriate guidance leads to authentic growth.
 
 #### ***Tholon 12 of 32: "Gradual Progress"***
-#### The *stable* path is creates "The Marrying Maiden" (54 <sub>*11*</sub>) and "Development" (53 <sub>*52*</sub>).  This pair-path explores the dynamic balance between sudden commitments and gradual maturation. The Marrying Maiden (54) represents a sudden engagement or commitment, often with constraints and dependencies, while Development (53) signifies a steady, patient progression towards maturity and fulfillment. Together, they illustrate the journey from impulsive beginnings to gradual, deliberate growth.
+#### This hexagram is within the *stable* path of "Gradual Progress" formed by "The Marrying Maiden" (54䷵<sub>*11*</sub>) and "Development" (53䷴<sub>*52*</sub>).  This pair-path explores the dynamic balance between sudden commitments and gradual maturation. The Marrying Maiden (54) represents a sudden engagement or commitment, often with constraints and dependencies, while Development (53) signifies a steady, patient progression towards maturity and fulfillment. Together, they illustrate the journey from impulsive beginnings to gradual, deliberate growth.
 
 
 
@@ -50,7 +50,7 @@ Elias was fueled by an unyielding ambition to succeed where others had failed. H
 
 The tension between mastery and obsession brewed within Elias, pushing him to the brink of surrender. Until one night, in the depths of solitude, realization dawned upon him. The process was not merely a series of chemical reactions, but a dance between elements, a harmonious collaboration that demanded respect and understanding.
 
-In embracing this insight, Elias allowed intuition to guide his hands. The lead, under his gentle guidance, began its slow, mystical transformation into gold. As dawn broke over the city, Elias understood that true alchemy was not just the transmutation of metals, but the alchemy of the soul—transforming aspiration into wisdom.
+In embracing this insight, Elias allowed intuition to guide his hands. The lead, under his gentle guidance, began its slow, mystical transformation into gold. As dawn broke over the city, Elias understood that true alchemy was not just the transmutation of metals, but the alchemy of the soul, transforming aspiration into wisdom.
 
 #### ***Lines in Context:***
 <ul><li><B>1</B> (yang) <i>Seed of Aspirations</i> - Elias's journey begins with the raw potential of his ambitions and the desire to uncover alchemical secrets. <i>Moving line</i> - If yang changes to yin, his initial fervor might dissipate, risking a period of stagnation or a loss of direction in his pursuit.</li></ul>
@@ -86,13 +86,13 @@ The village rejoiced in Elio's newfound artistry, the perfect blend of form and 
 
 #### In the cloistered silence of a mountainside monastery, Brother Linus battled an unrelenting tide of turmoil. Though he sought tranquility through meditation and study, the elusive peace played truant, evading his grasp.
 
-Every dawning day, Brother Linus would retreat to the sprawling gardens, wished by fragrant herbs and blossoms, contemplating the mysteries of his own restless soul. He recognized within himself a chasm between knowing and understanding—a void between theory and lived experience.
+Every dawning day, Brother Linus would retreat to the sprawling gardens, wished by fragrant herbs and blossoms, contemplating the mysteries of his own restless soul. He recognized within himself a chasm between knowing and understanding, a void between theory and lived experience.
 
 One day, while absorbing the serenity of the garden, a simple revelation unfolded: true peace required embracing rather than conquering the chaos within. Linus realized that the disciplined structure he'd so diligently crafted could only serve as a pathway, not a destination.
 
-As seasons melted into each other, Linus allowed intuition and acceptance to weave through the threads of his life, each unravel playing out like the gentle notes of a celestial symphony. He began collaborating with the world—the birds, the leaves, even the gentle rain were the silent partners in his dance of liberation.
+As seasons melted into each other, Linus allowed intuition and acceptance to weave through the threads of his life, each unravel playing out like the gentle notes of a celestial symphony. He began collaborating with the world, the birds, the leaves, even the gentle rain were the silent partners in his dance of liberation.
 
-And so, Lineus emerged anew, nurturing a harmony that was not the absence of conflict but its transformation into enduring peace—a gentle alchemy of the heart that transcended words.
+And so, Lineus emerged anew, nurturing a harmony that was not the absence of conflict but its transformation into enduring peace, a gentle alchemy of the heart that transcended words.
 
 #### ***Lines in Context:***
 <ul><li><B>1</B> (yang) <i>Embryonic Awakening</i> - Linus's journey begins with the stirring of potential for profound self-discovery, kindled by a quest for enlightenment. <i>Moving line</i> - If yang changes to yin, the awakening momentum might dwindle, casting Linus into introspection and slowing progress toward enlightenment.</li></ul>
@@ -123,11 +123,6 @@ And so, Lineus emerged anew, nurturing a harmony that was not the absence of con
 
 ###### *Notes*
 ### **King Wen**: 54 ䷵ <sub>*11*</sub> ; 4 ☳ <sub>*1*</sub> The Arousing,  Thunder *over* 8 ☱ <sub>*4*</sub> The Joyous, Lake/Marsh;
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 <br/>
 <br/>
 <br/>

@@ -6,7 +6,7 @@
 <span style="font-size:2em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;">34 ䷡</span><span style="font-size:1em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;vertical-align:text-bottom;"> 15 </span><span style="font-size:2em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;">&nbsp; Breakthrough Force</span>
 </div>
 ## The unleashing of accumulated potential through decisive action. Like thunder emanating from heaven, this represents the moment when stored energy manifests as transformative power.
-<img src="/home/jw/store/src/iching_cli/book/v2/prod/34.png">
+<img src="/home/jw/src/iching_cli/book/v2/prod/34.png">
 <span style="margin-bottom: 8px;"> &nbsp; </span>
 ### *"'Breakthrough Force' takes visual form through a composition that emphasizes dynamism, intensity and the potential for transformation. The image's storm clouds and lightning personify the releasing of latent energy, showcasing the conversion from potential to kinetic. As a visual metaphor for powerful, transformative action, the central figure balancing amidst the storm signifies the human ability to channel and orchestrate this potent force. The picture's copious depiction of lightning—which is associated with both the thunder and heaven aspects of the hexagram —emphasizes the contextual foundation of this force, while the swirling sky suggests the emergent structures born from this potent dynamic expression."*
 <p/>
@@ -34,7 +34,7 @@
 **Negotiation**: The balance between containment and release of power is crucial. The hexagram demonstrates how timing and preparation determine the effectiveness of force. It represents the negotiation between potential and kinetic energy. **Limitation**: Directs power through focused channels rather than letting it dissipate. The heaven below provides the concentrated force that thunder above releases, showing how limitation can enhance rather than restrict power. **Contribution**: Contributes to the larger system by demonstrating how concentrated force can create breakthrough moments that advance evolution. Like a quantum leap, this focused power enables transformation.
 
 #### ***Tholon 16 of 32: "Power and Vision"***
-#### The *dynamic* path is creates "The Power of the Great" (34 <sub>*15*</sub>) and "Contemplation" (20 <sub>*48*</sub>).  The pair-path of Power and Vision represents the dynamic interplay between the exertion of strength and the clarity of insight. As power ascends, it seeks to manifest and influence, while vision descends to provide perspective and understanding. This path emphasizes the balance between action and reflection, urging the integration of forceful energy with mindful observation.
+#### This hexagram is within the *dynamic* path of "Power and Vision" formed by "The Power of the Great" (34䷡<sub>*15*</sub>) and "Contemplation" (20䷓<sub>*48*</sub>).  The pair-path of Power and Vision represents the dynamic interplay between the exertion of strength and the clarity of insight. As power ascends, it seeks to manifest and influence, while vision descends to provide perspective and understanding. This path emphasizes the balance between action and reflection, urging the integration of forceful energy with mindful observation.
 
 
 
@@ -71,7 +71,7 @@ As the cityscape faded into night, Hugh stood upon the threshold of realization.
 
 The mountains were both his sanctuary and his challenge. Each climb was a test of resolve, an act of wrestling with nature itself. Sharp winds cut through his clothing, and rocks threatened his footing, yet he was undeterred. He sought to capture the spirit of the storm, to harness the raw power that danced across the sky with every flash of lightning.
 
-At the heart of his quest lay a simple contraption—a device of metal and wood, designed to catch the heavens' essence. The storms were unforgiving, and more often than not, his efforts ended in failure, with splinters of his device scattered among the rocks. But within each failure, Elias found a lesson, a whisper of what could be.
+At the heart of his quest lay a simple contraption, a device of metal and wood, designed to catch the heavens' essence. The storms were unforgiving, and more often than not, his efforts ended in failure, with splinters of his device scattered among the rocks. But within each failure, Elias found a lesson, a whisper of what could be.
 
 On a day when the air was thick with foreboding, the clouds roiled with anticipation, Elias set his device anew among the stones. The storm was fierce, growling in warning, but Elias stood firm, muscles tense in readiness. As the first bolt struck, the mountains seemed to hold their breath. His device shuddered with the force, mirroring Elias' own exhilaration.
 
@@ -92,13 +92,13 @@ In that moment, something shifted. The device sang, drawing energy from the stor
 
 One morning, Clara woke with a stirring desire to give voice to the silent songs she felt within. She picked up her brush, with colors vibrant and raw, and began to paint beside the river's edge. Each stroke was an emergence, a new beginning blooming from the canvas, seeking form amidst colors and shadows.
 
-As she painted, a quiet assurance grew within her. It was the dawning realization that the river's whispers held a truth she long sought—the understanding that her creations were not just reflections of her world but integral parts of it.
+As she painted, a quiet assurance grew within her. It was the dawning realization that the river's whispers held a truth she long sought, the understanding that her creations were not just reflections of her world but integral parts of it.
 
 The days passed, and Clara's canvas filled with dreams and desires, echoing the river's secrets. But doubt slipped in with the twilight, casting shadows over her visions. The symphony that once danced at her fingertips now faltered; its melody lost among the burgeoning uncertainty within her.
 
 Yet, amidst her turmoil, Clara found resilience. With the river's patient flow as her guide, she embraced the discord, for it sowed the seeds of innovation. Her brush moved anew, soaring on wings of fresh insight.
 
-One evening, as the setting sun cast hues of crimson and gold, Clara looked upon her creation. It resonated with the soul of the river—the symphony had woken. Transcending her initial fears, Clara's art now sang in harmony with the world's rhythm, a testament to the journey from hidden potential to expressive reality.
+One evening, as the setting sun cast hues of crimson and gold, Clara looked upon her creation. It resonated with the soul of the river, the symphony had woken. Transcending her initial fears, Clara's art now sang in harmony with the world's rhythm, a testament to the journey from hidden potential to expressive reality.
 
 #### ***Lines in Context:***
 <ul><li><B>1</B> (yang) <i>Emergence</i> - Clara's formative steps into the world of color mirror the awakening of dormant creativity that seeks expression. <i>Moving line</i> - As yang changes to yin, Clara's initial zest faces internal resistance, presenting challenges that inspire greater self-reflection, enabling her to craft a more deliberate artistic path.</li></ul>
@@ -116,7 +116,7 @@ One evening, as the setting sun cast hues of crimson and gold, Clara looked upon
 
 #### In the 4th century BCE, amid the turmoil of ancient India, Chanakya, the astute strategist and philosopher, laid the foundations for Chandragupta Maurya’s ascent. The Nanda dynasty, wielding power through brute force, underestimated the brilliance of psychological strategy. Chanakya envisioned dismantling their grip by converting latent rebellion into a formidable force. He nurtured Chandragupta, training him in the art of sovereign governance. Moving the chessboard, Chanakya orchestrated defections within the Nanda empire’s ranks while simultaneously uniting the disparate regional leaders under a shared cause.   
 
-When the moment was ripe, the disguised charismatic leader Chandragupta struck decisively at the heart of the Nanda dynasty, turning suppressed potential into a reality. Pune, amidst hushed whispers of sedition, witnessed existing power crumbling under its hubris. Emerging victorious, the Mauryan dynasty’s inception marked the transformative realization of Chanakya’s covert aspirations. As the new regime flourished under the equitable rule of its young leader, India bore witness to Chanakya’s enduring legacy—the silent architect of a nation reborn with newfound unity and vision.
+When the moment was ripe, the disguised charismatic leader Chandragupta struck decisively at the heart of the Nanda dynasty, turning suppressed potential into a reality. Pune, amidst hushed whispers of sedition, witnessed existing power crumbling under its hubris. Emerging victorious, the Mauryan dynasty’s inception marked the transformative realization of Chanakya’s covert aspirations. As the new regime flourished under the equitable rule of its young leader, India bore witness to Chanakya’s enduring legacy, the silent architect of a nation reborn with newfound unity and vision.
 
 <div style="font-size: 8pt;font-style:italic">Source: "Arthashastra" by Chanakya, "Chandragupta Maurya and His Times" by Radha Kumud Mookerji, "The Penguin History of Early India" by Romila Thapar</div>
 
@@ -131,11 +131,6 @@ When the moment was ripe, the disguised charismatic leader Chandragupta struck d
 
 ###### *Notes*
 ### **King Wen**: 34 ䷡ <sub>*15*</sub> Great Power; 4 ☳ <sub>*1*</sub> The Arousing,  Thunder *over* 1 ☰ <sub>*7*</sub> The Creative, Heaven;
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 <br/>
 <br/>
 <br/>

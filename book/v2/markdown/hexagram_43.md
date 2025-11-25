@@ -3,10 +3,10 @@
 # &nbsp;
 
 <div style="margin: 0 auto; text-align: center;border-bottom:1px solid #c5c5c5;padding-bottom:1em;">
-<span style="font-size:2em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;">43 ䷪</span><span style="font-size:1em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;vertical-align:text-bottom;"> 31 </span><span style="font-size:2em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;">&nbsp; Breakthrough</span>
+<span style="font-size:2em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;">43 ䷪</span><span style="font-size:1em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;vertical-align:text-bottom;"> 31 </span><span style="font-size:2em;color:#666;text-align:center;font-weight:normal;padding-bottom:0.2em;font-family:'LinLibertine',serif;">&nbsp; Decisive Declaration</span>
 </div>
 ## Decisive action that brings resolution through clear communication and determined expression of truth. Like a storm that clears the air, this hexagram represents the moment when tension breaks and clarity emerges.
-<img src="/home/jw/store/src/iching_cli/book/v2/prod/43.png">
+<img src="/home/jw/src/iching_cli/book/v2/prod/43.png">
 <span style="margin-bottom: 8px;"> &nbsp; </span>
 ### *"Breakthrough" is strikingly visualized through the stylistic elements and objects chosen to represent the underlying concepts of this hexagram. The choice of lightning illustrates sudden insight and decisive energy, thereby encapsulating the themes of resolution and the onward movement towards conclusion. The image is imbued with futurism, a style replete with dynamism and a sense of technological progression, highlighting the teeming drive of progress. Furthermore, the utilisation of digital illustration gives a nod towards today's intersection of technology and creativity, closely mirroring the Thologram's recursive and interconnected nature.*
 <p/>
@@ -34,25 +34,25 @@
 **Negotiation**: The interplay between firm conviction (Heaven) and joyous expression (Lake) creates a dynamic tension that must be resolved. This force manifests as the necessity to break through obstacles through clear communication. **Limitation**: The structure demands that truth be expressed within appropriate boundaries. Not all truths need immediate expression - timing and context matter. The limitation creates the pressure needed for breakthrough. **Contribution**: Returns clarity to confused situations by forcing resolution of hidden tensions. Like lightning releasing built-up electrical charge, it contributes by restoring balance through decisive action.
 
 #### ***Tholon 32 of 32: "Crisis Resolution"***
-#### The *dynamic* path is creates "Breakthrough" (43 <sub>*31*</sub>) and "Splitting Apart" (23 <sub>*32*</sub>).  This pair-path represents the dynamic between overcoming challenges and the potential for disintegration. It captures the tension between breaking through obstacles and the risks of falling apart. The ascending path of Hexagram 43, Breakthrough, signifies a decisive action to resolve conflict and assert clarity, while the descending path of Hexagram 23, Splitting Apart, warns of the gradual erosion of integrity and structure. Together, they illustrate the cyclical nature of crisis and resolution.
+#### This hexagram is within the *dynamic* path of "Crisis Resolution" formed by "Decisive Declaration" (43䷪<sub>*31*</sub>) and "Splitting Apart" (23䷖<sub>*32*</sub>).  This pair-path represents the dynamic between overcoming challenges and the potential for disintegration. It captures the tension between breaking through obstacles and the risks of falling apart. The ascending path of Hexagram 43, Decisive Declaration, signifies a decisive action to resolve conflict and assert clarity, while the descending path of Hexagram 23, Splitting Apart, warns of the gradual erosion of integrity and structure. Together, they illustrate the cyclical nature of crisis and resolution.
 
 
 
-###### Three Tales of "Breakthrough"
+###### Three Tales of "Decisive Declaration"
 
 
 ##### The Crucible of Ingenuity (Man vs. Man)
 ### *In the style of Ayn Rand*
 
-#### In the heart of the industrial district, a lone architect, Jonathan, stood before his latest creation—a towering building that sought to redefine the skyline. Critics were fierce, branding his design as impossible, a folly of ambition beyond practical merit. Yet Jonathan saw not just steel and glass, but the manifestation of human potential, a beacon of what could be.
+#### In the heart of the industrial district, a lone architect, Jonathan, stood before his latest creation, a towering building that sought to redefine the skyline. Critics were fierce, branding his design as impossible, a folly of ambition beyond practical merit. Yet Jonathan saw not just steel and glass, but the manifestation of human potential, a beacon of what could be.
 
 The boardroom was a storm of skepticism as investors voiced concerns over cost and feasibility. Voices clashed, echoing doubt and fear of the unknown, but Jonathan's vision was unswayed. He laid out plans with precision, his drive and clarity cutting through the haze of dissent.
 
-The project's momentum was a testament to Jonathan's resolve. Teams marshaled resources and aligned their efforts, translating his bold sketches into a structured reality. Yet, unforeseen challenges loomed—financial strains threatened delays, and structural weaknesses demanded redesign.
+The project's momentum was a testament to Jonathan's resolve. Teams marshaled resources and aligned their efforts, translating his bold sketches into a structured reality. Yet, unforeseen challenges loomed, financial strains threatened delays, and structural weaknesses demanded redesign.
 
 On the precipice of collapse, Jonathan faced the ultimate crisis of conviction. But adversity only sharpened his resolve. He adapted, innovating new solutions, transforming setbacks into stepping stones. The building rose, testimony to human tenacity and vision realized against the odds.
 
-As the structure neared completion, Jonathan reflected—his tower was not merely a physical space but a monument to the creative spirit, enduring beyond its creator, inspiring endless possibilities. The heart of the city pulsed anew, a testament to breakthrough, not as an endpoint, but as a prelude to greater aspirations.
+As the structure neared completion, Jonathan reflected, his tower was not merely a physical space but a monument to the creative spirit, enduring beyond its creator, inspiring endless possibilities. The heart of the city pulsed anew, a testament to breakthrough, not as an endpoint, but as a prelude to greater aspirations.
 
 #### ***Lines in Context:***
 <ul><li><B>1</B> (yang) <i>Emergence</i> - Jonathan's initial concept ignites a bold journey, sparking the project's inception. <i>Moving line</i> - Yang changing to yin might see this initial surge met with indecision, causing momentum to stall before significant progress is made.</li></ul>
@@ -65,13 +65,13 @@ As the structure neared completion, Jonathan reflected—his tower was not merel
 ##### In the Arms of the Storm (Man vs. Nature)
 ### *In the style of Gabriel García Márquez's Magical Realism*
 
-#### Amidst an island untouched by the hands of time, where lush jungles swayed to the whispers of the sea, an old sculptor named Joaquin faced a relentless battle against nature's tempest. His humble abode, a simple cottage nestled among ancient trees, became both sanctuary and prison as the storm clouds converged, threatening to erase his life's work—an incomplete sculpture that promised to capture the soul of the island.
+#### Amidst an island untouched by the hands of time, where lush jungles swayed to the whispers of the sea, an old sculptor named Joaquin faced a relentless battle against nature's tempest. His humble abode, a simple cottage nestled among ancient trees, became both sanctuary and prison as the storm clouds converged, threatening to erase his life's work, an incomplete sculpture that promised to capture the soul of the island.
 
 Joaquin's hands, worn and calloused, mirrored the weathered stone that defied his creative vision. Thunder rolled like the voice of an angry god, yet within its ferocity lay a melody. With the island's very essence at stake, Joaquin willed his chisel to dance in harmony with the storm's chaos.
 
 The wind howled in opposition, testing his resolve, yet with each gust, clarity emerged amidst confusion, guiding Joaquin's hand as if the spirit of the island manifested through nature's fury. Stone chips flew, and as lightning illuminated the darkened skies, so too did enlightenment spark within Joaquin, guiding him toward the truth hidden within the stone.
 
-In the moment the storm reached its fearful crescendo, a transformation occurred—what was once mere rock transcended into art, not through the creation of new forms but by revealing the hidden beauty that was always there. Joaquin stood back, his heart stilled by the sight of the sculpture now complete—a testament to perseverance, the raw force of nature harmonized by the hand of man.
+In the moment the storm reached its fearful crescendo, a transformation occurred, what was once mere rock transcended into art, not through the creation of new forms but by revealing the hidden beauty that was always there. Joaquin stood back, his heart stilled by the sight of the sculpture now complete, a testament to perseverance, the raw force of nature harmonized by the hand of man.
 
 As dawn broke, painting the world anew, tranquility fell over the land. Joaquin's sculpture stood as a beacon of hope, a reminder that through the storm, there lies not just destruction, but the potential for profound transformation.
 
@@ -86,15 +86,15 @@ As dawn broke, painting the world anew, tranquility fell over the land. Joaquin'
 ##### Whispers of Revelation (Man vs. Self)
 ### *In the style of Margaret Atwood*
 
-#### In a realm of quiet introspection, a woman named Elara found herself at the cusp of transformation. The whispers of her mind echoed in the realm of shadows, where light danced with intention on the cusp of realization—a place where her dormant potential awaited activation. Books, dusty and aged, surrounded her, each a testament to untapped wisdom and the promise of insights poised to awaken. Elara knew she must confront the fabric of her inner universe, where existential questions swirled like galaxies in a timeless void.
+#### In a realm of quiet introspection, a woman named Elara found herself at the cusp of transformation. The whispers of her mind echoed in the realm of shadows, where light danced with intention on the cusp of realization, a place where her dormant potential awaited activation. Books, dusty and aged, surrounded her, each a testament to untapped wisdom and the promise of insights poised to awaken. Elara knew she must confront the fabric of her inner universe, where existential questions swirled like galaxies in a timeless void.
 
 She ventured into a garden as untamed as her thoughts, the evening air tinged with the scent of impending storms. Her hands caressed the soil, feeling the pulse of life beneath her fingertips, as if tuning into the heartbeat of the earth itself. The wind whispered secrets, carrying with it visions of creation unbridled. The more she listened, the deeper her understanding grew, blossoming amidst an internal chaos seeking order.
 
 Amidst this dynamic interplay stood a sculptor's stone, its rough edges yearning to tell a story, much like her soul seeking its narrative. Her mind ached against the bounds of the tangible world; it strained towards unity, yearning to carve coherence from her thoughts. An insight struck, as if lightning split her awareness open, illuminating pathways she never perceived. She saw clearly how to sculpt not the stone, but her inner world, to reveal the hidden truths she nourished within.
 
-Elara embraced the storm that raged around her, drawing strength from its tumult. Energy unfurled within her, sharp and potent, a force certain to manifest change. In quiet moments amid the tempest, revelations came to her as whispers in the depths, guiding her hands as they crafted a masterpiece of both stone and spirit. As the storm lulled, she stepped back, witnessing the transformation she wrought—a harmonious fusion of raw potential and conscious intention.
+Elara embraced the storm that raged around her, drawing strength from its tumult. Energy unfurled within her, sharp and potent, a force certain to manifest change. In quiet moments amid the tempest, revelations came to her as whispers in the depths, guiding her hands as they crafted a masterpiece of both stone and spirit. As the storm lulled, she stepped back, witnessing the transformation she wrought, a harmonious fusion of raw potential and conscious intention.
 
-The dawn unveiled a transcendent emergence, as Elara stood amidst tranquility—a profound serenity settled, melded from chaos into a unity of self. The turmoil had receded, leaving clarity—a newly balanced self poised at the brink of endless creation. Insights she gathered now pulsed with life, her journey but a beginning baptized by breakthrough.
+The dawn unveiled a transcendent emergence, as Elara stood amidst tranquility, a profound serenity settled, melded from chaos into a unity of self. The turmoil had receded, leaving clarity, a newly balanced self poised at the brink of endless creation. Insights she gathered now pulsed with life, her journey but a beginning baptized by breakthrough.
 
 #### ***Lines in Context:***
 <ul><li><B>1</B> (yang) <i>Emergence</i> - The first spark of awareness flickers within Elara's consciousness, kindling the path to self-realization. <i>Moving line</i> - As yang changes to yin, the initial blast of inspiration may falter under doubt, inviting an opportunity to harness introspective pause in strengthening her emerging identity.</li></ul>
@@ -106,7 +106,7 @@ The dawn unveiled a transcendent emergence, as Elara stood amidst tranquility—
 
 
 
-###### 'Breakthrough' in History
+###### 'Decisive Declaration' in History
 
 ##### *The Fall of the Bastille: A Symbolic Breakthrough*
 
@@ -125,11 +125,6 @@ The dawn unveiled a transcendent emergence, as Elara stood amidst tranquility—
 
 ###### *Notes*
 ### **King Wen**: 43 ䷪ <sub>*31*</sub> ; 8 ☱ <sub>*4*</sub> The Joyous,  Lake/Marsh *over* 1 ☰ <sub>*7*</sub> The Creative, Heaven;
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 <br/>
 <br/>
 <br/>

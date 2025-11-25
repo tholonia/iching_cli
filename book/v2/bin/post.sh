@@ -19,11 +19,13 @@
 #   4. Opens the final PDF in Okular for review
 #
 # Usage:
-#   ./post.sh [BOOK|PDF] [--minimal]
+#   ./post.sh [BOOK|PDF] [--minimal] [--pagesize WIDTHxHEIGHT]
 #
 # Arguments:
 #   BOOK|PDF: Format to generate (default: PDF)
 #   --minimal: Only include the main content (iching) in the final document
+#   --pagesize: Page dimensions in format WIDTHxHEIGHT (default: 8.25x11)
+#              Examples: --pagesize 7.0x10.0, --pagesize 6.69x9.61
 #
 # Dependencies:
 #   - Prince: HTML to PDF conversion with TOC support
@@ -93,9 +95,99 @@
 # Enable better error handling
 set -o pipefail
 
+# Determine the numeric width/height and Prince page flag for a WIDTHxHEIGHT string
+function determine_page_size_settings() {
+    local size="$1"
+    local width height prince_flag
+
+    if [[ "$size" == *"x"* ]]; then
+        IFS='x' read -r width height <<< "$size"
+    else
+        width="$size"
+        height="$size"
+    fi
+
+    case "$size" in
+        8.27x11.69)
+            prince_flag="A4"
+            ;;
+        8.5x11|8.25x11)
+            prince_flag="Letter"
+            ;;
+        *)
+            prince_flag="${width}in ${height}in"
+            ;;
+    esac
+
+    echo "${width}|${height}|${prince_flag}"
+}
+
+# Generate a blank single-page PDF at the requested dimensions
+function create_blank_page_pdf() {
+    local output_pdf="$1"
+    local width="$2"
+    local height="$3"
+    local prince_flag="$4"
+    local blank_html="${TEMP_DIR}/blank_${width}x${height}.html"
+
+    cat > "${blank_html}" <<EOF
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>blank</title>
+  <style>
+    @page { size: ${width}in ${height}in !important; margin: 0; }
+    body { margin: 0; }
+  </style>
+</head>
+<body></body>
+</html>
+EOF
+
+    if prince-books \
+        --media=print \
+        --page-size="${prince_flag}" \
+        -o "${output_pdf}" \
+        "${blank_html}"; then
+        return 0
+    else
+        return 1
+    fi
+}
+
+# Resize a PDF to match target dimensions (in inches)
+function resize_pdf_to_size() {
+    local input_pdf="$1"
+    local output_pdf="$2"
+    local width="$3"   # in inches
+    local height="$4"  # in inches
+    # Convert inches to points (1 inch = 72 points) using awk for floating point math
+    local width_pt=$(awk "BEGIN {printf \"%.0f\", ${width} * 72}")
+    local height_pt=$(awk "BEGIN {printf \"%.0f\", ${height} * 72}")
+    
+    if command -v gs >/dev/null 2>&1; then
+        # Use ghostscript to resize
+        if gs -sDEVICE=pdfwrite -dFIXEDMEDIA -dPDFFitPage \
+           -dDEVICEWIDTHPOINTS="${width_pt}" \
+           -dDEVICEHEIGHTPOINTS="${height_pt}" \
+           -o "${output_pdf}" \
+           "${input_pdf}" >/dev/null 2>&1; then
+            return 0
+        else
+            return 1
+        fi
+    else
+        # Fallback: just copy if ghostscript not available
+        cp "${input_pdf}" "${output_pdf}"
+        return 1
+    fi
+}
+
 # Parse command line arguments
 FORMAT="PDF"  # Default to PDF if no format specified
 MINIMAL=false # Default to full document
+PAGE_SIZE="8.25x11"  # Default page size
 
 # Parse command line arguments
 while (( "$#" )); do
@@ -108,9 +200,19 @@ while (( "$#" )); do
       MINIMAL=true
       shift
       ;;
+    --pagesize)
+      if [ -n "$2" ] && [[ "$2" =~ ^[0-9]+\.?[0-9]*x[0-9]+\.?[0-9]*$ ]]; then
+        PAGE_SIZE="$2"
+        shift 2
+      else
+        echo -e "\033[31mError: Invalid page size format. Use format like '7.0x10.0'\033[0m"
+        echo -e "Usage: $0 [BOOK|PDF] [--minimal] [--pagesize WIDTHxHEIGHT]"
+        exit 1
+      fi
+      ;;
     *)
       echo -e "\033[31mError: Invalid argument '$1'\033[0m"
-      echo -e "Usage: $0 [BOOK|PDF] [--minimal]"
+      echo -e "Usage: $0 [BOOK|PDF] [--minimal] [--pagesize WIDTHxHEIGHT]"
       exit 1
       ;;
   esac
@@ -118,22 +220,66 @@ done
 
 # Constants and configuration
 D="/home/jw/src/iching_cli/book/v2/bin"
-CURRENT_SIZE="8.25x11"
+CURRENT_SIZE="${PAGE_SIZE}"
 BLANK="${D}/../includes/blank_${CURRENT_SIZE}.pdf"
 TEMP_DIR="/tmp/iching_book_$$"  # Use PID for isolation
 
 # Create required directories
 mkdir -p "${TEMP_DIR}"
 
+# Verify blank page exists
+if [ ! -f "${BLANK}" ]; then
+    echo -e "\033[31mError: Blank page not found: ${BLANK}\033[0m"
+    echo -e "\033[33mAvailable blank pages:\033[0m"
+    ls -1 "${D}/../includes/blank_"*.pdf 2>/dev/null || echo "  None found"
+    exit 1
+fi
+
 # Trap for cleaning up on exit
 trap 'rm -rf "${TEMP_DIR}"' EXIT INT TERM
+
+# Function to ensure required files exist
+function ensure_required_files() {
+    local PAGE_SIZE="$1"
+    
+    # Create page-specific PDF files if they don't exist
+    local FILES_TO_CREATE=(
+        "_q8_iching_${PAGE_SIZE}_png.pdf"
+        "_binhex4col_${PAGE_SIZE}_png.pdf"
+        "_32paths_${PAGE_SIZE}_png.pdf"
+        "_COVER_v2_${PAGE_SIZE}.pdf"
+    )
+    
+    for file in "${FILES_TO_CREATE[@]}"; do
+        local TARGET_FILE="${D}/../includes/${file}"
+        if [ ! -f "${TARGET_FILE}" ]; then
+            echo -e "\033[33mCreating missing file: ${file}\033[0m"
+            # Find the closest existing file with similar name
+            local BASE_NAME=$(echo "${file}" | sed "s/_${PAGE_SIZE}_/_8.25x11_/")
+            local TEMPLATE_FILE="${D}/../includes/${BASE_NAME}"
+            
+            if [ -f "${TEMPLATE_FILE}" ]; then
+                cp "${TEMPLATE_FILE}" "${TARGET_FILE}"
+            else
+                # Try A4 size as fallback
+                local A4_NAME=$(echo "${file}" | sed "s/_${PAGE_SIZE}_/_8.27x11.69_/")
+                local A4_FILE="${D}/../includes/${A4_NAME}"
+                if [ -f "${A4_FILE}" ]; then
+                    cp "${A4_FILE}" "${TARGET_FILE}"
+                else
+                    echo -e "\033[33mWarning: No template found for ${file}, skipping...\033[0m"
+                fi
+            fi
+        fi
+    done
+}
 
 # Function to process HTML documents into PDFs
 function process_document() {
     local DOCUMENT="$1"
     local CSS_FILE="${2:-iching.css}"
 
-    echo -e "\033[35mProcessing ${DOCUMENT}\033[0m"
+    echo -e "\033[35mProcessing ${DOCUMENT}\033[0m" 
 
     # Verify input file exists
     if [ ! -f "${D}/../includes/${DOCUMENT}.html" ]; then
@@ -149,10 +295,23 @@ function process_document() {
     rm -f "${D}/../includes/${DOCUMENT}.pdf"
 
     echo -e "\033[36mConverting ${DOCUMENT} to PDF using ${CSS_FILE}...\033[0m"
+    set -x
 
+    # Convert page size format for Prince and override CSS
+    IFS='|' read -r WIDTH HEIGHT PRINCE_PAGE_SIZE <<< "$(determine_page_size_settings "${PAGE_SIZE}")"
+    local PAGE_OVERRIDE_CSS="${TEMP_DIR}/${DOCUMENT}_page_override.css"
+    cat > "${PAGE_OVERRIDE_CSS}" <<EOF
+@page {
+  size: ${WIDTH}in ${HEIGHT}in !important;
+}
+EOF
+    
     if prince-books \
         --style="${D}/../includes/${CSS_FILE}" \
+        --style="${D}/../includes/force-cjk.css" \
+        --style="${PAGE_OVERRIDE_CSS}" \
         --media=print \
+        --page-size="${PRINCE_PAGE_SIZE}" \
         -o "${D}/../includes/${DOCUMENT}.pdf" \
         "${D}/../includes/${DOCUMENT}.html"; then
 
@@ -162,6 +321,7 @@ function process_document() {
         echo -e "\033[31m✗ Failed to create ${DOCUMENT}.pdf\033[0m"
         return 1
     fi
+    set +x
 }
 
 # Cleanup previous files
@@ -183,7 +343,7 @@ function cleanup_previous_files() {
     rm -f "${D}/../includes/COPYRIGHT_PAGE_v1_${FORMAT}.pdf"
     rm -f "${D}/../includes/BOOK_INTRO_${FORMAT}.pdf"
     rm -f "${D}/../includes/iching_${FORMAT}.pdf"
-}
+} 
 
 # Process all documents for the selected format
 function process_documents() {
@@ -199,34 +359,45 @@ function process_documents() {
     else
         cp "${D}/../includes/TOC.pdf" "${TEMP_DIR}/TOC_${FORMAT}.pdf"
         pdftk "${TEMP_DIR}/TOC_${FORMAT}.pdf" cat 3-end output "${TEMP_DIR}/TOC_${FORMAT}-cut.pdf"
-        pdftk "${BLANK}" "${TEMP_DIR}/TOC_${FORMAT}-cut.pdf" cat output "${D}/../includes/FINAL_TOC_${FORMAT}.pdf"
+        # Add two blanks at beginning and blank at end for proper alignment
+        pdftk "${BLANK}" "${BLANK}" "${TEMP_DIR}/TOC_${FORMAT}-cut.pdf" "${BLANK}" cat output "${D}/../includes/FINAL_TOC_${FORMAT}.pdf"
     fi
 
     # Process COPYRIGHT
     echo -e "\033[34mProcessing Copyright Page...\033[0m"
-    # if ! process_document "COPYRIGHT" "iching_nopage.css"; then
-    #     echo -e "\033[31mFailed to process COPYRIGHT\033[0m"
-    #     status=1
-    # else
+    # Watermark removal strategy:
+    # COPYRIGHT.pdf has structure: [blank page WITH watermark] [content pages WITHOUT watermarks]
+    # 1. Remove page 1 (blank with watermark): leaves [content]
+    # 2. Resize content to match target page size
+    # 3. Add blank page at end for alignment
     cp "${D}/../includes/COPYRIGHT.pdf" "${TEMP_DIR}/COPYRIGHT_${FORMAT}.pdf"
-    pdftk "${TEMP_DIR}/COPYRIGHT_${FORMAT}.pdf" cat 2-end output "${TEMP_DIR}/COPYRIGHT_${FORMAT}-cut.pdf"
-
-    if [ "${FORMAT}" = "PDF" ]; then
-        pdftk "${BLANK}" "${TEMP_DIR}/COPYRIGHT_${FORMAT}-cut.pdf" cat output "${D}/../includes/COPYRIGHT_${FORMAT}.pdf"
-    else
-        cp "${TEMP_DIR}/COPYRIGHT_${FORMAT}-cut.pdf" "${D}/../includes/COPYRIGHT_${FORMAT}.pdf"
+    
+    # Step 1: Remove page 1 (blank with watermark), leaving only content
+    pdftk "${TEMP_DIR}/COPYRIGHT_${FORMAT}.pdf" cat 2-end output "${TEMP_DIR}/COPYRIGHT_${FORMAT}-no-watermark.pdf"
+    
+    # Step 2: Resize content to match target page size
+    IFS='|' read -r WIDTH HEIGHT PRINCE_PAGE_SIZE <<< "$(determine_page_size_settings "${PAGE_SIZE}")"
+    if ! resize_pdf_to_size "${TEMP_DIR}/COPYRIGHT_${FORMAT}-no-watermark.pdf" \
+                       "${TEMP_DIR}/COPYRIGHT_${FORMAT}-resized.pdf" \
+                       "${WIDTH}" "${HEIGHT}"; then
+        echo -e "\033[31mError: Failed to resize COPYRIGHT_${FORMAT}.pdf\033[0m"
+        status=1
     fi
-    # fi
+    
+    # Step 3: Add blank page at end
+    if ! pdftk "${TEMP_DIR}/COPYRIGHT_${FORMAT}-resized.pdf" "${BLANK}" cat output "${D}/../includes/COPYRIGHT_${FORMAT}.pdf"; then
+        echo -e "\033[31mError: Failed to add blank page to COPYRIGHT_${FORMAT}.pdf\033[0m"
+        status=1
+    fi
 
     # Process BOOK_INTRO
     echo -e "\033[34mProcessing Book Introduction...\033[0m"
-    if ! process_document "BOOK_INTRO"; then
+    if ! process_document "BOOK_INTRO" "iching_nopage.css"; then
         echo -e "\033[31mFailed to process BOOK_INTRO\033[0m"
         status=1
     else
         cp "${D}/../includes/BOOK_INTRO.pdf" "${TEMP_DIR}/BOOK_INTRO_${FORMAT}.pdf"
-        pdftk "${TEMP_DIR}/BOOK_INTRO_${FORMAT}.pdf" cat 3-end output "${TEMP_DIR}/BOOK_INTRO_${FORMAT}-cut.pdf"
-        pdftk "${BLANK}" "${TEMP_DIR}/BOOK_INTRO_${FORMAT}-cut.pdf" cat output "${D}/../includes/BOOK_INTRO_${FORMAT}.pdf"
+        pdftk "${TEMP_DIR}/BOOK_INTRO_${FORMAT}.pdf" cat 3-end output "${D}/../includes/BOOK_INTRO_${FORMAT}.pdf"
     fi
 
     # Process main content
@@ -236,8 +407,7 @@ function process_documents() {
         status=1
     else
         cp "${D}/../includes/iching.pdf" "${TEMP_DIR}/iching_${FORMAT}.pdf"
-        pdftk "${TEMP_DIR}/iching_${FORMAT}.pdf" cat 3-end output "${TEMP_DIR}/iching_${FORMAT}-cut.pdf"
-        pdftk "${BLANK}" "${TEMP_DIR}/iching_${FORMAT}-cut.pdf" cat output "${D}/../includes/iching_${FORMAT}.pdf"
+        pdftk "${TEMP_DIR}/iching_${FORMAT}.pdf" cat 3-end output "${D}/../includes/iching_${FORMAT}.pdf"
     fi
 
     return $status
@@ -339,7 +509,13 @@ function main() {
 
     # Start processing
     echo -e "\033[1;34mStarting I Ching Book PDF generation\033[0m"
-    echo -e "\033[34mPage size: ${CURRENT_SIZE}, Format: ${FORMAT}, Minimal: ${MINIMAL}\033[0m"
+    echo -e "\033[34mPage size: ${PAGE_SIZE}, Format: ${FORMAT}, Minimal: ${MINIMAL}\033[0m"
+
+    # Ensure required files exist
+    if ! ensure_required_files "${PAGE_SIZE}"; then
+        echo -e "\033[31mError: Failed to create required files\033[0m"
+        return 1
+    fi
 
     # Clean up previous files
     cleanup_previous_files
