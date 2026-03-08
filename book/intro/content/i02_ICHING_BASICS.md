@@ -1,14 +1,92 @@
 
 # II: Foundations of the I Ching
 
+For those who may not be familiar with the basics of a hexagram, here is a brief overview.  These are also some of the rules or patterns that were used when translating the I Ching when writing *The Tholonic I Ching*[^100].
+
+[^100]: Available on Amazon and as a free PDF download on <a href src="tholonia.com">Tholonia.com</a>
+
+### I Ching Primer
+
+#### Understanding the Structure of a Hexagram
+
+A hexagram is composed of two trigrams, each containing three lines. The lower trigram consists of lines **1, 2, and 3**, and reflects the inner conditions of a situation: the realm of potential, preparation, and internal transformation. The upper trigram, composed of lines **4, 5, and 6**, speaks to the outer conditions: the realm of action, interaction, and the manifestation of intention within the world.
+
+Each trigram follows a threefold rhythm that echoes the basic movement of existence. Line **1** marks the emergence of a process, when potential first takes recognizable form. Line **2** expresses the phase of realization, when potential settles into structure and begins acting within its environment. Line **3** brings the cycle to its point of culmination, when transformation becomes inevitable and the process prepares either to dissipate or to evolve into a new configuration.
+
+Because every hexagram contains these two intertwined movements, the inner and the outer, the interpretation of any line requires an awareness of how these cycles speak to one another. Together they reveal how negotiation, limitation, and contribution are enacted both within the individual and within the larger field of circumstance.
+
+#### The Archetypal Hexagram
+
+The natural sequence of the six lines follows an alternating pattern of yang and yin:
+
+Yang Yin Yang Yin Yang Yin, or ―  – –  ―  – –  ―  – –, or ䷾.
+
+This pattern embodies a primordial alternation between activity and receptivity, each giving rise to the next. Yang lines, appearing naturally in positions **1, 3, and 5**, represent movement, initiative, expansion, and the active force within each moment of the cycle. Yin lines, appearing in positions **2, 4, and 6**, represent openness, adaptation, consolidation, and the shaping capacity that allows movement to take coherent form.
+
+When the lines appear in their natural positions, the hexagram tends to unfold with clarity and harmony. When a line is inverted from its natural state, the hexagram reveals the presence of tension, friction, or transformation. These deviations mark the points at which a process strains against its own limits or prepares to renew itself.
+
+Recognizing this intrinsic order provides a foundation for understanding how negotiation, limitation, and contribution move through the hexagram.
+
+#### How the Natural Yang–Yin Pattern Shapes the Meaning of Each Line
+
+This alternating structure establishes the underlying rhythm of the hexagram. A line in its natural state supports the organic movement of the cycle, while a line in an inverted state signals instability or transition. Each line represents a distinct moment in the life of a process, and its natural quality reveals its proper function within the unfolding.
+
+#### The Inner Trigram: Lines 1, 2, and 3
+
+Line **1** is naturally yang. It marks the moment when potential gathers and begins to move. When this line becomes yin, the movement hesitates or weakens and the process enters the world without firm direction.
+
+Line **2** is naturally yin. It provides the receptive ground upon which the emerging force takes shape. When this line becomes yang, the process may act before it is fully formed or struggle to integrate its own momentum.
+
+Line **3** is naturally yang. It represents the culmination of the inner cycle and the threshold between the inner world and outward expression. When this line becomes yin, the transition may falter and movement outward may remain incomplete.
+
+#### The Outer Trigram: Lines 4, 5, and 6
+
+Line **4** is naturally yin. It marks the first contact with the outer world, when inner intention seeks alignment with external conditions. If this line becomes yang, there may be premature assertion or an attempt to force circumstances that are not yet ready.
+
+Line **5** is naturally yang. It expresses full manifestation within the outer world and is associated with clarity, leadership, and mastery. When this line becomes yin, authority weakens and the process may lose direction or fail to realize its full potential.
+
+Line **6** is naturally yin. It represents the closing of the cycle, the point at which a process has completed its outward expression and must now release, return, or transform. When this line becomes yang, it signals resistance to closure or an effort to prolong a movement that has already reached its natural end. Line 6 is not a higher refinement than line 5 but the stage that follows fulfillment, when momentum dissolves and a new cycle quietly begins to gather.
+
+#### The Flow of Energy Through the Hexagram
+
+The six lines trace an ascending current. Lines **1–2** belong to the realm of Earth and establish foundation and form. Lines **3–4** belong to the human realm, where intention meets circumstance and negotiation shapes the unfolding path. Lines **5–6** belong to the realm of Heaven, where expression reaches its height and the process moves toward completion and return. The hexagram thus embodies a movement from emergence, through realization, toward consummation and renewal.
+
+#### The Tension and Dialogue Between Adjacent Lines
+
+Each line is influenced by the lines immediately above and below it. Yin beneath yang stabilizes and supports. Yang above yin activates and presses forward. The hexagram is therefore a living structure whose meaning arises through the interplay of neighboring forces. This interplay reveals the internal rhythm of change: the subtle dynamics through which the situation seeks balance.
+
+#### The Central Authority of the Fifth Line
+
+Line **5** occupies the center of the upper trigram and is traditionally regarded as the ruler of the hexagram. It is the position where clarity and purpose find their most effective expression. A strong line 5 lends coherence and direction to the entire structure, while a weakened line 5 often reveals misalignment or uncertainty. As the bridge between earthly action and the larger arc of unfolding circumstance, it exerts profound influence on the meaning of the whole.
+
+#### The Relationship Between Opposing Hexagrams
+
+Every hexagram possesses an opposite formed by inverting all six lines. This opposite reveals the complementary or balancing principle inherent within the original figure. The Creative, composed entirely of yang lines, finds its opposite in the Receptive, composed entirely of yin. Together they articulate the full cycle of manifestation from potential to form. Examining a hexagram alongside its opposite clarifies the unseen dimension of the process and reveals the greater movement toward equilibrium.
+
+#### Nuclear Hexagrams and the Hidden Structure Within
+
+The four central lines, **2–5**, form a secondary figure known as the nuclear hexagram. This inner structure represents the generative core of the situation and often reveals what is quietly developing within the larger form. The nuclear hexagram does not replace the primary one but illuminates the forces that are gathering beneath the surface and shaping the next phase. For example, within the Creative lies the nuclear hexagram Breakthrough, suggesting that pure creative force naturally presses toward decisive emergence.
+
+#### Moving Lines and the Transformation of the Hexagram
+
+When one or more lines change, they produce a second hexagram describing the direction of future development. Changing lines indicate where tension, instability, or transformation is active. Changes in lines **1** or **6** often signal major transitions, while changes in the middle lines represent more gradual evolution. Moving lines reveal the trajectory of the process and show how the situation is unfolding across the cycle of change.
+
+#### The Tholonic Model and the Structure of the Hexagram
+
+The principles of negotiation, limitation, and contribution are embedded deeply within the hexagram. Negotiation appears in the relationships between adjacent lines and in the balancing of opposite hexagrams. Limitation is expressed through the structural hierarchy of trigrams and the ordered movement from line 1 to line 6. Contribution becomes visible in the transformative shifts produced by moving lines, in the emergence of the nuclear hexagram, and in the continuous cycle through which one configuration gives rise to the next.
+
+The I Ching therefore mirrors the recursive architecture of the Tholonic model and demonstrates, in symbolic form, how existence continually creates new patterns of coherence from the interplay of its fundamental forces.
+
+
+
 ## Patterns, Principles, and Structure
 
 
-The I Ching’s trigrams, like the thologram’s triangle or triad, is seen as the concept of a the stable building block of structure. In the I Ching, a trigram is simply three states of yin/yang together to form a stable concept. There are eight possible combinations when using yin and yang (shown below).
+The I Ching's trigrams, like the thologram's triangle or triad, are seen as the concept of the stable building block of structure. In the I Ching, a trigram is simply three states of yin/yang together to form a stable concept. There are eight possible combinations when using yin and yang (see image).
 
-<img src="/home/jw/src/iching_cli/book/intro/Images/i-ching-8.png" style='float:right;width:20%'/>The I Ching also has a concept of a “lower” and an “upper” state. It describes the lower state as earth, matter, the subjective, the hidden, the inner, etc. depending on context, and the “upper” state as that of heaven, ideas, archetypes, the outer, exposed and the arena of creation, etc, also depending on context. Just as the yin and yang lines represent the two states of something, the upper and lower trigrams represent the two states of the stable concept created by the three lines of the trigram. Already we see the self-similar properties of dualities of trinities as shown in the thologram as well.
+<img src="/home/jw/src/iching_cli/book/intro/Images/i-ching-8.png" style='float:right;width:20%'/>The I Ching also has a concept of a “lower” and an “upper” state. It describes the lower state as earth, matter, the subjective, the hidden, the inner, etc. depending on context, and the “upper” state as that of heaven, ideas, archetypes, the outer, exposed and the arena of creation, etc, also depending on context. Just as the yin and yang lines represent the two states of something, the upper and lower trigrams represent the two states of the stable concept created by the three lines of the trigram. Already we see the self-similar properties of dualities of trinities (and trinities of dualities) as shown in the thologram as well.
 
-Pairing these eight upper trigrams with the eight lower trigrams results in a total of 64 hexagrams, shown below (even values are blue, odd values are red for easier viewing). The number under the hexagram is the binary value of the hexagram when considering yin as 0 and yang as 1. This was the original Fu Xi arrangement before the current King Wen (~1154 BCE, Zhou Dynasty) order was introduced.
+Pairing these eight upper trigrams with the eight lower trigrams results in a total of 64 hexagrams, shown below (even values are blue, odd values are red for easier viewing). The number under the hexagram is the binary value of the hexagram when considering yin as 0 and yang as 1. 
 
 >
 
@@ -17,11 +95,11 @@ Pairing these eight upper trigrams with the eight lower trigrams results in a to
 
 While there are 64 hexagrams, it is more useful to think of two different sets of 32 pairs of hexagrams. The reason this is more useful is that we can consider these 32 pairs as 32 singularities that instantiate in two different forms depending on the context.
 
-##### Note: For clarity, referring to hexagrams can take the following form of **2䷁*~0~* the *Receptive***, where **2** is the traditional or King Wen number of the hexagram, **䷁** is the hexagram itself, and the small-italic ***~0~*** is the binary value of the hexagrams when yang=1 and yin=0. The name, ***Receptive***, is the traditional name, which may differ from the Tholonic I Ching name. Unless noted, all the hexagram name in this document are the traditional names.
+##### Note: For clarity, referring to hexagrams can take the following form of **2䷁*~0~* the *Receptive***, where **2** is the traditional or King Wen number of the hexagram, **䷁** is the hexagram itself, and the small-italic ***~0~*** is the binary value of the hexagrams when yang=1 and yin=0. The name, ***Receptive***, is the traditional name, which may differ from the "Tholonic I Ching" name. Unless noted, all the hexagram name in this document are the traditional names.
 
 For example, take the most basic hexagrams: 2䷁*~0~* the *Receptive*, and 1䷀*~63~* the *Creative*. Between these two hexagrams, all other hexagrams exist, so together, as a pair, they represent one state that includes the broadest context that everything exists within. Another example is the pair of hexagrams 39䷦*~20~* *Obstruction*, which states, “*When faced with dangerous obstacles it is wise to retreat and prepare accordingly with those of like mind*,” and its opposite, 38䷥*~43~* *Diverging Perspectives* or *Opposition*, which states, “*When opposites meet they must proceed with care, for brusqueness will lead to calamity, but through understanding and cooperation we can change an opposition into a polarity. This is how all things come into being*.”
 
-The *meta* concept here is one of opposites and how they can interact either through polarity as cooperation or conflict.  We examine these pairs further on, but for now it it useful to keep this concept in mind.
+The *meta* concept here is one of opposites and how they can interact either through polarity as cooperation or conflict. We examine these pairs further on, but for now it is useful to keep this concept in mind.
 
 
 
@@ -30,7 +108,7 @@ The *meta* concept here is one of opposites and how they can interact either thr
 
 ##### *Note: To avoid confusion, a tholonic triple, which is essentially a triangle, is called a “triad” to distinguish from the I Ching’s “trigram”.*
 
-A tholonic triad is a bit different from, but quite compatible with, the I Ching trigram. Instead of three states that the I Ching defines as beginning, middle, end, or earth, man, heaven, the triad is made of a source and the two polar opposites that emerge from that source, something like a *synthesis* that holds within it its own but yet unexpressed   *thesis* and *antithesis*. The three lines of a trigram and the three points of a triad correlate with *NDC*.
+A tholonic triad is a bit different from, but quite compatible with, the I Ching trigram. Instead of three states that the I Ching defines as beginning, middle, end, or earth, man, heaven, the triad is made of a source and the two polar opposites that emerge from that source, something like a *synthesis* that holds within it its own but yet unexpressed *thesis* and *antithesis*. The three lines of a trigram and the three points of a triad correlate with *NDC*.
 
 The thologram also has a concept of *upper* and *lower* in that the *upper* trigram of the I Ching, which comes *after* the *lower* trigram, equates nicely to the *child* triad of a tholon, which comes *after* or *within* the parent. In other words, the *lower* I Ching trigram is the *parent* triad of the thologram, and the *upper* I Ching trigram is the *child* triad of the tholon. We can now see that the final hexagram is perfectly equivalent to a 2D tholon map.
 
@@ -41,7 +119,7 @@ It might seem counterintuitive that the *upper* or *outer* trigrams of the I Chi
 
 If the thologram recurses inward and not outward, does this mean that all creations exist *within* the initial tetrahedron, or tholon, that is created by this primal; parent and child triad? Conceptually, yes, within which are an infinite number of embedded tetrahedrons across an infinite number of generations.
 
-##### Note: One interesting detail is when we use the outer triad on the parent level with the inner triad on the child level; all the numbers, as indicated on the image above, for each side equal 9, (1+6+2), (2+4+3), (3+5+1), but if we associated the lower trigram with the inner triad, and the upper trigram with the outer triad, all the numbers for each side equal 12, (4+3+5), (5+1+6), (6+2+4). 9 is a smaller number and is more efficiently expressed and is self-similar  (3<sup>3</sup>) unlike 12, which means it has “less resistance” than the larger, less sophisticated, and more complex 12 (2<sup>2</sup>×3 - see appendix for more on this). That does not mean other mappings are incorrect, just that this one is the most efficient and therefore more likely to occur.
+##### Note: One interesting detail is when we use the outer triad on the parent level with the inner triad on the child level; all the numbers, as indicated on the image above, for each side equal 9, (1+6+2), (2+4+3), (3+5+1), but if we associated the lower trigram with the inner triad, and the upper trigram with the outer triad, all the numbers for each side equal 12, (4+3+5), (5+1+6), (6+2+4). 9 is a smaller number and is more efficiently expressed and is self-similar (3<sup>3</sup>) unlike 12, which means it has "less resistance" than the larger and more complex 12 (2<sup>2</sup>×3 - see appendix for more on this). That does not mean other mappings are incorrect, just that this one is the most efficient and therefore more likely to occur.
 
 
 
@@ -174,12 +252,12 @@ We can also see that each pair of hexagrams for the same point has a meaning tha
 
 The other thing we notice is the symmetry of the numbers, wherein every pair of opposite (ascending/descending) values on opposite sides of the vertical axis always equals 63, for example 25䷘*~57~* **INNOCENCE** and 46䷭*~6~* ***Pushing Upwards*** where 57 + 6 = 63. The same is true for every lower and upper trigram and their opposite equaling 7, but in the case of the ascending trigrams, the axis is diagonal from the lowest right sector to the highest left sector, and for the descending trigrams, the axis is mirrored, from lowest left to the highest right sector.
 
-<img src="/home/jw/src/iching_cli/book/intro/Images/dot-circle-3a-2_axis.png" style='float:right;width:40%'/>These axes are not easily visualized, so here is a diagram, and, as we can see, the lower trigram connections follow crossed, diverging paths suggesting dynamism or tension, while the upper trigram connections form a more ordered, symmetrical geometric pattern suggesting stability and structure. This visual difference could represent the contrasting nature or functions of the upper and lower trigrams in I Ching philosophy, with lower trigrams potentially representing more dynamic, changing inner conditions and upper trigrams representing more structured, manifest outer conditions.  This is consistent with the concept that the lower trigrams is the more formative “inner” and the upper trigram is the more manifest “outer.”
+<img src="/home/jw/src/iching_cli/book/intro/Images/dot-circle-3a-2_axis.png" style='float:right;width:40%'/>These axes are not easily visualized, so here is a diagram, and, as we can see, the lower trigram connections follow crossed, diverging paths suggesting dynamism or tension, while the upper trigram connections form a more ordered, symmetrical geometric pattern suggesting stability and structure. This visual difference could represent the contrasting nature or functions of the upper and lower trigrams in I Ching philosophy, with lower trigrams potentially representing more dynamic, changing inner conditions and upper trigrams representing more structured, manifest outer conditions.  This is consistent with the concept that the lower trigram is the more formative "inner" and the upper trigram is the more manifest "outer."
 
 Here is an overview of the cardinal pairs shown above, using the traditional King Wen hexagram titles and meanings
 
 -   Pair 1)  1䷀*~63~* **CREATIVE** ⇔ 2䷁*~0~* ***Receptive***
--   - Both of these hexagrams define a genesis, the origin of creation, the primordial duality that forms the foundation of existence, where active creation and passive reception combine to give rise to all things.  This is where pure, dynamic force (CREATIVE) joins with the yielding, nurturing (Receptive), allowing creation to take form.  This polarity that defines the spectrum within which every other hexagrams exists.
+-   - Both of these hexagrams define a genesis, the origin of creation, the primordial duality that forms the foundation of existence, where active creation and passive reception combine to give rise to all things.  This is where pure, dynamic force (CREATIVE) joins with the yielding, nurturing (Receptive), allowing creation to take form.  This polarity defines the spectrum within which every other hexagram exists.
       
     
 -   Pair 2) 10䷉*~59~* **TREADING** ⇔ 7䷊*~11~* **Peace***
@@ -285,7 +363,7 @@ Interesting side note: in Christian monasticism, traditional Chinese medicine, s
 ## The Form of Hexagrams
 
 
-We can easily recognize this same archetypal structure of the I Ching and the tholon in many systems, from the process of mitosis to the shape of trees and plants with their *inner* roots and *outer* branches and leaves. This is significant because in the thologram there is a similar concept with a real tholon and a virtual tholon which are matched to create a complete tholon. We also saw an example of this in the book “THOLONIA - The Mechanics of Existential Awareness” when looking at how the complete tholon models quarks to the proton.
+We can easily recognize this same archetypal structure of the I Ching and the tholon in many systems, from the process of mitosis to the shape of trees and plants with their *inner* roots and *outer* branches and leaves. This is significant because in the thologram there is a similar concept with a real tholon and a virtual tholon which are matched to create a complete tholon. We also saw an example of this in the book “*THOLONIA - The Mechanics of Existential Awareness*” when looking at how the complete tholon models quarks to the proton.
 
 In the thologram, all odd-numbered tholons are *real* and all even-numbered tholons are *virtual*. Likewise, all hexagrams that begin with a yin line are even-numbered hexagrams, and those that begin with a yang line are odd-numbered. We now have a very clean mapping between the thologram and the I Ching of *virtual* as yin and *real* as yang.
 
@@ -295,16 +373,16 @@ There are many mappings and similarities between the tholon and the I Ching, but
 
 <img src="/home/jw/src/iching_cli/book/intro/Images/overlay-gen.png" style='float:right;width:50%'/>If we create a binary tree of the I Ching where the bifurcations follow the path of least resistance, meaning they will always move into the emptiest space, we end up with bifurcations separated by 60° (which is also the angle that creates a tetrahedron/tholon). This would then create the patterns (right) for each of the 6 generations of bifurcations.
 
-Simply splitting one line into two lines, in accordance with the laws of laws of least energy, we naturally form a pattern of hexagons that matches the pattern of tholonic expansion. This is because the I Ching and the thologram represent the same laws but in the context of a binary system (I Ching) and a trinary or synergetic system (thologram). Not surprisingly, the one point they both naturally center around is the *N*-source.
+Simply splitting one line into two lines, in accordance with the laws of least energy, we naturally form a pattern of hexagons that matches the pattern of tholonic expansion. This is because the I Ching and the thologram represent the same laws but in the context of a binary system (I Ching) and a trinary or synergetic system (thologram). Not surprisingly, the one point they both naturally center around is the *N*-source.
 
 The image below is a more in-depth version showing the expansion of the I Ching’s lines from 1 to 6, and beyond. In this image, we follow each bifurcation starting with the one point from which the original duality emerged. The arrows show the direction of the movement, with left-sided (or *port* side, as the side is relative to the direction of the arrow) arrows as yin and right-sided (or *starboard* side) arrows as yang (or vice versa). Doubled-headed arrows indicate that one line (in the same direction) is shared by two parents, and lines with arrows in both directions indicate a shared line that is bidirectional.
 
 
 <center><img src='../Images/hex_builder.png' style='width:100%'/></center>
 
-***Fig. hb1*** shows the paths of all 64 hexagrams of the I Ching which are the result of 6 generations. ***Fig hb2*** shows the 7th generation. This is added only to show that with the 7th generations we get the first complete closure of a hexagram (the first one, in the center), which is another example of the “*All movements are accomplished in six stages, and the **seventh** brings return*”. ***Fig hb3*** is the same pattern, but iterated over 13 generations, generating 8,192 (or 2<sup>13</sup>) final values. It is included simply to show how the larger form remains a hexagram and how only the last two generations (purple and cyan) are even visible, occluding all previous generations. Notice how at this point, the dominant pattern, which will remain the dominant pattern for all future children, are two sets of three double-headed arrows, one set from the final generation (right), and one from the previous generation (left), shown in this image<img src="/home/jw/src/iching_cli/book/intro/Images/triplet-pairs.png" style='width:30px'/>pattern of 2×3 (final generations × intersections of movement) does not appear until the 2<sup>3</sup> (or 8<sup>th</sup>) generation. Because new generations overlap the previous when shown in two dimensions, we can’t see that this is really more of a 3D design, with the originating point in the center, expanding with each generation, creating a hexagonal cone.
+***Fig. hb1*** shows the paths of all 64 hexagrams of the I Ching which are the result of 6 generations. ***Fig hb2*** shows the 7th generation. This is added only to show that with the 7th generation we get the first complete closure of a hexagram (the first one, in the center), which is another example of "*All movements are accomplished in six stages, and the **seventh** brings return*". ***Fig hb3*** is the same pattern, but iterated over 13 generations, generating 8,192 (or 2<sup>13</sup>) final values. It is included simply to show how the larger form remains a hexagram and how only the last two generations (purple and cyan) are even visible, occluding all previous generations. Notice how at this point, the dominant pattern, which will remain the dominant pattern for all future children, consists of two sets of three double-headed arrows: one set from the final generation (right), and one from the previous generation (left), shown in this image<img src="/home/jw/src/iching_cli/book/intro/Images/triplet-pairs.png" style='width:30px'/>. This pattern of 2×3 (final generations × intersections of movement) does not appear until the 2<sup>3</sup> (or 8<sup>th</sup>) generation. Because new generations overlap the previous when shown in two dimensions, we can't see that this is really more of a 3D design, with the originating point in the center, expanding with each generation, creating a hexagonal cone.
 
-This pattern of 6 triangles also happens to be two tetrahedrons that perfectly describe the shape of the thologram, i.e., two tholons, one *real* and one *virtual*, connected at the base. Yes, this is purely the result of the properties of geometry, but as the I Ching ands the thologram are built upon the same laws, we would expect to see such interrelated patterns.
+This pattern of 6 triangles also happens to be two tetrahedrons that perfectly describe the shape of the thologram, i.e., two tholons, one *real* and one *virtual*, connected at the base. Yes, this is purely the result of the properties of geometry, but as the I Ching and the thologram are built upon the same laws, we would expect to see such interrelated patterns.
 
 Also of interest in this diagram is how it shows that the original *N*-source is the result of its own creation *after* 6 generations. In other words, after 6 generations, a new *N*-source is created in the same location as the original *N*-source, creating a new cycle that *departs* from the previous. Notice that it is the 5<sup>th</sup> place where two different cycles come together for the first time, which is why the 5<sup>th</sup> place is one of *integration*.
 

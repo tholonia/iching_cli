@@ -268,12 +268,12 @@
         "explanation": "The lower trigram, 'The Joyous,' symbolizes a state of happiness and peace, while the upper trigram, 'The Arousing,' brings energy and movement. Together, they form a dynamic relationship where the calmness of joy is invigorated by the thrill of excitement, resulting in a harmonious and lively interaction."
     },
     "line_type": [
-        "yin",
-        "yin",
+        "yang",
         "yang",
         "yin",
         "yang",
-        "yang"
+        "yin",
+        "yin"
     ],
     "pairpath": {
         "title": "Gradual Progress",

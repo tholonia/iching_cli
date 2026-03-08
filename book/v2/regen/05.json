@@ -268,12 +268,12 @@
         "explanation": "The lower trigram, 'The Creative,' symbolizes strength and innovation, while the upper trigram, 'The Abysmal,' signifies depth and mystery. Together, they create a dynamic interplay where creative energy explores profound depths, revealing hidden possibilities and fostering transformation through their interaction."
     },
     "line_type": [
-        "yin",
+        "yang",
+        "yang",
         "yang",
         "yin",
         "yang",
-        "yang",
-        "yang"
+        "yin"
     ],
     "pairpath": {
         "title": "Patience and Progress",

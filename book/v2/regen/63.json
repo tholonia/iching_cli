@@ -4,7 +4,7 @@
     "model": "gpt-4o",
     "date": "Sun Mar 02 01:10:29 AM  2025",
     "notes": "",
-    "hexagram_code": "\u4dfe",
+    "hexagram_code": "䷾",
     "name": "Emergent Order",
     "description": "A state of perfected balance, where all elements are aligned in harmony. Stability is maintained, yet this very completion signals the inevitability of future change and renewal.",
     "king_wen": {
@@ -17,22 +17,22 @@
         "above": {
             "Trigram Number": 6,
             "Binary Decimal": 2,
-            "Symbol": "\u2635",
-            "Chinese Symbol": "\u574e",
-            "Phonetic": "K\u01cen",
+            "Symbol": "☵",
+            "Chinese Symbol": "坎",
+            "Phonetic": "Kǎn",
             "English Translation": "Water",
-            "English Symbol": "\u6c34",
+            "English Symbol": "水",
             "Meaning": "The Abysmal",
             "Quality": "Deep and Mysterious"
         },
         "below": {
             "Trigram Number": 7,
             "Binary Decimal": 5,
-            "Symbol": "\u2632",
-            "Chinese Symbol": "\u79bb",
-            "Phonetic": "L\u00ed",
+            "Symbol": "☲",
+            "Chinese Symbol": "离",
+            "Phonetic": "Lí",
             "English Translation": "Fire",
-            "English Symbol": "\u706b",
+            "English Symbol": "火",
             "Meaning": "The Clinging",
             "Quality": "Bright and Radiant"
         }
@@ -55,7 +55,7 @@
             "position": 5,
             "name": "Steadfast Radiance",
             "meaning": "Representing a mature stage of sustainable order, this line radiates strength and reliability. It calls upon the leadership quality of remaining true to one's path while uplifting others.",
-            "changing": "An inner softness and receptivity are transformed into vibrant, illuminating energy\u2014shifting the underlying character into a mode of active, visible leadership."
+            "changing": "An inner softness and receptivity are transformed into vibrant, illuminating energy—shifting the underlying character into a mode of active, visible leadership."
         },
         {
             "position": 4,
@@ -97,7 +97,7 @@
         "order8parent": "COMPLETION & RENEWAL; Return to Source"
     },
     "image": {
-        "description": "The choice of a gyroscope, realism, graphite, and Leonardo da Vinci embodies the hexagram's theme of \"SUSTAINABLE ORDER,\" reflecting completion and renewal. A gyroscope symbolizes stability and the cyclical nature of existence, resonating with the Tholonic Model\u2019s emphasis on balance and continuous interaction within a holarchic structure. Realism captures this concept with precision, integrating the aesthetic with the material world. Graphite, a fundamental medium, aligns with the idea of returning to the source, representative of the primal point from which awareness and intention arise. Leonardo da Vinci, a master of both art and science, embodies the integration of awareness and intention, making him an ideal artist for illustrating these principles. The composition's award-winning, highly symbolic nature mirrors the Tholonic Model's depth, where art becomes a manifestation of the complex interconnections that sustain reality.",
+        "description": "The choice of a gyroscope, realism, graphite, and Leonardo da Vinci embodies the hexagram's theme of \"SUSTAINABLE ORDER,\" reflecting completion and renewal. A gyroscope symbolizes stability and the cyclical nature of existence, resonating with the Tholonic Model’s emphasis on balance and continuous interaction within a holarchic structure. Realism captures this concept with precision, integrating the aesthetic with the material world. Graphite, a fundamental medium, aligns with the idea of returning to the source, representative of the primal point from which awareness and intention arise. Leonardo da Vinci, a master of both art and science, embodies the integration of awareness and intention, making him an ideal artist for illustrating these principles. The composition's award-winning, highly symbolic nature mirrors the Tholonic Model's depth, where art becomes a manifestation of the complex interconnections that sustain reality.",
         "file": "63.png"
     },
     "energy_cycle": "ascending",
@@ -144,7 +144,7 @@
             {
                 "title": "The Whispers of the Wild (Man vs. Nature)",
                 "theme": "Style of Barry Lopez",
-                "short_story": "High in the mist-cloaked mountains, a solitary wanderer named Elan sought solace from the tumult of the world. Drawn by tales of the valley below\u2014a realm untouched by the ambitions of man\u2014he descended through the dense canopy, guided only by the whispers of the wind. Here, the boundary between the animate and inanimate blurred, revealing a dance of light and shadow entwined with the cycles of life. \n\nAs Elan ventured deeper, he encountered a river, its flow as ancient as the rocks it carved. The water spoke a language of endurance, hinting at secrets stored within its depths. Each footstep left faint impressions on the soft earth, paths of exploration that led to understanding. The elements conspired against him\u2014storms defied his passage and shadows loomed ominously. Yet with steadfast resolve, Elan learned to navigate the challenges, each obstacle a lesson in humility.\n\nWhile gathering these tales of resilience and change, a realization dawned upon him: beneath nature\u2019s impassive facade lay a narrative of creation destined to birth equilibrium. The valley became not only his sanctuary but also a reflection in the untamed world\u2014a reminder that every ending wove the threads of new beginnings.",
+                "short_story": "High in the mist-cloaked mountains, a solitary wanderer named Elan sought solace from the tumult of the world. Drawn by tales of the valley below—a realm untouched by the ambitions of man—he descended through the dense canopy, guided only by the whispers of the wind. Here, the boundary between the animate and inanimate blurred, revealing a dance of light and shadow entwined with the cycles of life. \n\nAs Elan ventured deeper, he encountered a river, its flow as ancient as the rocks it carved. The water spoke a language of endurance, hinting at secrets stored within its depths. Each footstep left faint impressions on the soft earth, paths of exploration that led to understanding. The elements conspired against him—storms defied his passage and shadows loomed ominously. Yet with steadfast resolve, Elan learned to navigate the challenges, each obstacle a lesson in humility.\n\nWhile gathering these tales of resilience and change, a realization dawned upon him: beneath nature’s impassive facade lay a narrative of creation destined to birth equilibrium. The valley became not only his sanctuary but also a reflection in the untamed world—a reminder that every ending wove the threads of new beginnings.",
                 "lines_in_context": {
                     "6": {
                         "name": "Cycle of Continuity",
@@ -181,7 +181,7 @@
             {
                 "title": "The Dance of Inner Light (Man vs. Self)",
                 "theme": "Style of Hermann Hesse",
-                "short_story": "In the quietude of his retreat, Leander embarked on a solitary quest for purpose. Surrounded by towering pines and whispers of the forest, he delved into the depths of his soul, seeking the elusive harmony between his ambitions and the serenity of being. He spent his days sketching mandalas, each drawing a symbol of his journey inward, a reflection of an ever-evolving harmony. Every stroke on his canvas brought him closer to an understanding of balance, where creative fervor met disciplined restraint.\n\nIn moments of contemplation, Leander encountered his own resistance\u2014the fear of becoming lost in endless introspection, trapped within his thoughts. Yet it was within this struggle that he discovered the reservoir of resilience, pushing the boundaries of his self-limiting beliefs. As dusk settled over the landscape, Leander experienced a profound breakthrough, an epiphany where clarity and mystery coalesced.\n\nHis journey taught him the importance of surrender, of allowing light to emerge through the shadows of uncertainty. In embracing this dance, Leander found a profound sense of peace and a renewed faith in the path unfolding before him.",
+                "short_story": "In the quietude of his retreat, Leander embarked on a solitary quest for purpose. Surrounded by towering pines and whispers of the forest, he delved into the depths of his soul, seeking the elusive harmony between his ambitions and the serenity of being. He spent his days sketching mandalas, each drawing a symbol of his journey inward, a reflection of an ever-evolving harmony. Every stroke on his canvas brought him closer to an understanding of balance, where creative fervor met disciplined restraint.\n\nIn moments of contemplation, Leander encountered his own resistance—the fear of becoming lost in endless introspection, trapped within his thoughts. Yet it was within this struggle that he discovered the reservoir of resilience, pushing the boundaries of his self-limiting beliefs. As dusk settled over the landscape, Leander experienced a profound breakthrough, an epiphany where clarity and mystery coalesced.\n\nHis journey taught him the importance of surrender, of allowing light to emerge through the shadows of uncertainty. In embracing this dance, Leander found a profound sense of peace and a renewed faith in the path unfolding before him.",
                 "lines_in_context": {
                     "6": {
                         "name": "Transcendent Insight",
@@ -220,7 +220,7 @@
     "history": {
         "title": "The Founding of the United Nations: A New Order",
         "subtitle": "\"Emergent Order\" in History",
-        "short_story": "In the aftermath of World War II, a world yearning for peace gathered in San Francisco in 1945 to draft the Charter of the United Nations. This monumental event symbolized humanity's collective longing to transcend chaos and establish a new global order. Delegates from fifty nations collaborated, merging diverse perspectives and overcoming the shadows of distrust. The Charter, signed on June 26, emerged as a manifesto of hope, embodying principles of negotiation and cooperation\u2014key tenets for preventing future conflicts. As diplomats navigated complex discussions, they laid the groundwork for this unique entity, a beacon of unity amidst a divided world. The UN was not just a political institution but a manifestation of a shared vision where peace and sustainable progress were possible. Its formation marked the first step in a journey toward global cooperation, reminding nations that unity could rise from the ashes of war, leading humanity toward a more interconnected, harmonious future.",
+        "short_story": "In the aftermath of World War II, a world yearning for peace gathered in San Francisco in 1945 to draft the Charter of the United Nations. This monumental event symbolized humanity's collective longing to transcend chaos and establish a new global order. Delegates from fifty nations collaborated, merging diverse perspectives and overcoming the shadows of distrust. The Charter, signed on June 26, emerged as a manifesto of hope, embodying principles of negotiation and cooperation—key tenets for preventing future conflicts. As diplomats navigated complex discussions, they laid the groundwork for this unique entity, a beacon of unity amidst a divided world. The UN was not just a political institution but a manifestation of a shared vision where peace and sustainable progress were possible. Its formation marked the first step in a journey toward global cooperation, reminding nations that unity could rise from the ashes of war, leading humanity toward a more interconnected, harmonious future.",
         "source": [
             "Schlesinger, Stephen C., Act of Creation: The Founding of The United Nations",
             "UN History Archives"
@@ -268,12 +268,12 @@
         "explanation": "The lower trigram 'The Clinging' symbolizes clarity and brightness, while the upper trigram 'The Abysmal' represents depth and mystery. Together, they illustrate how light and understanding can emerge from complex and obscure origins, forming a balanced and sustainable order."
     },
     "line_type": [
-        "yin",
         "yang",
         "yin",
         "yang",
         "yin",
-        "yang"
+        "yang",
+        "yin"
     ],
     "pairpath": {
         "title": "Completion Cycle",

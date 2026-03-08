@@ -268,12 +268,12 @@
         "explanation": "The lower trigram, representing Gentle and Penetrating, embodies subtle influence and adaptability. The upper trigram, also Gentle and Penetrating, reinforces this with constancy and transformation. Together, they create a balance where gentle forces gradually and persistently permeate, reflecting a unified essence of subtle influence and enduring adaptability."
     },
     "line_type": [
+        "yin",
         "yang",
         "yang",
         "yin",
         "yang",
-        "yang",
-        "yin"
+        "yang"
     ],
     "pairpath": {
         "title": "Shock and Influence",

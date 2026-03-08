@@ -268,12 +268,12 @@
         "explanation": "The lower trigram, Gentle and Penetrating, symbolizes subtle influence and adaptability, while the upper trigram, The Creative, represents strength and innovation. Together, they illustrate how soft, persistent influence can guide and enhance powerful creative forces, resulting in a harmonious and dynamic balance. This synergy reflects a state where gentle persuasion and robust creativity coexist, leading to a unified and effective outcome."
     },
     "line_type": [
+        "yin",
         "yang",
         "yang",
         "yang",
         "yang",
-        "yang",
-        "yin"
+        "yang"
     ],
     "pairpath": {
         "title": "Cycle of Influence",

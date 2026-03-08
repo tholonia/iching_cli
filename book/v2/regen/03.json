@@ -268,12 +268,12 @@
         "explanation": "The lower trigram, \"The Arousing\", symbolizes dynamic and exciting energy, while the upper trigram, \"The Abysmal\", represents depth and mystery. Together, they convey the idea that vibrant energy is born from profound and enigmatic origins, aligning with the synthesis of philosophical perspectives that describe energy arising from deep, mysterious sources."
     },
     "line_type": [
-        "yin",
         "yang",
         "yin",
         "yin",
         "yin",
-        "yang"
+        "yang",
+        "yin"
     ],
     "pairpath": {
         "title": "Transformation Cycle",

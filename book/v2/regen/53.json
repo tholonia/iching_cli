@@ -268,12 +268,12 @@
         "explanation": "The lower trigram, 'The Still,' symbolizes stability and endurance, akin to a mountain's steadfastness. The upper trigram, 'The Gentle,' represents subtle influence and gradual change, like the wind's persistent touch. Together, they illustrate how enduring strength and gentle persuasion create a balanced progression, where stability allows for transformative growth and subtle shifts lead to lasting impact."
     },
     "line_type": [
-        "yang",
-        "yang",
+        "yin",
         "yin",
         "yang",
         "yin",
-        "yin"
+        "yang",
+        "yang"
     ],
     "pairpath": {
         "title": "Gradual Progress",

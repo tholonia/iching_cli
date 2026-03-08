@@ -9,11 +9,10 @@
 @page-height: 9.61in;
 
 
-@margin-outer: 0.5in;
-@margin-gutter: 1in;
-@margin-top: 0.5in;
-@margin-bottom: 0.2in;
-/* Reduced to prevent excessive white space */
+@margin-outer: 0.5in;    /* Outside margin - Amazon minimum is 0.25in */
+@margin-gutter: 0.75in;  /* Inside margin (gutter) - 50% larger than Amazon minimum (0.5in) */
+@margin-top: 0.5in;      /* Top margin - Amazon minimum is 0.25in */
+@margin-bottom: 0.7in;   /* Bottom margin - Amazon minimum is 0.25in, extra for page numbers */
 
 @base-font-family: 'LinLibertine', 'NotoSerifCJK-Embedded';
 @base-font-size: 11pt;
@@ -177,21 +176,38 @@ blockquote, figcaption, .caption, .title, .subtitle {
 @page {
     size: @page-width @page-height !important;
     counter-reset: page -1;
+    /* Amazon KDP requirements - gutter 50% larger than minimum for better binding clearance */
+    margin-top: 0.5in !important;
+    margin-bottom: 0.7in !important;
+    margin-left: 0.75in !important;
+    margin-right: 0.75in !important;
 
     @bottom-center {
         content: "Page " counter(page) " of " counter(pages);
+        font-size: 8pt;
+        border-top: 0.5pt solid #999;
+        width: 2in;
+        padding-top: 0.05in;
     }
 }
 
 /* Book format: alternating gutters for left and right pages */
+/* LEFT PAGE = verso = even page number = appears on LEFT side when book is open */
+/* The RIGHT edge of a left page touches the spine */
 @page :left {
-    margin-left: @margin-gutter;
-    margin-right: @margin-outer;
+    margin-left: 0.5in !important;     /* OUTSIDE edge (far left) */
+    margin-right: 0.75in !important;   /* GUTTER/SPINE edge (center) - LARGER */
+    margin-top: 0.5in !important;
+    margin-bottom: 0.7in !important;
 }
 
+/* RIGHT PAGE = recto = odd page number = appears on RIGHT side when book is open */
+/* The LEFT edge of a right page touches the spine */
 @page :right {
-    margin-left: @margin-outer;
-    margin-right: @margin-gutter;
+    margin-left: 0.75in !important;    /* GUTTER/SPINE edge (center) - LARGER */
+    margin-right: 0.5in !important;    /* OUTSIDE edge (far right) */
+    margin-top: 0.5in !important;
+    margin-bottom: 0.7in !important;
 }
 
 @media print {
@@ -449,4 +465,42 @@ div:not(.page-break) {
 ul,
 ol {
     page-break-before: auto;
+}
+
+/* === Footnotes Formatting === */
+/* MUST come AFTER general ol li rule to override it */
+/* Ultra-specific selectors to beat the general ol li rule */
+body .footnotes,
+body section.footnotes {
+    font-size: 8pt;
+    padding-left: 0px !important;
+    margin-left: 10px !important;
+}
+
+body .footnotes ol li,
+body section.footnotes ol li {
+    /* Override the general ol li rule - MUST be more specific */
+    list-style-type: decimal !important;
+    list-style-position: outside !important;
+    display: list-item !important;
+    margin-left: 0px !important;
+    padding-left: 0px !important;
+    font-size: 8pt !important;
+}
+
+body .footnotes ol li p,
+body section.footnotes ol li p {
+    line-height: 11pt;
+    text-align: left;
+    margin: 0px;
+    padding: 0px;
+    display: inline !important;
+}
+
+body .footnotes hr,
+body section.footnotes hr {
+    margin-top: 2em !important;
+    margin-bottom: 1em !important;
+    border: 0 !important;
+    border-top: 1px solid @border-color !important;
 }

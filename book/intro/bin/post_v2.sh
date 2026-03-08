@@ -185,17 +185,16 @@ function process_document() {
 
     # Convert HTML to PDF
 
-
-
-    # cat \
-    # ../content/i00_INTRO.md \
-    # ../content/i01_FOUNDATION.md \
-    # ../content/i02_ICHING_BASICS.md \
-    # ../content/i03_MAPPING.md \
-    # ../content/i04_SYNTHESIS.md \
-    # ../content/i05_MATH.md \
-    # ../content/i06_APPENDIX.md \
-    # > ${LATEST_DIR}/${DOCUMENT}.md
+    # Concatenate all markdown files into one
+    cat \
+    ${CONTENT_DIR}/i00_INTRO.md \
+    ${CONTENT_DIR}/i01_FOUNDATION.md \
+    ${CONTENT_DIR}/i02_ICHING_BASICS.md \
+    ${CONTENT_DIR}/i03_MAPPING.md \
+    ${CONTENT_DIR}/i04_SYNTHESIS.md \
+    ${CONTENT_DIR}/i05_MATH.md \
+    ${CONTENT_DIR}/i06_APPENDIX.md \
+    > ${LATEST_DIR}/${DOCUMENT}.md
 
     echo -e "\033[36mCreated ${LATEST_DIR}/${DOCUMENT}.md\033[0m"
     echo -e "\033[36mConverting to HTML (pandoc)\033[0m"
@@ -245,7 +244,6 @@ function process_document() {
         --input=html \
         --style="${STYLES_DIR}/${CSS_FILE}" \
         --media=print \
-        --page-size="${PRINCE_PAGE_SIZE}" \
         -o "${OUTPUT_PDF}" \
         "${INPUT_HTML}"
 
@@ -326,16 +324,47 @@ function merge_documents() {
     echo -e "\033[33m +++OUTPUT TO: ${COVER}\033[0m"
     echo -e "\033[33m +++OUTPUT TO: ${COPYRIGHT}\033[0m"
     echo -e "\033[33m +++OUTPUT TO: ${TOC}\033[0m"
+    echo -e "\033[33m +++OUTPUT TO: ${BLANK_PAGE} (inserted to fix gutter alignment)\033[0m"
     echo -e "\033[33m +++OUTPUT TO: ${ICHING}\033[0m"
     echo -e "\033[33m >>>OUTPUT TO: ${OUTPUT}\033[0m"   
 
-    # # echo -e "\033[1;34mRegenerating TOC\033[0m"
-    # ./regen_TOC_v2.py
+    echo -e "\033[1;34mRegenerating TOC\033[0m"
+    ./regen_TOC_v2.py "${PROD_PAGE_SIZE}" "${FORMAT}"
+    
+    # Convert TOC HTML to PDF
+    echo -e "\033[36mConverting TOC to PDF (prince-books)\033[0m"
+    rm -f debug_toc.log
+    prince-books \
+        --verbose \
+        --no-warn-css \
+        --debug \
+        --log=debug_toc.log  \
+        --fail-dropped-content \
+        --fail-missing-resources \
+        --fail-missing-glyphs  \
+        --input=html \
+        --style="${STYLES_DIR}/iching_intro_nopage.css" \
+        --media=print \
+        -o "${LATEST_DIR}/TOC.pdf" \
+        "${LATEST_DIR}/TOC.html"
+    
+    # Process TOC for final output
+    cp "${LATEST_DIR}/TOC.pdf" "${TEMP_DIR}/TOC_${FORMAT}.pdf"
+    pdftk "${TEMP_DIR}/TOC_${FORMAT}.pdf" cat 3-end output "${TEMP_DIR}/TOC_${FORMAT}.pdf-cut.pdf"
+    pdftk "${BLANK_PAGE}" "${TEMP_DIR}/TOC_${FORMAT}.pdf-cut.pdf" cat output "${LATEST_DIR}/FINAL_TOC_${FORMAT}.pdf"
+    
+    # Update TOC variable to point to the newly generated file
+    TOC="${LATEST_DIR}/FINAL_TOC_${FORMAT}.pdf"
+    
+    echo -e "\033[32mTOC PDF generated: ${TOC}\033[0m"
 
+    # Insert blank page after copyright/TOC to fix odd/even page alignment
+    # This ensures the main content starts on the correct page for gutter positioning
     pdftk \
         ${COVER} \
         ${COPYRIGHT} \
         ${TOC} \
+        ${BLANK_PAGE} \
         ${ICHING} \
         cat output "${OUTPUT}"
 

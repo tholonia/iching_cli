@@ -268,12 +268,12 @@
         "explanation": "The lower trigram \"The Abysmal\" symbolizes deep mystery and hidden potential, while the upper trigram \"The Still\" signifies stability and endurance. Together, they represent a process where profound, mysterious origins lead to the emergence of a calm and enduring strength, reflecting guidance that arises from deep understanding and steadfastness."
     },
     "line_type": [
-        "yang",
-        "yin",
-        "yin",
         "yin",
         "yang",
-        "yin"
+        "yin",
+        "yin",
+        "yin",
+        "yang"
     ],
     "pairpath": {
         "title": "Transformation Cycle",

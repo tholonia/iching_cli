@@ -268,12 +268,12 @@
         "explanation": "The trigrams of 'The Joyous' both embody Joyful and Harmonious qualities, creating a powerful synergy. This duality enhances the resonance between them, fostering a deeper shared delight and enriching the collective spirit. The mutual expression of these energies amplifies their impact, much like a harmonious melody that grows richer and more profound when played together, illustrating how their union elevates the experience of joy and harmony."
     },
     "line_type": [
-        "yin",
         "yang",
         "yang",
         "yin",
         "yang",
-        "yang"
+        "yang",
+        "yin"
     ],
     "pairpath": {
         "title": "Dynamic Equilibrium",

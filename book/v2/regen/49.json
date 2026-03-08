@@ -269,12 +269,12 @@
         "explanation": "The lower trigram, 'Bright and Radiant,' symbolizes strong creativity, while the upper trigram, 'The Joyous,' embodies joyful harmony. Together, they create a transformative process where vibrant energy and harmonious joy lead to evolution, reflecting the synthesis of dynamic forces and joyful balance."
     },
     "line_type": [
-        "yin",
-        "yang",
-        "yang",
         "yang",
         "yin",
-        "yang"
+        "yang",
+        "yang",
+        "yang",
+        "yin"
     ],
     "pairpath": {
         "title": "Transformation Cycle",

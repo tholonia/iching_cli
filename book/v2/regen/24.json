@@ -268,12 +268,12 @@
         "explanation": "The lower trigram, 'The Arousing', symbolizes dynamic and exciting energy, which represents potential and enthusiasm. The upper trigram, 'The Receptive', signifies nurturing and supportive qualities, providing a fertile ground for growth. Together, they illustrate how vibrant energy is best expressed and realized when it is supported by a receptive and nurturing environment, allowing it to flourish and return to its full potential."
     },
     "line_type": [
+        "yang",
         "yin",
         "yin",
         "yin",
         "yin",
-        "yin",
-        "yang"
+        "yin"
     ],
     "pairpath": {
         "title": "Cycle of Influence",

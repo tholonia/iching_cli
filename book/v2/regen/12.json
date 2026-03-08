@@ -268,12 +268,12 @@
         "explanation": "In 'The Receptive,' the lower trigram symbolizes a nurturing foundation, which supports and enables the upper trigram, 'The Creative,' to express its strong and dynamic energy. This interaction illustrates how a stable and open base can foster the emergence of powerful creative forces, reflecting a harmonious balance between passive support and active creation."
     },
     "line_type": [
-        "yang",
-        "yang",
-        "yang",
         "yin",
         "yin",
-        "yin"
+        "yin",
+        "yang",
+        "yang",
+        "yang"
     ],
     "pairpath": {
         "title": "Harmony-Disharmony",

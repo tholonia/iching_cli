@@ -1,6 +1,12 @@
 #!/bin/bash
 
 
+# ./regen_TOC 6.69x9.61
+# ./regen_TOC 7.0x10.0
+
+# Accept PROD_PAGE_SIZE as first argument, default to 6.69x9.61
+PROD_PAGE_SIZE="${1:-6.69x9.61}"
+#PROD_PAGE_SIZE="7.0x10.0"
 
 BASE_DIR="/home/jw/src/iching_cli/book/intro"
 STYLES_DIR="${BASE_DIR}/Styles"
@@ -8,7 +14,6 @@ LATEST_DIR="${BASE_DIR}/Latest"
 TEMP_DIR="/tmp"
 # FORMAT="BOOK"
 FORMAT="PDF"
-PROD_PAGE_SIZE="6.69x9.61"
 PAGE_SIZE="${PROD_PAGE_SIZE}"
 CONTENT_DIR="${BASE_DIR}/content"
 BLANK_PAGE="${CONTENT_DIR}/blank_${PAGE_SIZE}.pdf"
@@ -19,7 +24,7 @@ lessc ${BASE_DIR}/Styles/iching_intro_nopage.less ${STYLES_DIR}/${CSS_FILE}.css
 cp ${STYLES_DIR}/${CSS_FILE}.css /home/jw/.config/Typora/themes/${CSS_FILE}.css
 cp ${STYLES_DIR}/${CSS_FILE}.less /home/jw/.config/Typora/themes/${CSS_FILE}.less
 
-./regen_TOC_v2.py
+./regen_TOC_v2.py "${PROD_PAGE_SIZE}"
 rm debug.log
     prince-books \
         --verbose \

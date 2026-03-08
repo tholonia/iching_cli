@@ -9,10 +9,13 @@
 # Hardcover
 #./post_v2.sh PDF --hardcover --no-gui
 
-# Book format with hardcover
-#./post_v2.sh BOOK --paperback --no-gui
+# Book format with paperback
+./post_v2.sh BOOK --paperback --no-gui
+#mv ../Latest/iching_intro_BOOK.pdf ./Latest/iching_intro_paperback.pdf
 
 # Book format with hardcover
 ./post_v2.sh BOOK --hardcover --no-gui
+
+#mv ../Latest/iching_intro_BOOK.pdf ../Latest/iching_intro_hardcover.pdf
 
 

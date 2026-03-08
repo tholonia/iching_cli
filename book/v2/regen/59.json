@@ -268,12 +268,12 @@
         "explanation": "The lower trigram, The Abysmal, symbolizes the deep and mysterious, while the upper trigram, The Clinging, stands for brightness and radiance. Together, they illustrate how clarity and understanding can illuminate and reveal what lies hidden in the depths, merging the unknown with the known."
     },
     "line_type": [
-        "yang",
+        "yin",
         "yang",
         "yin",
         "yin",
         "yang",
-        "yin"
+        "yang"
     ],
     "pairpath": {
         "title": "Expansion-Contraction",

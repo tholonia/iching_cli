@@ -269,10 +269,10 @@
     },
     "line_type": [
         "yang",
-        "yang",
-        "yang",
         "yin",
         "yin",
+        "yang",
+        "yang",
         "yang"
     ],
     "pairpath": {

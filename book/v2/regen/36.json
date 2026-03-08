@@ -267,12 +267,12 @@
         "explanation": "The Clinging represents brightness and radiance, signifying potential and clarity. The Receptive symbolizes openness and nurturing, providing a supportive environment. Together, they suggest that when illumination is met with a nurturing and open attitude, it can fully manifest its potential, much like a seed growing in fertile soil."
     },
     "line_type": [
-        "yin",
-        "yin",
+        "yang",
         "yin",
         "yang",
         "yin",
-        "yang"
+        "yin",
+        "yin"
     ],
     "pairpath": {
         "title": "Conflict's Veil",

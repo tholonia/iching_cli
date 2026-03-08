@@ -268,12 +268,12 @@
         "explanation": "The lower trigram, The Gentle, signifies subtle and persistent change, akin to the wind's influence. The upper trigram, The Still, represents stability and endurance, like a mountain. Together, they illustrate how gentle, persistent efforts can reshape and restore even the most steadfast elements, leading to a harmonious transformation. This interaction highlights the balance between change and stability, resulting in restoration and renewal."
     },
     "line_type": [
-        "yang",
-        "yin",
         "yin",
         "yang",
         "yang",
-        "yin"
+        "yin",
+        "yin",
+        "yang"
     ],
     "pairpath": {
         "title": "Adaptation Cycle",

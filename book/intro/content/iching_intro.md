@@ -1,21 +1,27 @@
 # &nbsp;
 # The Tholonic I Ching
 
-> ##### *“After meeting genuine teachers all my doubts disappeared, so that for the first time I realized that the Tao of spiritual alchemy is none other than the Tao of I Ching, the Tao of sages is none other than the Tao of immortals, and that the I Ching is not a book of divination, but rather a study of investigation, of principles, fulfillment of nature, and arrival at the meaning of life.”*
->
+##### *“After meeting genuine teachers all my doubts disappeared, so that for the first time I realized that the Tao of spiritual alchemy is none other than the Tao of I Ching, the Tao of sages is none other than the Tao of immortals, and that the I Ching is not a book of divination, but rather a study of investigation, of principles, fulfillment of nature, and arrival at the meaning of life.”*
+
 > <sub>~*Liu Yiming, 18th c. Taoist master*</sub>
 
 ##### *“Although the words are very clear, yet they are also very vague. The shallow may take the I Ching to be a book of divination, but the profound consider it the secret of the Celestial Mechanism.”*
 
-<sub>*~Lu Dongbin, 9th c. Taoist master*</sub>
+> <sub>*~Lu Dongbin, 9th c. Taoist master*</sub>
+
+*A Note on the Nature of This Work*
+
+It's important to understand that this book represents an ongoing synthesis of extensive research notes and investigations, presented in as coherent a form as the author is capable of achieving. In many ways, it functions more as an evolving research document than a finalized treatise. As such, it moves through diverse terrain: philosophical inquiry, mathematical exploration, and speculative analysis, not always in the most linear progression. Some sections offer clear and accessible insights, while others venture into denser conceptual territory. This is by design, not limitation. The material reflects the actual process of discovery and integration, with all its natural variations in clarity and depth.
+
+You are invited to engage with this work selectively. Some chapters may resonate immediately, offering practical understanding, while others may serve better as reference material or food for contemplation. There is no requirement to absorb everything in sequence or with equal attention. Take what illuminates your path, and set aside what does not yet speak to your current inquiry. This book is meant to be a resource, not a burden, a companion to your own exploration of how ancient wisdom and contemporary understanding might converge.
 
 ## A Comprehensive Integration
 
-This book serves as the foreword and introduction to The Tholonic I Ching, but it is published separately because it is far more than a standard introduction. Instead of a brief preface, this book attempts to provide a comprehensive overview of two complex models, requiring special explanations; hence its many pages. I say “attempt” because, in truth, this book is a more of collection of the notes and research developed in my attempts to prove, or disprove, the fundamental premises of the Tholonic Model, but presented in a more coherent, presentable manner.
+This book serves as the foreword and introduction to The Tholonic I Ching, but it is published separately because it is far more than a standard introduction. Some of the information here is touched upon in *The Tholonic I Ching* introduction, which is a brief preface, while this book attempts to provide a comprehensive overview of two complex models, requiring special explanations; hence its many pages. I say "attempt" because, in truth, this book is more of a collection of the notes and research developed in my attempts to prove, or disprove, the fundamental premises of the Tholonic Model, but presented in a more coherent, presentable manner.
 
-Including this material within The Tholonic I Ching would make the book overly cumbersome, adding significant bulk to its already 550 pages. More importantly, this extended introduction would disrupt the book’s aesthetic balance and detract from the reading experience. Additionally, most readers of The Tholonic I Ching may not require or be interested in such an in-depth explanation, making its inclusion unnecessary.
+Including this material within *The Tholonic I Ching* would make the book overly cumbersome, adding significant bulk to its already 400-plus pages. More importantly, this extended introduction would disrupt the book’s aesthetic balance and detract from the reading experience. Additionally, most readers of *The Tholonic I Ching* may not require or be interested in such an in-depth explanation, making its inclusion unnecessary.
 
-Another reason for publishing this book separately is that both books evolve independently. While The Tholonic I Ching and this introduction are updated regularly, they do not follow the same revision schedule. Keeping them separate ensures that each book can develop at its own pace, allowing for ongoing refinement without disrupting the other. 
+Another reason for publishing this book separately is that both books evolve independently. While *The Tholonic I Ching* and this introduction are updated regularly, they do not follow the same revision schedule. Keeping them separate ensures that each book can develop at its own pace, allowing for ongoing refinement without disrupting the other. 
 
 ## The Tholonic Explanation of how the I Ching Functions
 
@@ -23,13 +29,13 @@ The question at hand is this: how can the act of throwing the I Ching, selecting
 
 The answer begins with the understanding that, according to the Tholonic model, all forms, across all scopes and scales of existence, emerge from the interplay of three universal principles: negotiation, definition, and contribution. These are not abstract labels but active processes. Wherever anything comes into form, these three forces are at work. They generate patterns not only in stars, atoms, and ecosystems, but also in emotions, relationships, questions, and moments of choice. Reality is not made of things; it is made of interacting processes that temporarily coalesce into forms. Each form is an instance, an emergence, a crystallization, of those universal dynamics.
 
-When you cast the I Ching, you are not merely drawing a symbol. You are initiating a microcosmic act of creation. Your question, your posture, your emotional state, your timing, and the method of casting are all expressions of the same triadic forces. The very act of asking the I Ching for insight creates a local field of interaction—it narrows the boundless potential of awareness into a defined space of intention. Within that space, a new instance emerges: the resulting hexagram. This is not an arbitrary pattern imposed from the outside, but a reflection of the very moment you are inhabiting—because the processes that produced it are the same ones currently shaping your reality.
+When you cast the I Ching, you are not merely drawing a symbol. You are initiating a microcosmic act of creation. Your question, your posture, your emotional state, your timing, and the method of casting are all expressions of the same triadic forces. The very act of asking the I Ching for insight creates a local field of interaction: it narrows the boundless potential of awareness into a defined space of intention. Within that space, a new instance emerges: the resulting hexagram. This is not an arbitrary pattern imposed from the outside, but a reflection of the very moment you are inhabiting, because the processes that produced it are the same ones currently shaping your reality.
 
-This is why the hexagram that appears feels meaningful. It is not that the I Ching “knows” your future. Rather, it expresses a structural snapshot of the recursive, formative processes shaping your moment as it unfolds.. It is a symbolic emergence that mirrors the conditions you are actively participating in. The casting of coins is chaotic in appearance but sensitive to conditions. It is a snapshot of the patterning forces in motion, captured through a symbolic medium.
+This is why the hexagram that appears feels meaningful. It is not that the I Ching "knows" your future. Rather, it expresses a structural snapshot of the recursive, formative processes shaping your moment as it unfolds. It is a symbolic emergence that mirrors the conditions you are actively participating in. The casting of coins is chaotic in appearance but sensitive to conditions. It is a snapshot of the patterning forces in motion, captured through a symbolic medium.
 
 The 64 hexagrams themselves are not predictive in a deterministic sense, but they are archetypal configurations that describe common patterns of transformation. When you receive a hexagram, it is as though the I Ching is revealing the archetypal structure behind the current moment of your reality. And since every moment contains within it the tension of what is becoming, that structure can also hint at the directions in which your current configuration is likely to evolve.
 
-Thus, the I Ching does not predict the future in the conventional sense. Rather, it reveals the formative pattern from which the next moment—another instance—is likely to emerge. Because you are part of the system that generated the result, the reading contains relevance. The same process that produced the hexagram is at work in the creation of galaxies, thoughts, decisions, and outcomes. This is what binds the result to reality, not metaphorically, but structurally.
+Thus, the I Ching does not predict the future in the conventional sense. Rather, it reveals the formative pattern from which the next moment (another instance) is likely to emerge. Because you are part of the system that generated the result, the reading contains relevance. The same process that produced the hexagram is at work in the creation of galaxies, thoughts, decisions, and outcomes. This is what binds the result to reality, not metaphorically, but structurally.
 
 In this way, the act of throwing the I Ching is not trivial; it is a momentary reenactment of the universal act of creation. You are engaging, symbolically and actually, with the generative forces of existence. The hexagram that emerges is not foreign to your world; it is of your world, composed of the same recursive energies that shape all things. That is why it can speak meaningfully to you, and why it deserves to be listened to.
 
@@ -69,11 +75,11 @@ The Tholonic model is compatible with virtually all conceptual models of reality
 
 *Extensive Commentary:* Its rich body of commentary and interpretations adds depth and context, making it an excellent reference point.
 
-*Cross-Disciplinary and cross-cultural acceptance:* The I Ching is recognized worldwide, influencing philosophy, religion, art, literature, science, technology, and medicine across Western, Jewish, Islamic, Asian, and East Asian cultures. Its principles are studied at leading universities such as Oxford, Cambridge, Columbia, and Stanford.
+*Cross-Disciplinary and Cross-Cultural Acceptance:* The I Ching is recognized worldwide, influencing philosophy, religion, art, literature, science, technology, and medicine across Western, Jewish, Islamic, Asian, and East Asian cultures. Its principles are studied at leading universities such as Oxford, Cambridge, Columbia, and Stanford.
 
 Additionally, the I Ching shares and predates core principles with several major belief systems, such as Hinduism, Buddhism, Taoism, Confucianism, Kabbalah, Hermeticism, Indigenous Wisdom Traditions, Sufism, Judaism, Islam, and Christianity, particularly their emphasis on *balance* and the interplay of opposites, *cyclical transformation* and growth, and the *interconnectedness* of all things.
 
-The Tholonic model and the I Ching also share the axiomatic and quite common principle that everything emerges from and exists within a duality, with the identical intention. While the Tholonic model describes an all-encompassing three-dimensional holarchy of all that can exist in the form of a fractal tetrahedral matrix, the 5,000-year-old legendary and mythical ruler *Fu Xi* (~2700 BCE)) Created the I Ching to *“become thoroughly conversant with the numinous and bright and to classify the myriad things.”*
+The Tholonic model and the I Ching also share the axiomatic and quite common principle that everything emerges from and exists within a duality, with the identical intention. While the Tholonic model describes an all-encompassing three-dimensional holarchy of all that can exist in the form of a fractal tetrahedral matrix, the 5,000-year-old legendary and mythical ruler *Fu Xi* (~2700 BCE) created the I Ching to *"become thoroughly conversant with the numinous and bright and to classify the myriad things."*
 
 
 
@@ -91,9 +97,9 @@ More importantly, the concepts of yin and yang are relative. For example, “to 
 ### Holon and Parton: Components of Existence
 
 
-<img src="/home/jw/src/iching_cli/book/intro/Images/0_001.png" style='float:right;width:30%'/>A holon is sustainable and stable system, process, or concept that has a clear definition, and a parton are the contributing components that allow for that holon to exist and helps define the form am function of the holon.
+<img src="/home/jw/src/iching_cli/book/intro/Images/0_001.png" style='float:right;width:30%'/>A holon is a sustainable and stable system, process, or concept that has a clear definition, and partons are the contributing components that allow for that holon to exist and help define the form and function of the holon.
 
-A cell is a holon, but as a liver cell, is is a parton to the holon of the liver, just as the cell’s nucleus, mitochondria, and membrane are partons to the holon of the cell
+A cell is a holon, but as a liver cell, it is a parton to the holon of the liver, just as the cell's nucleus, mitochondria, and membrane are partons to the holon of the cell.
 
 Holons and partons combine to form self-organizing networks of interactions and relationships called a *holarchy*.[^15]
 
@@ -106,11 +112,11 @@ Holons and partons combine to form self-organizing networks of interactions and 
 
 *NDC* stands for *Negotiation-Definition-Contribution*, also known as *balance-limitation-integration*. In the Tholonic model, this trinity of interactions form the foundation of all existence:
 
-**Negotiation (Balance):** This represents the process of balancing or achieving equilibrium between interacting forces. Depending on context, it can act as a verb (the *act* of balancing or negotiating) or as a noun (the *state* of having achieved balance or becoming negotiated). In diagrams presented in this book, this  *Negotiation* concept is represented as a *blue* dot, and acts acts as an initiating point, also called an *N*-state.
+**Negotiation (Balance):** This represents the process of balancing or achieving equilibrium between interacting forces. Depending on context, it can act as a verb (the *act* of balancing or negotiating) or as a noun (the *state* of having achieved balance or becoming negotiated). In diagrams presented in this book, this *Negotiation* concept is represented as a *blue* dot, and acts as an initiating point, also called an *N*-state.
 
 **Definition (Limitation):** This refers to the restrictions or boundaries that shape any creation, whether material (available physical resources), energetic (available energy), or structural (contextual constraints like sustainability, time, or space). In our diagrams, this is represented as a *green* dot.
 
-**Contribution (Integration/Interaction):** This represents what a process returns to the environment it was created.  Contributions can take many forms, such as interactions, material resources, ideas, or any effect that influences the system it exists in and interacts with. In our diagrams, this is represented as a *red* dot.
+**Contribution (Integration/Interaction):** This represents what a process returns to the environment in which it was created. Contributions can take many forms, such as interactions, material resources, ideas, or any effect that influences the system it exists in and interacts with. In our diagrams, this is represented as a *red* dot.
 
 <img src="/home/jw/src/iching_cli/book/intro/Images/0_006.png" style='float:right;width:100%'/>
 
@@ -149,7 +155,7 @@ There is also the concept of a *virtual* *tholon*. This occurs when the multi-ge
 ### Thologram: The Recursive Structure of Creation
 
 
-These tetrahedral matrices form the *thologram* is a self-organizing, self-similar, recursive tetrahedral matrix that represents the structure that serves as a universal framework that applies to all forms of creation, whether abstract, such as theories, beliefs, and ideas, or material, such as galaxies, organisms, and ecosystems. Through its recursive nature, the thologram illustrates how patterns of creation repeat and evolve across different scales and contexts, reflecting the interconnected and self-organizing nature of existence.
+These tetrahedral matrices form the *thologram*, a self-organizing, self-similar, recursive tetrahedral matrix that represents the structure that serves as a universal framework that applies to all forms of creation, whether abstract, such as theories, beliefs, and ideas, or material, such as galaxies, organisms, and ecosystems. Through its recursive nature, the thologram illustrates how patterns of creation repeat and evolve across different scales and contexts, reflecting the interconnected and self-organizing nature of existence.
 
 
 <center><img src='../Images/0_004.png' style=';width:100%'/></center>
@@ -173,7 +179,7 @@ Of course, it’s difficult to imagine our conceptual point as having its own aw
 
 According to the Tholonic model, this would result in:
 
-- **Negotiation (Balance):** Infinite awareness condensed into a perfectly balanced state—an equilibrium between everything and nothing, potential and actuality, chaos and order.
+- **Negotiation (Balance):** Infinite awareness condensed into a perfectly balanced state: an equilibrium between everything and nothing, potential and actuality, chaos and order.
 
 - **Definition (Limitation):** By narrowing infinite awareness down to a single, dimensionless concept, you impose the greatest possible limitation, reducing infinite possibilities to absolute singularity. Paradoxically, this limitation creates a gateway back into infinite potential.
 
@@ -207,7 +213,7 @@ This Taoist *Taijitu* symbol represents the duality that emerged from the onenes
 
 [^27]: **Lao Tzu (trans. D.C. Lau).** *Tao Te Ching.* Penguin Classics, 1963
 
-The initial duality emerging from the "One" occurs when the original 0D point inevitably creates another 0D point. This act of creation naturally happens because the original blue dot has no limitations or attributes other than its inherent awareness and intention, compelling it to replicate itself.  The first 0D point is equivalent to our *Negotiated* state of the blue dot, or *N*-state, and the second 0D point is the introduction of limitations, for without this green dot, the blue dot was unlimited, in a void of nothingness.  there is nothing out green dot, which is the
+The initial duality emerging from the "One" occurs when the original 0D point inevitably creates another 0D point. This act of creation naturally happens because the original blue dot has no limitations or attributes other than its inherent awareness and intention, compelling it to replicate itself.  The first 0D point is equivalent to our *Negotiated* state of the blue dot, or *N*-state, and the second 0D point is the introduction of limitations, for without this green dot, the blue dot was unlimited, in a void of nothingness.
 
 In our unthinkable thought experiment, the existence of a zero-dimensional point in nothingness might be considered a duality, that of the somethingness of a conceptual point and nothingness, but the nothingness itself did not exist as a concept prior to the appearance of the point. Strictly speaking, a conceptual point in nothingness is just a conceptual point. There is no duality, just the monism of the concept. So, while we can say that somethingness and nothingness, referring to the primal dot and the void it exists within, are the first duality, the fact that there is a concept of nothing proves this is inaccurate because the concept of nothing is itself something.
 
@@ -215,7 +221,7 @@ The more accurate description would be the duality of “Is” and “Is Not,”
 
 It might be a bit pedantic to argue the difference between *Is/Is Not* versus *somethingness/nothingness*, but that difference turns out to play a very critical role in the Tholonic model because the concept of nothingness is not at all a limiting concept. On the contrary, it represents absolute, the unlimited freedom with no limitation, while the concept of *Is Not* is essentially the archetype of limitation.
 
-The Taijitu represents the duality that brings forth the “*ten thousand things*”.  We say this because, tholonically, the Taijitu is described as 1 tholon with 2 partons, each of those having 2 partons.  This creates 7 tholons over 3 generations <img src="/home/jw/src/iching_cli/book/intro/Images/Taijitu-tholons_2.png" style='float:right;width:50%'/>that self-organize along the paths of least resistance to form an array that can be described by 3 hexagrams formed by 6 triangles.  Here, the Taijitu is yellow *n-state*, not a blue *N*-state, because it is the first child of the parent *N*-state, whiuch created the . This diagram shows clearly that the Taijitu is created by the joining of yin and yang, rather than being the creator so yin and yang.
+The Taijitu represents the duality that brings forth the "*ten thousand things*".  We say this because, tholonically, the Taijitu is described as 1 tholon with 2 partons, each of those having 2 partons.  This creates 7 tholons over 3 generations <img src="/home/jw/src/iching_cli/book/intro/Images/Taijitu-tholons_2.png" style='float:right;width:50%'/>that self-organize along the paths of least resistance to form an array that can be described by 3 hexagrams formed by 6 triangles.  Here, the Taijitu is yellow *n-state*, not a blue *N*-state, because it is the first child of the parent *N*-state, which created it. This diagram shows clearly that the Taijitu is created by the joining of yin and yang, rather than being the creator of yin and yang.
 
 What is significant here is that the I Ching’s Taijitu is the first *n-state* in the thologram, with the primary *N*-state being the “One” created by the Tao, the Awareness and Intention of creation. The only difference is that the Taijitu shows a dynamic of change, or negotiating (mixing), while the *n-state* represents a negotiated state (i.e., mixed red and green, yellow).
 
@@ -228,13 +234,13 @@ Rather than a duality, they form a self-referential singularity, where one persp
 
 The singularity itself does not split into awareness and intention; instead, differentiation emerges within an existing duality, giving rise to these aspects as distinct expressions. In this sense, duality is not created by the singularity but serves as its medium of manifestation, while the singularity itself remains whole and undivided. This medium arises through the singularity’s self-instantiation when the zero-dimensional dot creates a second dot and the first act of differentiation.
 
-We can understand this through the linguistic concept of "I Am," where "I" represents the most basic expression of awareness—an identifying label for the self. However, as a noun, it is merely a passive designation. In contrast, "Am" is a verb that signifies the action of being, an active assertion of existence. Together, these two elements, the passive "I" and the active "Am", form the most fundamental declaration of identity and existence.
+We can understand this through the linguistic concept of "I Am," where "I" represents the most basic expression of awareness, an identifying label for the self. However, as a noun, it is merely a passive designation. In contrast, "Am" is a verb that signifies the action of being, an active assertion of existence. Together, these two elements, the passive "I" and the active "Am", form the most fundamental declaration of identity and existence.
 
 This mirrors the relationship between *awareness* and *intention* in the Tholonic model. Just as "I" passively denotes the presence of self-awareness, awareness itself represents the fundamental recognition of existence. Meanwhile, "Am" actively asserts being, paralleling *intention* as the dynamic force that drives expression and manifestation. In this way, "I Am" encapsulates the dual perspective of a singular principle of awareness as recognition and intention as the active force of becoming, perfectly aligning with the concept of a unified phenomenon perceived from two complementary angles.
 
 Interestingly, this concept resonates with the biblical account where God revealed His name to Moses as "I Am" (in Hebrew, *Ehyeh Asher Ehyeh*, often translated as "I Am That I Am") in the Book of Exodus. This divine self-identification emphasizes pure existence and awareness as the source of all that is.
 
-The conceptual parallels between the Tholonic model and traditions such as Taoist philosophy, Hermetic principles, and various mystical systems are striking. While these similarities might suggest the Tholonic model borrowed from these traditions, it was actually developed through an attempt to apply first principles reasoning to fundamental questions about the nature of energy—beyond just how energy behaves or can be measured.
+The conceptual parallels between the Tholonic model and traditions such as Taoist philosophy, Hermetic principles, and various mystical systems are striking. While these similarities might suggest the Tholonic model borrowed from these traditions, it was actually developed through an attempt to apply first principles reasoning to fundamental questions about the nature of energy, beyond just how energy behaves or can be measured.
 
 Modern science excels at describing energy's properties and transformations through frameworks like quantum field theory and thermodynamics. However, science often treats the ultimate question of what energy fundamentally is as outside its domain, categorizing it as metaphysical or philosophical. The Tholonic model attempts to bridge this gap.
 
@@ -283,8 +289,6 @@ Some practical examples are:
 
 <center><img src='../Images/ndc-examples.png' style='width:100%'/></center>
 
-#
-
 One illustration of this integration can be seen in the system of measurement itself. The seven standardized SI base units, from which all physical quantities are derived, can ultimately be reduced to combinations of just three fundamental constants: the speed of light (*c*), Planck’s constant (*ħ*), and the gravitational constant (*G*). These three constants map naturally onto the Tholonic NDC trinity: **Negotiation, Definition, and Contribution**. In this sense, they also correspond to the trigrams of the I Ching, which express the same archetypal dynamics in symbolic form.
 
 The essential difference between the Tholonic model, the I Ching, and the framework of modern measurement is not one of structure but of **context and scope**. All three articulate the same underlying archetypes, but each does so through a different lens: the Tholonic model as a universal principle of creation, the I Ching as an ancient symbolic map of change, and the SI system as the scientific language of measurement. 
@@ -293,222 +297,94 @@ The essential difference between the Tholonic model, the I Ching, and the framew
 
 
 
-And while we're here talking about foundations, in the interest of transparency, what follows are the relationships and rules and patterns that are being followed and applied when reinterpreting the I Ching via the tholoinc model:
-
-------
-
-# I Ching Primer
-
-### **Understanding the Structure of a Hexagram**
-
-Each hexagram is composed of **two trigrams**, each made up of **three lines**. The **lower trigram** consists of **lines 1, 2, and 3**, while the **upper trigram** consists of **lines 4, 5, and 6**. This structure reflects a fundamental duality in existence, where every process unfolds simultaneously on two levels:
-
-- The **lower trigram** represents **inner conditions**—the realm of **potential, preparation, and internal transformation**.
-- The **upper trigram** represents **outer conditions**—the realm of **action, interaction, and external manifestation**.
-
-Each **trigram follows a three-stage cycle** that mirrors the rhythm of existence:
-
-1. **Beginning (Emergence):** The first line of each trigram (1 and 4) marks the **initial stage** of a process, where potential takes form.
-2. **Instantiation (Manifestation):** The second line of each trigram (2 and 5) represents the **active state**, where potential materializes into structure.
-3. **End (Completion or Transition):** The third line of each trigram (3 and 6) signifies the **culmination**, where transformation occurs, leading either to dissolution or evolution into a new cycle.
-
-Thus, a hexagram **contains two intertwined cycles of existence**—one governing the **inner world**, the other governing the **outer world**. Understanding this layered structure is essential for interpreting the significance of each line and recognizing how **negotiation, limitation, and contribution** operate on both **internal and external levels**.
-
-------
-
-### **Continuing the Context of Hexagram Structure**
-
-The **natural state** of each line within a hexagram follows a fundamental alternating pattern:
-
-**Yang (⚊), Yin (⚋), Yang (⚊), Yin (⚋), Yang (⚊), Yin (⚋)**
-
-This sequence reflects a **balanced, rhythmic alternation between active and receptive states**, mirroring the fundamental interplay of forces in nature and consciousness.
-
-- **Lines 1, 3, and 5 (Yang ⚊):** Represent **movement, initiative, expansion**, and the **active force** within each phase.
-- **Lines 2, 4, and 6 (Yin ⚋):** Represent **receptivity, adaptation, consolidation**, and the **formative structure** that allows movement to take shape.
-
-This alternating structure provides **natural harmony** within a hexagram. When a line deviates from its natural state (e.g., a yin line appearing where a yang should be), it often indicates **imbalance, tension, or transformation** within the hexagram’s meaning.
-
-Understanding this **intrinsic yang-yin order** is essential for analyzing how **negotiation, limitation, and contribution** unfold within both the inner and outer cycles of a hexagram.
-
-------
-
-### **How the Natural Yang-Yin Pattern Affects Individual Line Meanings**
-
-The alternating **Yang-Yin structure** within a hexagram establishes a natural **rhythm of balance**. When a line **maintains its natural state**, it supports the **harmonic flow of energy**, but when it **deviates**, it introduces **tension, transformation, or instability**.
-
-Each line in the hexagram represents **a stage in the cycle of existence**, with its natural state defining its optimal function.
-
-------
-
-### **Inner Trigram (Lines 1, 2, 3) – Internal Cycle**
-
-- **Line 1 (Yang ⚊ - Emergence/Initiation):**
-  - Naturally strong, **indicates the birth of potential** and an initiating force.
-  - If **Yin replaces Yang**, it suggests hesitation, weakness, or a lack of readiness.
-- **Line 2 (Yin ⚋ - Instantiation/Formation):**
-  - Naturally receptive, representing **support, alignment, and structuring of potential**.
-  - If **Yang replaces Yin**, it may indicate premature action, instability, or struggle to integrate.
-- **Line 3 (Yang ⚊ - Completion/Transition):**
-  - Naturally strong, **marks the culmination of the inner process and the transition to external action**.
-  - If **Yin replaces Yang**, it suggests hesitation in carrying inner realization outward, or stagnation at the threshold of change.
-
-------
-
-### **Outer Trigram (Lines 4, 5, 6) – External Cycle**
-
-- **Line 4 (Yin ⚋ - Emergence in the Outer World):**
-  - Naturally receptive, **represents alignment with external forces, preparation for action**.
-  - If **Yang replaces Yin**, it may suggest premature external assertion before the conditions are stable.
-- **Line 5 (Yang ⚊ - Instantiation of Outer Manifestation):**
-  - Naturally strong, **indicates full engagement in the world, leadership, and execution of potential**.
-  - If **Yin replaces Yang**, it could mean indecision, loss of authority, or an incomplete realization of the vision.
-- **Line 6 (Yin ⚋ - Completion, Return, or Dissolution):**
-  - Naturally receptive, **signifying the closing of a cycle, surrender to change, or refinement of experience**.
-  - If **Yang replaces Yin**, it may indicate resistance to closure, clinging to power, or forced extension of a process that has run its course.
-
-------
-
-### **Key Insights from the Yang-Yin Pattern**
-
-✔ **When a line follows its natural state**, the process unfolds harmoniously.
- ✔ **When a line is inverted (Yang ↔ Yin), it signals friction, imbalance, or transformation.**
- ✔ **Lower trigram** (inner world) governs **internal alignment**, while **upper trigram** (outer world) governs **external realization**.
- ✔ **Line 3 to Line 4** marks a key transition: **inner completion to outer emergence.**
- ✔ **Line 6 often represents the highest refinement or excess that leads to collapse and renewal.**
-
-This pattern provides an **intrinsic structural guide** for interpreting the significance of each line within a hexagram.
-
-------
-
-## **The Dynamic Relationship Between Inner and Outer Trigrams**
-
-### **Pattern:** The Lower Trigram Influences the Upper
-
-- The **lower trigram** (lines 1-3) represents **internal conditions**, while the **upper trigram** (lines 4-6) represents **external expression**.
-- The **upper trigram is shaped by the lower trigram**, meaning that the way an individual or system manifests outwardly is conditioned by its internal development.
-
-**Key Insight:**
- 🔹 *Transformation begins within before manifesting externally. The relationship between trigrams shows how inner negotiation (balance) leads to outer contribution (expression).*
-
-------
-
-## **The Flow of Energy Through the Hexagram**
-
-### **Pattern:** The Ascending Cycle of Energy (Earth → Man → Heaven)
-
-- **Lines 1 & 2** → **Earth realm** (Foundation, Formative stage)
-- **Lines 3 & 4** → **Human realm** (Negotiation, Active Participation)
-- **Lines 5 & 6** → **Heaven realm** (Completion, Vision, Return to Source)
-
-**Key Insight:**
- 🔹 *A hexagram is a **flow of energy from the ground up**, mirroring a **Tholonic cycle of emergence, formation, and completion.***
- 🔹 *Lower lines deal with raw potential, middle lines refine it, and upper lines determine its destiny.*
-
-------
-
-## **The Yin-Yang Tension Between Adjacent Lines**
-
-### **Pattern:** Neighboring Lines Influence Each Other
-
-- Each **odd-numbered line (1, 3, 5) is naturally Yang (active)**, and each **even-numbered line (2, 4, 6) is naturally Yin (receptive)**.
-- When **a Yin line sits below a Yang line**, it **supports, stabilizes, or softens it** (e.g., **line 2 supporting line 3**).
-- When **a Yang line sits above a Yin line**, it **pushes forward, activates, or disrupts it** (e.g., **line 3 pushing against line 4**).
-
-**Key Insight:**
- 🔹 *Hexagrams are dynamic, not static. Each line’s **behavior is influenced by the lines directly above and below it.***
- 🔹 *This tension creates the **rhythm of change** within a hexagram, revealing how forces push, resist, and stabilize each other.*
-
-------
-
-## **The Power of the Fifth Line (The Throne Position)**
-
-### **Pattern:** The 5th Line is the Ruler of the Hexagram
-
-- Line 5 is always positioned **at the center of the upper trigram**, making it the point of **leadership, decision-making, or mastery**.
-- **If the 5th line is strong (Yang),** the hexagram is stable and powerful.
-- **If the 5th line is weak (Yin),** the hexagram struggles with instability or misalignment.
-
-**Key Insight:**
- 🔹 *The 5th line often represents the **most influential force** in a hexagram—it is the balance point between earthly action and cosmic guidance.*
- 🔹 *Its state determines whether the hexagram is **harmonious or in conflict.***
-
-------
-
-## **The Hidden Relationship Between Opposing Hexagrams**
-
-### **Pattern:** The Opposite Hexagram is a Mirror Reflection
-
-- Each hexagram has an **opposite (inverted) form**, which reveals its **shadow aspect or complementary lesson**.
-- For example,
-   Hexagram 1 (The Creative) is the opposite of Hexagram 2 (The Receptive).
-  - **Hexagram 1 (Heaven)** is pure Yang—**initiative, expansion, pure creation**.
-  - **Hexagram 2 (Earth)** is pure Yin—**nurturing, yielding, structured form**.
-- Together, they represent the **full cycle of manifestation**—raw energy shaping itself into structured reality.
-
-**Key Insight:**
- 🔹 *Understanding a hexagram’s opposite reveals what it is **missing, resisting, or balancing.***
- 🔹 *Opposing hexagrams form **a complete cycle**, meaning true insight requires looking at both.*
-
-------
-
-## **Nuclear Hexagrams: The Hidden Structure Within**
-
-### **Pattern:** The Central Four Lines Reveal a Core Hexagram
-
-- If you **extract the middle four lines (2, 3, 4, 5)** of a hexagram, you get its **nuclear hexagram**, which represents its **deepest underlying essence**.
-- This nuclear hexagram can reveal **what is growing within the original hexagram**, showing what will **emerge in the next phase of transformation**.
-
-**Example:**
-
-- Hexagram 1 (The Creative) → Nuclear Hexagram 43 (Breakthrough)
-  - Suggests that **pure creative force** naturally leads to **a moment of breakthrough and decisive action**.
-
-**Key Insight:**
- 🔹 *The nuclear hexagram shows the **hidden core process** unfolding beneath the surface of the main hexagram.*
- 🔹 *It is like the **seed of future change** growing within the present moment.*
-
-------
-
-## **The Role of Moving Lines in Transforming the Hexagram**
-
-### **Pattern:** Changing Lines Create a Future Hexagram
-
-- When **one or more lines change**, they **form a new hexagram**, showing **where the energy is shifting**.
-- The **specific lines that change** indicate **where tension, instability, or transformation is occurring**.
-- **Lines at the top (6) or bottom (1) indicate major shifts**, while **middle lines indicate gradual evolution**.
-
-**Key Insight:**
- 🔹 *Moving lines reveal the hexagram’s **trajectory**—they show where the energy is unstable and how the situation is evolving.*
- 🔹 *This aligns with Tholonic principles of **negotiation (balance), limitation (definition), and contribution (integration).***
-
-------
-
-## **How These Patterns Fit Your Tholonic Model**
-
-Your **Tholonic analysis of negotiation, limitation, and contribution** aligns perfectly with these structural relationships:
-
-- **Negotiation (Balance) →** Seen in **yin-yin tension between lines** and the **push-pull of opposing hexagrams**.
-- **Limitation (Definition) →** Found in **trigram influence, structural placement of lines, and the flow of energy**.
-- **Contribution (Integration) →** Expressed through **moving lines, nuclear hexagrams, and the transformation cycle**.
-
-------
-
-That is the entire *I Ching Primer* from your uploaded file. Would you like me to also append the SI constants material (speed of light, Planck’s constant, gravitational constant) to the very end, so the primer includes the measurement foundations section as well?
-
-
-
-
 # II: Foundations of the I Ching
+
+For those who may not be familiar with the basics of a hexagram, here is a brief overview.  These are also some of the rules or patterns that were used when translating the I Ching when writing *The Tholonic I Ching*[^100].
+
+[^100]: Available on Amazon and as a free PDF download on <a href src="tholonia.com">Tholonia.com</a>
+
+### I Ching Primer
+
+#### Understanding the Structure of a Hexagram
+
+A hexagram is composed of two trigrams, each containing three lines. The lower trigram consists of lines **1, 2, and 3**, and reflects the inner conditions of a situation: the realm of potential, preparation, and internal transformation. The upper trigram, composed of lines **4, 5, and 6**, speaks to the outer conditions: the realm of action, interaction, and the manifestation of intention within the world.
+
+Each trigram follows a threefold rhythm that echoes the basic movement of existence. Line **1** marks the emergence of a process, when potential first takes recognizable form. Line **2** expresses the phase of realization, when potential settles into structure and begins acting within its environment. Line **3** brings the cycle to its point of culmination, when transformation becomes inevitable and the process prepares either to dissipate or to evolve into a new configuration.
+
+Because every hexagram contains these two intertwined movements, the inner and the outer, the interpretation of any line requires an awareness of how these cycles speak to one another. Together they reveal how negotiation, limitation, and contribution are enacted both within the individual and within the larger field of circumstance.
+
+#### The Archetypal Hexagram
+
+The natural sequence of the six lines follows an alternating pattern of yang and yin:
+
+Yang Yin Yang Yin Yang Yin, or ―  – –  ―  – –  ―  – –, or ䷾.
+
+This pattern embodies a primordial alternation between activity and receptivity, each giving rise to the next. Yang lines, appearing naturally in positions **1, 3, and 5**, represent movement, initiative, expansion, and the active force within each moment of the cycle. Yin lines, appearing in positions **2, 4, and 6**, represent openness, adaptation, consolidation, and the shaping capacity that allows movement to take coherent form.
+
+When the lines appear in their natural positions, the hexagram tends to unfold with clarity and harmony. When a line is inverted from its natural state, the hexagram reveals the presence of tension, friction, or transformation. These deviations mark the points at which a process strains against its own limits or prepares to renew itself.
+
+Recognizing this intrinsic order provides a foundation for understanding how negotiation, limitation, and contribution move through the hexagram.
+
+#### How the Natural Yang–Yin Pattern Shapes the Meaning of Each Line
+
+This alternating structure establishes the underlying rhythm of the hexagram. A line in its natural state supports the organic movement of the cycle, while a line in an inverted state signals instability or transition. Each line represents a distinct moment in the life of a process, and its natural quality reveals its proper function within the unfolding.
+
+#### The Inner Trigram: Lines 1, 2, and 3
+
+Line **1** is naturally yang. It marks the moment when potential gathers and begins to move. When this line becomes yin, the movement hesitates or weakens and the process enters the world without firm direction.
+
+Line **2** is naturally yin. It provides the receptive ground upon which the emerging force takes shape. When this line becomes yang, the process may act before it is fully formed or struggle to integrate its own momentum.
+
+Line **3** is naturally yang. It represents the culmination of the inner cycle and the threshold between the inner world and outward expression. When this line becomes yin, the transition may falter and movement outward may remain incomplete.
+
+#### The Outer Trigram: Lines 4, 5, and 6
+
+Line **4** is naturally yin. It marks the first contact with the outer world, when inner intention seeks alignment with external conditions. If this line becomes yang, there may be premature assertion or an attempt to force circumstances that are not yet ready.
+
+Line **5** is naturally yang. It expresses full manifestation within the outer world and is associated with clarity, leadership, and mastery. When this line becomes yin, authority weakens and the process may lose direction or fail to realize its full potential.
+
+Line **6** is naturally yin. It represents the closing of the cycle, the point at which a process has completed its outward expression and must now release, return, or transform. When this line becomes yang, it signals resistance to closure or an effort to prolong a movement that has already reached its natural end. Line 6 is not a higher refinement than line 5 but the stage that follows fulfillment, when momentum dissolves and a new cycle quietly begins to gather.
+
+#### The Flow of Energy Through the Hexagram
+
+The six lines trace an ascending current. Lines **1–2** belong to the realm of Earth and establish foundation and form. Lines **3–4** belong to the human realm, where intention meets circumstance and negotiation shapes the unfolding path. Lines **5–6** belong to the realm of Heaven, where expression reaches its height and the process moves toward completion and return. The hexagram thus embodies a movement from emergence, through realization, toward consummation and renewal.
+
+#### The Tension and Dialogue Between Adjacent Lines
+
+Each line is influenced by the lines immediately above and below it. Yin beneath yang stabilizes and supports. Yang above yin activates and presses forward. The hexagram is therefore a living structure whose meaning arises through the interplay of neighboring forces. This interplay reveals the internal rhythm of change: the subtle dynamics through which the situation seeks balance.
+
+#### The Central Authority of the Fifth Line
+
+Line **5** occupies the center of the upper trigram and is traditionally regarded as the ruler of the hexagram. It is the position where clarity and purpose find their most effective expression. A strong line 5 lends coherence and direction to the entire structure, while a weakened line 5 often reveals misalignment or uncertainty. As the bridge between earthly action and the larger arc of unfolding circumstance, it exerts profound influence on the meaning of the whole.
+
+#### The Relationship Between Opposing Hexagrams
+
+Every hexagram possesses an opposite formed by inverting all six lines. This opposite reveals the complementary or balancing principle inherent within the original figure. The Creative, composed entirely of yang lines, finds its opposite in the Receptive, composed entirely of yin. Together they articulate the full cycle of manifestation from potential to form. Examining a hexagram alongside its opposite clarifies the unseen dimension of the process and reveals the greater movement toward equilibrium.
+
+#### Nuclear Hexagrams and the Hidden Structure Within
+
+The four central lines, **2–5**, form a secondary figure known as the nuclear hexagram. This inner structure represents the generative core of the situation and often reveals what is quietly developing within the larger form. The nuclear hexagram does not replace the primary one but illuminates the forces that are gathering beneath the surface and shaping the next phase. For example, within the Creative lies the nuclear hexagram Breakthrough, suggesting that pure creative force naturally presses toward decisive emergence.
+
+#### Moving Lines and the Transformation of the Hexagram
+
+When one or more lines change, they produce a second hexagram describing the direction of future development. Changing lines indicate where tension, instability, or transformation is active. Changes in lines **1** or **6** often signal major transitions, while changes in the middle lines represent more gradual evolution. Moving lines reveal the trajectory of the process and show how the situation is unfolding across the cycle of change.
+
+#### The Tholonic Model and the Structure of the Hexagram
+
+The principles of negotiation, limitation, and contribution are embedded deeply within the hexagram. Negotiation appears in the relationships between adjacent lines and in the balancing of opposite hexagrams. Limitation is expressed through the structural hierarchy of trigrams and the ordered movement from line 1 to line 6. Contribution becomes visible in the transformative shifts produced by moving lines, in the emergence of the nuclear hexagram, and in the continuous cycle through which one configuration gives rise to the next.
+
+The I Ching therefore mirrors the recursive architecture of the Tholonic model and demonstrates, in symbolic form, how existence continually creates new patterns of coherence from the interplay of its fundamental forces.
+
+
 
 ## Patterns, Principles, and Structure
 
 
-The I Ching’s trigrams, like the thologram’s triangle or triad, is seen as the concept of a the stable building block of structure. In the I Ching, a trigram is simply three states of yin/yang together to form a stable concept. There are eight possible combinations when using yin and yang (shown below).
+The I Ching's trigrams, like the thologram's triangle or triad, are seen as the concept of the stable building block of structure. In the I Ching, a trigram is simply three states of yin/yang together to form a stable concept. There are eight possible combinations when using yin and yang (see image).
 
-<img src="/home/jw/src/iching_cli/book/intro/Images/i-ching-8.png" style='float:right;width:20%'/>The I Ching also has a concept of a “lower” and an “upper” state. It describes the lower state as earth, matter, the subjective, the hidden, the inner, etc. depending on context, and the “upper” state as that of heaven, ideas, archetypes, the outer, exposed and the arena of creation, etc, also depending on context. Just as the yin and yang lines represent the two states of something, the upper and lower trigrams represent the two states of the stable concept created by the three lines of the trigram. Already we see the self-similar properties of dualities of trinities as shown in the thologram as well.
+<img src="/home/jw/src/iching_cli/book/intro/Images/i-ching-8.png" style='float:right;width:20%'/>The I Ching also has a concept of a “lower” and an “upper” state. It describes the lower state as earth, matter, the subjective, the hidden, the inner, etc. depending on context, and the “upper” state as that of heaven, ideas, archetypes, the outer, exposed and the arena of creation, etc, also depending on context. Just as the yin and yang lines represent the two states of something, the upper and lower trigrams represent the two states of the stable concept created by the three lines of the trigram. Already we see the self-similar properties of dualities of trinities (and trinities of dualities) as shown in the thologram as well.
 
-Pairing these eight upper trigrams with the eight lower trigrams results in a total of 64 hexagrams, shown below (even values are blue, odd values are red for easier viewing). The number under the hexagram is the binary value of the hexagram when considering yin as 0 and yang as 1. This was the original Fu Xi arrangement before the current King Wen (~1154 BCE, Zhou Dynasty) order was introduced.
+Pairing these eight upper trigrams with the eight lower trigrams results in a total of 64 hexagrams, shown below (even values are blue, odd values are red for easier viewing). The number under the hexagram is the binary value of the hexagram when considering yin as 0 and yang as 1. 
 
 >
 
@@ -517,11 +393,11 @@ Pairing these eight upper trigrams with the eight lower trigrams results in a to
 
 While there are 64 hexagrams, it is more useful to think of two different sets of 32 pairs of hexagrams. The reason this is more useful is that we can consider these 32 pairs as 32 singularities that instantiate in two different forms depending on the context.
 
-##### Note: For clarity, referring to hexagrams can take the following form of **2䷁*~0~* the *Receptive***, where **2** is the traditional or King Wen number of the hexagram, **䷁** is the hexagram itself, and the small-italic ***~0~*** is the binary value of the hexagrams when yang=1 and yin=0. The name, ***Receptive***, is the traditional name, which may differ from the Tholonic I Ching name. Unless noted, all the hexagram name in this document are the traditional names.
+##### Note: For clarity, referring to hexagrams can take the following form of **2䷁*~0~* the *Receptive***, where **2** is the traditional or King Wen number of the hexagram, **䷁** is the hexagram itself, and the small-italic ***~0~*** is the binary value of the hexagrams when yang=1 and yin=0. The name, ***Receptive***, is the traditional name, which may differ from the "Tholonic I Ching" name. Unless noted, all the hexagram name in this document are the traditional names.
 
 For example, take the most basic hexagrams: 2䷁*~0~* the *Receptive*, and 1䷀*~63~* the *Creative*. Between these two hexagrams, all other hexagrams exist, so together, as a pair, they represent one state that includes the broadest context that everything exists within. Another example is the pair of hexagrams 39䷦*~20~* *Obstruction*, which states, “*When faced with dangerous obstacles it is wise to retreat and prepare accordingly with those of like mind*,” and its opposite, 38䷥*~43~* *Diverging Perspectives* or *Opposition*, which states, “*When opposites meet they must proceed with care, for brusqueness will lead to calamity, but through understanding and cooperation we can change an opposition into a polarity. This is how all things come into being*.”
 
-The *meta* concept here is one of opposites and how they can interact either through polarity as cooperation or conflict.  We examine these pairs further on, but for now it it useful to keep this concept in mind.
+The *meta* concept here is one of opposites and how they can interact either through polarity as cooperation or conflict. We examine these pairs further on, but for now it is useful to keep this concept in mind.
 
 
 
@@ -530,7 +406,7 @@ The *meta* concept here is one of opposites and how they can interact either thr
 
 ##### *Note: To avoid confusion, a tholonic triple, which is essentially a triangle, is called a “triad” to distinguish from the I Ching’s “trigram”.*
 
-A tholonic triad is a bit different from, but quite compatible with, the I Ching trigram. Instead of three states that the I Ching defines as beginning, middle, end, or earth, man, heaven, the triad is made of a source and the two polar opposites that emerge from that source, something like a *synthesis* that holds within it its own but yet unexpressed   *thesis* and *antithesis*. The three lines of a trigram and the three points of a triad correlate with *NDC*.
+A tholonic triad is a bit different from, but quite compatible with, the I Ching trigram. Instead of three states that the I Ching defines as beginning, middle, end, or earth, man, heaven, the triad is made of a source and the two polar opposites that emerge from that source, something like a *synthesis* that holds within it its own but yet unexpressed *thesis* and *antithesis*. The three lines of a trigram and the three points of a triad correlate with *NDC*.
 
 The thologram also has a concept of *upper* and *lower* in that the *upper* trigram of the I Ching, which comes *after* the *lower* trigram, equates nicely to the *child* triad of a tholon, which comes *after* or *within* the parent. In other words, the *lower* I Ching trigram is the *parent* triad of the thologram, and the *upper* I Ching trigram is the *child* triad of the tholon. We can now see that the final hexagram is perfectly equivalent to a 2D tholon map.
 
@@ -541,7 +417,7 @@ It might seem counterintuitive that the *upper* or *outer* trigrams of the I Chi
 
 If the thologram recurses inward and not outward, does this mean that all creations exist *within* the initial tetrahedron, or tholon, that is created by this primal; parent and child triad? Conceptually, yes, within which are an infinite number of embedded tetrahedrons across an infinite number of generations.
 
-##### Note: One interesting detail is when we use the outer triad on the parent level with the inner triad on the child level; all the numbers, as indicated on the image above, for each side equal 9, (1+6+2), (2+4+3), (3+5+1), but if we associated the lower trigram with the inner triad, and the upper trigram with the outer triad, all the numbers for each side equal 12, (4+3+5), (5+1+6), (6+2+4). 9 is a smaller number and is more efficiently expressed and is self-similar  (3<sup>3</sup>) unlike 12, which means it has “less resistance” than the larger, less sophisticated, and more complex 12 (2<sup>2</sup>×3 - see appendix for more on this). That does not mean other mappings are incorrect, just that this one is the most efficient and therefore more likely to occur.
+##### Note: One interesting detail is when we use the outer triad on the parent level with the inner triad on the child level; all the numbers, as indicated on the image above, for each side equal 9, (1+6+2), (2+4+3), (3+5+1), but if we associated the lower trigram with the inner triad, and the upper trigram with the outer triad, all the numbers for each side equal 12, (4+3+5), (5+1+6), (6+2+4). 9 is a smaller number and is more efficiently expressed and is self-similar (3<sup>3</sup>) unlike 12, which means it has "less resistance" than the larger and more complex 12 (2<sup>2</sup>×3 - see appendix for more on this). That does not mean other mappings are incorrect, just that this one is the most efficient and therefore more likely to occur.
 
 
 
@@ -674,12 +550,12 @@ We can also see that each pair of hexagrams for the same point has a meaning tha
 
 The other thing we notice is the symmetry of the numbers, wherein every pair of opposite (ascending/descending) values on opposite sides of the vertical axis always equals 63, for example 25䷘*~57~* **INNOCENCE** and 46䷭*~6~* ***Pushing Upwards*** where 57 + 6 = 63. The same is true for every lower and upper trigram and their opposite equaling 7, but in the case of the ascending trigrams, the axis is diagonal from the lowest right sector to the highest left sector, and for the descending trigrams, the axis is mirrored, from lowest left to the highest right sector.
 
-<img src="/home/jw/src/iching_cli/book/intro/Images/dot-circle-3a-2_axis.png" style='float:right;width:40%'/>These axes are not easily visualized, so here is a diagram, and, as we can see, the lower trigram connections follow crossed, diverging paths suggesting dynamism or tension, while the upper trigram connections form a more ordered, symmetrical geometric pattern suggesting stability and structure. This visual difference could represent the contrasting nature or functions of the upper and lower trigrams in I Ching philosophy, with lower trigrams potentially representing more dynamic, changing inner conditions and upper trigrams representing more structured, manifest outer conditions.  This is consistent with the concept that the lower trigrams is the more formative “inner” and the upper trigram is the more manifest “outer.”
+<img src="/home/jw/src/iching_cli/book/intro/Images/dot-circle-3a-2_axis.png" style='float:right;width:40%'/>These axes are not easily visualized, so here is a diagram, and, as we can see, the lower trigram connections follow crossed, diverging paths suggesting dynamism or tension, while the upper trigram connections form a more ordered, symmetrical geometric pattern suggesting stability and structure. This visual difference could represent the contrasting nature or functions of the upper and lower trigrams in I Ching philosophy, with lower trigrams potentially representing more dynamic, changing inner conditions and upper trigrams representing more structured, manifest outer conditions.  This is consistent with the concept that the lower trigram is the more formative "inner" and the upper trigram is the more manifest "outer."
 
 Here is an overview of the cardinal pairs shown above, using the traditional King Wen hexagram titles and meanings
 
 -   Pair 1)  1䷀*~63~* **CREATIVE** ⇔ 2䷁*~0~* ***Receptive***
--   - Both of these hexagrams define a genesis, the origin of creation, the primordial duality that forms the foundation of existence, where active creation and passive reception combine to give rise to all things.  This is where pure, dynamic force (CREATIVE) joins with the yielding, nurturing (Receptive), allowing creation to take form.  This polarity that defines the spectrum within which every other hexagrams exists.
+-   - Both of these hexagrams define a genesis, the origin of creation, the primordial duality that forms the foundation of existence, where active creation and passive reception combine to give rise to all things.  This is where pure, dynamic force (CREATIVE) joins with the yielding, nurturing (Receptive), allowing creation to take form.  This polarity defines the spectrum within which every other hexagram exists.
       
     
 -   Pair 2) 10䷉*~59~* **TREADING** ⇔ 7䷊*~11~* **Peace***
@@ -785,7 +661,7 @@ Interesting side note: in Christian monasticism, traditional Chinese medicine, s
 ## The Form of Hexagrams
 
 
-We can easily recognize this same archetypal structure of the I Ching and the tholon in many systems, from the process of mitosis to the shape of trees and plants with their *inner* roots and *outer* branches and leaves. This is significant because in the thologram there is a similar concept with a real tholon and a virtual tholon which are matched to create a complete tholon. We also saw an example of this in the book “THOLONIA - The Mechanics of Existential Awareness” when looking at how the complete tholon models quarks to the proton.
+We can easily recognize this same archetypal structure of the I Ching and the tholon in many systems, from the process of mitosis to the shape of trees and plants with their *inner* roots and *outer* branches and leaves. This is significant because in the thologram there is a similar concept with a real tholon and a virtual tholon which are matched to create a complete tholon. We also saw an example of this in the book “*THOLONIA - The Mechanics of Existential Awareness*” when looking at how the complete tholon models quarks to the proton.
 
 In the thologram, all odd-numbered tholons are *real* and all even-numbered tholons are *virtual*. Likewise, all hexagrams that begin with a yin line are even-numbered hexagrams, and those that begin with a yang line are odd-numbered. We now have a very clean mapping between the thologram and the I Ching of *virtual* as yin and *real* as yang.
 
@@ -795,16 +671,16 @@ There are many mappings and similarities between the tholon and the I Ching, but
 
 <img src="/home/jw/src/iching_cli/book/intro/Images/overlay-gen.png" style='float:right;width:50%'/>If we create a binary tree of the I Ching where the bifurcations follow the path of least resistance, meaning they will always move into the emptiest space, we end up with bifurcations separated by 60° (which is also the angle that creates a tetrahedron/tholon). This would then create the patterns (right) for each of the 6 generations of bifurcations.
 
-Simply splitting one line into two lines, in accordance with the laws of laws of least energy, we naturally form a pattern of hexagons that matches the pattern of tholonic expansion. This is because the I Ching and the thologram represent the same laws but in the context of a binary system (I Ching) and a trinary or synergetic system (thologram). Not surprisingly, the one point they both naturally center around is the *N*-source.
+Simply splitting one line into two lines, in accordance with the laws of least energy, we naturally form a pattern of hexagons that matches the pattern of tholonic expansion. This is because the I Ching and the thologram represent the same laws but in the context of a binary system (I Ching) and a trinary or synergetic system (thologram). Not surprisingly, the one point they both naturally center around is the *N*-source.
 
 The image below is a more in-depth version showing the expansion of the I Ching’s lines from 1 to 6, and beyond. In this image, we follow each bifurcation starting with the one point from which the original duality emerged. The arrows show the direction of the movement, with left-sided (or *port* side, as the side is relative to the direction of the arrow) arrows as yin and right-sided (or *starboard* side) arrows as yang (or vice versa). Doubled-headed arrows indicate that one line (in the same direction) is shared by two parents, and lines with arrows in both directions indicate a shared line that is bidirectional.
 
 
 <center><img src='../Images/hex_builder.png' style='width:100%'/></center>
 
-***Fig. hb1*** shows the paths of all 64 hexagrams of the I Ching which are the result of 6 generations. ***Fig hb2*** shows the 7th generation. This is added only to show that with the 7th generations we get the first complete closure of a hexagram (the first one, in the center), which is another example of the “*All movements are accomplished in six stages, and the **seventh** brings return*”. ***Fig hb3*** is the same pattern, but iterated over 13 generations, generating 8,192 (or 2<sup>13</sup>) final values. It is included simply to show how the larger form remains a hexagram and how only the last two generations (purple and cyan) are even visible, occluding all previous generations. Notice how at this point, the dominant pattern, which will remain the dominant pattern for all future children, are two sets of three double-headed arrows, one set from the final generation (right), and one from the previous generation (left), shown in this image<img src="/home/jw/src/iching_cli/book/intro/Images/triplet-pairs.png" style='width:30px'/>pattern of 2×3 (final generations × intersections of movement) does not appear until the 2<sup>3</sup> (or 8<sup>th</sup>) generation. Because new generations overlap the previous when shown in two dimensions, we can’t see that this is really more of a 3D design, with the originating point in the center, expanding with each generation, creating a hexagonal cone.
+***Fig. hb1*** shows the paths of all 64 hexagrams of the I Ching which are the result of 6 generations. ***Fig hb2*** shows the 7th generation. This is added only to show that with the 7th generation we get the first complete closure of a hexagram (the first one, in the center), which is another example of "*All movements are accomplished in six stages, and the **seventh** brings return*". ***Fig hb3*** is the same pattern, but iterated over 13 generations, generating 8,192 (or 2<sup>13</sup>) final values. It is included simply to show how the larger form remains a hexagram and how only the last two generations (purple and cyan) are even visible, occluding all previous generations. Notice how at this point, the dominant pattern, which will remain the dominant pattern for all future children, consists of two sets of three double-headed arrows: one set from the final generation (right), and one from the previous generation (left), shown in this image<img src="/home/jw/src/iching_cli/book/intro/Images/triplet-pairs.png" style='width:30px'/>. This pattern of 2×3 (final generations × intersections of movement) does not appear until the 2<sup>3</sup> (or 8<sup>th</sup>) generation. Because new generations overlap the previous when shown in two dimensions, we can't see that this is really more of a 3D design, with the originating point in the center, expanding with each generation, creating a hexagonal cone.
 
-This pattern of 6 triangles also happens to be two tetrahedrons that perfectly describe the shape of the thologram, i.e., two tholons, one *real* and one *virtual*, connected at the base. Yes, this is purely the result of the properties of geometry, but as the I Ching ands the thologram are built upon the same laws, we would expect to see such interrelated patterns.
+This pattern of 6 triangles also happens to be two tetrahedrons that perfectly describe the shape of the thologram, i.e., two tholons, one *real* and one *virtual*, connected at the base. Yes, this is purely the result of the properties of geometry, but as the I Ching and the thologram are built upon the same laws, we would expect to see such interrelated patterns.
 
 Also of interest in this diagram is how it shows that the original *N*-source is the result of its own creation *after* 6 generations. In other words, after 6 generations, a new *N*-source is created in the same location as the original *N*-source, creating a new cycle that *departs* from the previous. Notice that it is the 5<sup>th</sup> place where two different cycles come together for the first time, which is why the 5<sup>th</sup> place is one of *integration*.
 
@@ -820,9 +696,7 @@ In the Tholonic model, the natural order of change follows this progression: Low
 
 A good example of this pattern is the progression of the universe from the Big Bang to its ultimate fate. The universe begins in a state of low-entropy chaos (the Big Bang), expands and develops increasing order and complexity, and eventually declines into high-entropy chaos, such as Heat Death, the Big Freeze, the Big Rip, Vacuum Decay, the Black Hole Era, and Hawking Radiation Evaporation, as all structure dissipates, according to these theories.
 
-A good example of this pattern is the progression of the universe from the Big Bang to its ultimate fate. The universe begins in a state of low-entropy chaos (the Big Bang), expands and develops increasing order and complexity, and eventually declines into high-entropy chaos, such as Heat Death, the Big Freeze, the Big Rip, Vacuum Decay, the Black Hole Era, and Hawking Radiation Evaporation, as all structure dissipates, according to these theories.
-
-As a reminder, the ascending side of the I Ching is where we move from the ultimate Yin state, [*2䷁~0~ **Receptive***], to the maximum Yang state that can exist in the Yin domain, [*43䷪~31~ **Breakthrough***]. The descending side begins as [23䷖~32~ **Splitting Apart**], the maximum Yin state that can exist in the Yang domain, and continues to the ultimate Yang state of [1䷀~63~ **The Creative**].
+As a reminder, the ascending side of the I Ching is where we move from the ultimate Yin state, [2䷁~0~ ***Receptive***], to the maximum Yang state that can exist in the Yin domain, [43䷪~31~ ***Breakthrough***]. The descending side begins as [23䷖~32~ **Splitting Apart**], the maximum Yin state that can exist in the Yang domain, and continues to the ultimate Yang state of [1䷀~63~ **The Creative**].
 
 This model indicates that ䷁ and ䷀ are the two states of maximum chaos, the Yin chaos of maximum entropy and the Yang chaos of minimum entropy. It may seem odd to associate Yin with low entropy and Yang with high entropy, but the reasoning is as follows:
 
@@ -839,15 +713,15 @@ This seems to suggest that the ultimate end of the Universe is represented by [1
 
 The [1䷀~63~ **Creative**] is the universe at its most complete, the culmination of all possible expression. It is the final state in which energy has been fully structured, fully realized, and fully spent. Nothing more can be created because everything that could exist has already emerged. All differentiation, all movement, all transformation has reached its peak, leaving no further possibilities for change. In this moment, the universe is absolute, total, and without remainder, a condition so complete that nothing new can enter, nothing old can be undone. It is a moment of pure finality, where all that has been set into motion has played out its course, and what remains is a universe that has nothing left to become.
 
-In the Tholonic model, the paradox of "Creation = Destruction" arises from the fundamental nature of Yang energy, which inherently expands, transforms, and consumes. Yang is the creative, active, and dynamic force, but by its very nature, it drives toward maximum entropy—the ultimate dissipation and dissolution of structure and energy. This is why fire, as a metaphor for creative energy, results in ash—it burns brightly and transforms its fuel into residual matter, leaving behind entropy and emptiness.
+In the Tholonic model, the paradox of "Creation = Destruction" arises from the fundamental nature of Yang energy, which inherently expands, transforms, and consumes. Yang is the creative, active, and dynamic force, but by its very nature, it drives toward maximum entropy: the ultimate dissipation and dissolution of structure and energy. This is why fire, as a metaphor for creative energy, results in ash. It burns brightly and transforms its fuel into residual matter, leaving behind entropy and emptiness.
 
-In the cosmic sense, Yang-driven processes lead to high-entropy end states, such as heat death, the big freeze, vacuum decay, or black hole evaporation. These scenarios reflect Yang energy pushing the universe toward the ultimate dispersal of order and structure. Thus, the beginning of creation inherently contains the seed of its own dissolution—the very act of creating and manifesting eventually consumes the energy that sustains it.
+In the cosmic sense, Yang-driven processes lead to high-entropy end states, such as heat death, the big freeze, vacuum decay, or black hole evaporation. These scenarios reflect Yang energy pushing the universe toward the ultimate dispersal of order and structure. Thus, the beginning of creation inherently contains the seed of its own dissolution. The very act of creating and manifesting eventually consumes the energy that sustains it.
 
 The resolution to this paradox lies in the interplay between Yang and Yin. While Yang initiates and expands, Yin conserves, preserves, and regenerates. The destruction of one creation gives rise to potential new forms, much like ashes enriching the soil for new growth. In this sense, destruction is not the antithesis of creation but its inevitable counterpart, completing the cycle where creation transforms into dissolution, and dissolution becomes the fertile ground for new creation.
 
-Therefore, Creation and Destruction are not opposites but aspects of a single continuous process—the eternal cycle of transformation, where fire becomes ash, and ash nurtures new life. The creative force both initiates and concludes, embodying the dynamic balance between expansion and entropy.
+Therefore, Creation and Destruction are not opposites but aspects of a single continuous process: the eternal cycle of transformation, where fire becomes ash, and ash nurtures new life. The creative force both initiates and concludes, embodying the dynamic balance between expansion and entropy.
 
-When all has been fully realized, there is no longer movement, and when movement ceases, the conditions for a new cycle arise. The Creative, in exhausting itself, returns to [*2䷁~0~ **Receptive***], not as a separate phase, but as the inevitable consequence of total expression. The universe at its most complete is indistinguishable from the universe before it was born. The final expression is not merely an end; it is a return to the pure potential from which everything emerges.
+When all has been fully realized, there is no longer movement, and when movement ceases, the conditions for a new cycle arise. The Creative, in exhausting itself, returns to [2䷁~0~ ***Receptive***], not as a separate phase, but as the inevitable consequence of total expression. The universe at its most complete is indistinguishable from the universe before it was born. The final expression is not merely an end; it is a return to the pure potential from which everything emerges.
 
 Thus, the greatest fullness and the greatest emptiness are the same. The ultimate creation and the formless void are not opposites, but two ways of perceiving a singular reality, just as a zero dimensional point and a point of infinite dimensions are indistinguishable from each other. One is the last moment before dissolution, the other is the first moment before formation, but thermodynamically, they are identical, as potential for change is zero in both cases. What we call an ending is nothing but the stillness before a new beginning, and what we call a beginning is only the next emergence of movement from that stillness. The Creative, having fully expressed itself, does not collapse into nothingness, it *becomes nothingness*, and in doing so, it prepares for creation once more.
 
@@ -869,15 +743,15 @@ Doesn't the final stage of a perfect hexagonal array conflict with the final sta
 
 The apparent conflict arises from misinterpreting what the final stage represents. The perfect hexagonal array and the end state of the universe are not opposites but different scopes of the same fundamental principle: the perfect dissipation of energy. In both contexts, they represent the culmination of creative processes, where energy is distributed so uniformly and efficiently that no further transformation is possible.
 
-Though the hexagonal array appears perfectly ordered, it also represents a state of maximal entropy—where no gradients remain, and thus, no transformation can occur. In the material world, the hexagonal structure (like a honeycomb or crystalline lattice) perfectly dissipates pressure and energy, achieving maximum stability and equilibrium. This formation arises because energy naturally seeks the most efficient, balanced state, which in three dimensions results in hexagonal tessellation. The uniformity and coherence of the hexagon embody perfect structural harmony—no force or energy is left unaccounted for, and all stress is evenly shared among interconnected units.
+Though the hexagonal array appears perfectly ordered, it also represents a state of maximal entropy, where no gradients remain, and thus, no transformation can occur. In the material world, the hexagonal structure (like a honeycomb or crystalline lattice) perfectly dissipates pressure and energy, achieving maximum stability and equilibrium. This formation arises because energy naturally seeks the most efficient, balanced state, which in three dimensions results in hexagonal tessellation. The uniformity and coherence of the hexagon embody perfect structural harmony: no force or energy is left unaccounted for, and all stress is evenly shared among interconnected units.
 
 Interestingly, water itself exemplifies this principle, both in its molecular structure and in its behavior. In its liquid form, water molecules arrange themselves in transient, ever-shifting tetrahedral networks. This dynamic structure allows for the efficient dissipation of energy through the fluid medium, constantly adapting to external forces and redistributing kinetic energy evenly. When water transitions into ice, it forms hexagonal crystalline lattices, such as in snowflakes or ice crystals. These hexagonal patterns are the natural consequence of water's tetrahedral bonding, optimizing structural stability and minimizing energy gradients. This ability to shift between chaotic flow and ordered stability while always seeking energy equilibrium makes water not only the perfect metaphor for the end state of the universe but also a symbolic representation of the cyclical transformation between chaos and order.
 
-On a cosmic scale, the end state of the universe—whether it be heat death, vacuum decay, or the Big Freeze—represents maximum entropy and energy dissipation. Just as the hexagon disperses internal pressure evenly, the final state of existence disperses energy so uniformly that no further change can occur. The universe reaches a state of perfect equilibrium, where all potential for transformation has been exhausted.
+On a cosmic scale, the end state of the universe (whether it be heat death, vacuum decay, or the Big Freeze) represents maximum entropy and energy dissipation. Just as the hexagon disperses internal pressure evenly, the final state of existence disperses energy so uniformly that no further change can occur. The universe reaches a state of perfect equilibrium, where all potential for transformation has been exhausted.
 
 Thus, the honeycomb pattern, hexagonal ice crystals, and the ultimate cosmic dissipation are identical in principle but differ in scope and context. The honeycomb and ice both act as material metaphors for the universe's final state because they represent the culmination of dynamic processes into a perfectly stable, energy-dissipative structure. In both cases, creation reaches its ultimate expression by achieving a state of perfect order and balance, whether in the microcosm of a honeycomb, the crystalline lattice of ice, or the macrocosm of the universe itself.
 
-In this way, the final hexagonal state does not oppose chaos but completes it. The cycle closes with a perfect stillness that echoes its chaotic beginning, but in reverse—a mirror of order. Just as water existed before creation in ancient mythologies—calm and undifferentiated—the end state of the universe returns to that primal stillness, the waters of potential within which all new creation will arise.
+In this way, the final hexagonal state does not oppose chaos but completes it. The cycle closes with a perfect stillness that echoes its chaotic beginning, but in reverse: a mirror of order. Just as water existed before creation in ancient mythologies (calm and undifferentiated), the end state of the universe returns to that primal stillness, the waters of potential within which all new creation will arise.
 
 This concepts is mirrored in the Torah and Bible’s Old Testament in Genesis:
 
@@ -918,7 +792,7 @@ The following is a bit of a tangent, but worth sharing before we continue with t
 
 The forms used to represent the stages of change are “perfect” archetypes, in that they adhere strictly to a very tight set of rules. In reality, there are many other forces in play other than an isolated set of rules, making it rare, if not impossible, for a perfect archetype to instantiate. In the image above, with just a little bit of chaos, we get forms that are much closer to what we see in the real world. In the images below, we added a little more variation to our perfect process on just two variables, length and angle, resulting in a wider variety of “realistic” forms. The black forms below each variation show the perfect archetype they were based on.
 
-##### Note: The “leaves” of these “plants” were naturally formed by the unfolding of the starboard and port-side arrow heads that indicate the direction of the expanding bifurcations that form the 6 lines of the hexagrams’
+##### Note: The "leaves" of these "plants" were naturally formed by the unfolding of the starboard and port-side arrow heads that indicate the direction of the expanding bifurcations that form the 6 lines of the hexagrams.
 
 
 <center><img src='../Images/arch-hex-sm.png' style='width:80%'/></center>
@@ -942,10 +816,10 @@ The values of the lines are determined by the sum of the points that define the 
 
 Here are some observations from the above:
 
--   The sum of any triad and the side opposite that triad always equal 63, the maximum number possible. This was exciting to discover as it supports the Tholonic claim that the effect of any point can be seen on the side opposite that point.  In our example above, we see the side [41䷨~35~ **Decrease**] plus the opposing corner of [*31䷞~28~ **Influence***] equals 35 + 28 = 63.  What this means is that the triad and the opposing vector are the same path name!  This then also tells us that the only 3 paths involved are: *Growth*, *Refinement*, and *Perfection*, with the center path, which is singularity as it has no manifest children, is *Equilibrium*.  More that that, we are being told that Growth itself the stable *N-State*, and it instantiates as the **Limitation** of *Perfection*, and the contribution of *Refinement*, and from these two instances, we create  *Equilibrium*.
+-   The sum of any triad and the side opposite that triad always equal 63, the maximum number possible. This was exciting to discover as it supports the Tholonic claim that the effect of any point can be seen on the side opposite that point.  In our example above, we see the side [41䷨~35~ **Decrease**] plus the opposing corner of [31䷞~28~ ***Influence***] equals 35 + 28 = 63.  What this means is that the triad and the opposing vector are the same path name!  This then also tells us that the only 3 paths involved are: *Growth*, *Refinement*, and *Perfection*, with the center path, which is singularity as it has no manifest children, is *Equilibrium*.  More that that, we are being told that Growth itself the stable *N-State*, and it instantiates as the **Limitation** of *Perfection*, and the contribution of *Refinement*, and from these two instances, we create  *Equilibrium*.
 -   What is most interesting about this pattern, assuming this is not just an extremely rare and almost impossible coincidence that it perfectly portrays the qualities of growth, is that *Perfection* is presented as the *Limitation*. This is fascinating because perfection itself is perhaps the most limiting concept of all, given that it can never truly be achieved. Yet, the effort to achieve it, represented by *Refinement*, becomes the **Contribution**. In this way, *Growth* emerges not from reaching perfection but from the process of continuous improvement in a vain attempt to reach the impossible, highlighting how the pursuit itself generates the stable state rather than the attainment of an unattainable ideal.
     
--   Every number our example (14, 21, 28, 35, 42, 49, 56), including their sums (63, 70), is a multiple of 7 (times 2 to 10), suggesting the the resulting *white dot* = 7
+-   Every number our example (14, 21, 28, 35, 42, 49, 56), including their sums (63, 70), is a multiple of 7 (times 2 to 10), suggesting the resulting *white dot* = 7
     
 -   Every hexagram derived from these Tholonic values has an equal number of Yin and Yang lines (only 10 of the 32 pairs of hexagrams in the I Ching have an equal number of Yin and Yang), telling us these are balanced, stable archetypes.
     
@@ -994,7 +868,7 @@ Extending this analogy philosophically, one might suggest that each instance car
 
 <img src="../Images/102-tpaths.png" style='float:right;width:30%'/>This lineage encoding might be envisioned as analogous to the Fourier series concept, wherein hierarchical circular interactions create precise and complex patterns. Each tholon, thus, can conceptually possess a unique "signature" or "fingerprint," representing its exact location and lineage within a broader spectrum of reality.
 
-More deeply, this “signature” doesn’t merely reflect where the tholon is in the structure—it encodes how it came to be. This mirrors the Tholonic principle that Form and Function are not separate, but dual aspects of a single recursive reality. The Form of a tholon is the current stable pattern; its Function is the process that brought it into being. In the Tholonic view, every instance is a self-encoding unit where the path of generation is inherently embedded within the structure of what exists.
+More deeply, this "signature" doesn't merely reflect where the tholon is in the structure; it encodes how it came to be. This mirrors the Tholonic principle that Form and Function are not separate, but dual aspects of a single recursive reality. The Form of a tholon is the current stable pattern; its Function is the process that brought it into being. In the Tholonic view, every instance is a self-encoding unit where the path of generation is inherently embedded within the structure of what exists.
 
 Even if empirical demonstration remains complex or contentious, this remains a philosophically coherent perspective within the Tholonic framework.
 
@@ -1021,7 +895,7 @@ Here are some points about this model:
 
 The 8 trigrams (this is called the *Pa Kua* in the I Ching) are arranged in their binary, or natural order in pairs. The trigrams advance as opposite pairs of 0-7 <img src='../Images/bc/trigram-b00.png' style='width:30px'/> <img src='../Images/bc/trigram-b07.png' style='width:30px'/>, 1-6 <img src='../Images/bc/trigram-b01.png' style='width:30px'/> <img src='../Images/bc/trigram-b06.png' style='width:30px'/>, 2-5 <img src='../Images/bc/trigram-b02.png' style='width:30px'/> <img src='../Images/bc/trigram-b05.png' style='width:30px'/>, and 3-4 <img src='../Images/bc/trigram-b03.png' style='width:30px'/> <img src='../Images/bc/trigram-b04.png' style='width:30px'/> in the clockwise direction. This means the first 4 trigrams are 0, 1, 2, 3, <img src='../Images/bc/trigram-b00.png' style='width:30px'/> <img src='../Images/bc/trigram-b01.png' style='width:30px'/> <img src='../Images/bc/trigram-b02.png' style='width:30px'/> <img src='../Images/bc/trigram-b03.png' style='width:30px'/> and the next 4 trigrams are 7, 6, 5, 4 <img src='../Images/bc/trigram-b07.png' style='width:30px'/> <img src='../Images/bc/trigram-b06.png' style='width:30px'/> <img src='../Images/bc/trigram-b05.png' style='width:30px'/> <img src='../Images/bc/trigram-b04.png' style='width:30px'/>. This results in a pattern where all opposing numbers always equal 7, the maximum number that can be represented in binary using three places.
 
-**Ring 7**: There are three divisions per quadrant representing the three stages of Tholonic movement (clockwise): **Negotiation**, **Definition**, and **Contribution**. However, it is more accurate to say there are three *phases* or cycles of movement (clockwise), conceptually similar to how three-phase electricity works. All three phases are present all the time at every point, just at different points in the cycle, and, as they are represented in the triads as being 120° apart, they would presumeably appear in the (archetypal) order of the image below. This also suggests that if **Negotiation** starts at the 4:00 position, then **Definition** starts at the 8:00 position and **Contribution** starts at the 12:00 position, putting **Contribution** as the only property that holds a cardinal position, and the most dominant one at that.
+**Ring 7**: There are three divisions per quadrant representing the three stages of Tholonic movement (clockwise): **Negotiation**, **Definition**, and **Contribution**. However, it is more accurate to say there are three *phases* or cycles of movement (clockwise), conceptually similar to how three-phase electricity works. All three phases are present all the time at every point, just at different points in the cycle, and, as they are represented in the triads as being 120° apart, they would presumably appear in the (archetypal) order of the image below. This also suggests that if **Negotiation** starts at the 4:00 position, then **Definition** starts at the 8:00 position and **Contribution** starts at the 12:00 position, putting **Contribution** as the only property that holds a cardinal position, and the most dominant one at that.
 
 
 <center><img src='../Images/three_phase_waveform.png' style='width:60%'/></center>
@@ -1091,10 +965,10 @@ The chart below shows the two dimensions of the bigram as described by their chi
 
 Like the 32 paths of the 64 hexagrams, we also have 4 paths of the 8 trigrams.  Here is a brief overview:
 
-Path 1: [1**☰**~7~ Initiation] ⬄ [*8**☷**~0~ Acceptance*] ⇨ **Creation** *(Action unified with receptivity)*
-Path 2: [5**☴**~6~ Subtlety] ⬄ [*4**☳**~1~ Impulse*] ⇨ **Adaptation** *(Responsive interaction)*
-Path 3: [3**☲**~5~ Clarity] ⬄ [*6**☵**~2~ Depth*] ⇨ **Insight** *(Perception unified understanding)*
-Path 4: [7**☶**~4~ Stability] ⬄ [*2**☱**~3~ Joy*] ⇨ **Sustainability** *(Dynamic vitality, i.e., joy and inspiration, with structural endurance)*
+Path 1: [1**☰**~7~ Initiation] ⬄ [8**☷**~0~ *Acceptance*] ⇨ **Creation** *(Action unified with receptivity)*
+Path 2: [5**☴**~6~ Subtlety] ⬄ [4**☳**~1~ *Impulse*] ⇨ **Adaptation** *(Responsive interaction)*
+Path 3: [3**☲**~5~ Clarity] ⬄ [6**☵**~2~ *Depth*] ⇨ **Insight** *(Perception unified understanding)*
+Path 4: [7**☶**~4~ Stability] ⬄ [2**☱**~3~ *Joy*] ⇨ **Sustainability** *(Dynamic vitality, i.e., joy and inspiration, with structural endurance)*
 
 While there may be many ways to create an order of the trigrams, the Tholonic model’s order continually re-validates itself every time we look at it from a different perspective. How, then, do these trigrams relate to a tholon? If we mapped the binary values to the tholon, the relationship is obvious and powerful, as shown in the graphic below.  This is the same map we showed previously, but here we are also looking at the trigrams, which show an entirely different dimension.
 
@@ -1108,7 +982,7 @@ Here are some of the points spelled out:
 
 The arrangement of the trigrams are reversed between the value in a triad and the value on the opposing edge, suggesting that form and function are composed of the same properties, but in opposing contexts.  
 
-In the hexagram-based paths map, The four elements align with the concept of *Perfection*, *Growth* is aligned with  *Collecting* and *Emptying*, and  *Refinement* is aligned with *Filling* and *Releasing*, which are conceptuality similar to the trigrams of *Growth*, suggesting that *Refinement* is the foundational to *Growth*.  In the trigram-basaed path map:
+In the hexagram-based paths map, The four elements align with the concept of *Perfection*, *Growth* is aligned with  *Collecting* and *Emptying*, and  *Refinement* is aligned with *Filling* and *Releasing*, which are conceptually similar to the trigrams of *Growth*, suggesting that *Refinement* is the foundational to *Growth*.  In the trigram-based path map:
 
 - *Perfection* is composed of *Insight*.
 - *Growth* is composed of *Adaptation*.
@@ -1120,7 +994,7 @@ The same two I Ching trigrams of 1 <img src='../Images/bc/trigram-b01.png' style
 
 > - *Sacrifice on the part of those above for the increase of those below*
 
-Across the bottom <u>CD</u> edge, their position in swapped to create the *ascending* side of the *Growth* hexagram [*32䷟~14~ **Duration***], wherein it states:
+Across the bottom <u>CD</u> edge, their position in swapped to create the *ascending* side of the *Growth* hexagram [32䷟~14~ ***Duration***], wherein it states:
 
 > - *Duration is rather the self-contained and therefore self-renewing movement of an organized, firmly integrated whole, taking place in accordance with immutable laws and beginning anew at every ending.*
 >
@@ -1130,22 +1004,22 @@ Across the bottom <u>CD</u> edge, their position in swapped to create the *ascen
 >
 > We can see swapping the values of a triad with those of the opposing edge yields the values of the corresponding virtual tholon. This operation also inverts all the hexagrams to their opposites within the path to which each hexagram belongs.
 >
-> This is important because it shows how two trigrams can represent the internal functions (i.e. Increase) as a triad, and its interfacing edge, effectively acting as the *form*, of the the opposing vector.
+> This is important because it shows how two trigrams can represent the internal functions (i.e. Increase) as a triad, and its interfacing edge, effectively acting as the *form*, of the opposing vector.
 >
-> Thus, the primal tholon of a single line has two possible states, Yin or Yang. Three lines form a trigram tholon with eight states. Two trigrams combine to form a hexagram tholon with 64 states. Of thos 64 states, seven hexagrams explicitly form one 'real' tholon, which, along with its complementary 'virtual' state, forms a complete Tholonic structure.  This is a total of 14 partons and 19 tholons across 5 levels of self-similar expression to create one complete tholon.  that’s a lot of moving parts!
+> Thus, the primal tholon of a single line has two possible states, Yin or Yang. Three lines form a trigram tholon with eight states. Two trigrams combine to form a hexagram tholon with 64 states. Of those 64 states, seven hexagrams explicitly form one 'real' tholon, which, along with its complementary 'virtual' state, forms a complete Tholonic structure.  This is a total of 14 partons and 19 tholons across 5 levels of self-similar expression to create one complete tholon.  that's a lot of moving parts!
 >
 > **Perfect Coordination**
 
 It would be difficult to argue that the symbolism of the I Ching and the and structural relationships if the tholons revealed here are merely pareidolic. 
 
-While the traditional King Wen often perfectly represent the Tholonic symbolism, there a some interpretations that miss the mark, but this inaccuracy is easily understood given the bias or world view of the original interpretations and assigned meanings that date back thousands of years.  For example, in the hexagram [*63䷾ ~21~ **After Completion***], it states:
+While the traditional King Wen often perfectly represent the Tholonic symbolism, there a some interpretations that miss the mark, but this inaccuracy is easily understood given the bias or world view of the original interpretations and assigned meanings that date back thousands of years.  For example, in the hexagram [63䷾ ~21~ ***After Completion***], it states:
 
 - *“Hence the present hexagram indicates the conditions of a time of climax, which necessitate the utmost caution.*
 - *Thus the superior man takes thought of misfortune and arms himself against it in advance.”*
 
 The sentiment here is that once something is perfect, only decay can follow, and one must prepare oneself for the ensuing problems. While this may be true, it does not capture the larger sentiment that once something has reached perfection or has been completed, its cycle of change has ended. More importantly, this completed cycle has contributed to the greater whole, changing it in the process. Rather than arming oneself and preparing for misfortune, the Tholonic position is to appreciate the creation, offer it up to the world, let it go, and move on in the same way an artist lays down his brush after he has finished his painting.  
 
-This is the same sentiment behind the Buddhist sand mandala’s where monks, with great mindfulness and precision,  carefully place millions of grains of colored sand into an beautiful and elaborate mandala design, only to destroy it when it is finished as an act of non-attachment.  In this scenario, the act of destruction of the purpose of the creation, so the I Ching’s interpretations is not accurate or even relevant to the monk.  Fortunately, it is fairly easy to see past the world view to the larger Universal truth being stated.
+This is the same sentiment behind the Buddhist sand mandalas where monks, with great mindfulness and precision, carefully place millions of grains of colored sand into a beautiful and elaborate mandala design, only to destroy it when it is finished as an act of non-attachment.  In this scenario, the act of destruction is the purpose of the creation, so the I Ching's interpretations are not accurate or even relevant to the monk.  Fortunately, it is fairly easy to see past the world view to the larger Universal truth being stated.
 
 Here is a more complete example showing how the I Ching reflects the Tholonic symbolism.
 
@@ -1153,11 +1027,11 @@ The **Definition** triad correlates  to the path of *descending* PERFECTION, for
 
 - *“Thus the superior man is careful in the differentiation of things, so that each finds its place.”*
 
-It’s inverse on the **<u>CN</u>** edge  that returns **Contribution** to the parent is represented as [*63䷾ ~21~ **After Completion***] as $\frac{Water}{Fire}$ is the outer *form* or expression of its associated  *function*.
+It’s inverse on the **<u>CN</u>** edge  that returns **Contribution** to the parent is represented as [63䷾ ~21~ ***After Completion***] as $\frac{Water}{Fire}$ is the outer *form* or expression of its associated  *function*.
 
 - *“[This] hexagram indicates the conditions of a time of climax”*
 
-The **Contribution** triad correlates to the *ascending* path of REFINEMENT, shown through [*31䷞ ~28~ **Influence***] formed by $\frac{Collecting}{Emptying}$.  The function of this triad symbolizes the *mutual and harmonious integration between forces*.
+The **Contribution** triad correlates to the *ascending* path of REFINEMENT, shown through [31䷞ ~28~ ***Influence***] formed by $\frac{Collecting}{Emptying}$.  The function of this triad symbolizes the *mutual and harmonious integration between forces*.
 
 - *“Thus the superior man encourages people to approach him by his readiness to receive them.”*
 
@@ -1173,7 +1047,7 @@ It’s opposing hexagram is that of [*11䷊ ~7~ **Peace***] formed by $\frac{Ear
 
 - *“The Receptive, which moves downward, stands above; the Creative, which moves upward, is below. Hence their influences meet and are in harmony, so that all living things bloom and prosper.”*
 
-Yet, neither of these functions has a form, or rather the form *is* it’s function and it’s function *is* its form. In other words, what something does determines what something is.  That is why this triad is correlated to the path of “Passage”, because this the the “way” of creation. By changing what something does, you change what it is, and by changing what it is, you change what it does. What something is, and what it does, is what determines if it exists on a path of disintegration and stagnation, or on the path of peace and harmony.
+Yet, neither of these functions has a form, or rather the form *is* its function and its function *is* its form. In other words, what something does determines what something is.  That is why this triad is correlated to the path of "Passage", because this is the "way" of creation. By changing what something does, you change what it is, and by changing what it is, you change what it does. What something is, and what it does, is what determines if it exists on a path of disintegration and stagnation, or on the path of peace and harmony.
 
 We can also see how *Equilibrium* interacts with the manifest world where the central triad touches all three outer edges of Refinement, Perfection and Growth, and bridges every neighboring triad. This *Equilibrium* triad, by both its symbolism and spatial position, serves as a fitting base of the tetrahedron, at least in the context of the Thologram, anchoring the system in the interaction between the abstract (air, heaven, Yang, <img src='../Images/bc/trigram-b07.png' style='width:30px'/>) and the material (earth, Yin, <img src='../Images/bc/trigram-b00.png' style='width:30px'/>).
 
@@ -1185,33 +1059,33 @@ Similarly, the central triad’s structure emerges naturally from functional int
 
 **Cosmic Metaphore**
 
-Coincidentally, our journey to Laniakea provides an apt metaphor for the Tholon, illustrating its essential triad of equilibrium, holding together all other triads—perfection, growth, and refinement. Just as we find ourselves gravitationally drawn toward Laniakea, we are similarly drawn toward perfection, the ultimate limitation, which remains ever elusive as the universe expands, continually placing it beyond reach. Yet, precisely because we already exist within the gravitational embrace of Laniakea, this expansive drift is moderated, creating conditions in which our journey remains perpetually possible. This gravitational moderation represents the Tholon's equilibrium, the balanced negotiation of forces that binds together and sustains the dynamic interactions of perfection (as limitation), growth, and refinement (as integration). Thus, our journey within the supercluster mirrors the recursive sustainability of the Tholon itself, which endures and evolves as long as it maintains its integrated wholeness.
+Coincidentally, our journey to Laniakea provides an apt metaphor for the Tholon, illustrating its essential triad of equilibrium, holding together all other triads: perfection, growth, and refinement. Just as we find ourselves gravitationally drawn toward Laniakea, we are similarly drawn toward perfection, the ultimate limitation, which remains ever elusive as the universe expands, continually placing it beyond reach. Yet, precisely because we already exist within the gravitational embrace of Laniakea, this expansive drift is moderated, creating conditions in which our journey remains perpetually possible. This gravitational moderation represents the Tholon's equilibrium, the balanced negotiation of forces that binds together and sustains the dynamic interactions of perfection (as limitation), growth, and refinement (as integration). Thus, our journey within the supercluster mirrors the recursive sustainability of the Tholon itself, which endures and evolves as long as it maintains its integrated wholeness.
 
-In explicitly Tholonic terms, the metaphor of our journey to Laniakea encapsulates the principle of **Negotiation**-**Definition**-**Contribution** (*NDC*). *Perfection* is the ultimate **Definition**/**Limitation**, a destination that defines the boundary and structure of our striving yet remains inherently unattainable. The expanding universe symbolizes the constant negotiation of forces—an equilibrium state where gravitational pull and expansive force are continually balanced, preventing collapse into perfection or dissolution into chaos. Our ongoing journey toward Laniakea symbolizes **Contribution** (**Integration**), illustrating how we continuously integrate our experiences, insights, and growth into the greater structure. The gravitational moderation, ensuring that the journey remains eternally achievable yet never completed, embodies the Tholonic state of stable negotiation, maintaining a recursive and sustainable balance between the **Definition** of perfection and the **Contribution** of perpetual refinement and growth.
+In explicitly Tholonic terms, the metaphor of our journey to Laniakea encapsulates the principle of **Negotiation**-**Definition**-**Contribution** (*NDC*). *Perfection* is the ultimate **Definition**/**Limitation**, a destination that defines the boundary and structure of our striving yet remains inherently unattainable. The expanding universe symbolizes the constant negotiation of forces: an equilibrium state where gravitational pull and expansive force are continually balanced, preventing collapse into perfection or dissolution into chaos. Our ongoing journey toward Laniakea symbolizes **Contribution** (**Integration**), illustrating how we continuously integrate our experiences, insights, and growth into the greater structure. The gravitational moderation, ensuring that the journey remains eternally achievable yet never completed, embodies the Tholonic state of stable negotiation, maintaining a recursive and sustainable balance between the **Definition** of perfection and the **Contribution** of perpetual refinement and growth.
 
 **Perfect Integration**
 
 The two paths that create this <u>CN</u> vector are also non-coincidentally matched:
 
-*Descending* GROWTH: [42䷩*~49~* **Increase**], [*32䷟~14~ **Duration***] “*Sacrifice on the part of those above for the increase of those below.*”
+*Descending* GROWTH: [42䷩*~49~* **Increase**], [32䷟~14~ ***Duration***] “*Sacrifice on the part of those above for the increase of those below.*”
 
-*Ascending* REFINEMENT: [*31䷞~28~ **Influence***], [41䷨*~35~* **Decrease**] “*… their powers attract each other so that they unite*.”
+*Ascending* REFINEMENT: [31䷞~28~ ***Influence***], [41䷨*~35~* **Decrease**] “*… their powers attract each other so that they unite*.”
 
-<img src='../Images/32pairs.png' style='float:right; width:50%'/>The Tholonic interpretation of the I Ching reveals a clear structural relationship among *Growth*, *Perfection*, and *Refinement*, collectively forming the **????** "Passage," which embodies the path of *Equilibrium*.
+<img src='../Images/32pairs.png' style='float:right; width:50%'/>The Tholonic interpretation of the I Ching reveals a clear structural relationship among *Growth*, *Perfection*, and *Refinement*, collectively forming the "Passage," which embodies the path of *Equilibrium*.
 
 When these paths are highlighted within the full sequence of paths, a compelling pattern emerges: each highlighted path is separated precisely by six paths. The path of *Equilibrium* appears immediately following the first six paths, succeeding the two foundational pairs, *Primordial Duality* and *Cycle of Influence*, that mark the beginning and end of the sequence.
 
 Uniquely, *Equilibrium* stands apart as a Cardinal Path, distinguished from the other three. This arrangement not only ensures a perfectly even distribution of Tholonic attributes throughout the 64 hexagrams, reinforcing the internal symmetry and balance of the model, but also underscores the alignment and significance of these four paths within both the I Ching and the Tholonic framework.
 
-## Binary Tholons  (doesn’t work?)
+## Binary Tholons
 
 We have 6 lines in the hexagram and 6 vectors in a tetrahedron. If the Tholonic claim is that we should see similar patterns in both, then creating a tetrahedron from the lines should highlight these patterns.
 
-In the image below (left), the Yang lines are cyan, and the Yin lines are magenta. The Yin/Yang sequence is that of the "perfect" hexagram, [*63䷾ ~21~ **After Completion***], and we do indeed see the same symmetry in the Tholon map (right), although rotated by 120°. This rotation appears to place **Definition**/**Limitation** at the top of the triad, but this perspective can be misleading, as there is no absolute "top" or "bottom." Such concepts are purely relative. What we can say definitively is that the Yang branch expands outward from **Definition**/**Limitation**, while the Yin branch completes or defines it. Although **Definition**/**Limitation** is inherently a Yin attribute, the outward Yang action requires this limitation for creation to form. This logic is perfectly mirrored in the right image, where ascending hexagrams (green) move from maximum Yin toward Yang, and descending hexagrams (red) move from maximum Yang back toward Yin.
+In the image below (left), the Yang lines are cyan, and the Yin lines are magenta. The Yin/Yang sequence is that of the "perfect" hexagram, [63䷾ ~21~ ***After Completion***], and we do indeed see the same symmetry in the Tholon map (right), although rotated by 120°. This rotation appears to place **Definition**/**Limitation** at the top of the triad, but this perspective can be misleading, as there is no absolute "top" or "bottom." Such concepts are purely relative. What we can say definitively is that the Yang branch expands outward from **Definition**/**Limitation**, while the Yin branch completes or defines it. Although **Definition**/**Limitation** is inherently a Yin attribute, the outward Yang action requires this limitation for creation to form. This logic is perfectly mirrored in the right image, where ascending hexagrams (green) move from maximum Yin toward Yang, and descending hexagrams (red) move from maximum Yang back toward Yin.
 
 <center><img src='../Images/line-tetra-compare.png' style='width:70%'/></center>
 
-<img src='../Images/pyramid-bottom.png' style='float:right;width:20%'/>When viewed as a tetrahedron, we can see all the Yang lines at the base, creating a solid foundation. However, it is not the intuitive central triangle that serves as the base, but rather the top triad. This may seem counterintuitive at first, but it makes sense when we realize that the top triad is always identical to its parent—meaning it mirrors the original primal triad in every generation. In that sense, it serves as the true foundation of all tholons, making the base triad of every tholon identical to the first act of creation.
+<img src='../Images/pyramid-bottom.png' style='float:right;width:20%'/>When viewed as a tetrahedron, we can see all the Yang lines at the base, creating a solid foundation. However, it is not the intuitive central triangle that serves as the base, but rather the top triad. This may seem counterintuitive at first, but it makes sense when we realize that the top triad is always identical to its parent, meaning it mirrors the original primal triad in every generation. In that sense, it serves as the true foundation of all tholons, making the base triad of every tholon identical to the first act of creation.
 
 This contrast in orientation and perspective between the I Ching and Tholonic models is not contradictory, rather, it reflects a shift in viewpoint, much like the now-famous “Revolution Giraffes” sculpture, which reveals either giraffes or elephants depending on the angle of observation:
 
@@ -1263,7 +1137,7 @@ These children quite naturally fit into the larger triads pattern with [12<img s
 
 At first glance, this arrangement looks very promising, as the primary cardinal (blue-framed) hexagrams occupy cardinal positions, and the sum of their binary values equals a multiple of 63. Initially, the patterns formed by the green and red cardinal hexagrams don't appear meaningful. However, upon combining the three outer trigrams, the green and red hexagrams form a complete triad. This result, by itself, is not particularly special, as any unique, symmetrical pattern would ensure that all dots are ultimately filled. The same logic applies to each quadrant containing four green dots and one red dot.
 
-Nevertheless, this arrangement reveals a unique and significant aspect: the cardinal point of the [*2䷁~0~ **Receptive***] hexagram is positioned on a triad that is both opposite to the top triad and fundamentally incompatible with the other three triads. Remarkably, it defines the critical intersection where all three triads converge, yet it does not itself appear explicitly among the combined triads. This unusual configuration allows for the manifestation of the other three cardinal points, precisely due to the absence of this crucial cardinal point, representing zero (0), pure Yin, and the emptiness underlying duality itself.
+Nevertheless, this arrangement reveals a unique and significant aspect: the cardinal point of the [2䷁~0~ ***Receptive***] hexagram is positioned on a triad that is both opposite to the top triad and fundamentally incompatible with the other three triads. Remarkably, it defines the critical intersection where all three triads converge, yet it does not itself appear explicitly among the combined triads. This unusual configuration allows for the manifestation of the other three cardinal points, precisely due to the absence of this crucial cardinal point, representing zero (0), pure Yin, and the emptiness underlying duality itself.
 
 Additionally, we observe that the left and right triads are symmetrical variations of the top triad, each rotated around the vertical (Z) axis. In contrast, the central triad is distinctively flipped around the horizontal (X) axis, rather than rotated around the Z-axis. This distinction introduces a genuine third dimension into the structure, significantly enhancing its complexity and depth.
 
@@ -1325,7 +1199,7 @@ While the numbers are not sequential, each pair of opposites equals 63. I have a
 
 <center><img src='../Images/decoct.png' style='width:70%'/></center>
 
-The beauty of using octal numbers for the I Ching is the number itself is telling you what trigrams it’s made of. For example, hexagram [*62䷽**~12~***]  as a binary value of 12 (001100), which, in octal, is ***o***14 (we use ‘***o***’ for octal numbers, and ***‘b’*** for binary). Hexagram [*62䷽**~12~***] is composed of two trigrams: 001 and 100. We convert from binary to octal: ***b***001 = ***o***1, and ***b***100 = ***o***4. Then we simply put the two numbers next to each other to get ***o***14. This ability to add numbers just by putting them together only works when converting binary base<sub>2</sub>, octal base<sub>8</sub>, hexadecimal base<sub>16</sub>, base<sub>32</sub>, or any base that is a power of 2. Perhaps that is why some ancient Native American and Proto-Indo-European cultures (allegedly) chose to use the octal system.
+The beauty of using octal numbers for the I Ching is the number itself is telling you what trigrams it’s made of. For example, hexagram [62䷽**~12~**]  as a binary value of 12 (001100), which, in octal, is ***o***14 (we use ‘***o***’ for octal numbers, and ***‘b’*** for binary). Hexagram [62䷽**~12~**] is composed of two trigrams: 001 and 100. We convert from binary to octal: ***b***001 = ***o***1, and ***b***100 = ***o***4. Then we simply put the two numbers next to each other to get ***o***14. This ability to add numbers just by putting them together only works when converting binary base<sub>2</sub>, octal base<sub>8</sub>, hexadecimal base<sub>16</sub>, base<sub>32</sub>, or any base that is a power of 2. Perhaps that is why some ancient Native American and Proto-Indo-European cultures (allegedly) chose to use the octal system.
 
 Numbers are not as intuitive as images, so here are a couple of charts based on the above sequence that clearly show the self-similarity triad pattern of the sequence
 
@@ -1377,7 +1251,7 @@ Due to this clearer symmetry, we will adopt the col/row method for determining p
 
 <center><img src='../Images/tho-ast-bin.png' style='width:80%'/></center>
 
-The cardinal signs, composed exclusively of single-line types—either Yang (1 <img src='../Images/bc/yang.png' style='width:35px'/>) or Yin (0 <img src='../Images/bc/yin.png' style='width:35px'/>)—correspond neatly with all the **Negotiation** signs. For example, the left side of the upper tholon consists of *Earth*–*Fire*–*Earth*, sharing a common boundary defined by the cardinal *Earth* sign, Capricorn.
+The cardinal signs, composed exclusively of single-line types (either Yang (1 <img src='../Images/bc/yang.png' style='width:35px'/>) or Yin (0 <img src='../Images/bc/yin.png' style='width:35px'/>)), correspond neatly with all the **Negotiation** signs. For example, the left side of the upper tholon consists of *Earth*–*Fire*–*Earth*, sharing a common boundary defined by the cardinal *Earth* sign, Capricorn.
 
 Additionally, the diagonal axis leading into the virtual (lower) tholon extends from Leo to Taurus, positioned symmetrically relative to the Capricorn cusp. This diagonal crosses into the lower right section of the virtual tholon, which is characterized by *Air*–*Air*–*Water*, situated between Gemini and Aquarius. This pair is similarly centered around their shared boundary, the cardinal *Air* sign, Libra.
 
@@ -1387,17 +1261,17 @@ This structural pattern repeats consistently across all four quadrants. Signific
 
 <img src='../Images/tho-ast-bin_leo_aqu_zod.png' style='float:right;width:100%'/>A historically intriguing observation emerges when examining the two central triangles that intersect at the center of the astrological tholon depicted above. Prior to the discovery of the extra-Saturnian planets (Uranus, Neptune, and Pluto), the cusp connecting Leo and Aquarius represented a highly significant division within traditional astrology. In the far-right image above, the zodiac is oriented so that this Leo–Aquarius axis is vertical.
 
-Interestingly, rather than aligning neatly with the four cardinal points marking the seasons (spring/fall equinoxes or summer/winter solstices), the Leo–Aquarius cusp is offset by 30° from the solstices and 60° from the equinoxes. This arrangement creates a distinctive planetary pattern that appears asymmetrical relative to the seasonal divisions, yet maintains a symmetrical balance around the Leo–Aquarius axis—highlighting its historical importance as a fundamental dividing line in classical astrological tradition.
+Interestingly, rather than aligning neatly with the four cardinal points marking the seasons (spring/fall equinoxes or summer/winter solstices), the Leo–Aquarius cusp is offset by 30° from the solstices and 60° from the equinoxes. This arrangement creates a distinctive planetary pattern that appears asymmetrical relative to the seasonal divisions, yet maintains a symmetrical balance around the Leo–Aquarius axis, highlighting its historical importance as a fundamental dividing line in classical astrological tradition.
 
 The three axes created by dividing the 12 zodiac signs into elemental groups, that is, each axis corresponding to one set of four elements, clearly reveal a meaningful pattern from the Tholonic perspective. The two additional diagonal axes in the zodiac chart directly align with the outer borders of the Tholonic model. This alignment alone offers strong validation, but an even more remarkable observation emerges regarding the placement of the spring equinox within this adjusted zodiac orientation. Specifically, the spring equinox aligns precisely at the 4:00 position, which we've previously identified as marking the start of a new daily cycle.
 
-You might reasonably question this alignment, thinking: *"If we're moving clockwise, we'd be traversing the zodiac backward. If we flip the zodiac to correct this, wouldn't the spring equinox then appear at 8:00 rather than 4:00?"* Indeed, that would be true if we were observing only the annual cycle. However, when considering the *precession of the equinoxes*—a 25,772-year cycle caused by Earth's gradual axial shift—the perspective changes dramatically. Precession causes the equinox points to slowly drift westward through the zodiac, opposite to the annual eastward movement. Thus, this reversed, clockwise traversal through the signs accurately represents the larger, precessional cycle.
+You might reasonably question this alignment, thinking: *"If we're moving clockwise, we'd be traversing the zodiac backward. If we flip the zodiac to correct this, wouldn't the spring equinox then appear at 8:00 rather than 4:00?"* Indeed, that would be true if we were observing only the annual cycle. However, when considering the *precession of the equinoxes* (a 25,772-year cycle caused by Earth's gradual axial shift), the perspective changes dramatically. Precession causes the equinox points to slowly drift westward through the zodiac, opposite to the annual eastward movement. Thus, this reversed, clockwise traversal through the signs accurately represents the larger, precessional cycle.
 
 This insight gives us a unified timeframe, compatible with both models, within which all planetary and zodiacal relationships can be understood. Specifically, the 4:00 position signifies the start of a major new cycle, corresponding historically to the *Age of Pisces*, which began around *1 BCE to 1 CE*.
 
 Remarkably, this alignment is the first clear demonstration, at least to my knowledge, that the precession of the equinoxes could be directly inferred from the zodiac itself.
 
-Following this interpretation, if the 4:00 position signifies the start of a new cycle around 1 BCE to 1 CE, then our most recent symbolic "midnight” and/or “high noon" occurred around 8,650 BCE. This date aligns historically with the end of the Younger Dryas period and the close of the Pleistocene Ice Age, marking humanity’s transition into the Holocene Epoch. It was precisely during this transformative period that humans shifted towards agriculture and established permanent settlements, notably at Göbekli Tepe in Turkey and Jericho in the West Bank—one of the oldest continuously inhabited cities in the world. This era also closely follows a series of hypothesized catastrophic events [^3][^4][^5][^6][^7][^8][^9][^10] that may have led to the rapid extinction of numerous large animal species and potentially disrupted or erased previously advanced civilizations, as suggested by various researchers [^11][^12].
+Following this interpretation, if the 4:00 position signifies the start of a new cycle around 1 BCE to 1 CE, then our most recent symbolic "midnight" and/or "high noon" occurred around 8,650 BCE. This date aligns historically with the end of the Younger Dryas period and the close of the Pleistocene Ice Age, marking humanity's transition into the Holocene Epoch. It was precisely during this transformative period that humans shifted towards agriculture and established permanent settlements, notably at Göbekli Tepe in Turkey and Jericho in the West Bank, one of the oldest continuously inhabited cities in the world. This era also closely follows a series of hypothesized catastrophic events [^3][^4][^5][^6][^7][^8][^9][^10] that may have led to the rapid extinction of numerous large animal species and potentially disrupted or erased previously advanced civilizations, as suggested by various researchers [^11][^12].
 
 [^3]: **Firestone, R. B., et al. (2007).** "Evidence for an extraterrestrial impact 12,900 years ago that contributed to the megafaunal extinctions and the Younger Dryas cooling." *Proceedings of the National Academy of Sciences*, 104(41), 16016–16021.
 
@@ -1505,9 +1379,9 @@ If we were to apply the above charts to hex [64<img src='../Images/bc/hexagramB2
 
 This shows that, according to the Tholonic model using traditionally Western values, the archetype of INCEPTION in a “Natural” context is *Harmony*, and its inverted concept is *Activity*. Likewise, on a more individual, subjective front, the archetype of INCEPTION is *I Balance*, and its inverted concept is *I Am*. Looking at all the pairs, we see the same well-matched dualities.
 
-There remains one final step: reducing the twelve astrological attributes down to six overarching pairs. This step is straightforward, and the resulting structure is illustrated clearly in the left-hand image below. We've included the blue text circle to label the unified qualities represented by each pair—qualities previously expressed as twelve separate attributes in Western astrology. These six primary attributes align neatly and intuitively with the pink circle representing the corresponding attributes of the six lines of change in the I Ching.
+There remains one final step: reducing the twelve astrological attributes down to six overarching pairs. This step is straightforward, and the resulting structure is illustrated clearly in the left-hand image below. We've included the blue text circle to label the unified qualities represented by each pair (qualities previously expressed as twelve separate attributes in Western astrology). These six primary attributes align neatly and intuitively with the pink circle representing the corresponding attributes of the six lines of change in the I Ching.
 
-On the right is the previously discussed diagram depicting the eight trigrams. Together, these two images—lines (left) and trigrams (right)—present complementary yet distinct creation models. The “Lines Model” (left) follows the Tholonic pattern: starting with one entity, which generates two; these two then mirror to produce six; and finally, through inversion, produce twelve. By contrast, the “Trigrams Model” (right) employs a binary tree pattern: beginning with one entity that divides into two, each subsequently dividing again, yielding four, and then each dividing once more to produce eight.
+On the right is the previously discussed diagram depicting the eight trigrams. Together, these two images (lines (left) and trigrams (right)) present complementary yet distinct creation models. The "Lines Model" (left) follows the Tholonic pattern: starting with one entity, which generates two; these two then mirror to produce six; and finally, through inversion, produce twelve. By contrast, the "Trigrams Model" (right) employs a binary tree pattern: beginning with one entity that divides into two, each subsequently dividing again, yielding four, and then each dividing once more to produce eight.
 
 Together, these models illustrate the harmonious interplay of Tholonic logic and binary structure, effectively bridging Eastern (I Ching) and Western (astrology) frameworks.
 
@@ -1519,7 +1393,7 @@ Together, these models illustrate the harmonious interplay of Tholonic logic and
 
 We are going to zoom way out now to get an even broader, but more in-depth picture of the natural processes in play in the hopes it will add insight into the Tholonic model and the I Ching.
 
-The Tholonic model is rooted in the ancient principle that from singularity arises duality. This is evident in the idea without *something*, the very notion of *nothing* would not exist, as *nothingness* is only meaningful in contrast to its opposite There is no argument as to which came first, as they can only exist simultaneously.
+The Tholonic model is rooted in the ancient principle that from singularity arises duality. This is evident in the idea that without *something*, the very notion of *nothing* would not exist, as *nothingness* is only meaningful in contrast to its opposite. There is no argument as to which came first, as they can only exist simultaneously.
 
 The concepts of 1 and 0 are the simplest and most practical concepts to represent this contrast of duality. In the context of mathematics, the sum of the parts of a whole equals the whole, so we can then say that 1 + 0 = 1, which tells us the whole equals 1. This sounds like 1<sup>st</sup> grade math… but let’s continue.
 
@@ -1535,7 +1409,7 @@ If this is a true statement, then it must be true for all numbers. Let’s try t
 
 Now we have a problem because, as is shown in the above one-level tree chart, we have four 7s, which when split make all the numbers 0-7, but what then are the two parents of these four 7s? If we apply the same logic, then those four 7s would have the two parents of 14 (**o**16) and 14 (**o**16), and we can’t have two parents of the same value. The problem is that any number we use as a parent number must be odd to create two children that are unique, but then we and up with two even valued grandparents, which isn’t allowed. In addition, if the top number is even, the number of possible pairs is an odd number. 
 
-The challenge is that there is no existing number to represent parents. To solve this, we need to create new numbers—just as mathematics has done before with concepts like *imaginary numbers* and *pure imaginary numbers*, such as *i* (the square root of -1). Similarly, we will introduce our own set of imaginary numbers, which we will call *primordial numbers*.
+The challenge is that there is no existing number to represent parents. To solve this, we need to create new numbers, just as mathematics has done before with concepts like *imaginary numbers* and *pure imaginary numbers*, such as *i* (the square root of -1). Similarly, we will introduce our own set of imaginary numbers, which we will call *primordial numbers*.
 
 
 <center><img src='../Images/number-chart.png' style='width:100%'/></center>
@@ -1558,19 +1432,19 @@ We can now apply this idea to our tree of 7, going all the way to the top, where
 
 We start with A and its first pair, which consists of A<sub>0</sub> and A<sub>1</sub>. On the next row, each one of those meta-values has its own pair, so A<sub>0</sub> has A<sub>01</sub> and A<sub>00</sub>, etc.
 
-##### *Note: Don’t be confused if you are looking at the binary sub-indexes and seeing they do not match the decimal values. They are not suppose to be the same. This is explained in the next paragraphs.*
+##### *Note: Don't be confused if you are looking at the binary sub-indexes and seeing they do not match the decimal values. They are not supposed to be the same. This is explained in the next paragraphs.*
 
 This can be demonstrated better in the following circular charts.
 
 <center><img src='../Images/numbers-1_4.png' style='width:100%'/></center>
 
-At the bottom of the above tree, we have eight states of A, each identified by the sub-index value representing its unique lineage from A. If you understand binary numbers, you’ll notice that the sub-indexes follow the perfect sequential order of 76543210 (starting from the left), yet the number they represent has a very different order: 70615243. This seems to make no logical sense, but in fact, it is an amazing relationship.
+At the bottom of the above tree, we have eight states of A, each identified by the sub-index value representing its unique lineage from A. If you understand binary numbers, you’ll notice that the sub-indexes follow the perfect sequential order of 7, 6, 5, 4, 3, 2, 1, 0 (starting from the left), yet the number they represent has a very different order: 7, 0, 6, 1, 5, 2, 4, 3. This seems to make no logical sense, but in fact, it is an amazing relationship.
 
 The sub-index values represent the path of expression from A, or position within the tree, that resulted in a number value. This is the *order of instantiation* (*OI*), while the value itself is the *value of instantiation* (*VI*). Look at how these two sets of values relate to one another. Below (top left) are the binary and decimal values for the *OI* sub-indexes and the value, *VI*, of that number.
 
 <img src="/home/jw/src/iching_cli/book/intro/Images/numbers-1_5_2.png" style='width:100%'/>
 
-In the top right form, the *value of instantiation* (*VI*) axis is perpendicular to the *order of instantiation* (*OI*) axis. These two axes are perfectly in sync with each other in two different axes and seem to be a natural process of reordering in a very efficient form of encoding (and therefore decoding) as the *value of instantiation* is an encoded version of the *order of instantiation*, and vice versa.  Notice also that the OI order automatically pairs values, which is an excellent example of solf-ordering.
+In the top right form, the *value of instantiation* (*VI*) axis is perpendicular to the *order of instantiation* (*OI*) axis. These two axes are perfectly in sync with each other in two different axes and seem to be a natural process of reordering in a very efficient form of encoding (and therefore decoding) as the *value of instantiation* is an encoded version of the *order of instantiation*, and vice versa.  Notice also that the OI order automatically pairs values, which is an excellent example of self-ordering.
 
 We can see that no VI number can exist without having an implicit OI number, meaning each number must have two attributes: an attribute of how it is expressed (VI) and an attribute of how it came to exist (OI), and each of these must be unique.
 
@@ -1588,17 +1462,15 @@ There is one more perspective that is worth looking at. If we arrange this tree 
 
 <center><img src='../Images/honeymap_2.png' style='width:90%'/></center>
 
-—BEGIN
-
 This OI/VI Chart reveals several fascinating structural and numerical relationships that suggest deeper underlying principles of emergence, encoding, and self-organization. These patterns not only provide insight into the tholonic I Ching but also reflect broader natural principles found in physics, information theory, and structured emergence, which we would expect.
 
 We’ve already addressed the intrinsic law of structured emergence, where every number in this system has a unique OI-VI pairing, meaning that each number simultaneously holds two complementary attributes: its structural pathway (VI, *function*, *how* it emerged) and its functional role (OI, *form*, *what* it becomes). This duality falls squarely into the *Definition* (*how*) / *Contribution* (*what*) spectrum and can be applied to everything that exists.
 
 A particularly unique pattern that emerges in this map is that 7 and 2 are the only values where OI and VI are identical. This means that for these two numbers, the process of *how* they emerged and *what* they ultimately became are fundamentally the same. Such a condition suggests that these numbers represent a kind of equilibrium within the system, where structure and function align perfectly. In self-organizing systems, equilibrium states are often critical points of stability, hinting that 7 and 2 play a special role in balancing or anchoring the system as a whole.
 
-The role of 3/4, which si the only point of overlap between values, show the total OI=7 and the total VI=6.  This unique instance further emphasizes the unique nature of 7.  It also shows that 7 exists in two forms: once as a fusion of 3 and 4, and once as its own independent identity. Interestingly, the central vertical position of 3+4 as 7 is only shared by the primal "A," suggesting a unique connection between them, possibly linked to the fundamental process of creation. Additionally, 7~34~ (as 3+4) is the only OI value that emerges directly from the simplest duality of indexes A~10~ and A~01~, this shortest of all paths to A, reinforcing its role as a structurally significant number, as well as how 7 and 2 are points of equilibrium.  
+The role of 3/4, which is the only point of overlap between values, show the total OI=7 and the total VI=6.  This unique instance further emphasizes the unique nature of 7.  It also shows that 7 exists in two forms: once as a fusion of 3 and 4, and once as its own independent identity. Interestingly, the central vertical position of 3+4 as 7 is only shared by the primal "A," suggesting a unique connection between them, possibly linked to the fundamental process of creation. Additionally, 7~34~ (as 3+4) is the only OI value that emerges directly from the simplest duality of indexes A~10~ and A~01~, the shortest of all paths to A, reinforcing its role as a structurally significant number, as well as how 7 and 2 are points of equilibrium.  
 
-We asked the AI to analyze the "OI values only" and "VI values only" maps, comparing their rows and columns to determine which exhibited greater order. The evaluation considered factors such as symmetry, pattern consistency, numeric and color consistency, and predictability. Interestingly, the AI found significantly more order in the OI values than in the VI values, suggesting the OI values reveal a higher degree of order when viewed non-linearly. It also found increased order in Map 3, where the primal "A" is positioned at the center of the hexagram rather than at the top or bottom, which aligns intuitively with expectations.
+We asked the AI to analyze the "OI values only" and "VI values only" maps, comparing their rows and columns to determine which exhibited greater order. The evaluation considered factors such as symmetry, pattern consistency, numeric and color consistency, and predictability. Interestingly, the AI found significantly more order in the OI values than in the VI values, suggesting the OI values reveal a higher degree of order when viewed non-linearly.  Perhaps that is expected given that the OI values represent the "order of instantiation." It also found increased order in Map 3, where the primal "A" is positioned at the center of the hexagram rather than at the top or bottom, which aligns intuitively with expectations.
 
 There may be multiple ways to plot this pattern of the emergent process, but the most obvious and appropriate in this case would be to map the 4 pairs of values onto two tetrahedrons, which works perfectly well with the OI pairs where every opposing pair of values equals 7, as shown below. Since two tetrahedrons form a cube, we can easily map the values to the cube.
 
@@ -1612,12 +1484,12 @@ The infinity symbol (∞) was first used by the mathematician John Wallis (1655)
 
 I suspect that the ancients may have known of this tetrahedral-cube-based origin as well, but that knowledge was lost over time.
 
-> > Our primordial numeric system, producing the OI and VI orders, naturally self-organizes into a double tetrahedron, a structure defining a complete Tholon composed of both a real and a virtual tetrahedron. Remarkably, these two tetrahedrons perfectly combine to form a cube, the foundational structure underpinning Cartesian reality. This complete Tholon, the cornerstone of the Tholonic model, elegantly illustrates the fundamental process of creation itself. Specifically, the OI pairs establish limitation and definition, determining the underlying numeric structure, while the VI pairs provide contribution and integration, manifesting as instantiated numeric values. These instantiated values, expressed as the octal and binary (base-2) number systems, form the practical numeric foundation utilized in mathematics and embodied in all modern digital technology. Thus, we observe a clear parallel: the defining, limiting principles (OI) represent the numeric creation process, while the integrative, contributing principles (VI) provide the actual numeric values that sustain our models of reality, such as mathematics and technology.
+> > Our primordial numeric system, producing the OI and VI orders, naturally self-organizes into a double tetrahedron, a structure defining a complete Tholon composed of both a real and a virtual tetrahedron. Remarkably, these two tetrahedrons perfectly combine to form a cube, the foundational structure underpinning Cartesian reality. This complete Tholon, the cornerstone of the Tholonic model, elegantly illustrates the fundamental process of creation itself. Specifically, the OI pairs establish limitation and definition, determining the underlying numeric structure, while the VI pairs provide contribution and integration, manifesting as instantiated numeric values. These instantiated values, expressed as the octal and binary number systems, form the practical numeric foundation utilized in mathematics and embodied in all modern digital technology. Thus, we observe a clear parallel: the defining, limiting principles (OI) represent the numeric creation process, while the integrative, contributing principles (VI) provide the actual numeric values that sustain our models of reality, such as mathematics and technology.
 
 ## DNA
 
 
-We see these same patterns of progression, specifically the recursive splitting from core concepts into sub-concepts, the generation of opposites and their inversions, and the spatial reorientation into symmetric triads, in the most fundamental form of creation: genetics. Below is a graph that illustrates how the bases of adenine (*A*), cytosine (*C*), guanine (*G*), and thymine (*T*) pair together to form nucleotides. An *A* can only double bond with a *T*, and *C* can only triple bond with a *G*. This is accomplished by taking one side, inverting it (a negative image), then reversing it (horizontal flip). When we do that, the pairs automatically line up in their proper order. In the image below, we see the same concepts as above by considering the bases of *A, T, G, C* to be the instantiable form of some *meta-base*, or some instantiable archetype, such as the mate-base values that produce the numbers we saw above but are inexpressible. These are represented as the half-circles and full circles. We also assign sub-index values representing their paths, and, as you can see, every pair has two values that equal 3.
+We see these same patterns of progression, specifically the recursive splitting from core concepts into sub-concepts, the generation of opposites and their inversions, and the spatial reorientation into symmetric triads, in the most fundamental form of creation: genetics. Below is a graph that illustrates how the bases of adenine (*A*), cytosine (*C*), guanine (*G*), and thymine (*T*) pair together to form nucleotides. An *A* can only double bond with a *T*, and *C* can only triple bond with a *G*. This is accomplished by taking one side, inverting it (a negative image), then reversing it (horizontal flip). When we do that, the pairs automatically line up in their proper order. In the image below, we see the same concepts as above by considering the bases of *A, T, G, C* to be the instantiable form of some *meta-base*, or some instantiable archetype, such as the meta-base values that produce the numbers we saw above but are inexpressible. These are represented as the half-circles and full circles. We also assign sub-index values representing their paths, and, as you can see, every pair has two values that equal 3.
 
 The intention is to show how at least one aspect of the mechanics of a DNA strand follows the same order, or pattern, of this archetype of *hierarchical primordial numbers* and that of many natural processes. For example, the parent of the bonded bases could be the concept of the class of compounds called purines or pyrimidines. Their parent, the source, could be the class of aromatic heterocyclic organic compounds, of which all the children are a member. Or perhaps it could be *Chargaff’s Rule*, which states, “DNA must have equal parts of GC and AT nucleotides.” There could be many different instances of these parents, but in every case, they will follow the same pattern of expression.
 
@@ -1626,11 +1498,11 @@ The intention is to show how at least one aspect of the mechanics of a DNA stran
 
 This inversion and reversal process is the same mechanism used in the I Ching, demonstrating how only 16 original hexagrams are needed to create 64 hexagrams, or rather, 32 inverted pairs of archetypes.
 
-What is especially interesting is that the opposite (inverted and flipped) of the purine compound adenine is the pyrimidine compound thymine. This is significant because there cannot truly be an “opposite” of a compound, molecule, or atom in a strict chemical sense. However, there can be two compounds that function in an opposite manner within a specific context or task, where this “opposition” typically manifests as complementarity. In other contexts, these compounds behave very differently—such as how adenine is also used in cellular metabolism to transfer chemical energy between reactions.
+What is especially interesting is that the opposite (inverted and flipped) of the purine compound adenine is the pyrimidine compound thymine. This is significant because there cannot truly be an "opposite" of a compound, molecule, or atom in a strict chemical sense. However, there can be two compounds that function in an opposite manner within a specific context or task, where this "opposition" typically manifests as complementarity. In other contexts, these compounds behave very differently, such as how adenine is also used in cellular metabolism to transfer chemical energy between reactions.
 
 From a Tholonic perspective, this demonstrates that the structure of a process is independent of the specific instances that apply it. This strongly suggests that the process archetype exists before it is instantiated.
 
-This conclusion is a radical observation, as it implies that process and structure can exist independently of substance. In other words, DNA does not derive its form from the compounds that compose it—rather, the form exists as an archetype, and compounds that are compatible with that archetypal form naturally align with it.
+This conclusion is a radical observation, as it implies that process and structure can exist independently of substance. In other words, DNA does not derive its form from the compounds that compose it, rather, the form exists as an archetype, and compounds that are compatible with that archetypal form naturally align with it.
 
 We can validate this idea by identifying similar forms in DNA that also appear elsewhere. Many such examples exist in language and writing systems, neural networks and brain structures, crystals and quasicrystals, planetary and orbital resonance, economics and trade, software code, and computer algorithms, to name just a few.
 
@@ -1741,11 +1613,11 @@ The trigram shows the symbol of Yin energy re-entering solid Yang. A new Yin lin
 The quadrant of *Air* <img src="/home/jw/src/iching_cli/book/intro/Images/bc/trigram-b07.png" style='width:30px'/> and *Fire* <img src="/home/jw/src/iching_cli/book/intro/Images/bc/trigram-b05.png" style='width:30px'/> is one of outward-descending movement, or external Yang. Here, Yang has reached the limits of sustainability and must move in the opposite direction. When extreme Yang mixes with Yin, there is a powerful release of energy, resulting in *Fire*. This quadrant is outward because creation is a process where energy (yang) takes form (yin), and form exists in the outer world. It is descending because Yang expands, and in doing so, it also dissipates itself.
 
 1.  **Negotiation** <img src="/home/jw/src/iching_cli/book/intro/Images/bc/yin.png" style='width:30px'/>
-    When Yang energy reaches completion, it has nowhere left to go—it must interact with Yin. At this point, Yang becomes dependent on Yin for its continued existence, marking a shift where Yang is subservient to Yin. Just as a storm builds until it has no choice but to discharge lightning, the balance between forces now dictates the outcome.
+    When Yang energy reaches completion, it has nowhere left to go: it must interact with Yin. At this point, Yang becomes dependent on Yin for its continued existence, marking a shift where Yang is subservient to Yin. Just as a storm builds until it has no choice but to discharge lightning, the balance between forces now dictates the outcome.
 2.  **Definition** <img src="/home/jw/src/iching_cli/book/intro/Images/bc/yang.png" style='width:30px'/>
     When Yang meets Yin, it seeks immediate release, pushing against the boundaries imposed by Yin. This pressure defines the moment of transition, where energy moves into form but does so explosively. The moment before a star ignites or an idea is expressed is the tension of Yang pushing against its limits, eager to break free.
 3.  **Contribution** <img src="/home/jw/src/iching_cli/book/intro/Images/bc/yang.png" style='width:30px'/>
-    The expression of Yang manifests as *Fire*, consuming the Yin as it releases its energy. This is the moment of illumination, ignition, and transformation—where what was once stored potential becomes a force of action. Whether in the form of a burning flame, a flash of inspiration, or the explosive power of creation, *Fire* is the visible result of release.
+    The expression of Yang manifests as *Fire*, consuming the Yin as it releases its energy. This is the moment of illumination, ignition, and transformation, where what was once stored potential becomes a force of action. Whether in the form of a burning flame, a flash of inspiration, or the explosive power of creation, *Fire* is the visible result of release.
 
 ### ***Emptying*** <img src="/home/jw/src/iching_cli/book/intro/Images/bc/trigram-b04.png" style='width:60px'/> 4 (FIRE <img src="/home/jw/src/iching_cli/book/intro/Images/bc/trigram-b05.png" style='width:30px'/><img src="/home/jw/src/iching_cli/book/intro/Images/e_fire.png" style='width:30px'/> & EARTH <img src="/home/jw/src/iching_cli/book/intro/Images/bc/trigram-b00.png" style='width:30px'/><img src="/home/jw/src/iching_cli/book/intro/Images/e_earth.png" style='width:30px'/>)
 
@@ -1756,7 +1628,7 @@ The quadrant of *Fire* <img src="/home/jw/src/iching_cli/book/intro/Images/bc/tr
 ##### Historical footnote: m=E/c^2^, not E=mc^2^, was the original formula that Einstein introduced.  It later became  E=mc^2^ for convenience sake.
 
 1. **Negotiation** <img src="/home/jw/src/iching_cli/book/intro/Images/bc/yin.png" style='width:30px'/>
-   In the dynamic between *Fire* and *Earth*, *Fire* is always dependent on *Earth* for expression. Energy alone has no form, it requires a medium through which it can be observed and experienced. Just as flames must consume fuel, *Fire* can only act within the structure provided by *Earth*.
+   In the dynamic between *Fire* and *Earth*, *Fire* is always dependent on *Earth* for expression. Energy alone has no form; it requires a medium through which it can be observed and experienced. Just as flames must consume fuel, *Fire* can only act within the structure provided by *Earth*.
 
 - **Definition** <img src="/home/jw/src/iching_cli/book/intro/Images/bc/yin.png" style='width:30px'/>
   *Fire* finds its limits and boundaries in *Earth*, just as energy is only measurable through matter. Without *Earth*, *Fire* would burn without definition, unable to take shape. The constraints of *Earth* determine the expression of *Fire*, just as the properties of physical matter determine how energy manifests in the world.
@@ -1777,11 +1649,11 @@ The quadrant of *Earth* <img src="/home/jw/src/iching_cli/book/intro/Images/bc/t
 2.  **Definition** <img src="/home/jw/src/iching_cli/book/intro/Images/bc/yin.png" style='width:30px'/>
     A Yin *Definition* in the context of *Filling* signifies that Yang must first shape the empty Yin vessel before it can express itself. Before light can shine, it must have a source; before a seed can grow, it must find soil. Yang is present, but its form is determined by the structure and capacity of *Earth* to hold and shape it.
 3.  **Contribution** <img src="/home/jw/src/iching_cli/book/intro/Images/bc/yin.png" style='width:30px'/>
-    In the context of *Filling*, a Yin *Contribution* represents the universal availability of Yang energy, which can be accessed from anywhere. Just as *Earth* serves as an electrical ground for all circuits, the presence of a stable, receptive state allows energy to be drawn upon when needed. *Filling* does not create energy—it opens the space for energy to flow, forming the foundation for all future manifestations.
+    In the context of *Filling*, a Yin *Contribution* represents the universal availability of Yang energy, which can be accessed from anywhere. Just as *Earth* serves as an electrical ground for all circuits, the presence of a stable, receptive state allows energy to be drawn upon when needed. *Filling* does not create energy; it opens the space for energy to flow, forming the foundation for all future manifestations.
 
 ### ***Collecting*** <img src="/home/jw/src/iching_cli/book/intro/Images/bc/trigram-b03.png" style='width:60px'/> 3 (WATER <img src="/home/jw/src/iching_cli/book/intro/Images/bc/trigram-b01.png" style='width:30px'/><img src="/home/jw/src/iching_cli/book/intro/Images/e_water.png" style='width:30px'/> & AIR <img src="/home/jw/src/iching_cli/book/intro/Images/bc/trigram-b07.png" style='width:30px'/><img src="/home/jw/src/iching_cli/book/intro/Images/e_wind.png" style='width:30px'/>)
 
-*Collecting* represents the higher orders of structure that extend ever outward. It is the final internal inflation, the stage of completion and preparation before outward expression. Instances of this include the **Internet**, **space-born viruses**, and the **Mongol Empire**, each representing a system that has expanded and gathered momentum before dispersing its influence.
+*Collecting* represents the higher orders of structure that extend ever outward. It is the final internal inflation, the stage of completion and preparation before outward expression. Instances of this include the **Internet**, **space-borne viruses**, and the **Mongol Empire**, each representing a system that has expanded and gathered momentum before dispersing its influence.
 
 This trigram, with two emerging Yang lines, signifies a shift into the domain of Yang. The structure is still forming, but the final transition toward full Yang dominance is approaching.
 
@@ -1799,13 +1671,13 @@ The quadrant of *Water* <img src="/home/jw/src/iching_cli/book/intro/Images/bc/t
 ## Tholonic Recursion and Emergence of Transcendence
 
 
-Let us begin at the simplest point imaginable of **N=1**, which represents the singular essence of Awareness and Intention, a unity symbolizing the initial state of *Negotiation*, from which all differentiation emerges.
+Let us begin at the simplest point of **N=1**, which represents the singular essence of Awareness and Intention, a unity symbolizing the initial state of *Negotiation*/Balance, from which all differentiation emerges.
 
 From this initial state, the Tholonic recursion expands along three functional and philosophical axes:
 
 - **Definition (Limitation)** – the structure, boundaries, and internal order.
 - **Contribution (Integration)** – interaction, connection, and form.
-- **Instantiation** – the creation resulting from the interplay of *Definition* and *Contribution*.
+- **Instantiation** **(N-state)** – the creation resulting from the interplay of *Definition* and *Contribution*.
 
 As previously shown, in the Tholonic model, these concepts can be represented as three points forming a triad. This arrangement results in three vector axes, each representing the movement, process, or nature of the interactions occurring between any two points.
 
@@ -1813,17 +1685,17 @@ An intriguing challenge when examining these interactions is determining whether
 
 A more tangible example would be the Big Bang, where the total sum of all energy in existence was instantaneously released as pure energy. Within approximately 10^-42^ seconds after that instant, the four fundamental forces of nature (gravity, electromagnetism, the strong nuclear force, and the weak nuclear force) were unified. From that unified quantum field of pure energy and fundamental forces emerged particles, which gave rise to nuclei and atoms, eventually leading to stars, planets, life, and everything else that currently exists. Here we have the simultaneous creation of everything at the instant of the Big Bang and the temporally ordered sequence of events that followed.
 
-Applying these ideas to the triad, we can say that teh complete triad exists sumultaniously, and it’s instantes exist tempoirally.
+Applying these ideas to the triad, we can say that the complete triad exists simultaneously, and it’s instances exist temporally.
 
 Looking at the process temporally, the interactions between *Negotiation/Balance* moving to *Definition/Limitation*, or 1 moving to 2, is represented by the line that connects N and D.  As a process, this line represent the change from infinite to finite, from one to many, from whole to division. In the context of *Form and Function*, this is the *Form*; what something *is*.
 
 The interaction between C and N, or *Contribution/Integration* moving toward *Negotiation/Balance*, is where the many recreate the one, where the parts contribute back to the whole from which they originally arose. We see this clearly in how living organisms, and indeed all matter, eventually return to the elements from which they were created, just as the Universe itself will ultimately return to the void from which it emerged. This is fundamentally a process of sacrifice, giving back, and death, which can also be understood as another form of recycling. In this sense, this process inherently involves division and separation.  In the context of *Form and Function*, this is the *Function*; what something *does*.
 
-The process of interaction between D and C, between 2 and 3, is the seat of creation, as this is where what something *is* and what what something *does* meet, where *Form* and *Function* unite to create a pattern which has the potential to perpetuate itself, just like the parent that is was crated within. Unlike the divisive nature of the other two vectors, this vector is one of multiplying and adding, making it the process of creation by definition. 
+The process of interaction between D and C, between 2 and 3, is the seat of creation, as this is where what something *is* and what something *does* meet, where *Form* and *Function* unite to create a pattern which has the potential to perpetuate itself, just like the parent that it was created within. Unlike the divisive nature of the other two vectors, this vector is one of multiplying and adding, making it the process of creation by definition. 
 
 In short, the axes of *Definition* and *Contribution* arise through division (unity splitting into duality), while *Instantiation* emerges via addition and subtraction (recombination into unity).
 
-As a simultaneous creation, where 1,  2,  and 3 come into existence together, we can say that 6 is the value of the triad.  As a process of creation, 6 instantiates as 1, 2, and 3.  In other words, 6 is the *holon* and 1, 2, and 3 are the *partons*. It is no coincidence that 6 is the first “perfect number”, which is when a number whose factors (excluding itself) add up precisely to the number itself.  Ancient cultures and philosophers (such as the Greeks and Pythagoreans) considered perfect numbers to represent harmony, balance, and completeness due to their unique numerical characteristics. 
+As a simultaneous creation, where 1,  2,  and 3 come into existence together, we can say that 6 is the value of the triad.  As a process of creation, 6 instantiates as 1, 2, and 3.  In other words, 6 is the *holon* and 1, 2, and 3 are the *partons*. It is no coincidence that 6 is the first “perfect number”, which is when a number whose factors (excluding itself) add up precisely to the number itself.  Ancient cultures and philosophers (such as the Greeks) considered perfect numbers to represent harmony, balance, and completeness due to their unique numerical characteristics. 
 
 Perfect numbers are quite rare, and only 51 have been discovered to date. Here are the first eight:
  6, 28, 496, 8128, 33550336, 8589869056, 137438691328, and 2305843008139952128.
@@ -1832,7 +1704,7 @@ In addition, 6 is the factorial of 3, written as 3! (1 × 2 × 3 = 6), making 6 
 
 Thus, it is not surprising that the progression from 2 to 3 mirrors the process established by their parent 6, which generates 2 and 3 through division.
 
-Assigning the values 1, 2, and 3 to the points of the triad is based on using natural numbers, that is, counting numbers, which exclude 0. This makes sense if we view the triad in the context of the instantiated world, the world of tangible existence. However, when considering archetypes, we should use the set of whole numbers, which includes every integer starting from zero: 0, 1, 2, 3, …., because zero (0) represents the unmanifested or potential state, which precedes any tangible existence. Thus, it naturally aligns with archetypal concepts.
+Assigning the values 1, 2, and 3 to the points of the triad is based on using natural numbers, that is, counting numbers, which excludes 0. This makes sense if we view the triad in the context of the instantiated world, the world of tangible existence. However, when considering archetypes, we should use the set of whole numbers, which includes every integer starting from zero: 0, 1, 2, 3, …., because zero (0) represents the unmanifested or potential state, which precedes any tangible existence. Thus, it naturally aligns with archetypal concepts.
 
 By using whole numbers, we reveal an even more fundamental or archetypal pattern. Assigning the values 0, 1, and 2 to the triad points brings the total value of the triad to 3, clearly illustrating this deeper structure especially given that the number 3 is universally recognized as symbolic of fundamental processes of creation, balance, and manifestation.
 
@@ -1846,7 +1718,7 @@ This results in the following three vectors:
 - **Definition–Contribution (*<u>DC</u>*)**: (8 + 4 + 2) = 14 = 7×2
 - **Contribution–Negotiation (<u>*CN*</u>)**: (16 + 4 + 1) = 21 = 7×3
 
-Because all of these values are multiples of 7, we can just use the multiplier to represent the the value of the line, hence:
+Because all of these values are multiples of 7, we can just use the multiplier to represent the value of the line, hence:
 
 - *<u>ND</u>* = 5 (Definition/Limitation)
 - *<u>DC</u>* = 2 (Instantiation)
@@ -1866,15 +1738,15 @@ $1 + \frac{1}{5} - \frac{1}{3} \approx 0.8\overline{666}$
 
 Now we have a fingerprint value for the first tholon.  At first glance, it seems like a very common value, with no special meaning or profound mathematical significance. It’s even a bit disappointing in the non-uniqueness.  Nevertheless, it is a unique value, and therefore, a valid *Tholonic Identity* value.
 
-We can then do this the the child tholon as well, and for each generation that follows, ad infinitum.  For each generation, the values are increased by the value of the axis of instantiation, which is 2, or the spectrum across which they interact to create a new tholon, and that value is 2.  
+We can then do this with the child tholon as well, and for each generation that follows, ad infinitum.  For each generation, the values are increased by the value of the axis of instantiation, which is 2, or the spectrum across which they interact to create a new tholon, and that value is 2.  
 
-For example, point *D* carries the value 2 and point *C* carries the value 4. Their sum is 6, which—as we have already seen—forms the triad that begins with 1: the triad of the instantiated world, the realm of the natural numbers that arises from the archetypal triad of all numbers.
+For example, point *D* carries the value 2 and point *C* carries the value 4. Their sum is 6, which, as we have already seen, forms the triad that begins with 1: the triad of the instantiated world, the realm of the natural numbers that arises from the archetypal triad of all numbers.
 
 Most importantly, the archetypal value of *Contribution* is 2² = 4. It is relevant to point out that 4 = 2^2^ because 2 is not only the value of the instantiation axis (the horizontal cyan line in the diagrams), it is also the only axis that appears twice in every triad because it spans the interval between *D* and *C* and marks the point where the next *N* emerges.
 
 For this reason, each new generation adds 4 to both *D* and *C*, transforming the initial 5 and 3 of the first generation into 9 and 7 in the next.
 
-Now, if we continue with out simple formula for each each generation, we end up with something that is quite remarkable… &pi; !!
+Now, if we continue with our simple formula for each each generation, we end up with something that is quite remarkable… &pi; !!
 
 
 
@@ -1908,7 +1780,7 @@ Below (left) is a traditional recursion tree, where each new child expands exter
 
 We arrived at the values for *Definition* and *Contribution* and Instantiation using the pure and simple math of 2^0^, 2^1^, 2^2^ for the outer vertices and 2^3^, 2^4^, 2^5^ for the inner vertices, and then applying the value of the multiplier that produces the sums of each vector. We then incremented *Definition* and *Contribution* by 4, which seems reasonable as both vectors start at 2 and end at 2, but given that squaring a value is the very act of self-similar, self-definition through self-referential perfect symmetry, 2^2^, which is the first perfect square exponentiation, is clearly the perfect formula. Likewise, on the *Contribution*/*Integration* side, addition, a word synonymous with contribution and integration, is clearly the path.
 
-This results in the series 5,3,9,7,13,11,… and so on. When comparing this to the classic Leibniz series for π: $\frac{\pi}{4} = 1 - \frac{1}{3} + \frac{1}{5} - \frac{1}{7} + \frac{1}{9} - \dots$ we can easily see that the tholonic series is essentially identical, only expressed differently as the Tholonic approach explicitly rearranges the terms into distinct pairs (tholons) as follows: $\pi_{Tholonic} = 4 [ (((1 + (\frac{1}{5}-\frac{1}{3})) + (\frac{1}{9}-\frac{1}{7})) + (\frac{1}{13}-\frac{1}{11})) + \dots ]$
+This results in the series 5, 3, 9, 7, 13, 11, … and so on. When comparing this to the classic Leibniz series for π: $\frac{\pi}{4} = 1 - \frac{1}{3} + \frac{1}{5} - \frac{1}{7} + \frac{1}{9} - \dots$ we can easily see that the tholonic series is essentially identical, only expressed differently as the Tholonic approach explicitly rearranges the terms into distinct pairs (tholons) as follows: $\pi_{Tholonic} = 4 [ (((1 + (\frac{1}{5}-\frac{1}{3})) + (\frac{1}{9}-\frac{1}{7})) + (\frac{1}{13}-\frac{1}{11})) + \dots ]$
 
 Notice the subtle but critical rearrangement:
 
@@ -1932,14 +1804,14 @@ In addition, this series of perfect squares is itself self similar, as as can se
 
 <center><img src='../Images/curve-H.png' style='width:80%'/></center>
 
-This fractal pattern embodies philosophically profound ideas—self-similarity, infinite recursion, and interconnectedness throughout reality, from microscopic cells to cosmic galaxies. Each recursion reflects the same truth at every scale, a symbolic unity in multiplicity.
+This fractal pattern embodies philosophically profound ideas, self-similarity, infinite recursion, and interconnectedness throughout reality, from microscopic cells to cosmic galaxies. Each recursion reflects the same truth at every scale, a symbolic unity in multiplicity.
 
 
 
 ## Introducing Generational Complexity
 
 
-The uniqueness of this fingerprint is due sol to the incremental adjustments in each recursion. We refer to this incremental value as *Generational Complexity* because each recursive iteration carries forward structural and relational information from preceding iterations, accumulating linearly—analogous to wisdom passed down through generations, genetic or epigenetic inheritance, or the collective knowledge within a morphic field. Each new instance is thus structurally richer, inheriting and building upon the layered definition and integration of its ancestors.
+The uniqueness of this fingerprint is due solely to the incremental adjustments in each recursion. We refer to this incremental value as *Generational Complexity* because each recursive iteration carries forward structural and relational information from preceding iterations, accumulating linearly, analogous to wisdom passed down through generations, genetic or epigenetic inheritance, or the collective knowledge within a morphic field. Each new instance is thus structurally richer, inheriting and building upon the layered definition and integration of its ancestors.
 
 Each recursive step represents a philosophical interplay:
 
@@ -1953,27 +1825,23 @@ Since these operations occur along the instantiating *<u>DC</u>* axis (value = 2
 
 Notice carefully: both *Definition* (exponential) and *Contribution* (linear) axes produce the numeric value of  4, yet their symbolic paths are significantly distinct:
 
-- **Limitation/Definition** is an exponential growth, symbolizing internal reflection, reinforcing self-contained structural complexity.
+- **Limitation/Definition** is an exponential growth (2²), symbolizing internal reflection, reinforcing self-contained structural complexity.
 
 - **Contribution/Integration** is a linear growth (2 × 2), symbolizing external connection, interaction, and integration: one entity joined with another.
 
 The reasoning behind this choice can be justified philosophically, logically, structurally, and metaphysically, but mathematically, it arises because *Definition* must reference itself to establish identity, naturally suggesting exponentiation as the representation of this self-interaction. This self-similar expansion is internal since *Definition* has no external point of reference apart from its parent (because *Contribution* follows *Definition*), which is unity (1) and thus neutral.
 
-In contrast, *Contribution’s* linear multiplication (2 × 2) explicitly represents the integration of distinct external entities. Furthermore, the generational complexity (*G*) increases (via contribution) through a multiplicative function that joins distinct values, described mathematically as:  $G(n) = 2\times 2\times n$, the first 2 is the value of the source axis and the second 2 is the value of the destination axis, and the *n* the the instance of recursion.
+In contrast, *Contribution's* linear multiplication (2 × 2) explicitly represents the integration of distinct external entities. Furthermore, the generational complexity (*G*) increases (via contribution) through a multiplicative function that joins distinct values, described mathematically as:  $G(n) = 2\times 2\times n$, the first 2 is the value of the source axis and the second 2 is the value of the destination axis, and the *n* is the instance of recursion.
 
 ##### Note: This idea is further supported when we look at the section below called “*Mathematical Proof: Generating π from Tholonic Recursion Using Perfect Squares*”, where we arrive at &pi; by first squaring every integer starting with 1, they multiply that by 0.5.
 
 Here, we have two kinds of growth: 
 
-- 
+Exponential growth, which we can associate Euler’s number *e*, 2.71828, which is the base of natural exponential growth, and implicitly, logarithms, which are the inverse of exponential growth. Symbolically, exponential growth is like the deepening of understanding, the expansion inward. It multiples itself by itself, symbolizing how instances build internal structure, reinforcing their core essence through reflection and internal recursion. This exponential growth is the symbolic foundation of *Definition/Limitation*, for definition and boundaries define what something is, including ourselves. Thus, as this inward process of self-organizing advances, internal restrictions naturally deepen exponentially, reinforcing the metaphysical principle that perfection can be sought, but never realized.
 
-- 
+Linear growth is monotonic and moves consistently in one direction. Linear growth is outward-reaching. multiplying itself by something else. Although numerically identical in the archetype of 2×2 vs. 2^2^, the philosophical difference is profound. This linear growth represents the *Contribution/Integration*, the act of integrating into the broader reality and connecting outwardly in measurable form.  
 
-Exponential growth, which we can associate Euler’s number *e*, 2.71828, which is the base of natural exponential growth, and implicitly, logarithms, which are the inverse of exponential growth. Symbolically, exponential growth is like the deepening of understanding, the expansion inward. It multiples itself by itself, symbolizing how we build internal structure, reinforcing our core essence through reflection and internal recursion. This exponential growth is the symbolic foundation of *Definition/Limitation*, for definition and boundaries define what something is, including ourselves. Thus, as this inward process of self-organization advances, internal restrictions naturally deepen exponentially, reinforcing the metaphysical principle that perfection can be sought, but never realized.
-
-Linear growth is monotonic and moves consistently in one direction. Linear growth is outward-reaching. multiplying itself by something else. Although numerically identical in the archetype of 2×2 vs. 2^2^, the philosophical difference is profound. This linear growth represents the *Contribution/Integration*, the act of integrating into the broader reality and connecting outwardly where results are measured in “output”.  
-
-We see example of this in technology and nature. In computing performance, where incremental improvements require dramatically more resources, such as doubling processing speed that requires a quadrupling in research and development, or in AI and machine learning, where a few percentage points of improved accuracy might require doubling the size of the dataset.  
+We see examples of this in technology and nature. In computing performance, where incremental improvements require dramatically more resources, such as doubling processing speed that requires a quadrupling in research and development, or in AI and machine learning, where a few percentage points of improved accuracy might require doubling the size of the dataset.  
 
 In nature, it even has a name; *allometric scaling* and *Kleiber's Law*, which describes how the larger the organism, plant or animal, the more resources it requites exponentially.
 
@@ -1981,15 +1849,13 @@ In nature, it even has a name; *allometric scaling* and *Kleiber's Law*, which d
 
 Together, these two kinds of growth, inward exponential (*Definition*) and outward linear (*Contribution*), and all those that fall between, are the heartbeat of creation. Each iteration of the recursion symbolizes a new generation, inheriting wisdom and complexity from its ancestors, adding layer upon layer, much like the transmission of knowledge, memory, culture, and genetics from parent to child.
 
-From the interplay of these two types of growth emerges π itself. π is transcendence made manifest, a number that never fully completes itself, eternally elusive, infinitely refined. Each step we take brings us closer and closer to this ideal, yet it forever slips just beyond reach. This eternal approach toward π reminds us that perfection isn't a destination but an endless, beautiful journey toward understanding and refinement.
+From the interplay of these two types of growth emerges π itself. π is transcendence made manifest, a number that never fully completes itself, eternally elusive, infinitely refined. Each step we take brings us closer and closer to this ideal, yet it forever slips just beyond reach. 
 
 Notice, too, the astonishing self-similar pattern emerging from this recursion. The numbers repeat their essence at every scale, resonating deeply with the self-similar nature of reality itself. Like reflections in infinite mirrors, each recursive step mirrors the entire structure. This is perfectly symbolic of the idea that all of existence is fractal, repeating its truths in every corner and at every scale, whether atoms or galaxies, cells or civilizations.
 
 Further still, consider how these numeric patterns align perfectly with the ancient wisdom of the I Ching. Each axis, *Definition*, *Contribution*, *Negotiation*, maps beautifully onto the binary symbolism of the hexagrams, reflecting timeless Taoist principles of harmony, duality, and balance. The ancient sages knew intuitively what the universe whispers mathematically.
 
-Thus, the simple mathematics we've explored are more than numbers, they are sacred metaphors for life itself, encoded in symbols and equations. They teach us that reality emerges (*Negotiation*) from subtle imperfections, refined by continuous self-reflection (*Definition*) and integration (*Contribution*), forever striving toward unattainable perfection (π).
-
-In knowing this, you hold the secret of life: to seek perfection is the essence of existence; never to reach it is its great wisdom.
+Thus, the simple mathematics we've explored are more than numbers, they are sacred metaphors for life itself, encoded in symbols and equations. They teach us that reality emerges (*Negotiation*) in an imperfect form, refined by continuous self-reflection (*Definition*) and integration (*Contribution*), forever striving toward unattainable perfection (π).
 
 
 
@@ -2022,11 +1888,11 @@ $CHILD_{\text{forward}} + CHILD_{\text{reverse}} = 2 \times PARENT$
 
 Philosophically, this happens because the child is a child to its parent, but it is also a parent itself, resulting in two parents.
 
-Conceptually, this result is ideal in Tholonic terms. A tholon, being inherently tetrahedral, requires the interaction of exactly one parent and one child to form a stable tetrahedral mapping. Each complete tetrahedral interaction thus naturally corresponds to a value of $\frac{\pi}{2}$ (which equated to 90&deg; in radians). Consequently, a fully realized tholon, which is comprised of both a *real* tholon and its *virtual* counterpart, produces as complete a value of &pi; (which equated to 180&deg; in radians) as it’s context and limits allow.
+Conceptually, this result is ideal in Tholonic terms. A tholon, being inherently tetrahedral, requires the interaction of exactly one parent and one child to form a stable tetrahedral mapping. Each complete tetrahedral interaction thus naturally corresponds to a value of $\frac{\pi}{2}$ (which equates to 90&deg; in radians). Consequently, a fully realized tholon, which is comprised of both a *real* tholon and its *virtual* counterpart, produces as complete a value of &pi; (which equates to 180&deg; in radians) as it’s context and limits allow.
 
-Interestingly, two tetrahedrons converge to &pi;, yet also create a perfect cube while &pi; defines the shape of a sphere. At first glance, the relationship between the tetrahedron, the cube, and the sphere seems ironic. A cube and a sphere are eternally separated by the transcendental π, proof that a perfect cube can never precisely transform into a perfect sphere. This impossibility arises because π, the constant defining the relationship between linear and curved geometries, is transcendental and irrational. Yet intriguingly, two tetrahedrons, each Tholonically valued at $\frac{\pi}{2}$, combine perfectly to form a cube, explicitly assigning to the cube a Tholonic value of π. Thus, even as two perfectly rational tetrahedrons merge seamlessly into a cube, their Tholonic identity encodes the inherent impossibility of its perfect transformation.\
+Interestingly, two tetrahedrons converge to &pi;, yet also create a perfect cube while &pi; defines the shape of a sphere. At first glance, the relationship between the tetrahedron, the cube, and the sphere seems ironic. A cube and a sphere are eternally separated by the transcendental π, proof that a perfect cube can never precisely transform into a perfect sphere. This impossibility arises because π, the constant defining the relationship between linear and curved geometries, is transcendental and irrational. Yet intriguingly, two tetrahedrons, each Tholonically valued at $\frac{\pi}{2}$, combine perfectly to form a cube, explicitly assigning to the cube a Tholonic value of π. Thus, even as two perfectly rational tetrahedrons merge seamlessly into a cube, their Tholonic identity encodes the inherent impossibility of its perfect transformation.
 
-##### Sidenote: The total degrees of a cube is 2160&deg;, which is an interesting value as it is 12&pi; radians, the number of years in an astrological age, the diameter of the moon, and clearly based on the the mysterious value of 216 reference to 216.  The total degrees in a tetrahedron is 720&deg;, so two tetrahedrons is 1440&deg;, which is also clearly based on the value of 144=12^2^, and this also tells us that the cube as exactly 1.5 times greater that two tetrahedrons, or to put the ratios in a different form: $\frac{two\ tetrahedrons}{cube}$ = $\frac{144}{216}$ = $\frac{2^2\times3}{2^2\times3^3}$ = $\frac{12^2}{6^3}$ = $\frac{2}{3}$ = $0.\overline{666}$.
+##### Sidenote: The total degrees of a cube is 2160&deg;, which is an interesting value as it is 12&pi; radians, the number of years in an astrological age, the diameter of the moon, and clearly based on the mysterious value of 216.  The total degrees in a tetrahedron is 720&deg;, so two tetrahedrons is 1440&deg;, which is also clearly based on the value of 144=12^2^, and this also tells us that the cube as exactly 1.5 times greater than two tetrahedrons, or to put the ratios in a different form: $\frac{two\ tetrahedrons}{cube}$ = $\frac{144}{216}$ = $\frac{2^2\times3}{2^2\times3^3}$ = $\frac{12^2}{6^3}$ = $\frac{2}{3}$ = $0.\overline{666}$.  To add to this curiosity, 216 = 6×6×6.
 
 However, beyond irony, this relationship offers profound philosophical insight. The value of a Tholonic tetrahedron, as revealed through this recursion process, symbolizes an infinite pursuit of **Perfection**, always approaching but never fully attaining it. This reflects precisely how a cube may infinitely approximate a perfect sphere but never fully become one, constrained eternally by π’s transcendental nature. Thus, the impossibility of perfection is intrinsically embedded within the Tholonic tetrahedron itself, reflecting the fundamental truth that perfection can be eternally approached but never fully realized.
 
@@ -2034,9 +1900,9 @@ Here, again, we see the same interplay of *Perfection*, *Refinement*, and *Growt
 
 Ultimately, this recursive mathematical structure as well as the associated binary values reveals both mathematical elegance and deep philosophical wisdom, unifying ancient knowledge and modern insight into a coherent vision of existence which exposes some truths on life and reality:
 
-- Perfection is eternally approached but never fully reached.
+- Perfection is eternally approached but never reached.
 - Imperfection creates movement, growth, and infinite refinement.
-- Existence thrives on the subtle interplay of internal reflection (*Limitation*) and external interaction (*Contribution*).
+- Existence can be described as the interplay between internal reflection (*Limitation*) and external interaction (*Contribution*).
 - Reality manifests through fractal, recursive self-similarity.
 - Wisdom lies not in attaining perfection, but in the endless pursuit of refining oneself toward it.
 
@@ -2062,11 +1928,11 @@ Below is one such clear illustration of this profound connection.
 ## The Connection
 
 
-Remarkably, the numeric values of the three axes, 35, 14, and 21, along with the value of the resultant center triad (56), perfectly align with the binary symbolic language of the I Ching. Each numeric axis corresponds philosophically to hexagram pairs representing universal dualities, *balance, definition, integration*, encoded millennia ago.
+Remarkably, the numeric values of the three axes, 35, 14, and 21, along with the value of the resultant center triad (56), perfectly align with the binary symbolic language of the I Ching. Each numeric axis value corresponds philosophically to hexagram pairs representing universal dualities, *balance, definition, integration*, encoded millennia ago.
 
 The table presented shows the 64 I Ching hexagrams arranged in binary order as 32 distinct pairs, each pair embodying opposing yet complementary aspects of a single conceptual theme. Significantly, the first two pairs of *Primordial Duality* and *Cycle of Influence* (or *scope*), represent the fundamental axis bridging the two primary classes of hexagrams (*ascending* and *descending*). These two initial pairs function collectively as one profound foundational concept, setting the stage for the entire recursive symbolic structure.
 
-Highlighted clearly within the table are the specific pairs that correspond directly to the axes explicitly identified in the Tholonic map: *Growth (Increase–Duration)*, *Perfection (Before Completion–After Completion)*, and *Refinement (Decrease–Influence)*. These three pairs precisely define the starting points of the Tholonic recursion process. Even more striking than their symbolic alignment with the recursion is their remarkably uniform distribution, perfectly dividing the hexagrams into symmetrical segments of seven stages each—reflecting deep numerical, philosophical, and metaphysical coherence.
+Highlighted clearly within the table are the specific pairs that correspond directly to the axes explicitly identified in the Tholonic map: *Growth (Increase–Duration)*, *Perfection (Before Completion–After Completion)*, and *Refinement (Decrease–Influence)*. These three pairs precisely define the starting points of the Tholonic recursion process. Even more striking than their symbolic alignment with the recursion is their remarkably uniform distribution, perfectly dividing the hexagrams into symmetrical segments of seven stages each, reflecting deep numerical, philosophical, and metaphysical coherence.
 
 <center><img src='../Images/perf-gro-ref.png' style='width:80%'/></center>
 
@@ -2147,7 +2013,7 @@ This precise formula explicitly shows π emerging directly from the infinite sum
 To mathematically verify convergence explicitly, we recognize the general form as:
 $\frac{\pi}{4} = \sum_{n=1}^{\infty}\frac{2}{16n^2 - 1}$
 
-or we could also write is as:
+or we could also write this as:
 
 $\pi = \sum_{n=1}^{\infty} \frac{8}{16n^2 - 1}$
 
@@ -2160,14 +2026,14 @@ Philosophically, each explicit iteration embodies:
 - *Definition/Limitation* (represented by $4n+1$) positively defining structure.
 - *Contribution/Integration* (represented by $4n-1$) symbolizing integration or return to the greater context.
 
-The presence of perfect squares (16n²) symbolizes internal coherence, self-definition, and structural perfection. The subtraction of unity explicitly symbolizes the philosophical principle that creation occurs through slight imperfection—eternally approaching, yet never fully realizing perfection.
+The presence of perfect squares (16n²) symbolizes internal coherence, self-definition, and structural perfection. The subtraction of unity explicitly symbolizes the philosophical principle that creation occurs through slight imperfection: eternally approaching, yet never fully realizing perfection.
 
 Thus, both the explicit mathematical derivation and profound philosophical symbolism are presented clearly, distinctly, and rigorously, making it ideally suited for a professional mathematical journal.
 
 ## A Philosophical Description of Emergent Transcendence
 
 
-Given that we have associated properties and qualities to the values and forms, we can describe the emergence of &pi; is a purely philosophical manner, which would be something like the following:
+Given that we have associated properties and qualities to the values and forms, we can describe the emergence of &pi; in a purely philosophical manner, which would be something like the following:
 
 Consider first the *perfect square*;  a perfect square, symbolically, represents absolute balance, inner harmony, completeness unto itself, a realm of pure internal order. Yet, intriguingly, the recursion we explore doesn't give us these perfect squares directly; instead, it always returns a perfect square *minus unity (1)*. Why should that be?
 
@@ -2178,14 +2044,14 @@ Herein lies the secret of life itself: the universe never manifests perfection o
 
 The recursive Tholonic structure described for generating π is not limited to π alone. By simply adjusting the four input values and the line of logic this philosophical and mathematical process can generate other fundamental constants such as the Golden Ratio (φ,  1.6180339887), Euler’s number (*e*, 2.7182818285), the natural logarithm of 2 (ln(2)),  0.6931471806), and the square root of 2 (√2, 1.4142135623).
 
-This capacity to generate diverse fundamental constants demonstrates that the Tholonic recursion isn’t just a specialized π calculator; it’s a generalized symbolic engine, capable of embodying multiple structural equilibria within mathematics. Each constant (π, φ, e, ln(2),√2) emerges naturally as a symbolic and numeric √2 representation of the specific philosophical dynamics of *Negotiation*, *Definition*, *Contribution*, and generational complexity that characterize its initial conditions.  
+This capacity to generate diverse fundamental constants demonstrates that the Tholonic recursion isn't just a specialized π calculator; it's a generalized symbolic engine, capable of embodying multiple structural equilibria within mathematics. Each constant (π, φ, e, ln(2), √2) emerges naturally as a symbolic and numeric representation of the specific philosophical dynamics of *Negotiation*, *Definition*, *Contribution*, and generational complexity that characterize its initial conditions.  
 
 Listed below are the notations of values for *Negotiation*, *Definition*, *Contribution* as $N = \{D,C\}$ representing the value used to start the recursion.  
 
 ##### Note: for &pi;,  the value must be multiplied by 4, and for *e*, the integral value has to be divided by 4.
 
 - **π, Pi**  *1={3,5}*:
-  Represents the never-ending journey toward unattainable perfection. π symbolizes the perpetual gap between the archetype and the instance, between the ideal and the real—forever approaching but never fully realizing completeness.
+  Represents the never-ending journey toward unattainable perfection. π symbolizes the perpetual gap between the archetype and the instance, between the ideal and the real, forever approaching but never fully realizing completeness.
 
 - **√2, Square Root of 2** *1={2,2}*:
   Symbolizes geometric harmony and integrative balance. The ratio 1:√2 is uniquely significant, as it is the only proportion that perfectly maintains itself when folded in half, illustrating foundational and persistent structural balance.
@@ -2204,17 +2070,12 @@ Listed below are the notations of values for *Negotiation*, *Definition*, *Contr
 
 # VI: Appendices
 
-## Practical Implementations and Numerical Insights of the Tholonic I Ching
+## A: Computational Implementations
+
+### π, φ, e, √2, ln(2) Generation from Tholonic Principles
 
 
-
-
-
-
-## π, φ, e, √2, ln(2) Generation from Tholonic Principles
-
-
-<img src="/home/jw/src/iching_cli/book/intro/Images/times7.png" style='float:right;width:30%'/>Here is the Python3 code to run the Pi generator, which demonstrates the mathematical relationship between tholonic principles and fundamental constants. Also included are the core functions to calculate other constants, which show different patterns and relationships in teh tholon. The image on the right is the triad that is used as input values for calculating &pi;.
+<img src="/home/jw/src/iching_cli/book/intro/Images/times7.png" style='float:right;width:30%'/>This section provides practical Python implementations for calculating fundamental mathematical constants (π, φ, e, √2, ln(2)) using Tholonic principles. The code demonstrates the mathematical relationship between tholonic principles and these fundamental constants. Each constant emerges from specific initial conditions mapped to the *Negotiation*, *Definition*, and *Contribution* framework. The image on the right shows the triad that is used as input values for calculating π.
 
 ```
 #!/bin/env python3
@@ -2222,7 +2083,8 @@ Listed below are the notations of values for *Negotiation*, *Definition*, *Contr
 
 def compute_tholonic_constant(constant_type="pi", max_iter=1000000):
     """
-    Calculate various mathematical constants using tholonic algorithm variations
+    Calculate various mathematical constants 
+    using tholonic algorithm variations
 
     Constants:
     - "pi": π (3.14159...)
@@ -2289,7 +2151,7 @@ def compute_tholonic_constant(constant_type="pi", max_iter=1000000):
 
         elif constant_type == "ln2":
             N_next = (
-                N_k + (1 / (count + 1)) if count % 2 == 0 else N_k - (1 / (count + 1))
+                N_k+(1/(count+1)) if count%2==0 else N_k-(1/(count+1))
             )
 
         N_k = N_next
@@ -2321,10 +2183,15 @@ compute_tholonic_constant("ln2")
 
 This program demonstrates how π can be derived through the tholonic relationships discovered in our analysis of the I Ching. The initial values are taken from the tholonic interpretation of trigrams, particularly the relationships between *Negotiation*, *Definition*, and *Contribution* as mapped to the primary trigram values.
 
-## The 8×8 Grid
+## B: The 8×8 Grid Analysis
 
+### Overview and Motivation
 
-Before we go down this seemingly obscure rabbit hole, the reader might be interested in why we are even bothering with this. 
+The 8×8 grid represents a deep numerical structure that emerges from the Tholonic model's interaction with the I Ching. This section explores why this particular grid structure is significant and how it reveals fundamental patterns in both systems.
+
+### Foundational Context
+
+Before we explore this seemingly obscure topic, it's important to understand why the 8×8 grid is significant. 
 
 As was mentioned earlier, 2×3=6 is the simplest instance of the most fundamental pattern of interaction. And we saw examples of this at the beginning of this introduction in the form of *F=ma, V=IR, W=Fd, c=f\\&lambda;, E=hf, v = &lambda;\\f, and even E=mc².* These are just a few of hundreds of instances that we can see across all sciences, physics, and even metaphysics.
 
@@ -2346,7 +2213,13 @@ This then equates 3 with Intention, suggesting that movement is the contributing
 
 With all the above in mind, the formula *E = mc²*, interpreted symbolically through the Tholonic lens, can be mapped as *m* = 2, *c* = 3, yielding *E* = 2 × 3² = 18. Interestingly, 18 corresponds to ***o***22 in base<sub>8</sub>, marking the second full octave of the value of mass. This resonance is not significant because of the number 22 in base<sub>10</sub> (although that is interesting), but because ***o***22 represents the first point at which mass, as an instance of the first duality (2), reaches a new scale of instantiation: an octave of self-similarity within the recursive structure of manifestation, representing a duality of dualities, or rather, a spectrum framed by two distinct dualities. This pattern of 2 pairs as a stable recursive system emerges again and again as a persistent theme in the architecture of existence.
 
-<img src="/home/jw/src/iching_cli/book/intro/Images/8x8.png" style='float:right;width:25%'/>As for the grid itself and the numbers within it, this 8×8 grid emerged from this *2×3^2^* pattern. We began by splitting 18 into two prime numbers: 7 and 11, which provides the most balanced representation from both tholonic and I Ching perspectives. We then further divided 11 into two complementary pairs: 5+6 and 4+7, seeking the most even distributions possible. These numbers, 0 through 7, were then positioned within an 8×8 grid following a pattern where complementary pairs always sum to 7 (0+7, 1+6, 2+5, 3+4). The red numbers (0, 1, 2, 3) occupy positions in the left/upper portion of the grid, while their green complements (7, 6, 5, 4) are positioned in the right/lower portion, creating a visual representation of balance. The exact locations of these numbers are determined by the relationship between the polar chart (which appears to be the parent tholon) and the binary chart (which appears to be a child tholon). This arrangement reflects fundamental principles found in both the Tholonic Model and the I Ching, where opposing yet complementary forces interact to create wholeness. The grid thus represents a two-dimensional manifestation of how the original number 18 can be decomposed into balanced, interrelated elements that maintain specific mathematical relationships while embodying principles of negotiation, limitation, and contribution.
+<img src="/home/jw/src/iching_cli/book/intro/Images/8x8.png" style='float:right;width:25%'/>As for the grid itself and the numbers within it, this 8×8 grid emerged from this *2×3^2^* pattern. We began by splitting 18 into two prime numbers: 7 and 11, which provides the most balanced representation from both Tholonic and I Ching perspectives. 
+
+We then further divided 11 into two complementary pairs: 5+6 and 4+7, seeking the most even distributions possible. These numbers, 0 through 7, were then positioned within an 8×8 grid following a pattern where complementary pairs always sum to 7 (0+7, 1+6, 2+5, 3+4). 
+
+The red numbers (0, 1, 2, 3) occupy positions in the left/upper portion of the grid, while their green complements (7, 6, 5, 4) are positioned in the right/lower portion, creating a visual representation of balance. The exact locations of these numbers are determined by the relationship between the polar chart (which appears to be the parent tholon) and the binary chart (which appears to be a child tholon). 
+
+This arrangement reflects fundamental principles found in both the Tholonic Model and the I Ching, where opposing yet complementary forces interact to create wholeness. The grid thus represents a two-dimensional manifestation of how the original number 18 can be decomposed into balanced, interrelated elements that maintain specific mathematical relationships while embodying principles of negotiation, limitation, and contribution.
 
 The placement of these numbers and the numbers themselves, in the 8×8 grid emerged from our systematic decomposition of the original number 18 derived from the archetypal pattern of *2×3^2^*. We first split 18 into two prime numbers (7 and 11), then further divided 11 into complementary pairs, ultimately giving us the set of numbers 0 through 7 to place in our grid.
 
@@ -2361,9 +2234,9 @@ As briefly as possible, here is the relationship between 2×3² and our 8×8 gri
 
 Conversely, 2×3² divides by 2 and 3 but also equals prime pairs 5+13, 7+11, 17+1. The most balanced is 7+11. The two most balanced distributions of 11 are 6+5 and 7+4.
 
-This contrast shows 2²×3 produces balanced even numbers while 3²×2 creates imbalanced prime structures, but also suggests that the more balanced and symmetrical patterns precede the dynamic patterns, which we also see in the patterns of the **DESCENDING** and ***Ascending***, suggesting **DESCENDING** precedes ***Ascending***.
+This contrast shows that 2²×3 produces balanced even numbers, while 3²×2 creates imbalanced prime structures. This also suggests that the more balanced and symmetrical patterns precede the dynamic patterns, which we also see in the patterns of the **Descending** and **Ascending** hexagrams, suggesting that **Descending** patterns precede **Ascending** patterns in the order of manifestation.
 
-Our 8×8 grid shows pairs summing to 7. The set containing the number that form two 11s, which were arrived at by reconstructing 11 as evenly as possible, and 11 was arrived at by deconstructing 18 into its prime numbers as evenly as possible. If we have the set {{6,5},{7,4}}, then we implicitly have the complementary set of {{1,2},{0,3}} necessary to have sums that pair to 7. This makes the {{6,5},{7,4}} set the explicit or defining set, and {{1,2},{0,3}} the implicit or contributing set, as its complement.
+Our 8×8 grid shows pairs summing to 7. The set containing the numbers that form two 11s, which were arrived at by reconstructing 11 as evenly as possible, and 11 was arrived at by deconstructing 18 into its prime numbers as evenly as possible. If we have the set {(6,5),(7,4)}, then we implicitly have the complementary set of {(1,2),(0,3)} necessary to have sums that pair to 7. This makes the {(6,5),(7,4)} set the explicit or defining set, and {(1,2),(0,3)} the implicit or contributing set, as its complement.
 
 Referring back to the polar chart, we notice the order of cardinal pairs differs between their sequential binary values and their positions on the polar star-chart (starting from the top and rotating clockwise). This is because the cardinal polar pairs define the "cardinal" themes, while the 32 paths or pairs define archetypes that can play out in those themes in either an ascending or descending fashion. Hierarchically speaking, the 32 pairs are expressed within the cardinal themes; the cardinal themes are tholons, and the 32 pairs are partons. However, they are also tholons as well, each with two partons of ascending and descending hexagrams, which are tholons that include two partons of trigrams, which are tholons that include three partons of lines, which form a fundamental or primary tholon.
 
@@ -2385,13 +2258,21 @@ The two 8×8 plots are shown below
 
 <center><img src='../Images/polar-binary.png' style='width:100%'/></center>
 
-There are several fantastic patterns to explore; for example:
+### Transformation Patterns: Ascending to Descending
 
-<img src="/home/jw/src/iching_cli/book/intro/Images/ad-quark.png" style='float:right;width:15%'/>The change that needs to occur to transform the ascending to the descending is: [1] down 3, [2] down 1, [3] up 1, [5] down 1, [6] up 1, [7] up 3.  [0] and [4] do not change.
+The transformation required to convert the ascending pattern to the descending pattern reveals an intriguing mathematical structure:
 
-The first thing that comes to mind is this is the exact same “pattern” that we see in how quarks form protons and neutrons, because the proton is composed of two *up* quarks and one *down* quark, while the neutron is composed of one *up* quark and two *down* quarks. This correlation tells us that the ascending hexagrams {4,5,6,7} share this property with the imbalanced positively charged proton, and the descending hexagrams {0,1,2,3} share this property with the balanced neutrally charged neutron. Additionally, given that *up* quarks have a charge of +1/3 and *down* quarks have a charge of -1/3, if we apply these values to each *up* or *down* movement, we end up with all the total down movements = 1 and all the total up movements = 1.
+<img src="/home/jw/src/iching_cli/book/intro/Images/ad-quark.png" style='float:right;width:15%'/>The changes that need to occur to transform the ascending pattern to the descending pattern are: [1] down 3, [2] down 1, [3] up 1, [5] down 1, [6] up 1, [7] up 3. Notably, [0] and [4] do not change.
 
-Another truly mind-blowing observation (for me, at least) is not only the fractal nature of numbers, but the emergence of perfectly integrated structures composed of static and dynamic patterns that naturally evolve simply by examining the various perspectives that a larger multidimensional structure naturally presents when projected onto two dimensions. We see a perfectly ordered pattern in the Descending Hexagrams 8×8 plot, but a seemingly disordered pattern in the Ascending Hexagrams plot. However, when we combine them, a new pattern emerges that seems to reference the 10 pairs of stable hexagrams and the 22 pairs of dynamic hexagrams. Furthermore, we observe a triad with the exact same color mapping as a tholon, where the yellow 4 represents the child *Negotiated* *N*-state (which is always the opposite of its parent, represented by the blue *N*-state), the green 7 as *Limitation/Definition*, and the red 1 as *Contribution/Integration*. This suggests that 7 is the limiting or defining concept, which would certainly be true in an octal system, which we are using, where any single digit cannot exceed 7. This is why the maximum value of the hexagrams in octal is 77, which equated to 63.
+This transformation pattern bears a striking resemblance to the way quarks combine to form protons and neutrons. The proton is composed of two *up* quarks and one *down* quark, while the neutron is composed of one *up* quark and two *down* quarks. This correlation suggests that the ascending hexagrams {4,5,6,7} may share structural properties with the imbalanced positively charged proton, and the descending hexagrams {0,1,2,3} may share properties with the balanced neutrally charged neutron. 
+
+Additionally, given that *up* quarks have a charge of +⅓ and *down* quarks have a charge of -⅓, if we apply these values to each *up* or *down* movement, we end up with all the total down movements = 1 and all the total up movements = 1.
+
+Another truly mind-blowing observation (for me, at least) is not only the fractal nature of numbers, but the emergence of perfectly integrated structures composed of static and dynamic patterns that naturally evolve simply by examining the various perspectives that a larger multidimensional structure naturally presents when projected onto two dimensions. 
+
+We see a perfectly ordered pattern in the Descending Hexagrams 8×8 plot, but a seemingly disordered pattern in the Ascending Hexagrams plot. However, when we combine them, a new pattern emerges. Within the I Ching's 32 pairs of hexagrams, 10 pairs are considered "balanced" or "stable" (having equal numbers of yin and yang lines), while the remaining 22 pairs are "imbalanced" or "dynamic." This combined pattern seems to reference these structural categories.
+
+Furthermore, we observe a triad with the exact same color mapping as a tholon, where the yellow 4 represents the child *Negotiated* *N*-state (which is always the opposite of its parent, represented by the blue *N*-state), the green 7 as *Limitation/Definition*, and the red 1 as *Contribution/Integration*. This suggests that 7 is the limiting or defining concept, which would certainly be true in an octal system, which we are using, where any single digit cannot exceed 7. This is why the maximum value of the hexagrams in octal is 77, which equals 63 in decimal.
 
 This would make 1, which appears on the point of *Contribution/Integration*, the contributing concept, which is quite intuitive considering that 1 is the fundamental unit, the concept of unification, the source of emergence, and primordial in that it is fundamentally indivisible and necessary for any numerical formation.
 
@@ -2411,7 +2292,7 @@ Given that of the 32 pairs of hexagrams, the 10 balanced pairs fall on the {4,1}
 
 <img src="/home/jw/src/iching_cli/book/intro/Images/left-right.png" style='width:80%'/>
 
-Ironically, the the {4,1} vector that appears to be more *Definition/Limitation* and the {7,7} vector seems more *Contribution/Integration*, but this is easily solved if we simply reverse the arbitrary X-axis order to descend from 7 to 0 rather than ascend from 0 to 7, which I should have done initially knowing that “Descending precedes Ascending”, as we discovered earlier.
+Ironically, the {4,1} vector that appears to be more *Definition/Limitation* and the {7,7} vector seems more *Contribution/Integration*, but this is easily solved if we simply reverse the arbitrary X-axis order to descend from 7 to 0 rather than ascend from 0 to 7, which I should have done initially knowing that "Descending precedes Ascending", as we discovered earlier.
 
 In any case, this is a fascinating example of symmetry, self-similarity, and harmonic balance.
 

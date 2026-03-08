@@ -268,12 +268,12 @@
         "explanation": "The Joyous represents lightness and happiness, while The Abysmal signifies depth and mystery. Together, they form a dynamic balance where joy interacts with profound depth, creating a continuous cycle of transformation and harmony. This interaction reflects the natural flow of life, where light and dark, surface and depth, combine to produce a balanced and evolving existence."
     },
     "line_type": [
-        "yin",
+        "yang",
         "yang",
         "yin",
         "yin",
         "yang",
-        "yang"
+        "yin"
     ],
     "pairpath": {
         "title": "Boundaries and Journeys",

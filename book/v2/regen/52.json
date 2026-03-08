@@ -267,12 +267,12 @@
         "explanation": "The lower trigram of 'The Still' embodies a foundation of calm and persistence, while the upper trigram of 'The Still' mirrors this with its own enduring tranquility. Together, they form a unified state of stillness, where each part supports and reinforces the other, creating a harmonious and stable balance that echoes the timeless equilibrium found in nature and the universe."
     },
     "line_type": [
-        "yang",
         "yin",
         "yin",
         "yang",
         "yin",
-        "yin"
+        "yin",
+        "yang"
     ],
     "pairpath": {
         "title": "Dynamic Equilibrium",

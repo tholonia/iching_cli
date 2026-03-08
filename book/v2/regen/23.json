@@ -268,12 +268,12 @@
         "explanation": "The lower trigram, 'The Receptive,' embodies nurturing and adaptability, while the upper trigram, 'The Still,' represents stability and persistence. Together, they create a dynamic balance where adaptability meets stability, fostering resilience. This synthesis allows for transformation, as nurturing flexibility supports enduring strength, enabling growth and change."
     },
     "line_type": [
-        "yang",
         "yin",
         "yin",
         "yin",
         "yin",
-        "yin"
+        "yin",
+        "yang"
     ],
     "pairpath": {
         "title": "Crisis Resolution",

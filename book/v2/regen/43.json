@@ -267,12 +267,12 @@
         "explanation": "The lower trigram, 'The Creative,' symbolizes strength and innovation, while the upper trigram, 'The Joyous,' embodies joy and harmony. Together, they illustrate a dynamic interaction where robust creativity is expressed joyfully and harmoniously, akin to a balanced dance. This synthesis captures the essence of dynamic creativity flourishing through joyful expression, as each perspective highlights the interplay of strength, creativity, and joy in achieving a harmonious breakthrough."
     },
     "line_type": [
-        "yin",
         "yang",
         "yang",
         "yang",
         "yang",
-        "yang"
+        "yang",
+        "yin"
     ],
     "pairpath": {
         "title": "Crisis Resolution",

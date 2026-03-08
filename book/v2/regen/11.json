@@ -268,12 +268,12 @@
         "explanation": "In 'The Creative,' the strong and dynamic energy seeks expression, while 'The Receptive' provides a supportive and nurturing environment. Together, they create a balance where creativity can flourish, much like a seed growing in fertile soil. This synergy mirrors the Jungian, Platonic, Taoist, Tholonic, and thermodynamic views, emphasizing the importance of harmony between active and passive forces to achieve vitality and growth."
     },
     "line_type": [
-        "yin",
-        "yin",
-        "yin",
         "yang",
         "yang",
-        "yang"
+        "yang",
+        "yin",
+        "yin",
+        "yin"
     ],
     "pairpath": {
         "title": "Harmony-Disharmony",

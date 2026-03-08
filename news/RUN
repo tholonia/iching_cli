@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+NEWSAPI_KEY=284f7bbe0bde404cbc7469115a9d40ba ./ap_scraper.py
+./iching_news.py #limit 5
+./build_site.py
+cp /home/jw/src/iching_cli/news/next_weeks_news.html /home/jw/src/tv/docs/next_weeks_news.html

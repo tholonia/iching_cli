@@ -4,11 +4,22 @@ import re
 import glob
 import os
 import json
+import sys  # For command line arguments
 from pprint import pprint  # For debug printing
 from colorama import Fore, Style, init  # For colored terminal output
 
 # Initialize colorama
 init()
+
+# Get PROD_PAGE_SIZE from command line argument, default to "6.69x9.61"
+PROD_PAGE_SIZE = sys.argv[1] if len(sys.argv) > 1 else "6.69x9.61"
+print(f"{Fore.CYAN}Using page size: {PROD_PAGE_SIZE}{Style.RESET_ALL}")
+
+# Page offset to account for differences between printed page numbers and final PDF positions
+# After testing: The printed page numbers in the content PDF are already correct for the final merged PDF
+# No offset needed!
+PAGE_OFFSET = 0
+print(f"{Fore.YELLOW}Page offset: {PAGE_OFFSET} (no adjustment needed){Style.RESET_ALL}")
 
 """
 =============================================================================
@@ -130,7 +141,9 @@ def create_toc_html(pages_with_data):
     # Use the extracted page data directly
     entries = []
     for idx, data in pages_with_data.items():
-        entries.append((data["title"], data["page"], data.get("type", "title")))
+        # Apply page offset to get actual position in final merged PDF
+        adjusted_page = data["page"] + PAGE_OFFSET
+        entries.append((data["title"], adjusted_page, data.get("type", "title")))
 
     # Sort entries by page number
     entries.sort(key=lambda x: x[1])

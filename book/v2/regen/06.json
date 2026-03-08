@@ -268,12 +268,12 @@
         "explanation": "The lower trigram, 'The Abysmal,' symbolizes deep, mysterious waters, representing the unconscious and profound potential. The upper trigram, 'The Creative,' signifies strength and the active force of creation. When these two trigrams interact, they embody the meeting of hidden depths with creative energy, resulting in a powerful and continuous stream of innovation and transformation, much like a river flowing with life and change."
     },
     "line_type": [
-        "yang",
-        "yang",
+        "yin",
         "yang",
         "yin",
         "yang",
-        "yin"
+        "yang",
+        "yang"
     ],
     "pairpath": {
         "title": "Conflict's Veil",

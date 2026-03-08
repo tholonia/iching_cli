@@ -268,12 +268,12 @@
         "explanation": "The lower trigram, 'The Receptive,' symbolizes a nurturing and open state, creating a fertile ground for growth. The upper trigram, 'The Gentle,' represents penetrating insight that gently influences and guides. Together, they form a dynamic interplay where the receptive nature allows for deep insights to take root and flourish, leading to profound understanding."
     },
     "line_type": [
+        "yin",
+        "yin",
+        "yin",
+        "yin",
         "yang",
-        "yang",
-        "yin",
-        "yin",
-        "yin",
-        "yin"
+        "yang"
     ],
     "pairpath": {
         "title": "Power and Vision",

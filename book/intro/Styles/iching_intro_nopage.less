@@ -223,7 +223,7 @@ h6 {
 }
 
 /* === List Formatting === */
-ol li,
+/* Separate ul and ol to allow footnotes (ol) to be overridden */
 ul li {
     list-style-position: inside !important;
     list-style-type: none !important;
@@ -233,7 +233,57 @@ ul li {
     font-weight: normal !important;
     line-height: 1.2em !important;
     page-break-inside: auto !important;
-    margin-left: -24px !important;;
+    margin-left: -24px !important;
+}
+
+ol li {
+    list-style-position: inside !important;
+    list-style-type: none !important;
+    font-family: @base-font-family !important;
+    color: @heading-colors[3] !important;
+    font-size: 1.0em !important;
+    font-weight: normal !important;
+    line-height: 1.2em !important;
+    page-break-inside: auto !important;
+    margin-left: -24px !important;
+}
+
+/* === Footnotes Formatting === */
+/* MUST come AFTER general ol li rule to override it */
+/* Ultra-specific selectors to beat the general ol li rule */
+body .footnotes,
+body section.footnotes {
+    font-size: 8pt;
+    padding-left: 0px !important;
+    margin-left: 10px !important;
+}
+
+body .footnotes ol li,
+body section.footnotes ol li {
+    /* Override the general ol li rule - MUST be more specific */
+    list-style-type: decimal !important;
+    list-style-position: outside !important;
+    display: list-item !important;
+    margin-left: 0px !important;
+    padding-left: 0px !important;
+    font-size: 8pt !important;
+}
+
+body .footnotes ol li p,
+body section.footnotes ol li p {
+    line-height: 11pt;
+    text-align: left;
+    margin: 0px;
+    padding: 0px;
+    display: inline !important;
+}
+
+body .footnotes hr,
+body section.footnotes hr {
+    margin-top: 2em !important;
+    margin-bottom: 1em !important;
+    border: 0 !important;
+    border-top: 1px solid @border-color !important;
 }
 
 /* === Image Handling === */

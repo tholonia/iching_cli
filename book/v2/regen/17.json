@@ -268,12 +268,12 @@
         "explanation": "The lower trigram 'The Arousing' symbolizes dynamic and exciting energy, igniting movement and change. The upper trigram 'The Joyous' embodies joy and harmony, bringing balance and pleasure. Together, they blend excitement with joy, forming a lively and harmonious interaction that reflects the essence of vibrant life."
     },
     "line_type": [
-        "yin",
-        "yang",
         "yang",
         "yin",
         "yin",
-        "yang"
+        "yang",
+        "yang",
+        "yin"
     ],
     "pairpath": {
         "title": "Adaptation Cycle",

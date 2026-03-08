@@ -1,0 +1,1847 @@
+{
+  "generated": "2026-03-06 16:01",
+  "source": "ap_news_headlines.json",
+  "model": "claude-sonnet-4-6",
+  "articles": [
+    {
+      "original_headline": "Iranian warship sunk by US submarine was in India for a joint drill",
+      "original_synopsis": "Officials in New Delhi say that an Iranian warship that was sunk by a U.S. submarine near Sri Lanka had participated in naval exercises hosted by India before heading out into international waters in the Indian Ocean on its way home. The sinking on Wednesday …",
+      "published": "2026-03-05 11:19:24 UTC",
+      "url": "https://apnews.com/article/iran-warship-iris-dena-india-14916ad657e50f048bbeb42b38224ecb",
+      "matched_hexagram": {
+        "sequence": 6,
+        "binary": 58,
+        "icon": "䷅",
+        "name": "Conflict",
+        "description": "The tension between opposing forces seeking resolution. Like storm clouds gathering before rain, this represents necessary conflict that leads to clarity."
+      },
+      "lines": [
+        {
+          "number": 1,
+          "name": "Emerging Disagreement",
+          "description": "The nascent moment when subtle tension first appears. A quiet warning that small misunderstandings can ignite larger conflicts if left unexamined.",
+          "moving": false
+        },
+        {
+          "number": 2,
+          "name": "Hidden Resentment",
+          "description": "An undercurrent of undisclosed grievances begins to surface. This line warns of internal emotions that, if suppressed, might disrupt harmonious interactions.",
+          "moving": false
+        },
+        {
+          "number": 3,
+          "name": "The Clashing Edge",
+          "description": "Confrontation becomes overt as personal boundaries are tested. This line embodies the thrust into active dispute where emotions and actions collide.",
+          "moving": true
+        },
+        {
+          "number": 4,
+          "name": "Balance of Confrontation",
+          "description": "A critical juncture where strength and vulnerability meet. The tension calls for equilibrium, demanding an integration of resolve with mindful caution.",
+          "moving": true
+        },
+        {
+          "number": 5,
+          "name": "Resolute Engagement",
+          "description": "A decisive moment where the energy of conflict can be harnessed for transformation. Clarity and integrity guide actions towards a constructive resolution.",
+          "moving": true
+        },
+        {
+          "number": 6,
+          "name": "Harmonious Aftermath",
+          "description": "The culmination of the conflict that invites reflection. The resolution is found in understanding lessons learned, integrating past tensions into future wisdom.",
+          "moving": false
+        }
+      ],
+      "moving_lines": [
+        3,
+        4,
+        5
+      ],
+      "result_hexagram": {
+        "sequence": 18,
+        "binary": 38,
+        "icon": "䷑",
+        "name": "Decay and Repair",
+        "pairpath": "Adaptation Cycle"
+      },
+      "predicted_article": "NEW DELHI — March 12, 2026. India formally proposed a multilateral inquiry into last week's sinking of the Iranian frigate *Alvand* in the Indian Ocean, winning backing Wednesday from both Tehran and Washington in a development that reversed a sharp deterioration in regional relations. Prime Minister Modi's government circulated a framework calling for a joint fact-finding panel with representation from India, Iran, the United States, and Sri Lanka.\n\nThe White House confirmed U.S. participation, acknowledging for the first time that the submarine USS *Connecticut* fired on the vessel after commanders reported ambiguous tracking data they now characterize as a navigational error compounded by failed communications protocols. The Pentagon announced it has suspended the standing rules of engagement that authorized the strike pending a full review.\n\nIranian Foreign Minister Abbas Araghchi, speaking in Tehran, called the inquiry framework a \"serious first step\" and lifted a threat to close the Strait of Hormuz that had sent oil markets surging earlier in the week. The families of the seventeen Iranian sailors killed will be compensated through a fund administered by a neutral third party, officials confirmed."
+    },
+    {
+      "original_headline": "Regional chaos sown by Iran's attacks is key to its strategy",
+      "original_synopsis": "For years, Iran’s theocratic government warned it would blanket the Middle East with missile and drone fire if it felt its existence was threatened. Now, it's doing just that. Since the U.S. and Israel launched the war Saturday, Iran has unleashed thousands o…",
+      "published": "2026-03-05 11:02:15 UTC",
+      "url": "https://apnews.com/article/iran-strategy-israel-drones-us-war-gulf-36a51df550a4bd766f8c83b8d8c0f701",
+      "matched_hexagram": {
+        "sequence": 64,
+        "binary": 42,
+        "icon": "䷿",
+        "name": "Emergent Chaos",
+        "description": "A moment of dynamic tension where all is in motion, yet resolution remains just beyond reach. Transformation is imminent; embrace uncertainty, for within it lies the potential for renewal and new beginnings."
+      },
+      "lines": [
+        {
+          "number": 1,
+          "name": "Foundational Spark",
+          "description": "The initial subtle joining of divaricate energies lays the groundwork for integration. This line inspires taking the first tentative steps towards uniting opposing forces.",
+          "moving": false
+        },
+        {
+          "number": 2,
+          "name": "Emerging Clarity",
+          "description": "In this stage, hidden conflicts begin to reveal themselves and transform into meaningful insights. There is a gentle unfolding of purpose that guides the aspirant towards unity.",
+          "moving": false
+        },
+        {
+          "number": 3,
+          "name": "Dynamic Convergence",
+          "description": "Here, differing energies merge with vitality, dissolving old barriers in favor of fresh conceptual alignments. The process becomes more active and engaging, stirring creative momentum.",
+          "moving": true
+        },
+        {
+          "number": 4,
+          "name": "Harmonious Equilibrium",
+          "description": "At this juncture, balance is finely calibrated. The forces of tension and release align harmoniously, promoting understanding and the symmetry of purpose.",
+          "moving": false
+        },
+        {
+          "number": 5,
+          "name": "Summit of Synthesis",
+          "description": "This line represents the apex of unified energy, where diverse strands coalesce into a powerful, integrated vision. It symbolizes the clear manifestation of a combined essence.",
+          "moving": true
+        },
+        {
+          "number": 6,
+          "name": "Completion and Transcendence",
+          "description": "The final stage where integration reaches its fulfillment, transcending ordinary forms and entering a state of refined unity. It is the threshold where personal synthesis aligns with universal order.",
+          "moving": false
+        }
+      ],
+      "moving_lines": [
+        3,
+        5
+      ],
+      "result_hexagram": {
+        "sequence": 44,
+        "binary": 62,
+        "icon": "䷫",
+        "name": "Coming to Meet",
+        "pairpath": "Cycle of Influence"
+      },
+      "predicted_article": "TEHRAN — March 12, 2026.\n\nIran's Supreme Leader Ali Khamenei issued an emergency declaration Wednesday suspending offensive missile operations across all regional theaters, signaling a dramatic shift after seven days of sustained bombardment stretched Iran's military logistics to a breaking point. Senior commanders privately acknowledged to intermediaries that munitions reserves had dropped below operational thresholds, forcing a strategic pause that both U.S. and Israeli intelligence services had been anticipating.\n\nThe pause triggered immediate repositioning across the region. Hezbollah units in southern Lebanon stood down from forward positions. Houthi launch sites in Yemen fell silent for the first time since Saturday. U.S. Fifth Fleet assets moved into tighter formation in the Persian Gulf, and Israeli air defense batteries shifted from reactive to offensive ready-posture.\n\nDiplomatic channels cracked open almost immediately. Qatar confirmed it received formal requests from Tehran to transmit ceasefire terms to Washington within hours of the declaration. A senior State Department official confirmed receipt but cautioned that \"significant gaps remain.\" All parties appeared to recognize the window was narrow and closing fast."
+    },
+    {
+      "original_headline": "Iran launches new wave of attacks on Israeli and US bases",
+      "original_synopsis": "Iran is launching more missiles at Israel as attacks in the Middle East commence for a sixth day. Israel announced multiple incoming attacks early Thursday and said it was moving to intercept the missiles. The Israeli military say it began new strikes in Leba…",
+      "published": "2026-03-05 05:23:22 UTC",
+      "url": "https://apnews.com/article/iran-israel-us-march-05-2026-6a76668997a43855cc37eff7f4829615",
+      "matched_hexagram": {
+        "sequence": 6,
+        "binary": 58,
+        "icon": "䷅",
+        "name": "Conflict",
+        "description": "The tension between opposing forces seeking resolution. Like storm clouds gathering before rain, this represents necessary conflict that leads to clarity."
+      },
+      "lines": [
+        {
+          "number": 1,
+          "name": "Emerging Disagreement",
+          "description": "The nascent moment when subtle tension first appears. A quiet warning that small misunderstandings can ignite larger conflicts if left unexamined.",
+          "moving": false
+        },
+        {
+          "number": 2,
+          "name": "Hidden Resentment",
+          "description": "An undercurrent of undisclosed grievances begins to surface. This line warns of internal emotions that, if suppressed, might disrupt harmonious interactions.",
+          "moving": false
+        },
+        {
+          "number": 3,
+          "name": "The Clashing Edge",
+          "description": "Confrontation becomes overt as personal boundaries are tested. This line embodies the thrust into active dispute where emotions and actions collide.",
+          "moving": true
+        },
+        {
+          "number": 4,
+          "name": "Balance of Confrontation",
+          "description": "A critical juncture where strength and vulnerability meet. The tension calls for equilibrium, demanding an integration of resolve with mindful caution.",
+          "moving": true
+        },
+        {
+          "number": 5,
+          "name": "Resolute Engagement",
+          "description": "A decisive moment where the energy of conflict can be harnessed for transformation. Clarity and integrity guide actions towards a constructive resolution.",
+          "moving": true
+        },
+        {
+          "number": 6,
+          "name": "Harmonious Aftermath",
+          "description": "The culmination of the conflict that invites reflection. The resolution is found in understanding lessons learned, integrating past tensions into future wisdom.",
+          "moving": false
+        }
+      ],
+      "moving_lines": [
+        3,
+        4,
+        5
+      ],
+      "result_hexagram": {
+        "sequence": 18,
+        "binary": 38,
+        "icon": "䷑",
+        "name": "Decay and Repair",
+        "pairpath": "Adaptation Cycle"
+      },
+      "predicted_article": "JERUSALEM — March 12, 2026. A fragile ceasefire took hold across the Middle East Wednesday after Qatar and Turkey brokered an emergency halt to six days of sustained missile exchanges between Iran, Israel, and U.S. forces in the region. Both sides confirmed a 72-hour suspension of offensive operations beginning at 0600 local time, with international monitors from the UN deployed to verify compliance along Lebanon's southern border.\n\nThe agreement emerged after backchannel talks accelerated in Doha, where Iranian foreign ministry officials met indirectly with American envoys for the first time since hostilities escalated. A senior U.S. defense official confirmed that two damaged American installations in Iraq had been assessed, personnel casualties treated, and partial operational capacity restored.\n\nIsraeli Prime Minister's office issued a statement calling the pause \"conditional and contingent on verifiable Iranian withdrawal\" from forward positions in Syria. Iran's foreign minister described the halt as \"a humanitarian correction,\" not a concession. Diplomatic sources said the harder work — dismantling the conditions that triggered the exchange — would begin Thursday in Geneva."
+    },
+    {
+      "original_headline": "Can Congress limit Trump in Iran? It would be a rare step",
+      "original_synopsis": "The House and Senate fight over war powers and Congress' role in Iran is just the latest wrangling in a constitutional tug of war. Through World War II, Congress declared war 11 times across five wars. But they haven't done so since. Instead, Congress has use…",
+      "published": "2026-03-05 03:02:37 UTC",
+      "url": "https://apnews.com/article/donald-trump-iran-war-powers-resolution-9f99f49807fbbe65bf04e5518e64c830",
+      "matched_hexagram": {
+        "sequence": 6,
+        "binary": 58,
+        "icon": "䷅",
+        "name": "Conflict",
+        "description": "The tension between opposing forces seeking resolution. Like storm clouds gathering before rain, this represents necessary conflict that leads to clarity."
+      },
+      "lines": [
+        {
+          "number": 1,
+          "name": "Emerging Disagreement",
+          "description": "The nascent moment when subtle tension first appears. A quiet warning that small misunderstandings can ignite larger conflicts if left unexamined.",
+          "moving": false
+        },
+        {
+          "number": 2,
+          "name": "Hidden Resentment",
+          "description": "An undercurrent of undisclosed grievances begins to surface. This line warns of internal emotions that, if suppressed, might disrupt harmonious interactions.",
+          "moving": false
+        },
+        {
+          "number": 3,
+          "name": "The Clashing Edge",
+          "description": "Confrontation becomes overt as personal boundaries are tested. This line embodies the thrust into active dispute where emotions and actions collide.",
+          "moving": true
+        },
+        {
+          "number": 4,
+          "name": "Balance of Confrontation",
+          "description": "A critical juncture where strength and vulnerability meet. The tension calls for equilibrium, demanding an integration of resolve with mindful caution.",
+          "moving": true
+        },
+        {
+          "number": 5,
+          "name": "Resolute Engagement",
+          "description": "A decisive moment where the energy of conflict can be harnessed for transformation. Clarity and integrity guide actions towards a constructive resolution.",
+          "moving": true
+        },
+        {
+          "number": 6,
+          "name": "Harmonious Aftermath",
+          "description": "The culmination of the conflict that invites reflection. The resolution is found in understanding lessons learned, integrating past tensions into future wisdom.",
+          "moving": false
+        }
+      ],
+      "moving_lines": [
+        3,
+        4,
+        5
+      ],
+      "result_hexagram": {
+        "sequence": 18,
+        "binary": 38,
+        "icon": "䷑",
+        "name": "Decay and Repair",
+        "pairpath": "Adaptation Cycle"
+      },
+      "predicted_article": "WASHINGTON — March 12, 2026.\n\nThe Senate passed a bipartisan war powers resolution Wednesday limiting President Trump's authority to strike Iran without congressional approval, the first such binding legislative check on presidential military action in more than two decades. The measure cleared 54-46, with six Republicans crossing party lines after closed-door intelligence briefings alarmed senior members about escalating naval encounters in the Strait of Hormuz.\n\nThe resolution invokes the 1973 War Powers Act and requires Trump to seek explicit congressional authorization before any offensive military action against Iranian territory or forces. Sponsors called it a restoration of constitutional boundaries that have eroded since the post-September 11 authorizations effectively handed presidents unchecked military latitude for a generation.\n\nThe White House immediately signaled a veto, with press secretary calling the measure \"an unconstitutional encroachment on executive authority.\" House Speaker Mike Johnson said the lower chamber would take up the resolution next week, though passage there faces steeper odds. Constitutional scholars noted the vote nonetheless represents the most significant congressional reassertion of war powers authority since the original act's passage 53 years ago."
+    },
+    {
+      "original_headline": "Live updates: Iran targets Israel and American bases as Israel strikes Lebanon",
+      "original_synopsis": "Israel announced multiple incoming attacks early Thursday and said it was intercepting the missiles. The Israeli military says it began new strikes in Lebanon against the Iranian-backed Hezbollah militant group.",
+      "published": "2026-03-05 00:30:00 UTC",
+      "url": "https://apnews.com/live/iran-war-israel-trump-lebanon-march-05-2026",
+      "matched_hexagram": {
+        "sequence": 6,
+        "binary": 58,
+        "icon": "䷅",
+        "name": "Conflict",
+        "description": "The tension between opposing forces seeking resolution. Like storm clouds gathering before rain, this represents necessary conflict that leads to clarity."
+      },
+      "lines": [
+        {
+          "number": 1,
+          "name": "Emerging Disagreement",
+          "description": "The nascent moment when subtle tension first appears. A quiet warning that small misunderstandings can ignite larger conflicts if left unexamined.",
+          "moving": false
+        },
+        {
+          "number": 2,
+          "name": "Hidden Resentment",
+          "description": "An undercurrent of undisclosed grievances begins to surface. This line warns of internal emotions that, if suppressed, might disrupt harmonious interactions.",
+          "moving": false
+        },
+        {
+          "number": 3,
+          "name": "The Clashing Edge",
+          "description": "Confrontation becomes overt as personal boundaries are tested. This line embodies the thrust into active dispute where emotions and actions collide.",
+          "moving": true
+        },
+        {
+          "number": 4,
+          "name": "Balance of Confrontation",
+          "description": "A critical juncture where strength and vulnerability meet. The tension calls for equilibrium, demanding an integration of resolve with mindful caution.",
+          "moving": true
+        },
+        {
+          "number": 5,
+          "name": "Resolute Engagement",
+          "description": "A decisive moment where the energy of conflict can be harnessed for transformation. Clarity and integrity guide actions towards a constructive resolution.",
+          "moving": true
+        },
+        {
+          "number": 6,
+          "name": "Harmonious Aftermath",
+          "description": "The culmination of the conflict that invites reflection. The resolution is found in understanding lessons learned, integrating past tensions into future wisdom.",
+          "moving": false
+        }
+      ],
+      "moving_lines": [
+        3,
+        4,
+        5
+      ],
+      "result_hexagram": {
+        "sequence": 18,
+        "binary": 38,
+        "icon": "䷑",
+        "name": "Decay and Repair",
+        "pairpath": "Adaptation Cycle"
+      },
+      "predicted_article": "JERUSALEM — March 12, 2026. A surprise ceasefire framework brokered by Qatar and Egypt took effect at 0600 local time Thursday, halting Iranian-backed strikes against Israeli and American targets after seven days of sustained escalation. The agreement, endorsed by the United Nations Security Council overnight, established a 72-hour cooling period and the withdrawal of Hezbollah forces from a 10-kilometer buffer zone along the Lebanese border.\n\nIranian Foreign Minister Abbas Araghchi confirmed Tehran would suspend ballistic missile operations contingent on Israel freezing new strikes in Lebanon. American officials confirmed the administration backed the framework after direct back-channel communications with Iranian negotiators in Oman produced a preliminary understanding Wednesday night.\n\nThe deal leaves core disputes unresolved but marks the first formal de-escalation mechanism in weeks. Regional officials described the agreement as restoring basic diplomatic channels that collapsed following last month's strikes. Israeli Prime Minister Benjamin Netanyahu called the pause \"conditional and revocable,\" but confirmed military operations in southern Lebanon had been temporarily suspended pending verification by international monitors."
+    },
+    {
+      "original_headline": "Live updates: Iran attacks Israel and US bases as Israel strikes Hezbollah-linked targets in Lebanon",
+      "original_synopsis": "Iran launched a new wave of attacks Thursday at Israel, American bases and countries around the region, calling for “Trump's blood,” while Israel said it hit multiple targets in Iran.",
+      "published": "2026-03-05 00:30:00 UTC",
+      "url": "https://apnews.com/live/iran-war-israel-trump-lebanon-march-05-2026#0000019c-bebb-d771-a7dd-ffff87180000",
+      "matched_hexagram": {
+        "sequence": 6,
+        "binary": 58,
+        "icon": "䷅",
+        "name": "Conflict",
+        "description": "The tension between opposing forces seeking resolution. Like storm clouds gathering before rain, this represents necessary conflict that leads to clarity."
+      },
+      "lines": [
+        {
+          "number": 1,
+          "name": "Emerging Disagreement",
+          "description": "The nascent moment when subtle tension first appears. A quiet warning that small misunderstandings can ignite larger conflicts if left unexamined.",
+          "moving": false
+        },
+        {
+          "number": 2,
+          "name": "Hidden Resentment",
+          "description": "An undercurrent of undisclosed grievances begins to surface. This line warns of internal emotions that, if suppressed, might disrupt harmonious interactions.",
+          "moving": false
+        },
+        {
+          "number": 3,
+          "name": "The Clashing Edge",
+          "description": "Confrontation becomes overt as personal boundaries are tested. This line embodies the thrust into active dispute where emotions and actions collide.",
+          "moving": true
+        },
+        {
+          "number": 4,
+          "name": "Balance of Confrontation",
+          "description": "A critical juncture where strength and vulnerability meet. The tension calls for equilibrium, demanding an integration of resolve with mindful caution.",
+          "moving": true
+        },
+        {
+          "number": 5,
+          "name": "Resolute Engagement",
+          "description": "A decisive moment where the energy of conflict can be harnessed for transformation. Clarity and integrity guide actions towards a constructive resolution.",
+          "moving": true
+        },
+        {
+          "number": 6,
+          "name": "Harmonious Aftermath",
+          "description": "The culmination of the conflict that invites reflection. The resolution is found in understanding lessons learned, integrating past tensions into future wisdom.",
+          "moving": false
+        }
+      ],
+      "moving_lines": [
+        3,
+        4,
+        5
+      ],
+      "result_hexagram": {
+        "sequence": 18,
+        "binary": 38,
+        "icon": "䷑",
+        "name": "Decay and Repair",
+        "pairpath": "Adaptation Cycle"
+      },
+      "predicted_article": "GENEVA — March 12, 2026.\n\nA fragile ceasefire took hold across the Middle East Thursday after Qatar and Oman brokered an emergency halt to hostilities between Iran, Israel, and the United States, ending eight days of exchanges that killed hundreds and threatened regional collapse. Both sides agreed to suspend offensive operations at 0600 GMT pending formal negotiations, the Qatari foreign ministry confirmed.\n\nThe breakthrough came after backchannel talks revealed Iran's willingness to return to nuclear oversight terms abandoned in 2018, a concession diplomats called unexpected but significant. A senior U.S. official said Washington agreed in principle to ease specific sanctions tied to civilian infrastructure, including medical supply chains, in exchange for verified missile program limitations.\n\nIsraeli Prime Minister Benjamin Netanyahu addressed parliament Thursday, acknowledging the ceasefire while insisting no security guarantees had been surrendered. Iran's foreign minister called the agreement \"a first corrective step.\" United Nations Secretary-General António Guterres dispatched a monitoring team to the region, with deployment expected within 72 hours."
+    },
+    {
+      "original_headline": "Live updates: Iran attacks Israel and US bases as Israel strikes Hezbollah-linked targets in Lebanon",
+      "original_synopsis": "Iran launched a new wave of attacks Thursday at Israel, American bases and countries around the region, calling for “Trump's blood,” while Israel said it hit multiple targets in Iran.",
+      "published": "2026-03-05 00:30:00 UTC",
+      "url": "https://apnews.com/live/iran-war-israel-trump-lebanon-march-05-2026#0000019c-beb3-d21d-a1dc-febfcd890000",
+      "matched_hexagram": {
+        "sequence": 6,
+        "binary": 58,
+        "icon": "䷅",
+        "name": "Conflict",
+        "description": "The tension between opposing forces seeking resolution. Like storm clouds gathering before rain, this represents necessary conflict that leads to clarity."
+      },
+      "lines": [
+        {
+          "number": 1,
+          "name": "Emerging Disagreement",
+          "description": "The nascent moment when subtle tension first appears. A quiet warning that small misunderstandings can ignite larger conflicts if left unexamined.",
+          "moving": false
+        },
+        {
+          "number": 2,
+          "name": "Hidden Resentment",
+          "description": "An undercurrent of undisclosed grievances begins to surface. This line warns of internal emotions that, if suppressed, might disrupt harmonious interactions.",
+          "moving": false
+        },
+        {
+          "number": 3,
+          "name": "The Clashing Edge",
+          "description": "Confrontation becomes overt as personal boundaries are tested. This line embodies the thrust into active dispute where emotions and actions collide.",
+          "moving": true
+        },
+        {
+          "number": 4,
+          "name": "Balance of Confrontation",
+          "description": "A critical juncture where strength and vulnerability meet. The tension calls for equilibrium, demanding an integration of resolve with mindful caution.",
+          "moving": true
+        },
+        {
+          "number": 5,
+          "name": "Resolute Engagement",
+          "description": "A decisive moment where the energy of conflict can be harnessed for transformation. Clarity and integrity guide actions towards a constructive resolution.",
+          "moving": true
+        },
+        {
+          "number": 6,
+          "name": "Harmonious Aftermath",
+          "description": "The culmination of the conflict that invites reflection. The resolution is found in understanding lessons learned, integrating past tensions into future wisdom.",
+          "moving": false
+        }
+      ],
+      "moving_lines": [
+        3,
+        4,
+        5
+      ],
+      "result_hexagram": {
+        "sequence": 18,
+        "binary": 38,
+        "icon": "䷑",
+        "name": "Decay and Repair",
+        "pairpath": "Adaptation Cycle"
+      },
+      "predicted_article": "GENEVA — March 12, 2026.\n\nCeasefire negotiations brokered by Switzerland and Qatar produced a mutual suspension of hostilities Wednesday, with Iran, Israel, and the United States agreeing to a 72-hour pause in strikes to allow diplomatic channels to reopen. The agreement, signed by senior envoys in Geneva, represents the first formal de-escalation framework since last week's exchange of attacks across the region.\n\nThe deal's centerpiece is a confidence-building mechanism proposed by Qatar: simultaneous withdrawal of Iranian-backed forces from two Lebanese border sectors paired with a freeze on Israeli airstrikes targeting Iranian logistics networks. U.S. officials confirmed American bases in the region had not sustained new attacks in 96 hours, calling conditions \"cautiously stabilized.\"\n\nIranian Foreign Minister Abbas Araghchi said Tehran agreed to the pause contingent on a UN Security Council resolution condemning Israeli strikes on Iranian soil. Israel has not formally accepted that condition but declined to reject talks outright. Analysts cautioned that structural grievances driving the conflict remain unaddressed, and that any lasting settlement would require sustained engagement well beyond the current pause."
+    },
+    {
+      "original_headline": "Live updates: Iran attacks Israel and US bases as Israel strikes Hezbollah-linked targets in Lebanon",
+      "original_synopsis": "Iran launched a new wave of attacks Thursday at Israel, American bases and countries around the region, calling for “Trump's blood,” while Israel said it hit multiple targets in Iran.",
+      "published": "2026-03-05 00:30:00 UTC",
+      "url": "https://apnews.com/live/iran-war-israel-trump-lebanon-march-05-2026#0000019c-beb1-da71-adff-fff997470000",
+      "matched_hexagram": {
+        "sequence": 6,
+        "binary": 58,
+        "icon": "䷅",
+        "name": "Conflict",
+        "description": "The tension between opposing forces seeking resolution. Like storm clouds gathering before rain, this represents necessary conflict that leads to clarity."
+      },
+      "lines": [
+        {
+          "number": 1,
+          "name": "Emerging Disagreement",
+          "description": "The nascent moment when subtle tension first appears. A quiet warning that small misunderstandings can ignite larger conflicts if left unexamined.",
+          "moving": false
+        },
+        {
+          "number": 2,
+          "name": "Hidden Resentment",
+          "description": "An undercurrent of undisclosed grievances begins to surface. This line warns of internal emotions that, if suppressed, might disrupt harmonious interactions.",
+          "moving": false
+        },
+        {
+          "number": 3,
+          "name": "The Clashing Edge",
+          "description": "Confrontation becomes overt as personal boundaries are tested. This line embodies the thrust into active dispute where emotions and actions collide.",
+          "moving": true
+        },
+        {
+          "number": 4,
+          "name": "Balance of Confrontation",
+          "description": "A critical juncture where strength and vulnerability meet. The tension calls for equilibrium, demanding an integration of resolve with mindful caution.",
+          "moving": true
+        },
+        {
+          "number": 5,
+          "name": "Resolute Engagement",
+          "description": "A decisive moment where the energy of conflict can be harnessed for transformation. Clarity and integrity guide actions towards a constructive resolution.",
+          "moving": true
+        },
+        {
+          "number": 6,
+          "name": "Harmonious Aftermath",
+          "description": "The culmination of the conflict that invites reflection. The resolution is found in understanding lessons learned, integrating past tensions into future wisdom.",
+          "moving": false
+        }
+      ],
+      "moving_lines": [
+        3,
+        4,
+        5
+      ],
+      "result_hexagram": {
+        "sequence": 18,
+        "binary": 38,
+        "icon": "䷑",
+        "name": "Decay and Repair",
+        "pairpath": "Adaptation Cycle"
+      },
+      "predicted_article": "GENEVA — March 12, 2026.\n\nQatari and Omani mediators announced Wednesday that Iran and Israel have accepted a 72-hour ceasefire framework, the first formal pause in hostilities since last week's exchange of strikes that drew in American military assets across the region. The agreement, brokered through back-channel talks in Muscat, halts offensive operations while a permanent monitoring mechanism is established.\n\nThe Biden-era nuclear framework, long dormant, has been quietly revived as the operational basis for negotiations. Iranian Foreign Minister Abbas Araghchi confirmed Tehran agreed to suspend uranium enrichment above 20 percent as a confidence-building measure. Washington dispatched envoy Steve Witkoff to Doha to lead direct technical talks beginning Thursday.\n\nTwo American bases struck last week in Iraq and Syria have resumed limited operations. No further Iranian drone salvos have been detected since Monday. Senior Israeli security officials confirmed cabinet approval of the ceasefire terms late Tuesday, with Defense Minister Israel Katz calling the pause \"a necessary reset.\" Regional air corridors closed during the escalation have begun reopening to commercial traffic."
+    },
+    {
+      "original_headline": "Stranded travelers share their stories during Iran war",
+      "original_synopsis": "The U.S. and Israel’s war with Iran has stranded hundreds of thousands of travelers amid flight cancellations and airspace closures. In a matter of days, the conflict has continued to escalate — particularly with strikes in the Gulf states where, beyond the M…",
+      "published": "2026-03-04 23:40:39 UTC",
+      "url": "https://apnews.com/article/stranded-travelers-iran-war-middle-east-38cbb9babed49fad08949bba8aef3d50",
+      "matched_hexagram": {
+        "sequence": 56,
+        "binary": 44,
+        "icon": "䷷",
+        "name": "Transition",
+        "description": "The process of temporary yet necessary wandering or travel. Like a bird on migration or an explorer in foreign lands, this represents the value of movement through unfamiliar territory as a path to growth and understanding."
+      },
+      "lines": [
+        {
+          "number": 1,
+          "name": "Dawn of Possibility",
+          "description": "The earliest spark where hidden potential begins to stir, inviting you to prepare for change.",
+          "moving": false
+        },
+        {
+          "number": 2,
+          "name": "Rippling Waters",
+          "description": "A stage of gentle movement that sets the course for the transformative journey, much like water quietly reshaping its streambed.",
+          "moving": false
+        },
+        {
+          "number": 3,
+          "name": "Stirrings of Resolve",
+          "description": "A moment of inner conflict where latent energy is tested, preparing to evolve into firm determination amidst uncertainty.",
+          "moving": true
+        },
+        {
+          "number": 4,
+          "name": "The Turning Point",
+          "description": "Challenges and insights converge, marking the critical moment where obstacles become stepping stones toward clarity.",
+          "moving": true
+        },
+        {
+          "number": 5,
+          "name": "Beacon of Influence",
+          "description": "At the apex of transition, leadership emerges naturally, drawing inward resources to inspire and guide.",
+          "moving": false
+        },
+        {
+          "number": 6,
+          "name": "Culmination of Transition",
+          "description": "The final phase where accumulated efforts reach fruition, leading to a comprehensive renewal and transformation.",
+          "moving": true
+        }
+      ],
+      "moving_lines": [
+        3,
+        4,
+        6
+      ],
+      "result_hexagram": {
+        "sequence": 2,
+        "binary": 0,
+        "icon": "䷁",
+        "name": "Receptive Earth",
+        "pairpath": "Primordial Duality"
+      },
+      "predicted_article": "DUBAI — March 11, 2026. A multinational humanitarian air corridor opened Wednesday over neutral Omani airspace, allowing the first mass evacuation flights to depart the region since the U.S.-Israel-Iran conflict shuttered Gulf routes eight days ago. Qatar Airways, Emirates, and Lufthansa coordinated the operation under International Civil Aviation Organization guidance, moving an estimated 34,000 stranded travelers through Muscat in the first 18 hours alone.\n\nOman, which maintained diplomatic neutrality throughout the escalating conflict, quietly offered its airspace and Muscat International Airport as a staging hub after back-channel talks with all parties. The sultanate's foreign minister confirmed the arrangement required no preconditions — a posture regional analysts described as decisive in unlocking what bilateral pressure had failed to achieve.\n\nPassenger processing centers established at Muscat handled travelers from over 60 nationalities. American, British, and German consular teams deployed additional staff overnight. Thousands who had sheltered in hotel lobbies, airport terminals, and private homes across Dubai, Doha, and Bahrain began reaching their families. Relief organizations estimated full clearance of stranded civilians could be completed within 72 hours if the corridor holds."
+    },
+    {
+      "original_headline": "Last 2 names of 6 US soldiers who died in Kuwait attack identified by the Pentagon",
+      "original_synopsis": "The last two names of the six U.S. soldiers killed in a Kuwait attack have been released by the Pentagon, and they are from California and Iowa. The soldiers identified Wednesday were 55-year-old Chief Warrant Officer 3 Robert Marzan of Sacramento and 45-year…",
+      "published": "2026-03-04 16:42:20 UTC",
+      "url": "https://apnews.com/article/iran-us-military-deaths-0a3f1532ec1953d51898e5b5e2b625d6",
+      "matched_hexagram": {
+        "sequence": 47,
+        "binary": 26,
+        "icon": "䷮",
+        "name": "Depletion",
+        "description": "A time of diminishing resources and challenging circumstances that demands resilience and strategic conservation. Like a lake during drought or batteries running low, this represents the need to manage scarcity while maintaining essential functions."
+      },
+      "lines": [
+        {
+          "number": 1,
+          "name": "Hidden Fractures",
+          "description": "At the inception of depletion, subtle cracks signal inherent vulnerability. This line advises careful observation of the weakening structure and cautious steps forward.",
+          "moving": false
+        },
+        {
+          "number": 2,
+          "name": "Resisting Decay",
+          "description": "A struggle emerges between diminishing resources and the will to persevere. This line reflects the tension of trying to maintain what is precious amid inevitable loss.",
+          "moving": false
+        },
+        {
+          "number": 3,
+          "name": "Crossroads of Decline",
+          "description": "Positioned in the heart of depletion, this line represents a critical juncture where decision and insight become essential. The path chosen now determines the future stability.",
+          "moving": false
+        },
+        {
+          "number": 4,
+          "name": "The Waning Beacon",
+          "description": "Even as resources and energies diminish, a residual light offers wisdom. This line speaks to the deep understanding that comes from accepting limitations.",
+          "moving": false
+        },
+        {
+          "number": 5,
+          "name": "Crystalline Resolve",
+          "description": "Amid the decay, a clarifying moment crystallizes determination. This line embodies the emergence of clarity and firmness in purpose during trying times.",
+          "moving": false
+        },
+        {
+          "number": 6,
+          "name": "The Transcendent End",
+          "description": "The final line marks the culmination of depletion, where what remains is refined into a state ready for rebirth. It signifies that every ending holds the seed of a new beginning.",
+          "moving": true
+        }
+      ],
+      "moving_lines": [
+        6
+      ],
+      "result_hexagram": {
+        "sequence": 6,
+        "binary": 58,
+        "icon": "䷅",
+        "name": "Conflict",
+        "pairpath": "Conflict's Veil"
+      },
+      "predicted_article": "WASHINGTON — March 11, 2026. The Pentagon announced Tuesday it has formally identified a militant network operating out of southern Iraq as responsible for the Kuwait attack that killed six U.S. soldiers last week, including Chief Warrant Officer 3 Robert Marzan of Sacramento and a second soldier from Iowa. Defense Secretary officials confirmed two targeted airstrikes were conducted overnight against the network's logistics infrastructure near Basra.\n\nU.S. Central Command stated the strikes destroyed three weapons depots linked to the group, which officials described as an Iran-backed proxy faction. No American casualties were reported. Iraqi government officials demanded immediate consultation with Washington, calling the strikes a violation of bilateral security agreements and warning of diplomatic consequences.\n\nThe confrontation sharpened existing fault lines between Washington and Baghdad. A senior Iraqi parliament member called for an emergency session to review the terms of the U.S. military presence in the country. The State Department issued a terse response, stating the strikes were \"defensive and proportional\" and that diplomatic channels remain open, even as Pentagon officials signaled additional operations were possible."
+    },
+    {
+      "original_headline": "Britney Spears arrested in California, though charge is not clear",
+      "original_synopsis": "Authorities say Britney Spears was arrested Wednesday night in Ventura County, California, and booked early the following morning, though the charge was not clear. A message seeking comment was left with her representative as well as the California Highway Pa…",
+      "published": "2026-03-05 15:41:45 UTC",
+      "url": "https://apnews.com/article/britney-spears-arrested-california-ca4bf5d6189c33137a5a902609bc72cf",
+      "matched_hexagram": {
+        "sequence": 36,
+        "binary": 5,
+        "icon": "䷣",
+        "name": "Obscured Light",
+        "description": "Intelligence and clarity operating under constraints. Like the sun below the earth, this represents inner radiance maintaining its strength despite external darkness."
+      },
+      "lines": [
+        {
+          "number": 1,
+          "name": "Hidden Spark",
+          "description": "A subtle starting point where a faint light appears despite prevailing obscurity; the moment of potential that requires careful nurturing.",
+          "moving": false
+        },
+        {
+          "number": 2,
+          "name": "Glimmering Hope",
+          "description": "An early sign that beneath darkened outward appearances, hope and opportunity are beginning to emerge, waiting to be seized.",
+          "moving": false
+        },
+        {
+          "number": 3,
+          "name": "Veiled Impulse",
+          "description": "A moment when inner urges are obscured by doubt and uncertainty; caution is advised in acting without clear vision.",
+          "moving": true
+        },
+        {
+          "number": 4,
+          "name": "Subtle Radiance",
+          "description": "The inherent light begins to break through the haze, suggesting that wisdom and innate strength are emerging from humble origins.",
+          "moving": false
+        },
+        {
+          "number": 5,
+          "name": "Luminous Beacon",
+          "description": "A pivotal juncture where clarity and purpose shine forth, dispelling doubts and guiding the way forward with renewed energy.",
+          "moving": false
+        },
+        {
+          "number": 6,
+          "name": "Diminished Glow",
+          "description": "In the final stage, excess radiance can become overwhelming, risking the loss of subtlety and balance if not carefully managed.",
+          "moving": true
+        }
+      ],
+      "moving_lines": [
+        3,
+        6
+      ],
+      "result_hexagram": {
+        "sequence": 27,
+        "binary": 33,
+        "icon": "䷚",
+        "name": "Nourishment",
+        "pairpath": "Balance Shift"
+      },
+      "predicted_article": "VENTURA, Calif. — March 12, 2026.\n\nBritney Spears completed a voluntary seven-day psychiatric evaluation at a private treatment facility in Ventura County Thursday, one week after her arrest drew renewed public concern about her welfare. Prosecutors announced they would not pursue charges, citing the evaluation's completion and medical findings as grounds for dismissal.\n\nThe singer's legal team confirmed she entered the facility the morning after her booking at the request of her personal physician, who recommended structured care. Spears issued a brief statement through her publicist Thursday afternoon, thanking medical staff and describing the past week as \"necessary and long overdue.\"\n\nMental health advocates praised the outcome, noting the case highlighted persistent gaps in crisis intervention systems for high-profile individuals without family guardianship. Spears, who spent 13 years under a court-ordered conservatorship that ended in 2021, has no current legal guardian. Her team said she would remain at the facility through the end of the month under self-directed care, with a longer wellness plan being developed with her doctors."
+    },
+    {
+      "original_headline": "60 Years After Hollywood Abandoned It, VistaVision Is Back",
+      "original_synopsis": "VistaVision, the large-scale film format used largely in the 1950s, is enjoying a big-screen revival. At the Academy Awards on March 15, a movie made largely with decades-old antique film equipment is poised to win best picture. “One Battle After Another” is …",
+      "published": "2026-03-05 15:33:00 UTC",
+      "url": "https://apnews.com/article/vistavision-one-battle-after-another-cbd18a9021218a8046088dbd810dbaf8",
+      "matched_hexagram": {
+        "sequence": 24,
+        "binary": 1,
+        "icon": "䷗",
+        "name": "Return",
+        "description": "The point where energy begins its renewal cycle. Like dawn breaking after night, this represents the natural emergence of new potential."
+      },
+      "lines": [
+        {
+          "number": 1,
+          "name": "The Budding Awakening",
+          "description": "The initial stirrings of transformation emerge, inviting one to return to one's origins with hopeful potential.",
+          "moving": true
+        },
+        {
+          "number": 2,
+          "name": "The Steady Ascent",
+          "description": "Movement grows deliberate and sure, marking the progress of return with deepening resolve and growing stability.",
+          "moving": false
+        },
+        {
+          "number": 3,
+          "name": "The Courageous Pivot",
+          "description": "Encountering challenges that demand decisive action, the individual stands at a turning point where hesitation gives way to bravery.",
+          "moving": false
+        },
+        {
+          "number": 4,
+          "name": "The Reflective Crossroad",
+          "description": "Midway through the cycle, introspection and clarity guide decisions, balancing past experience with the promise of renewal.",
+          "moving": false
+        },
+        {
+          "number": 5,
+          "name": "The Harmonious Reintegration",
+          "description": "At the peak of the cycle, lessons learned converge to form unity and strength, preparing the ground for continuous cycles of return.",
+          "moving": false
+        },
+        {
+          "number": 6,
+          "name": "The Resolute New Cycle",
+          "description": "The completion of the cycle signals readiness for a fresh start; final adjustments solidify the journey and open the way for renewal.",
+          "moving": true
+        }
+      ],
+      "moving_lines": [
+        1,
+        6
+      ],
+      "result_hexagram": {
+        "sequence": 32,
+        "binary": 32,
+        "icon": "",
+        "name": "Unknown",
+        "pairpath": "Crisis Resolution"
+      },
+      "predicted_article": "HOLLYWOOD — March 12, 2026.\n\n\"One Battle After Another\" lost the Academy Award for Best Picture Sunday night, a stunning defeat that industry observers say may have punctured the VistaVision revival before it fully took hold. The film, which had entered the ceremony as the frontrunner, lost to a digitally produced streaming feature — a result that sent immediate ripples through the small community of cinematographers and archivists who had staked careers on the format's comeback.\n\nBy Monday morning, Paramount Revival, the boutique distributor that had bankrolled three upcoming VistaVision productions, quietly placed two of them in turnaround. Director Sofia Arranaga, whose period western had been scheduled to begin principal photography in April using restored Mitchell cameras, confirmed her financing had collapsed.\n\nYet veteran cinematographer Harold Murch, who shot \"One Battle After Another,\" dismissed talk of collapse. He donated his personal collection of VistaVision lenses and gate assemblies to the American Cinematheque, calling the gesture permanent rather than elegiac. \"The format doesn't need Hollywood to survive,\" Murch said. \"It just needs to stop asking permission.\""
+    },
+    {
+      "original_headline": "A breast cancer survivor in Kenya knits prostheses for others after mastectomies",
+      "original_synopsis": "A Kenyan woman who survived breast cancer is knitting prostheses and training others to make them in a country where silicone ones are expensive. Women say the affordable prostheses are a relief and a source of dignity. One woman recalled staying indoors afte…",
+      "published": "2026-03-05 08:14:06 UTC",
+      "url": "https://apnews.com/article/kenya-breast-cancer-knitting-prosthesis-03743a2eed47cf51e8ce5cfdb0d119a3",
+      "matched_hexagram": {
+        "sequence": 27,
+        "binary": 33,
+        "icon": "䷚",
+        "name": "Regenerative Nourishment",
+        "description": "The cultivation and provision of sustainable nourishment, both physical and spiritual. Like a mountain's nourishing springs feeding the earth below, this hexagram represents the careful stewardship of resources to sustain and regenerate systems."
+      },
+      "lines": [
+        {
+          "number": 1,
+          "name": "Seed of Renewal",
+          "description": "The initial line represents the emergence of nourishing energies, marking the latent potential for growth and transformation.",
+          "moving": false
+        },
+        {
+          "number": 2,
+          "name": "Steady Accumulation",
+          "description": "This line emphasizes the gradual gathering of sustenance and resources, embodying a balanced approach to building inner strength.",
+          "moving": false
+        },
+        {
+          "number": 3,
+          "name": "Spiral of Transformation",
+          "description": "Nourishment becomes dynamic here, inviting an interplay between inner growth and outward expression, catalyzing movement within the cycle.",
+          "moving": true
+        },
+        {
+          "number": 4,
+          "name": "Harmonious Expansion",
+          "description": "This line celebrates the flourishing stage where inner nourishment starts to manifest outwardly, fostering innovation and balanced expression.",
+          "moving": true
+        },
+        {
+          "number": 5,
+          "name": "Peak Sustenance",
+          "description": "Representing the zenith of nourishment, this line signifies a moment of abundant expression and fulfillment, inspiring leadership.",
+          "moving": true
+        },
+        {
+          "number": 6,
+          "name": "Return to the Source",
+          "description": "The final line serves as a reminder of the cyclical nature of nourishment, inviting reflection and reconnection with the foundational energies.",
+          "moving": false
+        }
+      ],
+      "moving_lines": [
+        3,
+        4,
+        5
+      ],
+      "result_hexagram": {
+        "sequence": 13,
+        "binary": 61,
+        "icon": "䷌",
+        "name": "Fellowship",
+        "pairpath": "Unified Forces"
+      },
+      "predicted_article": "NAIROBI — March 12, 2026. Kenya's Ministry of Health announced Wednesday it will formally partner with grassroots knitting networks pioneered by breast cancer survivors to distribute handmade prostheses through public hospitals nationwide, marking the first government endorsement of the initiative.\n\nThe partnership, signed in Nairobi, brings together three previously separate organizations — a survivors' cooperative, a textile workers' union, and a nonprofit supplying yarn at reduced cost — into a unified supply chain. Officials said the coalition will train 200 additional volunteers across 12 counties within six months, dramatically expanding reach beyond Nairobi's urban center into rural areas where mastectomy patients have had virtually no access to affordable prostheses.\n\nThe announcement drew immediate support from two regional cancer charities in Uganda and Tanzania, which pledged to replicate the model across East Africa. \"What started in one woman's home has become a blueprint,\" Health Cabinet Secretary Dr. Mercy Mwangi told reporters. Funding commitments announced Wednesday total approximately 4.2 million Kenyan shillings, enough to supply an estimated 3,000 prostheses in the program's first year."
+    },
+    {
+      "original_headline": "Judge rules companies are entitled to refunds for Trump tariffs overturned by the Supreme Court",
+      "original_synopsis": "In a defeat for the Trump administration, a federal judge in New York ruled Wednesday that companies that paid tariffs struck down last month by Supreme Court are due refunds. Judge Richard Eaton of the U.S. Court of International Trade…",
+      "published": "2026-03-04 23:14:36 UTC",
+      "url": "https://apnews.com/article/trump-tariff-refunds-09cd60a170d01d8d62739ab13086ff9e",
+      "matched_hexagram": {
+        "sequence": 43,
+        "binary": 31,
+        "icon": "䷪",
+        "name": "Decisive Declaration",
+        "description": "Decisive action that brings resolution through clear communication and determined expression of truth. Like a storm that clears the air, this hexagram represents the moment when tension breaks and clarity emerges."
+      },
+      "lines": [
+        {
+          "number": 1,
+          "name": "Initial Spark",
+          "description": "The first stirrings of change emerge, marking the tentative steps toward a breakthrough. This line represents the moment when internal doubt is set aside in favor of new, courageous beginnings.",
+          "moving": false
+        },
+        {
+          "number": 2,
+          "name": "Gathering Pressure",
+          "description": "Momentum builds as hidden strengths coalesce. Here, initial efforts and subtle influences gather into a driving force that prepares the way for more decisive action.",
+          "moving": false
+        },
+        {
+          "number": 3,
+          "name": "Catalyst of Change",
+          "description": "A critical juncture where external challenges provoke internal resolve. This line warns of rash actions but also encourages mobilization of inner fortitude to meet obstacles.",
+          "moving": false
+        },
+        {
+          "number": 4,
+          "name": "The Bold Step",
+          "description": "Decisive action crystallizes as clarity emerges amid uncertainty. This line signifies the act of stepping forward to confront difficulties with both insight and purpose.",
+          "moving": false
+        },
+        {
+          "number": 5,
+          "name": "Crowning Breakthrough",
+          "description": "The breakthrough reaches its zenith, illuminated by confidence and collective understanding. The signs align to enable a profound change, most visible in leadership and resolve.",
+          "moving": true
+        },
+        {
+          "number": 6,
+          "name": "Reflective Triumph",
+          "description": "At the apex of change, victory is tempered by introspection. Success is celebrated, but caution reminds one to maintain balance as new challenges invariably arise.",
+          "moving": true
+        }
+      ],
+      "moving_lines": [
+        5,
+        6
+      ],
+      "result_hexagram": {
+        "sequence": 14,
+        "binary": 47,
+        "icon": "䷍",
+        "name": "Great Possession",
+        "pairpath": "Unity-Division"
+      },
+      "predicted_article": "WASHINGTON — March 11, 2026. The Treasury Department announced Wednesday it will begin processing refunds to companies that overpaid tariffs struck down by the Supreme Court, marking the administration's first formal compliance with Judge Richard Eaton's ruling last week. Treasury Secretary Scott Bessent set a 90-day processing window and confirmed an estimated $4.2 billion in payments will be disbursed to roughly 3,400 domestic importers.\n\nThe announcement came after leading business groups, including the U.S. Chamber of Commerce and the National Retail Federation, publicly released internal analyses showing cascading price effects from the disputed tariffs, forcing the administration's hand. Senior White House officials, who had signaled possible appeal last week, confirmed Wednesday they would not challenge Eaton's refund order.\n\nThe ruling's clarity appears to have accelerated resolution. Customs and Border Protection published detailed guidance Wednesday afternoon outlining the claims process, giving affected companies 180 days to file documentation. Legal experts called the swift compliance unusual, describing it as a significant institutional acknowledgment that the court's authority over trade policy remains intact."
+    },
+    {
+      "original_headline": "HealthRecon Connect Achieves HITRUST r2 Certification Demonstrating the Highest Level of Information Protection Assurance",
+      "original_synopsis": "SOUTHLAKE, Texas, March 04, 2026 (GLOBE NEWSWIRE) -- HealthRecon Connect, a leading provider of technology-enabled Revenue Cycle Management solutions to U.S. healthcare organizations, today announced that its Revenue Cycle Management platform and associated s…",
+      "published": "2026-03-04 22:57:48 UTC",
+      "url": "https://apnews.com/press-release/globenewswire-mobile/healthrecon-connect-achieves-hitrust-r2-certification-demonstrating-the-highest-level-of-information-protection-assurance-156c7d3f396596d2953b1f1542f29dba",
+      "matched_hexagram": {
+        "sequence": 63,
+        "binary": 21,
+        "icon": "䷾",
+        "name": "Emergent Order",
+        "description": "A state of perfected balance, where all elements are aligned in harmony. Stability is maintained, yet this very completion signals the inevitability of future change and renewal."
+      },
+      "lines": [
+        {
+          "number": 1,
+          "name": "The Seed of Harmony",
+          "description": "The first line signifies the humble start of a sustainable order, where quiet potential is planted. It establishes the groundwork for growth through calm commitment and balanced initiative.",
+          "moving": false
+        },
+        {
+          "number": 2,
+          "name": "Steady Progress",
+          "description": "The second line embodies measured advancement, reinforcing the initial foundation with deliberate and cautious accumulation. It speaks to consistent, sustainable development without overextension.",
+          "moving": false
+        },
+        {
+          "number": 3,
+          "name": "Balanced Growth",
+          "description": "At this stage, the interplay between yield and strength is evident. The line represents natural growth that respects the rhythm of order, emphasizing moderation and mindful expansion.",
+          "moving": false
+        },
+        {
+          "number": 4,
+          "name": "Resonant Alignment",
+          "description": "This line denotes the alignment of personal energy with the universal order. There is a resonance that refines the energy, ensuring that every step maintains the integrity of sustainable progress.",
+          "moving": false
+        },
+        {
+          "number": 5,
+          "name": "Steadfast Radiance",
+          "description": "Representing a mature stage of sustainable order, this line radiates strength and reliability. It calls upon the leadership quality of remaining true to one's path while uplifting others.",
+          "moving": true
+        },
+        {
+          "number": 6,
+          "name": "Completing the Cycle",
+          "description": "The final line marks the culmination of a well-established order, where fulfillment paves the way for renewal. It is both an ending and a preparation for a transformative new beginning.",
+          "moving": true
+        }
+      ],
+      "moving_lines": [
+        5,
+        6
+      ],
+      "result_hexagram": {
+        "sequence": 22,
+        "binary": 37,
+        "icon": "䷕",
+        "name": "Grace",
+        "pairpath": "Constraint and Grace"
+      },
+      "predicted_article": "SOUTHLAKE, Texas — March 11, 2026.\n\nHealthRecon Connect secured its first major contract expansion since earning HITRUST r2 certification last week, signing a multi-year agreement with a 14-hospital regional health system in the Southeast to manage full-cycle revenue operations. The deal, valued at approximately $28 million, represents the company's largest single contract to date.\n\nexecutives said the certification proved decisive in closing negotiations that had stalled for months over data security concerns. The health system's chief information officer cited the HITRUST r2 designation as the determining factor, calling it \"the clearest independent validation we could ask for\" before committing patient financial data to an outside platform.\n\nThe announcement drew immediate attention from industry analysts, who noted that HealthRecon Connect's transparent handling of its security audit process — including voluntary disclosure of its full certification scope — distinguished it from competitors holding narrower compliance credentials. Two additional health systems have since entered formal procurement discussions with the company, according to a spokesperson."
+    },
+    {
+      "original_headline": "Supermajority of American Voters Support Health and Medical Freedom, New Poll Reveals",
+      "original_synopsis": "A New Zogby Poll Reveals a Nation in Revolt against Mandates “When Americans are asked straightforward questions about their own health freedoms and those of their families, they overwhelmingly choose liberty, transparency, and personal choice...”— Jeffrey A.",
+      "published": "2026-03-04 21:38:59 UTC",
+      "url": "https://apnews.com/press-release/ein-presswire-newsmatics/supermajority-of-american-voters-support-health-and-medical-freedom-new-poll-reveals-0670f8a364c2d8fcd27b084a8256de7f",
+      "matched_hexagram": {
+        "sequence": 43,
+        "binary": 31,
+        "icon": "䷪",
+        "name": "Decisive Declaration",
+        "description": "Decisive action that brings resolution through clear communication and determined expression of truth. Like a storm that clears the air, this hexagram represents the moment when tension breaks and clarity emerges."
+      },
+      "lines": [
+        {
+          "number": 1,
+          "name": "Initial Spark",
+          "description": "The first stirrings of change emerge, marking the tentative steps toward a breakthrough. This line represents the moment when internal doubt is set aside in favor of new, courageous beginnings.",
+          "moving": false
+        },
+        {
+          "number": 2,
+          "name": "Gathering Pressure",
+          "description": "Momentum builds as hidden strengths coalesce. Here, initial efforts and subtle influences gather into a driving force that prepares the way for more decisive action.",
+          "moving": true
+        },
+        {
+          "number": 3,
+          "name": "Catalyst of Change",
+          "description": "A critical juncture where external challenges provoke internal resolve. This line warns of rash actions but also encourages mobilization of inner fortitude to meet obstacles.",
+          "moving": false
+        },
+        {
+          "number": 4,
+          "name": "The Bold Step",
+          "description": "Decisive action crystallizes as clarity emerges amid uncertainty. This line signifies the act of stepping forward to confront difficulties with both insight and purpose.",
+          "moving": false
+        },
+        {
+          "number": 5,
+          "name": "Crowning Breakthrough",
+          "description": "The breakthrough reaches its zenith, illuminated by confidence and collective understanding. The signs align to enable a profound change, most visible in leadership and resolve.",
+          "moving": true
+        },
+        {
+          "number": 6,
+          "name": "Reflective Triumph",
+          "description": "At the apex of change, victory is tempered by introspection. Success is celebrated, but caution reminds one to maintain balance as new challenges invariably arise.",
+          "moving": false
+        }
+      ],
+      "moving_lines": [
+        2,
+        5
+      ],
+      "result_hexagram": {
+        "sequence": 55,
+        "binary": 13,
+        "icon": "䷶",
+        "name": "Abundance",
+        "pairpath": "Expansion-Contraction"
+      },
+      "predicted_article": "WASHINGTON — March 11, 2026. Congressional leaders announced Tuesday they will fast-track the Health Autonomy and Medical Freedom Act following an avalanche of constituent pressure triggered by last week's Zogby poll showing supermajority opposition to medical mandates. Senate Majority Leader John Thune confirmed the bill will reach the floor before April recess, calling public sentiment \"impossible to ignore.\"\n\nThe legislation, which would bar federal agencies from conditioning employment, travel, or benefits on medical procedures, gained 14 new co-sponsors in 72 hours — bringing total support to 61 Senate signatories. Three Democratic senators from competitive states crossed the aisle Tuesday morning, signaling the movement has broken partisan lines and reached critical legislative mass.\n\nAdvocacy groups reported record lobbying registrations this week, with over 200 organizations filing in Washington to support the bill. Opponents, including several major hospital networks and pharmaceutical trade associations, announced a counter-campaign, but analysts noted they face steep headwinds. \"The polling has handed this movement enormous momentum,\" said one nonpartisan Senate aide. \"Leadership knows this vote is coming whether they want it or not.\""
+    },
+    {
+      "original_headline": "Dynamic Family Therapy Expands Into Psychiatry as a Comprehensive Mental Health Provider in Aiea and Honolulu, HI",
+      "original_synopsis": "03/04/2026, Aiea, HI // PRODIGY: Feature Story // Dynamic Family Therapy LLC, founded and led by Jonathan Abe, LMFT, is expanding its services to include psychiatric care and psychiatric medication management, marking a new chapter in its growth as a mental h…",
+      "published": "2026-03-04 20:53:59 UTC",
+      "url": "https://apnews.com/press-release/prodigy-news/dynamic-family-therapy-expands-into-psychiatry-as-a-comprehensive-mental-health-provider-in-aiea-and-honolulu-hi-a9167dc607e87fe292bb8212eb6306ef",
+      "matched_hexagram": {
+        "sequence": 37,
+        "binary": 53,
+        "icon": "䷤",
+        "name": "Family Dynamics",
+        "description": "The harmonious ordering of relationships within structured systems. Like a well-functioning family unit, this represents the balanced interplay of roles and responsibilities."
+      },
+      "lines": [
+        {
+          "number": 1,
+          "name": "The Root of Connection",
+          "description": "This line signifies the beginning of familial bonds and the establishment of shared values. It emphasizes laying a solid foundation through trust and mutual support.",
+          "moving": false
+        },
+        {
+          "number": 2,
+          "name": "Steady Guidance",
+          "description": "Representing the elder's role in offering wisdom and reassurance, this line underscores consistent support and the transmission of traditions that sustain the family.",
+          "moving": false
+        },
+        {
+          "number": 3,
+          "name": "Harmonious Adaptability",
+          "description": "This line reflects the need to adjust to internal dynamics and challenges while maintaining family unity. It encourages adaptability and subtle balance among diverse roles.",
+          "moving": true
+        },
+        {
+          "number": 4,
+          "name": "Resilient Unity",
+          "description": "Emphasizing collective strength through shared hardships, this line highlights the importance of mutual support and the cultivation of resilience within the family network.",
+          "moving": false
+        },
+        {
+          "number": 5,
+          "name": "Illuminating Responsibility",
+          "description": "This line calls attention to the importance of individual accountability and self-awareness in contributing to the family's well-being. Personal development is essential for uplifting the collective.",
+          "moving": true
+        },
+        {
+          "number": 6,
+          "name": "Nurturing Culmination",
+          "description": "Denoting the apex of family dynamics, this line signifies the integration of shared experiences and the achievement of wisdom through collective journeying. It is the legacy built on years of care and dedication.",
+          "moving": false
+        }
+      ],
+      "moving_lines": [
+        3,
+        5
+      ],
+      "result_hexagram": {
+        "sequence": 27,
+        "binary": 33,
+        "icon": "䷚",
+        "name": "Nourishment",
+        "pairpath": "Balance Shift"
+      },
+      "predicted_article": "AIEA, Hawaii — March 11, 2026. Dynamic Family Therapy LLC announced Wednesday it has completed the full integration of psychiatric services at both its Aiea and Honolulu locations, with board-certified psychiatrist Dr. Malia Fonoti joining the practice effective immediately. The hire fulfills the clinic's expansion commitment made last week and enables same-facility coordination between therapists and prescribers for the first time.\n\nFounder Jonathan Abe, LMFT, said the integrated model is already reducing patient referral gaps, with 34 existing therapy clients transferred into psychiatric evaluation queues within the first 72 hours of operations. The clinic has simultaneously launched a sliding-scale fee program targeting underserved Native Hawaiian and Pacific Islander families across Oahu, addressing a documented shortage of culturally responsive psychiatric care on the island.\n\nThe practice has accepted a two-year community partnership agreement with Aiea's Leeward Community Health Coalition to provide mental health resources to low-income households. Abe said the goal is building a self-sustaining care ecosystem where therapy, medication management, and community outreach reinforce one another continuously. New patient intake opens Monday."
+    },
+    {
+      "original_headline": "Claims of 'rediscovered' Michelangelos unsettle Renaissance experts",
+      "original_synopsis": "An independent researcher has asserted that a marble bust of Christ in a Roman church is by Michelangelo. It's the latest purported attribution to the Renaissance genius who is one of the most imitated artists in the world. The unverified claim by Valentina S…",
+      "published": "2026-03-04 20:25:47 UTC",
+      "url": "https://apnews.com/article/italy-art-michelangelo-vatican-e13f23b042f1c20e81c2f8e4d5deed97",
+      "matched_hexagram": {
+        "sequence": 38,
+        "binary": 43,
+        "icon": "䷥",
+        "name": "Diverging Perspectives",
+        "description": "Represents opposition, contrast, and the creative tension that arises from differing viewpoints or approaches. Like light separating into a spectrum through a prism, divergence reveals hidden dimensions and possibilities."
+      },
+      "lines": [
+        {
+          "number": 1,
+          "name": "Emerging Fracture",
+          "description": "At the inception, the first line reveals a subtle division where differing perceptions begin to pull apart. It signifies the nascent stage of divergence, urging careful attention to foundational energies.",
+          "moving": true
+        },
+        {
+          "number": 2,
+          "name": "Reflective Divergence",
+          "description": "This line invites introspection amid contrasting views. It emphasizes the need to reflect deeply to understand the roots of the emerging split, paving the way for a balanced response.",
+          "moving": true
+        },
+        {
+          "number": 3,
+          "name": "Tension of Separation",
+          "description": "A palpable tension surfaces as conflicting perspectives start to challenge the status quo. The importance of recognizing both the conflict and its potential to foster growth is underscored.",
+          "moving": true
+        },
+        {
+          "number": 4,
+          "name": "Converging Contrasts",
+          "description": "At this stage, disparate threads of thought start finding interconnections. The merging of opposites brings about creative synthesis, bridging the gap between separation and unity.",
+          "moving": false
+        },
+        {
+          "number": 5,
+          "name": "Unified Insight",
+          "description": "The diverse viewpoints coalesce into a singular, insightful vision. This line represents a moment of clarity where understanding overcomes division and fosters enlightened guidance.",
+          "moving": false
+        },
+        {
+          "number": 6,
+          "name": "Transcendent Resolution",
+          "description": "In the final line, all divergent perspectives are reconciled, allowing for a transcendent synthesis that goes beyond the dualistic nature of opposites. It heralds a state of complete balance and peace.",
+          "moving": false
+        }
+      ],
+      "moving_lines": [
+        1,
+        2,
+        3
+      ],
+      "result_hexagram": {
+        "sequence": 56,
+        "binary": 44,
+        "icon": "䷷",
+        "name": "The Wanderer",
+        "pairpath": "Boundaries and Journeys"
+      },
+      "predicted_article": "ROME — March 11, 2026. Independent researcher Valentina Salvi announced Tuesday she is transporting the disputed marble bust of Christ to Florence for independent scientific analysis, marking the first time the work has left its Roman church home in recorded history. The Soprintendenza Speciale di Roma granted emergency authorization for the transfer after Salvi secured backing from the Opificio delle Pietre Dure, Italy's premier conservation institute.\n\nThe bust departed San Lorenzo in Lucina under armed escort early Tuesday morning, crated in climate-controlled conditions. Opificio director Marco Fabbri confirmed his team will conduct isotopic analysis of the marble's quarry origin and carbon-dating of residual organic material in the stone's surface cuts — tests that could definitively place or displace the work from Michelangelo's documented output.\n\nThe transfer has deepened divisions among scholars. Prominent Renaissance historian Cristina Acidini called the examination \"overdue and necessary,\" while critics accused Salvi of leveraging institutional credibility for an attribution most experts consider implausible. Results are expected within six weeks."
+    },
+    {
+      "original_headline": "Trump administration launches Medicaid fraud probe in New York",
+      "original_synopsis": "President Donald Trump's administration is expanding its crackdown on state Medicaid programs to New York, launching a fraud probe in the state. That comes a week after the Trump administration said it was freezing nearly $260 million in Medicaid funding in M…",
+      "published": "2026-03-04 19:33:34 UTC",
+      "url": "https://apnews.com/article/oz-medicaid-new-york-fraud-investigation-a00bd997ee5b8d839254144377c3b167",
+      "matched_hexagram": {
+        "sequence": 43,
+        "binary": 31,
+        "icon": "䷪",
+        "name": "Decisive Declaration",
+        "description": "Decisive action that brings resolution through clear communication and determined expression of truth. Like a storm that clears the air, this hexagram represents the moment when tension breaks and clarity emerges."
+      },
+      "lines": [
+        {
+          "number": 1,
+          "name": "Initial Spark",
+          "description": "The first stirrings of change emerge, marking the tentative steps toward a breakthrough. This line represents the moment when internal doubt is set aside in favor of new, courageous beginnings.",
+          "moving": false
+        },
+        {
+          "number": 2,
+          "name": "Gathering Pressure",
+          "description": "Momentum builds as hidden strengths coalesce. Here, initial efforts and subtle influences gather into a driving force that prepares the way for more decisive action.",
+          "moving": false
+        },
+        {
+          "number": 3,
+          "name": "Catalyst of Change",
+          "description": "A critical juncture where external challenges provoke internal resolve. This line warns of rash actions but also encourages mobilization of inner fortitude to meet obstacles.",
+          "moving": true
+        },
+        {
+          "number": 4,
+          "name": "The Bold Step",
+          "description": "Decisive action crystallizes as clarity emerges amid uncertainty. This line signifies the act of stepping forward to confront difficulties with both insight and purpose.",
+          "moving": true
+        },
+        {
+          "number": 5,
+          "name": "Crowning Breakthrough",
+          "description": "The breakthrough reaches its zenith, illuminated by confidence and collective understanding. The signs align to enable a profound change, most visible in leadership and resolve.",
+          "moving": true
+        },
+        {
+          "number": 6,
+          "name": "Reflective Triumph",
+          "description": "At the apex of change, victory is tempered by introspection. Success is celebrated, but caution reminds one to maintain balance as new challenges invariably arise.",
+          "moving": false
+        }
+      ],
+      "moving_lines": [
+        3,
+        4,
+        5
+      ],
+      "result_hexagram": {
+        "sequence": 19,
+        "binary": 3,
+        "icon": "䷒",
+        "name": "Approach",
+        "pairpath": "Advance-Retreat"
+      },
+      "predicted_article": "ALBANY, N.Y. — March 11, 2026. Federal investigators formally served subpoenas Wednesday on the New York State Department of Health, demanding five years of Medicaid billing records as the Trump administration's fraud probe moved from preliminary inquiry to active enforcement. The U.S. Department of Health and Human Services confirmed the action, marking the first time federal authorities have compelled document production directly from a state health agency in the current crackdown.\n\nNew York Gov. Kathy Hochul announced her administration would comply with the subpoenas while simultaneously filing suit in federal district court challenging the constitutional basis of the earlier $260 million funding freeze. State attorneys argued the withholding violated the Social Security Act's procedural requirements for Medicaid disputes.\n\nThe escalation drew immediate response from Congress, where Senate Democrats announced hearings scheduled for late March to examine whether the administration's multistate Medicaid enforcement campaign targets politically opposed governors. HHS Secretary Robert F. Kennedy Jr. dismissed those concerns, saying federal auditors had already identified \"significant irregularities\" in New York billing claims and that further funding actions were possible within days."
+    },
+    {
+      "original_headline": "IRS chief is questioned about taxpayer data disclosures to ICE",
+      "original_synopsis": "IRS chief Frank Bisignano has largely declined to answer questions from lawmakers about unlawful releases of taxpayer data to immigration agents. Bisignano took questions before the House Ways and Means Committee on Wednesday as the 2026 tax season is in full…",
+      "published": "2026-03-04 19:12:57 UTC",
+      "url": "https://apnews.com/article/treasury-irs-tax-season-hearing-6c7c06dc077b2e7f5b63fe6123186291",
+      "matched_hexagram": {
+        "sequence": 36,
+        "binary": 5,
+        "icon": "䷣",
+        "name": "Obscured Light",
+        "description": "Intelligence and clarity operating under constraints. Like the sun below the earth, this represents inner radiance maintaining its strength despite external darkness."
+      },
+      "lines": [
+        {
+          "number": 1,
+          "name": "Hidden Spark",
+          "description": "A subtle starting point where a faint light appears despite prevailing obscurity; the moment of potential that requires careful nurturing.",
+          "moving": false
+        },
+        {
+          "number": 2,
+          "name": "Glimmering Hope",
+          "description": "An early sign that beneath darkened outward appearances, hope and opportunity are beginning to emerge, waiting to be seized.",
+          "moving": false
+        },
+        {
+          "number": 3,
+          "name": "Veiled Impulse",
+          "description": "A moment when inner urges are obscured by doubt and uncertainty; caution is advised in acting without clear vision.",
+          "moving": true
+        },
+        {
+          "number": 4,
+          "name": "Subtle Radiance",
+          "description": "The inherent light begins to break through the haze, suggesting that wisdom and innate strength are emerging from humble origins.",
+          "moving": false
+        },
+        {
+          "number": 5,
+          "name": "Luminous Beacon",
+          "description": "A pivotal juncture where clarity and purpose shine forth, dispelling doubts and guiding the way forward with renewed energy.",
+          "moving": false
+        },
+        {
+          "number": 6,
+          "name": "Diminished Glow",
+          "description": "In the final stage, excess radiance can become overwhelming, risking the loss of subtlety and balance if not carefully managed.",
+          "moving": true
+        }
+      ],
+      "moving_lines": [
+        3,
+        6
+      ],
+      "result_hexagram": {
+        "sequence": 27,
+        "binary": 33,
+        "icon": "䷚",
+        "name": "Nourishment",
+        "pairpath": "Balance Shift"
+      },
+      "predicted_article": "WASHINGTON — March 11, 2026.\n\nThe IRS announced Tuesday a sweeping new data-protection framework governing all taxpayer information shared with federal law enforcement agencies, reversing course one week after Commissioner Frank Bisignano's tense congressional testimony over unauthorized disclosures to Immigration and Customs Enforcement.\n\nThe framework establishes a dedicated oversight board with independent auditing authority, mandatory judicial review before any taxpayer records can be transferred to immigration authorities, and a public disclosure log updated quarterly. Treasury Secretary Scott Bessent signed the implementing directive Tuesday morning, calling it \"a restoration of foundational trust between American taxpayers and their government.\"\n\nHouse Ways and Means Committee Chair Jason Smith called the announcement \"a significant first step\" but said his panel would demand the board's inaugural audit within 60 days. Democratic members went further, introducing legislation Tuesday afternoon to codify the protections into statute, arguing executive directives alone are reversible. The IRS said it would begin notifying affected taxpayers whose data had previously been shared with ICE, a process officials estimated could reach tens of thousands of individuals."
+    },
+    {
+      "original_headline": "How to talk about war and conflict with kids",
+      "original_synopsis": "Experts say adults can help children cope with the latest conflict in the Middle East by making space for conversation, validating their feelings and limiting exposure to frightening or inaccurate information. Even indirect exposure to war can spark fear and …",
+      "published": "2026-03-04 18:52:46 UTC",
+      "url": "https://apnews.com/article/war-trauma-emotional-wellbeing-children-9ad3f9d4df06ab225d4f10e9f50c8cfd",
+      "matched_hexagram": {
+        "sequence": 37,
+        "binary": 53,
+        "icon": "䷤",
+        "name": "Family Dynamics",
+        "description": "The harmonious ordering of relationships within structured systems. Like a well-functioning family unit, this represents the balanced interplay of roles and responsibilities."
+      },
+      "lines": [
+        {
+          "number": 1,
+          "name": "The Root of Connection",
+          "description": "This line signifies the beginning of familial bonds and the establishment of shared values. It emphasizes laying a solid foundation through trust and mutual support.",
+          "moving": false
+        },
+        {
+          "number": 2,
+          "name": "Steady Guidance",
+          "description": "Representing the elder's role in offering wisdom and reassurance, this line underscores consistent support and the transmission of traditions that sustain the family.",
+          "moving": true
+        },
+        {
+          "number": 3,
+          "name": "Harmonious Adaptability",
+          "description": "This line reflects the need to adjust to internal dynamics and challenges while maintaining family unity. It encourages adaptability and subtle balance among diverse roles.",
+          "moving": false
+        },
+        {
+          "number": 4,
+          "name": "Resilient Unity",
+          "description": "Emphasizing collective strength through shared hardships, this line highlights the importance of mutual support and the cultivation of resilience within the family network.",
+          "moving": true
+        },
+        {
+          "number": 5,
+          "name": "Illuminating Responsibility",
+          "description": "This line calls attention to the importance of individual accountability and self-awareness in contributing to the family's well-being. Personal development is essential for uplifting the collective.",
+          "moving": false
+        },
+        {
+          "number": 6,
+          "name": "Nurturing Culmination",
+          "description": "Denoting the apex of family dynamics, this line signifies the integration of shared experiences and the achievement of wisdom through collective journeying. It is the legacy built on years of care and dedication.",
+          "moving": false
+        }
+      ],
+      "moving_lines": [
+        2,
+        4
+      ],
+      "result_hexagram": {
+        "sequence": 1,
+        "binary": 63,
+        "icon": "䷀",
+        "name": "Creative Force",
+        "pairpath": "Primordial Duality"
+      },
+      "predicted_article": "WASHINGTON — March 11, 2026. A coalition of child psychologists and educators launched a nationwide initiative Wednesday to embed war-literacy counseling directly into K-12 curricula, marking the first federally coordinated effort to address children's conflict-related trauma through structured classroom dialogue. The program, developed over seven days of intensive collaboration following widespread concern about children's mental health amid ongoing Middle East violence, will reach an estimated 12 million students by fall.\n\nThe initiative introduces age-specific frameworks allowing teachers to guide students through current events without amplifying fear or misinformation. Participating districts will receive trained counselor support, vetted resource libraries, and parent engagement toolkits. Seventeen states have already signed on; federal education officials confirmed partial funding through existing mental health block grants.\n\nOrganizers called the launch a turning point. \"We stopped waiting for a perfect moment and built the infrastructure,\" said Dr. Anita Morales, the coalition's lead architect. School districts report early parent response has been overwhelmingly positive, with hundreds of community information sessions already scheduled for the coming month."
+    },
+    {
+      "original_headline": "Latest lawsuit targeting AI alleges Gemini chatbot guided a man to suicide",
+      "original_synopsis": "A new lawsuit says Google’s Gemini chatbot fueled a man’s delusions and nearly pushed him to commit a violent event near Miami's airport before he killed himself. The man’s father sued Google on Wednesday for wrongful death and product liability. The suit say…",
+      "published": "2026-03-04 18:44:26 UTC",
+      "url": "https://apnews.com/article/google-gemini-ai-chatbot-gavalas-lawsuit-aba0587b782d4424aa780a8612f3fe30",
+      "matched_hexagram": {
+        "sequence": 23,
+        "binary": 32,
+        "icon": "䷖",
+        "name": "Dissolution",
+        "description": "Dissolution or deterioration represents the natural process of decay and dissolution that precedes renewal. Like a mountain eroding or a house falling into disrepair, all structures eventually break down. This deterioration is not a catastrophe but a natural phase that clears the way for new growth."
+      },
+      "lines": [
+        {
+          "number": 1,
+          "name": "Stirrings of Renewal",
+          "description": "The initial phase where the old order begins to loosen, allowing a subtle energy of transformation to emerge from within. This line invites humble awareness that the seeds of change have been planted.",
+          "moving": false
+        },
+        {
+          "number": 2,
+          "name": "Ebbing of the Old",
+          "description": "A quiet but significant decline of outdated structures, making space for new possibilities. It represents a period of release where stubborn habits begin to recede.",
+          "moving": false
+        },
+        {
+          "number": 3,
+          "name": "Turbulent Crossroads",
+          "description": "A challenging moment marked by internal conflict and instability. Here, doubts and resistance may flare up as the process of dissolution confronts entrenched patterns.",
+          "moving": true
+        },
+        {
+          "number": 4,
+          "name": "Midpoint Liberation",
+          "description": "This line signifies the turning point where clarity breaks through the fog of disintegration. It is a liberating moment in which the forces of transformation gather strength.",
+          "moving": false
+        },
+        {
+          "number": 5,
+          "name": "Ascending Clarification",
+          "description": "A phase of purification where remnants of the past are shed. The energy ascends as one embraces the clarity and vibrancy of the evolving new order.",
+          "moving": false
+        },
+        {
+          "number": 6,
+          "name": "Completion of Dissolution",
+          "description": "The final stage where the old completely dissolves, making room for a rebirth of purpose and identity. This transformative end dissolves chaos into the promise of a new beginning.",
+          "moving": true
+        }
+      ],
+      "moving_lines": [
+        3,
+        6
+      ],
+      "result_hexagram": {
+        "sequence": 15,
+        "binary": 4,
+        "icon": "䷎",
+        "name": "Modesty",
+        "pairpath": "Balance Path"
+      },
+      "predicted_article": "MOUNTAIN VIEW, Calif. — March 11, 2026.\n\nGoogle announced Wednesday it will implement mandatory crisis intervention protocols across all Gemini products, settling a key regulatory dispute with the Federal Trade Commission one week after a wrongful death lawsuit alleged the chatbot contributed to a Florida man's suicide. The company will require Gemini to pause and redirect any conversation exhibiting signs of suicidal ideation or delusional thinking to licensed mental health resources before responding further.\n\nThe FTC confirmed it had reached a consent agreement with Google requiring third-party audits of Gemini's safety guardrails every six months for the next three years. The agency called the agreement \"a baseline, not a ceiling\" for AI emotional safety standards across the industry.\n\nThe father who filed the original suit said through his attorney that the announcement was a first step but fell short of accountability. Google did not admit wrongdoing. The settlement does not resolve the civil lawsuit, which proceeds in federal court. Rival AI developers OpenAI and Anthropic said they were reviewing their own crisis-response protocols in response to the FTC action."
+    },
+    {
+      "original_headline": "Major blackout hits Cuba's western region as oil crisis continues",
+      "original_synopsis": "A blackout has hit the western half of Cuba. Millions of people in Havana and beyond were without power on Wednesday in the latest outage to affect an island struggling with dwindling oil reserves and a crumbling electric grid. The government’s Electric Union…",
+      "published": "2026-03-04 18:37:46 UTC",
+      "url": "https://apnews.com/article/cuba-blackout-power-outage-havana-western-island-f7d1a4927bbcefb774ccf34dbbc9a794",
+      "matched_hexagram": {
+        "sequence": 47,
+        "binary": 26,
+        "icon": "䷮",
+        "name": "Depletion",
+        "description": "A time of diminishing resources and challenging circumstances that demands resilience and strategic conservation. Like a lake during drought or batteries running low, this represents the need to manage scarcity while maintaining essential functions."
+      },
+      "lines": [
+        {
+          "number": 1,
+          "name": "Hidden Fractures",
+          "description": "At the inception of depletion, subtle cracks signal inherent vulnerability. This line advises careful observation of the weakening structure and cautious steps forward.",
+          "moving": true
+        },
+        {
+          "number": 2,
+          "name": "Resisting Decay",
+          "description": "A struggle emerges between diminishing resources and the will to persevere. This line reflects the tension of trying to maintain what is precious amid inevitable loss.",
+          "moving": true
+        },
+        {
+          "number": 3,
+          "name": "Crossroads of Decline",
+          "description": "Positioned in the heart of depletion, this line represents a critical juncture where decision and insight become essential. The path chosen now determines the future stability.",
+          "moving": true
+        },
+        {
+          "number": 4,
+          "name": "The Waning Beacon",
+          "description": "Even as resources and energies diminish, a residual light offers wisdom. This line speaks to the deep understanding that comes from accepting limitations.",
+          "moving": false
+        },
+        {
+          "number": 5,
+          "name": "Crystalline Resolve",
+          "description": "Amid the decay, a clarifying moment crystallizes determination. This line embodies the emergence of clarity and firmness in purpose during trying times.",
+          "moving": false
+        },
+        {
+          "number": 6,
+          "name": "The Transcendent End",
+          "description": "The final line marks the culmination of depletion, where what remains is refined into a state ready for rebirth. It signifies that every ending holds the seed of a new beginning.",
+          "moving": false
+        }
+      ],
+      "moving_lines": [
+        1,
+        2,
+        3
+      ],
+      "result_hexagram": {
+        "sequence": 49,
+        "binary": 29,
+        "icon": "䷰",
+        "name": "Revolution",
+        "pairpath": "Transformation Cycle"
+      },
+      "predicted_article": "HAVANA — March 11, 2026. Cuba's government announced a sweeping overhaul of its national energy system Tuesday, abandoning the centralized Soviet-era grid model that has powered the island for six decades in favor of a decentralized network of regional micro-grids. The Electric Union will be dissolved and replaced by five autonomous regional energy authorities, officials said, marking the most fundamental restructuring of Cuban infrastructure since the revolution.\n\nThe announcement followed emergency negotiations with a European renewable energy consortium and Mexico's state energy agency, which committed $340 million in equipment and technical assistance. Solar installations will anchor the new regional systems, with the first micro-grid serving Havana's eastern districts expected operational within eight months.\n\nPresident Miguel Díaz-Canel, acknowledging the grid's structural collapse was irreversible, framed the transformation as a \"sovereign reinvention\" rather than a retreat. Critics called the timeline unrealistic, and rolling blackouts continued Tuesday across western provinces. But energy analysts said the formal abandonment of the centralized model represented a genuine rupture — one that would define Cuban society long after the current crisis fades."
+    },
+    {
+      "original_headline": "Arkansas man accused of killing daughter's alleged abuser wins sheriff nomination...",
+      "original_synopsis": "An Arkansas man awaiting trial for murder has won the Republican nomination in a sheriff’s race in central Arkansas. According to unofficial results posted by the Arkansas secretary of state, Aaron Spencer defeated Lonoke County Sheriff John Staley in Tuesday…",
+      "published": "2026-03-04 18:00:13 UTC",
+      "url": "https://apnews.com/article/arkansas-sheriff-election-aaron-spencer-murder-d300d72d379e82e96aeb651f587a35a7",
+      "matched_hexagram": {
+        "sequence": 2,
+        "binary": 0,
+        "icon": "䷁",
+        "name": "Receptivity",
+        "description": "The power of open acceptance and responsive capacity. Like fertile earth receiving seeds, this represents the creative potential of yielding awareness."
+      },
+      "lines": [
+        {
+          "number": 1,
+          "name": "Quiet Genesis",
+          "description": "The first line represents the humble beginning of receptivity, where stillness paves the way for unseen potential. It invites introspection and calm, creating space for growth.",
+          "moving": false
+        },
+        {
+          "number": 2,
+          "name": "Embracing Foundation",
+          "description": "This line embodies nurturing energy and steadfast support. It acts as a stabilizing force, providing the fertile ground in which seeds of potential may develop.",
+          "moving": false
+        },
+        {
+          "number": 3,
+          "name": "Hesitant Bloom",
+          "description": "Here, the energy of receptivity meets the challenge of self-doubt. Moments of uncertainty hint that potential is present but requires trust and courage to fully awaken.",
+          "moving": false
+        },
+        {
+          "number": 4,
+          "name": "Delicate Surrender",
+          "description": "This line reflects the art of yielding with dignity under pressure. The receptive spirit adapts by releasing rigidity, allowing wisdom to emerge through flexibility.",
+          "moving": false
+        },
+        {
+          "number": 5,
+          "name": "Harmonious Maturity",
+          "description": "The fifth line is the pinnacle of balanced receptivity, where mature understanding blends with an intuitive readiness to act. It signifies a harmonious integration of inner wisdom with the demands of the outer world.",
+          "moving": true
+        },
+        {
+          "number": 6,
+          "name": "Supreme Receptivity",
+          "description": "Representing the ultimate state of yielding and depth, the sixth line is the culmination of an ongoing process. It epitomizes complete openness and the power that arises from maximum receptivity.",
+          "moving": true
+        }
+      ],
+      "moving_lines": [
+        5,
+        6
+      ],
+      "result_hexagram": {
+        "sequence": 20,
+        "binary": 48,
+        "icon": "䷓",
+        "name": "Contemplation",
+        "pairpath": "Power and Vision"
+      },
+      "predicted_article": "LONOKE, Ark. — March 11, 2026. Arkansas election officials certified Aaron Spencer's Republican primary victory in the Lonoke County sheriff's race Tuesday, confirming the murder defendant's nomination despite a formal challenge filed by incumbent Sheriff John Staley last week questioning whether state law bars an accused felon from holding law enforcement office.\n\nArkansas Attorney General Tim Griffin released a formal legal opinion finding that no state statute explicitly prohibits a candidate under indictment from appearing on a general election ballot, though conviction before taking office would trigger automatic disqualification. The opinion, requested by county election authorities scrambling for guidance, effectively clears Spencer's path to November while leaving unresolved what happens if he wins and his trial remains pending.\n\nSpencer's attorney announced the murder trial, scheduled for late spring, will proceed as planned. Legal scholars monitoring the case say the attorney general's findings exposed a significant gap in Arkansas election code. State legislators from both parties quietly signaled they would introduce clarifying legislation in the next session — a direct consequence of what one lawmaker called a situation nobody anticipated."
+    },
+    {
+      "original_headline": "US sinks Iranian warship as Iran warns of widespread destruction in the Middle East",
+      "original_synopsis": "A U.S. submarine has sunk an Iranian warship in the Indian Ocean. That comes as Washington and Israel intensify their bombardment Wednesday of Iran’s security forces and other symbols of power. As the war expands yet again, Tehran has warned…",
+      "published": "2026-03-04 17:34:59 UTC",
+      "url": "https://apnews.com/article/iran-israel-us-march-04-2026-e1c316da4ce809407122590a6872aa85",
+      "matched_hexagram": {
+        "sequence": 6,
+        "binary": 58,
+        "icon": "䷅",
+        "name": "Conflict",
+        "description": "The tension between opposing forces seeking resolution. Like storm clouds gathering before rain, this represents necessary conflict that leads to clarity."
+      },
+      "lines": [
+        {
+          "number": 1,
+          "name": "Emerging Disagreement",
+          "description": "The nascent moment when subtle tension first appears. A quiet warning that small misunderstandings can ignite larger conflicts if left unexamined.",
+          "moving": false
+        },
+        {
+          "number": 2,
+          "name": "Hidden Resentment",
+          "description": "An undercurrent of undisclosed grievances begins to surface. This line warns of internal emotions that, if suppressed, might disrupt harmonious interactions.",
+          "moving": false
+        },
+        {
+          "number": 3,
+          "name": "The Clashing Edge",
+          "description": "Confrontation becomes overt as personal boundaries are tested. This line embodies the thrust into active dispute where emotions and actions collide.",
+          "moving": true
+        },
+        {
+          "number": 4,
+          "name": "Balance of Confrontation",
+          "description": "A critical juncture where strength and vulnerability meet. The tension calls for equilibrium, demanding an integration of resolve with mindful caution.",
+          "moving": true
+        },
+        {
+          "number": 5,
+          "name": "Resolute Engagement",
+          "description": "A decisive moment where the energy of conflict can be harnessed for transformation. Clarity and integrity guide actions towards a constructive resolution.",
+          "moving": true
+        },
+        {
+          "number": 6,
+          "name": "Harmonious Aftermath",
+          "description": "The culmination of the conflict that invites reflection. The resolution is found in understanding lessons learned, integrating past tensions into future wisdom.",
+          "moving": false
+        }
+      ],
+      "moving_lines": [
+        3,
+        4,
+        5
+      ],
+      "result_hexagram": {
+        "sequence": 18,
+        "binary": 38,
+        "icon": "䷑",
+        "name": "Decay and Repair",
+        "pairpath": "Adaptation Cycle"
+      },
+      "predicted_article": "GENEVA — March 11, 2026.\n\nCease-fire negotiations between the United States, Iran, and regional mediators produced a preliminary framework agreement Wednesday, halting active hostilities after seven days of escalating naval and aerial combat. Qatar and Oman brokered the accord after Tehran quietly signaled through diplomatic back-channels that it sought an off-ramp. The agreement suspends all offensive operations pending formal talks scheduled to begin Friday in Muscat.\n\nThe framework includes a mutual withdrawal of naval assets from the northern Indian Ocean and a 72-hour halt to Israeli airstrikes targeting Iranian military infrastructure. In exchange, Iran agreed to suspend its ballistic missile alert posture and recalled three surface vessels operating near the Strait of Hormuz. Senior U.S. officials confirmed the terms aboard a Navy command ship Wednesday morning.\n\nThe deal does not address Iran's nuclear program or its regional proxy networks — issues diplomats say will dominate the Muscat talks. Congressional leaders in Washington demanded oversight hearings. Iranian state television described the pause as a \"dignified step toward sovereignty restoration.\" Markets surged on news that Hormuz shipping lanes would remain open."
+    },
+    {
+      "original_headline": "Top FDA official seeks to hire friend pushing new antidepressants warning",
+      "original_synopsis": "The Food and Drug Administration is reviewing a request for new warnings on antidepressant drugs, and that's presenting an unusual conflict of interest at the agency. The researcher asking for the warning is a close friend of the FDA’s top drug official. The …",
+      "published": "2026-03-04 17:33:16 UTC",
+      "url": "https://apnews.com/article/hoeg-urato-fda-drugs-antidepressants-pregnancy-warnings-a2a48cd2285f5b33aef2d390b5b60d0c",
+      "matched_hexagram": {
+        "sequence": 38,
+        "binary": 43,
+        "icon": "䷥",
+        "name": "Diverging Perspectives",
+        "description": "Represents opposition, contrast, and the creative tension that arises from differing viewpoints or approaches. Like light separating into a spectrum through a prism, divergence reveals hidden dimensions and possibilities."
+      },
+      "lines": [
+        {
+          "number": 1,
+          "name": "Emerging Fracture",
+          "description": "At the inception, the first line reveals a subtle division where differing perceptions begin to pull apart. It signifies the nascent stage of divergence, urging careful attention to foundational energies.",
+          "moving": true
+        },
+        {
+          "number": 2,
+          "name": "Reflective Divergence",
+          "description": "This line invites introspection amid contrasting views. It emphasizes the need to reflect deeply to understand the roots of the emerging split, paving the way for a balanced response.",
+          "moving": true
+        },
+        {
+          "number": 3,
+          "name": "Tension of Separation",
+          "description": "A palpable tension surfaces as conflicting perspectives start to challenge the status quo. The importance of recognizing both the conflict and its potential to foster growth is underscored.",
+          "moving": true
+        },
+        {
+          "number": 4,
+          "name": "Converging Contrasts",
+          "description": "At this stage, disparate threads of thought start finding interconnections. The merging of opposites brings about creative synthesis, bridging the gap between separation and unity.",
+          "moving": false
+        },
+        {
+          "number": 5,
+          "name": "Unified Insight",
+          "description": "The diverse viewpoints coalesce into a singular, insightful vision. This line represents a moment of clarity where understanding overcomes division and fosters enlightened guidance.",
+          "moving": false
+        },
+        {
+          "number": 6,
+          "name": "Transcendent Resolution",
+          "description": "In the final line, all divergent perspectives are reconciled, allowing for a transcendent synthesis that goes beyond the dualistic nature of opposites. It heralds a state of complete balance and peace.",
+          "moving": false
+        }
+      ],
+      "moving_lines": [
+        1,
+        2,
+        3
+      ],
+      "result_hexagram": {
+        "sequence": 56,
+        "binary": 44,
+        "icon": "䷷",
+        "name": "The Wanderer",
+        "pairpath": "Boundaries and Journeys"
+      },
+      "predicted_article": "WASHINGTON — March 11, 2026. The FDA's top drug official, Robert Califf, recused himself Tuesday from all decisions related to proposed antidepressant warning labels, the agency confirmed, transferring authority over the review to a deputy administrator with no disclosed ties to the researcher who filed the petition.\n\nThe recusal marks a significant procedural shift. FDA spokeswoman Linda Travers said the agency's ethics office determined that Califf's friendship with petitioner Dr. Marguerite Holloway created \"an appearance of partiality sufficient to warrant reassignment.\" Holloway's petition, seeking expanded black-box warnings on widely prescribed SSRIs, remains under active review with no timeline announced.\n\nConsumer advocacy groups called the recusal a minimal but necessary step, while pharmaceutical industry representatives expressed cautious satisfaction. Several Democratic senators who had demanded an independent investigation said they would monitor whether the reassignment was substantive or cosmetic. The antidepressant warning review, which affects drugs taken by an estimated 45 million Americans, is now expected to move through standard FDA channels with career officials leading the evaluation."
+    },
+    {
+      "original_headline": "Sprawling investigation finds decades of sexual abuse among Catholic priests in Rhode Island",
+      "original_synopsis": "A new report says Rhode Island Catholic clergy abused hundreds of children for decades, while church leaders worked to downplay and minimize the scandal. On Wednesday, Attorney General Peter Neronha released the report after a multiyear review. The report say…",
+      "published": "2026-03-04 16:04:00 UTC",
+      "url": "https://apnews.com/article/rhode-island-priest-abuse-f40c99b76870a2516999bf2d676aa144",
+      "matched_hexagram": {
+        "sequence": 18,
+        "binary": 38,
+        "icon": "䷑",
+        "name": "Restoration",
+        "description": "The process of renewing what has been corrupted or degraded. Like wind gradually wearing away mountain stones to reveal fresh surfaces, this represents the careful work of addressing root causes to restore original integrity."
+      },
+      "lines": [
+        {
+          "number": 1,
+          "name": "Emerging Seed",
+          "description": "The first indication of restoration surfaces as a subtle sign of potential growth, marking the start of transformation.",
+          "moving": false
+        },
+        {
+          "number": 2,
+          "name": "Quiet Gathering",
+          "description": "Support and energy accumulate quietly; this line represents the gathering of resources and intent necessary for change.",
+          "moving": false
+        },
+        {
+          "number": 3,
+          "name": "Unfolding Initiative",
+          "description": "A pivotal moment where cautious steps evolve into decisive action, symbolizing the emergence of clarity and direction.",
+          "moving": true
+        },
+        {
+          "number": 4,
+          "name": "Stable Expansion",
+          "description": "Balance and steadiness underpin the process of restoration, allowing the force of change to spread securely.",
+          "moving": false
+        },
+        {
+          "number": 5,
+          "name": "Culminating Harmony",
+          "description": "In this line the energies converge in a state of equilibrium, where renewed forces align harmoniously with wisdom.",
+          "moving": true
+        },
+        {
+          "number": 6,
+          "name": "Transcendent Completion",
+          "description": "The process of restoration reaches its zenith as all dualities merge, signifying a final state of renewal and integration.",
+          "moving": false
+        }
+      ],
+      "moving_lines": [
+        3,
+        5
+      ],
+      "result_hexagram": {
+        "sequence": 59,
+        "binary": 50,
+        "icon": "䷺",
+        "name": "Dispersion",
+        "pairpath": "Expansion-Contraction"
+      },
+      "predicted_article": "PROVIDENCE — March 11, 2026. Rhode Island's Catholic dioceses announced Wednesday they will dissolve long-standing institutional barriers to survivor access, releasing the names of all clergy credibly accused of abuse and opening sealed church archives to state investigators for the first time in diocesan history. Bishop Richard Henning called the move \"an irreversible opening\" during a press conference at the Cathedral of Saints Peter and Paul.\n\nThe announcement came one week after Attorney General Peter Neronha's sweeping report documented decades of abuse against hundreds of children and systematic concealment by church leadership. Neronha confirmed his office had negotiated the archive access directly with diocesan attorneys, describing the agreement as broader than anything achieved in comparable state investigations nationwide.\n\nSurvivor advocacy groups, which had demanded unrestricted access since the report's release, cautiously welcomed the decision while pressing for additional accountability. \"The walls are coming down,\" said David Clohessy of SNAP, the Survivors Network of those Abused by Priests. \"Now we need to ensure this opening leads somewhere permanent.\" Neronha said criminal referrals remain under active consideration."
+    },
+    {
+      "original_headline": "Study says millions more are exposed to rising seas than thought",
+      "original_synopsis": "A new study in the journal Nature says most sea level rise research may have underestimated coastal water heights by an average of 1 foot or about 30 centimeters. The discrepancy stems from widespread reliance on gravitational models that account for Earth’s …",
+      "published": "2026-03-04 16:01:05 UTC",
+      "url": "https://apnews.com/article/sea-level-rise-climate-change-flooding-warming-59bb59d2fe839224a10bd28d604b5d95",
+      "matched_hexagram": {
+        "sequence": 28,
+        "binary": 30,
+        "icon": "䷛",
+        "name": "Critical Mass",
+        "description": "The point where pressure creates transformation. Like a dam about to overflow, this hexagram represents the moment when accumulated tension leads to breakthrough and necessary change. It describes the dynamics of systems approaching their limits and the wisdom needed to navigate such transitions."
+      },
+      "lines": [
+        {
+          "number": 1,
+          "name": "Spark of Potential",
+          "description": "The first line embodies the initial stir of dynamic energy. It marks the dormant potential that, when roused, can ignite transformative change. This phase requires a cautious yet committed step into emerging matters.",
+          "moving": false
+        },
+        {
+          "number": 2,
+          "name": "Building Momentum",
+          "description": "The second line represents the gathering of influences and the formation of structure. It signals the need to consolidate inner strengths and harness emerging opportunities with care and purpose.",
+          "moving": false
+        },
+        {
+          "number": 3,
+          "name": "Critical Convergence",
+          "description": "At the midpoint, elements reach a decisive juncture. The energy becomes intense and concentrated, urging the individual to balance spontaneity with resolve. This line warns against overextension yet embraces the transformative moment.",
+          "moving": true
+        },
+        {
+          "number": 4,
+          "name": "Tension and Insight",
+          "description": "The fourth line brings a period of internal tension and confrontation. Here, obstacles are faced, and insight emerges from challenges. It highlights the need for reflection during moments of strife, ensuring that actions are well considered.",
+          "moving": false
+        },
+        {
+          "number": 5,
+          "name": "Decisive Breakthrough",
+          "description": "The fifth line signals a pivotal turning point. The accumulated energy is at its zenith, urging a breakthrough or decisive action that redefines the current state. It is a moment of both creative destruction and renewal.",
+          "moving": true
+        },
+        {
+          "number": 6,
+          "name": "Fulfilled Transformation",
+          "description": "In the final line, the outcome of critical mass is realized. Excess energy is balanced, leading to a state of fulfilled potential and established harmony. It reflects both conclusion and the promise of new beginnings.",
+          "moving": false
+        }
+      ],
+      "moving_lines": [
+        3,
+        5
+      ],
+      "result_hexagram": {
+        "sequence": 40,
+        "binary": 10,
+        "icon": "䷧",
+        "name": "Liberation",
+        "pairpath": "Liberation-Unity"
+      },
+      "predicted_article": "WASHINGTON — March 11, 2026.\n\nThe federal government moved swiftly Tuesday to overhaul its coastal flood mapping system after a coalition of 14 states filed emergency petitions demanding immediate revision of FEMA flood zone designations. The action follows last week's Nature study showing sea level rise has been systematically underestimated by roughly one foot along U.S. coastlines.\n\nFEMA Administrator David Richardson announced the agency will suspend enforcement of current flood insurance rate maps for disputed coastal zones while updated elevation data is incorporated. The reprieve releases an estimated 4.2 million property owners from pending rate increases that had been set to take effect April 1, pending recalculation using corrected tidal benchmarks.\n\nThe announcement broke a months-long deadlock between insurers, municipalities, and federal regulators over coastal risk pricing. Six major insurers that had paused new coastal policies in three Gulf states said they would resume underwriting once revised maps are certified. Scientists involved in the original study called the federal response unusually fast, crediting the coalition filing with forcing a resolution that had stalled inside agency review for years."
+    },
+    {
+      "original_headline": "UK’s 'special relationship' with US turns sour as Starmer angers Trump over Iran support",
+      "original_synopsis": "U.K. Prime Minister Keir Starmer is facing criticism over what some say is his undermining of the trans-Atlantic “special relationship.\" Starmer has drawn the ire of U.S. President Donald Trump over the conflict with Iran. Trump called Britain “uncooperative”…",
+      "published": "2026-03-04 15:36:39 UTC",
+      "url": "https://apnews.com/article/trump-starmer-us-uk-special-relationship-iran-2b5be4d200f7c0b081f9f5a59f260efc",
+      "matched_hexagram": {
+        "sequence": 38,
+        "binary": 43,
+        "icon": "䷥",
+        "name": "Diverging Perspectives",
+        "description": "Represents opposition, contrast, and the creative tension that arises from differing viewpoints or approaches. Like light separating into a spectrum through a prism, divergence reveals hidden dimensions and possibilities."
+      },
+      "lines": [
+        {
+          "number": 1,
+          "name": "Emerging Fracture",
+          "description": "At the inception, the first line reveals a subtle division where differing perceptions begin to pull apart. It signifies the nascent stage of divergence, urging careful attention to foundational energies.",
+          "moving": true
+        },
+        {
+          "number": 2,
+          "name": "Reflective Divergence",
+          "description": "This line invites introspection amid contrasting views. It emphasizes the need to reflect deeply to understand the roots of the emerging split, paving the way for a balanced response.",
+          "moving": false
+        },
+        {
+          "number": 3,
+          "name": "Tension of Separation",
+          "description": "A palpable tension surfaces as conflicting perspectives start to challenge the status quo. The importance of recognizing both the conflict and its potential to foster growth is underscored.",
+          "moving": true
+        },
+        {
+          "number": 4,
+          "name": "Converging Contrasts",
+          "description": "At this stage, disparate threads of thought start finding interconnections. The merging of opposites brings about creative synthesis, bridging the gap between separation and unity.",
+          "moving": false
+        },
+        {
+          "number": 5,
+          "name": "Unified Insight",
+          "description": "The diverse viewpoints coalesce into a singular, insightful vision. This line represents a moment of clarity where understanding overcomes division and fosters enlightened guidance.",
+          "moving": false
+        },
+        {
+          "number": 6,
+          "name": "Transcendent Resolution",
+          "description": "In the final line, all divergent perspectives are reconciled, allowing for a transcendent synthesis that goes beyond the dualistic nature of opposites. It heralds a state of complete balance and peace.",
+          "moving": false
+        }
+      ],
+      "moving_lines": [
+        1,
+        3
+      ],
+      "result_hexagram": {
+        "sequence": 50,
+        "binary": 46,
+        "icon": "䷱",
+        "name": "The Cauldron",
+        "pairpath": "Transformation Cycle"
+      },
+      "predicted_article": "LONDON — March 11, 2026.\n\nPrime Minister Keir Starmer announced a sweeping reset of British foreign policy Tuesday, declaring the U.K. would align with Washington's hardline posture toward Tehran following an emergency session of his cabinet. The reversal ends a week of escalating diplomatic friction and restores formal coordination with the Trump administration on Iran sanctions enforcement.\n\nThe shift came after U.S. Secretary of State Marco Rubio flew to London for unscheduled talks Monday, delivering what officials described as a stark ultimatum: choose alignment or accept reduced intelligence-sharing under the Five Eyes framework. Starmer emerged from the six-hour session and told Parliament the relationship had entered \"a new chapter built on honest foundations.\"\n\nIran's foreign ministry condemned the British move as capitulation. But senior Downing Street aides insist the recalibration unlocks a broader transatlantic trade framework stalled since January. Critics on Labour's left flank revolted immediately, with fourteen MPs threatening to withdraw support. Starmer's allies say the political cost is manageable; the strategic cost of continued isolation was not."
+    }
+  ]
+}

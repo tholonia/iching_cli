@@ -269,12 +269,12 @@
         "explanation": "The lower trigram, 'The Joyous,' symbolizes the emergence of joy and harmony, while the upper trigram, 'The Receptive,' embodies nurturing and supportive qualities. Together, they illustrate how joy and harmony can thrive when supported by a receptive and caring environment, creating a balanced and harmonious state."
     },
     "line_type": [
-        "yin",
-        "yin",
-        "yin",
-        "yin",
         "yang",
-        "yang"
+        "yang",
+        "yin",
+        "yin",
+        "yin",
+        "yin"
     ],
     "pairpath": {
         "title": "Advance-Retreat",

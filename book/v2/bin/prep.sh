@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bash -x
 
 # =============================================================================
 # prep.sh - I Ching Book Preparation Script
@@ -10,11 +10,12 @@
 #   process. It ensures a clean build environment and consistent styling.
 #
 # Usage:
-#   ./prep.sh [version_suffix] [--test]
-#   Example: ./prep.sh v2         # Will use files with "_v2" suffix
-#   Example: ./prep.sh v2 --test  # Will use test set of hexagrams
+#   ./prep.sh [--hardcover|--paperback] [version_suffix] [--test]
+#   Example: ./prep.sh --hardcover v2         # Hardcover with "_v2" suffix
+#   Example: ./prep.sh --paperback v2 --test  # Paperback with test hexagrams
 #
 # Arguments:
+#   --hardcover|--paperback: Book type (determines copyright file)
 #   version_suffix: Optional suffix for versioned files
 #   --test: Optional flag to use test set of hexagrams
 #
@@ -86,10 +87,12 @@
 # Ensure all input files and dependencies are present and correctly configured before running the script.
 
 D="/home/jw/src/iching_cli/book/v2/bin" 
+export DISPLAY=:1
 
 # Get version suffix if provided
 VERSION_SUFFIX=""
 TEST_FLAG=""
+BOOK_TYPE=""
 
 
 # Parse arguments
@@ -99,6 +102,14 @@ while [[ $# -gt 0 ]]; do
             TEST_FLAG="--test"
             shift
             ;;
+        --hardcover|--HARDCOVER|hardcover|HARDCOVER)
+            BOOK_TYPE="HARDCOVER"
+            shift
+            ;;
+        --paperback|--PAPERBACK|paperback|PAPERBACK)
+            BOOK_TYPE="PAPERBACK"
+            shift
+            ;;
         *)
             VERSION_SUFFIX="$1"
             shift
@@ -106,7 +117,22 @@ while [[ $# -gt 0 ]]; do
     esac
 done
 
-export DISPLAY=:0
+# Check if book type was specified
+if [ -z "$BOOK_TYPE" ]; then
+    echo "Error: Book type must be specified (--hardcover or --paperback)"
+    echo "Usage: ./prep.sh [--hardcover|--paperback] [version_suffix] [--test]"
+    exit 1
+fi
+
+# Copy the appropriate copyright file
+echo "Setting up copyright for $BOOK_TYPE edition..."
+cp ${D}/../includes/COPYRIGHT_${BOOK_TYPE}.pdf ${D}/../includes/COPYRIGHT.pdf
+if [ $? -eq 0 ]; then
+    echo "✓ Copied COPYRIGHT_${BOOK_TYPE}.pdf to COPYRIGHT.pdf"
+else
+    echo "✗ Failed to copy copyright file"
+    exit 1
+fi
 
 rm -f ${D}/../includes/iching.html
 rm -f ${D}/../includes/iching.md
@@ -128,6 +154,6 @@ cp ${D}/../includes/iching_nopage.css /home/jw/.config/Typora/themes/iching_nopa
 echo "./make_all_docs.py --content pages ${TEST_FLAG}"
 ./make_all_docs.py --content pages ${TEST_FLAG}
 
-typora ${D}/../includes/iching.md
+DISPLAY=$DISPLAY XAUTHORITY=$XAUTHORITY typora ${D}/../includes/iching.md
 
 # after export./ makebook_postonly.sh in called from Typora

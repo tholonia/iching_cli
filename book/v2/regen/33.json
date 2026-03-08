@@ -267,12 +267,12 @@
         "explanation": "The lower trigram 'The Still' symbolizes a foundation of calm and persistence, while the upper trigram 'The Creative' signifies dynamic and innovative energy. Together, they suggest that maintaining a steady and enduring base allows for the emergence of strong and creative expression, where tranquility supports and fosters innovation."
     },
     "line_type": [
-        "yang",
-        "yang",
-        "yang",
-        "yang",
         "yin",
-        "yin"
+        "yin",
+        "yang",
+        "yang",
+        "yang",
+        "yang"
     ],
     "pairpath": {
         "title": "Advance-Retreat",

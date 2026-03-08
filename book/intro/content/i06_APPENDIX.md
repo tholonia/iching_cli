@@ -1,17 +1,12 @@
 
 # VI: Appendices
 
-## Practical Implementations and Numerical Insights of the Tholonic I Ching
+## A: Computational Implementations
+
+### π, φ, e, √2, ln(2) Generation from Tholonic Principles
 
 
-
-
-
-
-## π, φ, e, √2, ln(2) Generation from Tholonic Principles
-
-
-<img src="/home/jw/src/iching_cli/book/intro/Images/times7.png" style='float:right;width:30%'/>Here is the Python3 code to run the Pi generator, which demonstrates the mathematical relationship between tholonic principles and fundamental constants. Also included are the core functions to calculate other constants, which show different patterns and relationships in teh tholon. The image on the right is the triad that is used as input values for calculating &pi;.
+<img src="/home/jw/src/iching_cli/book/intro/Images/times7.png" style='float:right;width:30%'/>This section provides practical Python implementations for calculating fundamental mathematical constants (π, φ, e, √2, ln(2)) using Tholonic principles. The code demonstrates the mathematical relationship between tholonic principles and these fundamental constants. Each constant emerges from specific initial conditions mapped to the *Negotiation*, *Definition*, and *Contribution* framework. The image on the right shows the triad that is used as input values for calculating π.
 
 ```
 #!/bin/env python3
@@ -19,7 +14,8 @@
 
 def compute_tholonic_constant(constant_type="pi", max_iter=1000000):
     """
-    Calculate various mathematical constants using tholonic algorithm variations
+    Calculate various mathematical constants 
+    using tholonic algorithm variations
 
     Constants:
     - "pi": π (3.14159...)
@@ -86,7 +82,7 @@ def compute_tholonic_constant(constant_type="pi", max_iter=1000000):
 
         elif constant_type == "ln2":
             N_next = (
-                N_k + (1 / (count + 1)) if count % 2 == 0 else N_k - (1 / (count + 1))
+                N_k+(1/(count+1)) if count%2==0 else N_k-(1/(count+1))
             )
 
         N_k = N_next
@@ -118,10 +114,15 @@ compute_tholonic_constant("ln2")
 
 This program demonstrates how π can be derived through the tholonic relationships discovered in our analysis of the I Ching. The initial values are taken from the tholonic interpretation of trigrams, particularly the relationships between *Negotiation*, *Definition*, and *Contribution* as mapped to the primary trigram values.
 
-## The 8×8 Grid
+## B: The 8×8 Grid Analysis
 
+### Overview and Motivation
 
-Before we go down this seemingly obscure rabbit hole, the reader might be interested in why we are even bothering with this. 
+The 8×8 grid represents a deep numerical structure that emerges from the Tholonic model's interaction with the I Ching. This section explores why this particular grid structure is significant and how it reveals fundamental patterns in both systems.
+
+### Foundational Context
+
+Before we explore this seemingly obscure topic, it's important to understand why the 8×8 grid is significant. 
 
 As was mentioned earlier, 2×3=6 is the simplest instance of the most fundamental pattern of interaction. And we saw examples of this at the beginning of this introduction in the form of *F=ma, V=IR, W=Fd, c=f\\&lambda;, E=hf, v = &lambda;\\f, and even E=mc².* These are just a few of hundreds of instances that we can see across all sciences, physics, and even metaphysics.
 
@@ -143,7 +144,13 @@ This then equates 3 with Intention, suggesting that movement is the contributing
 
 With all the above in mind, the formula *E = mc²*, interpreted symbolically through the Tholonic lens, can be mapped as *m* = 2, *c* = 3, yielding *E* = 2 × 3² = 18. Interestingly, 18 corresponds to ***o***22 in base<sub>8</sub>, marking the second full octave of the value of mass. This resonance is not significant because of the number 22 in base<sub>10</sub> (although that is interesting), but because ***o***22 represents the first point at which mass, as an instance of the first duality (2), reaches a new scale of instantiation: an octave of self-similarity within the recursive structure of manifestation, representing a duality of dualities, or rather, a spectrum framed by two distinct dualities. This pattern of 2 pairs as a stable recursive system emerges again and again as a persistent theme in the architecture of existence.
 
-<img src="/home/jw/src/iching_cli/book/intro/Images/8x8.png" style='float:right;width:25%'/>As for the grid itself and the numbers within it, this 8×8 grid emerged from this *2×3^2^* pattern. We began by splitting 18 into two prime numbers: 7 and 11, which provides the most balanced representation from both tholonic and I Ching perspectives. We then further divided 11 into two complementary pairs: 5+6 and 4+7, seeking the most even distributions possible. These numbers, 0 through 7, were then positioned within an 8×8 grid following a pattern where complementary pairs always sum to 7 (0+7, 1+6, 2+5, 3+4). The red numbers (0, 1, 2, 3) occupy positions in the left/upper portion of the grid, while their green complements (7, 6, 5, 4) are positioned in the right/lower portion, creating a visual representation of balance. The exact locations of these numbers are determined by the relationship between the polar chart (which appears to be the parent tholon) and the binary chart (which appears to be a child tholon). This arrangement reflects fundamental principles found in both the Tholonic Model and the I Ching, where opposing yet complementary forces interact to create wholeness. The grid thus represents a two-dimensional manifestation of how the original number 18 can be decomposed into balanced, interrelated elements that maintain specific mathematical relationships while embodying principles of negotiation, limitation, and contribution.
+<img src="/home/jw/src/iching_cli/book/intro/Images/8x8.png" style='float:right;width:25%'/>As for the grid itself and the numbers within it, this 8×8 grid emerged from this *2×3^2^* pattern. We began by splitting 18 into two prime numbers: 7 and 11, which provides the most balanced representation from both Tholonic and I Ching perspectives. 
+
+We then further divided 11 into two complementary pairs: 5+6 and 4+7, seeking the most even distributions possible. These numbers, 0 through 7, were then positioned within an 8×8 grid following a pattern where complementary pairs always sum to 7 (0+7, 1+6, 2+5, 3+4). 
+
+The red numbers (0, 1, 2, 3) occupy positions in the left/upper portion of the grid, while their green complements (7, 6, 5, 4) are positioned in the right/lower portion, creating a visual representation of balance. The exact locations of these numbers are determined by the relationship between the polar chart (which appears to be the parent tholon) and the binary chart (which appears to be a child tholon). 
+
+This arrangement reflects fundamental principles found in both the Tholonic Model and the I Ching, where opposing yet complementary forces interact to create wholeness. The grid thus represents a two-dimensional manifestation of how the original number 18 can be decomposed into balanced, interrelated elements that maintain specific mathematical relationships while embodying principles of negotiation, limitation, and contribution.
 
 The placement of these numbers and the numbers themselves, in the 8×8 grid emerged from our systematic decomposition of the original number 18 derived from the archetypal pattern of *2×3^2^*. We first split 18 into two prime numbers (7 and 11), then further divided 11 into complementary pairs, ultimately giving us the set of numbers 0 through 7 to place in our grid.
 
@@ -158,9 +165,9 @@ As briefly as possible, here is the relationship between 2×3² and our 8×8 gri
 
 Conversely, 2×3² divides by 2 and 3 but also equals prime pairs 5+13, 7+11, 17+1. The most balanced is 7+11. The two most balanced distributions of 11 are 6+5 and 7+4.
 
-This contrast shows 2²×3 produces balanced even numbers while 3²×2 creates imbalanced prime structures, but also suggests that the more balanced and symmetrical patterns precede the dynamic patterns, which we also see in the patterns of the **DESCENDING** and ***Ascending***, suggesting **DESCENDING** precedes ***Ascending***.
+This contrast shows that 2²×3 produces balanced even numbers, while 3²×2 creates imbalanced prime structures. This also suggests that the more balanced and symmetrical patterns precede the dynamic patterns, which we also see in the patterns of the **Descending** and **Ascending** hexagrams, suggesting that **Descending** patterns precede **Ascending** patterns in the order of manifestation.
 
-Our 8×8 grid shows pairs summing to 7. The set containing the number that form two 11s, which were arrived at by reconstructing 11 as evenly as possible, and 11 was arrived at by deconstructing 18 into its prime numbers as evenly as possible. If we have the set {{6,5},{7,4}}, then we implicitly have the complementary set of {{1,2},{0,3}} necessary to have sums that pair to 7. This makes the {{6,5},{7,4}} set the explicit or defining set, and {{1,2},{0,3}} the implicit or contributing set, as its complement.
+Our 8×8 grid shows pairs summing to 7. The set containing the numbers that form two 11s, which were arrived at by reconstructing 11 as evenly as possible, and 11 was arrived at by deconstructing 18 into its prime numbers as evenly as possible. If we have the set {(6,5),(7,4)}, then we implicitly have the complementary set of {(1,2),(0,3)} necessary to have sums that pair to 7. This makes the {(6,5),(7,4)} set the explicit or defining set, and {(1,2),(0,3)} the implicit or contributing set, as its complement.
 
 Referring back to the polar chart, we notice the order of cardinal pairs differs between their sequential binary values and their positions on the polar star-chart (starting from the top and rotating clockwise). This is because the cardinal polar pairs define the "cardinal" themes, while the 32 paths or pairs define archetypes that can play out in those themes in either an ascending or descending fashion. Hierarchically speaking, the 32 pairs are expressed within the cardinal themes; the cardinal themes are tholons, and the 32 pairs are partons. However, they are also tholons as well, each with two partons of ascending and descending hexagrams, which are tholons that include two partons of trigrams, which are tholons that include three partons of lines, which form a fundamental or primary tholon.
 
@@ -182,13 +189,21 @@ The two 8×8 plots are shown below
 
 <center><img src='../Images/polar-binary.png' style='width:100%'/></center>
 
-There are several fantastic patterns to explore; for example:
+### Transformation Patterns: Ascending to Descending
 
-<img src="/home/jw/src/iching_cli/book/intro/Images/ad-quark.png" style='float:right;width:15%'/>The change that needs to occur to transform the ascending to the descending is: [1] down 3, [2] down 1, [3] up 1, [5] down 1, [6] up 1, [7] up 3.  [0] and [4] do not change.
+The transformation required to convert the ascending pattern to the descending pattern reveals an intriguing mathematical structure:
 
-The first thing that comes to mind is this is the exact same “pattern” that we see in how quarks form protons and neutrons, because the proton is composed of two *up* quarks and one *down* quark, while the neutron is composed of one *up* quark and two *down* quarks. This correlation tells us that the ascending hexagrams {4,5,6,7} share this property with the imbalanced positively charged proton, and the descending hexagrams {0,1,2,3} share this property with the balanced neutrally charged neutron. Additionally, given that *up* quarks have a charge of +1/3 and *down* quarks have a charge of -1/3, if we apply these values to each *up* or *down* movement, we end up with all the total down movements = 1 and all the total up movements = 1.
+<img src="/home/jw/src/iching_cli/book/intro/Images/ad-quark.png" style='float:right;width:15%'/>The changes that need to occur to transform the ascending pattern to the descending pattern are: [1] down 3, [2] down 1, [3] up 1, [5] down 1, [6] up 1, [7] up 3. Notably, [0] and [4] do not change.
 
-Another truly mind-blowing observation (for me, at least) is not only the fractal nature of numbers, but the emergence of perfectly integrated structures composed of static and dynamic patterns that naturally evolve simply by examining the various perspectives that a larger multidimensional structure naturally presents when projected onto two dimensions. We see a perfectly ordered pattern in the Descending Hexagrams 8×8 plot, but a seemingly disordered pattern in the Ascending Hexagrams plot. However, when we combine them, a new pattern emerges that seems to reference the 10 pairs of stable hexagrams and the 22 pairs of dynamic hexagrams. Furthermore, we observe a triad with the exact same color mapping as a tholon, where the yellow 4 represents the child *Negotiated* *N*-state (which is always the opposite of its parent, represented by the blue *N*-state), the green 7 as *Limitation/Definition*, and the red 1 as *Contribution/Integration*. This suggests that 7 is the limiting or defining concept, which would certainly be true in an octal system, which we are using, where any single digit cannot exceed 7. This is why the maximum value of the hexagrams in octal is 77, which equated to 63.
+This transformation pattern bears a striking resemblance to the way quarks combine to form protons and neutrons. The proton is composed of two *up* quarks and one *down* quark, while the neutron is composed of one *up* quark and two *down* quarks. This correlation suggests that the ascending hexagrams {4,5,6,7} may share structural properties with the imbalanced positively charged proton, and the descending hexagrams {0,1,2,3} may share properties with the balanced neutrally charged neutron. 
+
+Additionally, given that *up* quarks have a charge of +⅓ and *down* quarks have a charge of -⅓, if we apply these values to each *up* or *down* movement, we end up with all the total down movements = 1 and all the total up movements = 1.
+
+Another truly mind-blowing observation (for me, at least) is not only the fractal nature of numbers, but the emergence of perfectly integrated structures composed of static and dynamic patterns that naturally evolve simply by examining the various perspectives that a larger multidimensional structure naturally presents when projected onto two dimensions. 
+
+We see a perfectly ordered pattern in the Descending Hexagrams 8×8 plot, but a seemingly disordered pattern in the Ascending Hexagrams plot. However, when we combine them, a new pattern emerges. Within the I Ching's 32 pairs of hexagrams, 10 pairs are considered "balanced" or "stable" (having equal numbers of yin and yang lines), while the remaining 22 pairs are "imbalanced" or "dynamic." This combined pattern seems to reference these structural categories.
+
+Furthermore, we observe a triad with the exact same color mapping as a tholon, where the yellow 4 represents the child *Negotiated* *N*-state (which is always the opposite of its parent, represented by the blue *N*-state), the green 7 as *Limitation/Definition*, and the red 1 as *Contribution/Integration*. This suggests that 7 is the limiting or defining concept, which would certainly be true in an octal system, which we are using, where any single digit cannot exceed 7. This is why the maximum value of the hexagrams in octal is 77, which equals 63 in decimal.
 
 This would make 1, which appears on the point of *Contribution/Integration*, the contributing concept, which is quite intuitive considering that 1 is the fundamental unit, the concept of unification, the source of emergence, and primordial in that it is fundamentally indivisible and necessary for any numerical formation.
 
@@ -208,7 +223,7 @@ Given that of the 32 pairs of hexagrams, the 10 balanced pairs fall on the {4,1}
 
 <img src="/home/jw/src/iching_cli/book/intro/Images/left-right.png" style='width:80%'/>
 
-Ironically, the the {4,1} vector that appears to be more *Definition/Limitation* and the {7,7} vector seems more *Contribution/Integration*, but this is easily solved if we simply reverse the arbitrary X-axis order to descend from 7 to 0 rather than ascend from 0 to 7, which I should have done initially knowing that “Descending precedes Ascending”, as we discovered earlier.
+Ironically, the {4,1} vector that appears to be more *Definition/Limitation* and the {7,7} vector seems more *Contribution/Integration*, but this is easily solved if we simply reverse the arbitrary X-axis order to descend from 7 to 0 rather than ascend from 0 to 7, which I should have done initially knowing that "Descending precedes Ascending", as we discovered earlier.
 
 In any case, this is a fascinating example of symmetry, self-similarity, and harmonic balance.
 

@@ -267,12 +267,12 @@
         "explanation": "The Gentle, symbolizing subtle influence and depth, combines with The Clinging, which embodies illumination and clarity. Together, they create a transformative process where gentle persuasion and radiant insight lead to profound understanding and change."
     },
     "line_type": [
-        "yang",
         "yin",
         "yang",
         "yang",
         "yang",
-        "yin"
+        "yin",
+        "yang"
     ],
     "pairpath": {
         "title": "Transformation Cycle",

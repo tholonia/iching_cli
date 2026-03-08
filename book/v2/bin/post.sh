@@ -329,6 +329,7 @@ function cleanup_previous_files() {
     echo -e "\033[33mCleaning up previous files...\033[0m"
     rm -f "${D}/../includes/FINAL_iching.pdf"
     rm -f "${D}/../includes/FINAL_iching_${FORMAT}.pdf"
+    rm -f "${D}/../includes/FINAL_iching_${FORMAT}_${PAGE_SIZE}.pdf"
     rm -f "${TEMP_DIR}/out.pdf"
     rm -f "${TEMP_DIR}/html.pdf"
     rm -f "${TEMP_DIR}/TOC_${FORMAT}.pdf"
@@ -359,8 +360,8 @@ function process_documents() {
     else
         cp "${D}/../includes/TOC.pdf" "${TEMP_DIR}/TOC_${FORMAT}.pdf"
         pdftk "${TEMP_DIR}/TOC_${FORMAT}.pdf" cat 3-end output "${TEMP_DIR}/TOC_${FORMAT}-cut.pdf"
-        # Add two blanks at beginning and blank at end for proper alignment
-        pdftk "${BLANK}" "${BLANK}" "${TEMP_DIR}/TOC_${FORMAT}-cut.pdf" "${BLANK}" cat output "${D}/../includes/FINAL_TOC_${FORMAT}.pdf"
+        # Add one blank at beginning and blank at end for proper alignment
+        pdftk "${BLANK}" "${TEMP_DIR}/TOC_${FORMAT}-cut.pdf" "${BLANK}" cat output "${D}/../includes/FINAL_TOC_${FORMAT}.pdf"
     fi
 
     # Process COPYRIGHT
@@ -393,6 +394,7 @@ function process_documents() {
     # Process BOOK_INTRO
     echo -e "\033[34mProcessing Book Introduction...\033[0m"
     if ! process_document "BOOK_INTRO" "iching_nopage.css"; then
+    #if ! process_document "BOOK_INTRO" "iching_intro_nopage.css"; then
         echo -e "\033[31mFailed to process BOOK_INTRO\033[0m"
         status=1
     else
@@ -421,12 +423,12 @@ function merge_documents() {
     COVER="${D}/../includes/_COVER_v2_${CURRENT_SIZE}.pdf"
     COPYRIGHT="${D}/../includes/COPYRIGHT_${FORMAT}.pdf"
     BOOK="${D}/../includes/BOOK_INTRO_${FORMAT}.pdf"
-    Q8="${D}/../includes/_q8_iching_${CURRENT_SIZE}_png.pdf"
-    BIN="${D}/../includes/_binhex4col_${CURRENT_SIZE}_png.pdf"
-    PATHS="${D}/../includes/_32paths_${CURRENT_SIZE}_png.pdf"
+    Q8="${D}/../includes/_q8_iching_${CURRENT_SIZE}.pdf"
+    BIN="${D}/../includes/_binhex4col_${CURRENT_SIZE}.pdf"
+    PATHS="${D}/../includes/_32paths_${CURRENT_SIZE}.pdf"
     TOC="${D}/../includes/FINAL_TOC_${FORMAT}.pdf"
     ICHING="${D}/../includes/iching_${FORMAT}.pdf"
-    OUTPUT="${D}/../includes/FINAL_iching_${FORMAT}.pdf"
+    OUTPUT="${D}/../includes/FINAL_iching_${FORMAT}_${PAGE_SIZE}.pdf"
 
     if [ "${FORMAT}" = "BOOK" ]; then
         echo -e "\033[33mSkipping cover page for BOOK format\033[0m"
@@ -486,7 +488,7 @@ function merge_documents() {
 
 # Open the final PDF
 function display_document() {
-    local PDF_FILE="${D}/../includes/FINAL_iching_${FORMAT}.pdf"
+    local PDF_FILE="${D}/../includes/FINAL_iching_${FORMAT}_${PAGE_SIZE}.pdf"
 
     if [ ! -f "${PDF_FILE}" ]; then
         echo -e "\033[31mError: Final PDF ${PDF_FILE} not found\033[0m"

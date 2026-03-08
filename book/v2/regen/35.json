@@ -268,12 +268,12 @@
         "explanation": "The lower trigram, The Receptive, symbolizes Earth's nurturing and supportive qualities, while the upper trigram, The Clinging, represents Fire's bright and illuminating nature. Together, they form a dynamic interplay where Earth's support enhances Fire's brilliance, resulting in a balanced and accelerated progress of growth and illumination."
     },
     "line_type": [
-        "yang",
+        "yin",
+        "yin",
         "yin",
         "yang",
         "yin",
-        "yin",
-        "yin"
+        "yang"
     ],
     "pairpath": {
         "title": "Patience and Progress",

@@ -4,11 +4,26 @@ import re
 import glob
 import os
 import json
+import sys  # For command line arguments
 from pprint import pprint  # For debug printing
 from colorama import Fore, Style, init  # For colored terminal output
 
 # Initialize colorama
 init()
+
+# Get PROD_PAGE_SIZE from command line argument, default to "6.69x9.61"
+PROD_PAGE_SIZE = sys.argv[1] if len(sys.argv) > 1 else "6.69x9.61"
+# Get FORMAT from command line (BOOK or PDF), default to "PDF"
+FORMAT = sys.argv[2] if len(sys.argv) > 2 else "PDF"
+
+print(f"{Fore.CYAN}Using page size: {PROD_PAGE_SIZE}{Style.RESET_ALL}")
+print(f"{Fore.CYAN}Using format: {FORMAT}{Style.RESET_ALL}")
+
+# Page offset to account for differences between printed page numbers and final PDF positions
+# After testing: The printed page numbers in the content PDF are already correct for the final merged PDF
+# No offset needed!
+PAGE_OFFSET = 0
+print(f"{Fore.YELLOW}Page offset: {PAGE_OFFSET} (no adjustment needed){Style.RESET_ALL}")
 
 """
 =============================================================================
@@ -130,7 +145,9 @@ def create_toc_html(pages_with_data):
     # Use the extracted page data directly
     entries = []
     for idx, data in pages_with_data.items():
-        entries.append((data["title"], data["page"], data.get("type", "title")))
+        # Apply page offset to get actual position in final merged PDF
+        adjusted_page = data["page"] + PAGE_OFFSET
+        entries.append((data["title"], adjusted_page, data.get("type", "title")))
 
     # Sort entries by page number
     entries.sort(key=lambda x: x[1])
@@ -270,8 +287,13 @@ def generate_toc(pages_with_data, output_file):
         f.write(html_content)
 
 # Example usage
-# pdf_file = "../includes/FINAL_iching.pdf"  # Change this to your actual file path
-pdf_file = "../Latest/iching_intro.pdf"  # Change this to your actual file path
+# Determine which PDF to read based on FORMAT
+if FORMAT == "BOOK":
+    pdf_file = "../Latest/iching_intro_BOOK.pdf"
+else:
+    pdf_file = "../Latest/iching_intro_PDF.pdf" 
+
+print(f"{Fore.GREEN}Reading from: {pdf_file}{Style.RESET_ALL}")
 pages_with_images = extract_page_numbers(pdf_file)
 
 # Print results

@@ -268,12 +268,12 @@
         "explanation": "The lower trigram 'The Clinging' symbolizes brightness and clarity, while the upper trigram 'The Arousing' signifies dynamic and exciting energy. Together, they form a powerful combination where clarity and energy merge to produce a vivid and vibrant state, reflecting a peak moment of expression and momentum."
     },
     "line_type": [
-        "yin",
+        "yang",
         "yin",
         "yang",
         "yang",
         "yin",
-        "yang"
+        "yin"
     ],
     "pairpath": {
         "title": "Expansion-Contraction",
